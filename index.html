@@ -188,6 +188,16 @@ const DATA = [
  {jog:"Rod",cla:5,clanome:"e-SpamiReza",liga:"Crystal I",th:12,atk:4,spa:2.5,conf:100,idx:63.4,mvp:29,rank:4,zona:"—"},
  {jog:"Nino",cla:5,clanome:"e-SpamiReza",liga:"Crystal I",th:11,atk:3,spa:2.0,conf:100,idx:55.1,mvp:28,rank:5,zona:"—"},
 ];
+const DEF={
+ "Marinaul war":88,"SR • Thiago":84,"lynch":90,"SR • Inthedark":79,"Neskau":82,"Zod":86,
+ "SR • Caiçara":80,"Kingofbilada":77,"SR • Jon Snow 2":83,"Luminos":75,"Levi Neiva":81,
+ "Spaceblank":74,"Jan":78,"Henrique Nerath":72,"SR • Giovanelli":70,"Reikan":68,"Tozim":64,
+ "Mari":73,"Renan":87,"Léo":70,"Gustavo":48,"Zé":47,
+ "Rafa":86,"Pedro":82,"Vini":79,"Nanda":79,"Bia":53,
+ "Lu":75,"Caio":72,"Tom":67,"Sofia":56,"Igor":59,
+ "Well":69,"Aline":63,"Dani":73,"Rod":53,"Nino":73
+};
+DATA.forEach(d=>d.def=DEF[d.jog]??75);
 const CLANS=[1,2,3,4,5];
 const NAMES={1:"SpamiReza",2:"RezaSpamandu",3:"ScamiReza",4:"RezaScamandu",5:"e-SpamiReza"};
 let active=1;
@@ -217,7 +227,7 @@ function render(){
   document.getElementById('mvp').innerHTML=
     `<div class="mvp"><div class="medal">🏅</div>
       <div class="info"><div class="lbl">MVP DA LIGA</div><div class="nm">${mvp.jog}</div>
-      <div class="dt">${mvp.spa.toFixed(2)} ★/ataque · ${mvp.atk} ataques</div></div>
+      <div class="dt">${mvp.spa.toFixed(2)} ★/ataque · ${mvp.atk} ataques · 🛡️ ${mvp.def} def</div></div>
       <div class="score"><b>${mvp.mvp}</b><span>PONTOS</span></div></div>`;
 
   document.getElementById('list').innerHTML=rows.map(d=>{
@@ -239,6 +249,7 @@ function render(){
         <div class="meta">
           <span class="st">${stars(d.spa)} ${d.spa.toFixed(2)}/atk</span>
           <span>⚔️ <b>${d.atk}</b> ataques</span>
+          <span>🛡️ def <b>${d.def}</b></span>
           <span>🎯 conf <b>${d.conf}%</b></span>
           <span>🏅 <b>${d.mvp}</b> mvp</span>
         </div>
