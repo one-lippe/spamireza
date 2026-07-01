@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Spamireza · Campeonato Interno</title>
+<style>
+  :root{
+    --navy:#081a30; --navy2:#0b2545; --card:#0f2b4d; --card2:#13355f;
+    --line:#1e4574; --gold:#e8b94a; --gold-soft:#f2d383;
+    --ink:#eaf2fb; --muted:#8fa8c7; --muted2:#6d87a8;
+    --green:#28a86a; --green-d:#155f3c; --red:#e05260; --red-d:#7a2530;
+    --silver:#c9d6e5; --bronze:#cd8a4d;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+  body{
+    font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;
+    background:radial-gradient(1200px 600px at 50% -10%,#12335c 0%,var(--navy) 55%,#050f1d 100%);
+    color:var(--ink);min-height:100vh;padding:0 0 40px;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:760px;margin:0 auto;padding:0 14px}
+
+  /* HEADER */
+  header{
+    text-align:center;padding:26px 14px 18px;position:relative;
+  }
+  .crest{
+    width:64px;height:64px;margin:0 auto 10px;border-radius:18px;
+    background:linear-gradient(160deg,var(--gold) 0%,#b9862a 100%);
+    display:flex;align-items:center;justify-content:center;
+    font-size:32px;box-shadow:0 8px 24px rgba(232,185,74,.28);
+  }
+  header h1{
+    font-size:26px;font-weight:800;letter-spacing:.5px;
+    background:linear-gradient(90deg,var(--gold-soft),var(--gold));
+    -webkit-background-clip:text;background-clip:text;color:transparent;
+  }
+  header .sub{color:var(--muted);font-size:12.5px;margin-top:4px;letter-spacing:.3px}
+  .demo{display:inline-block;margin-top:10px;font-size:10.5px;letter-spacing:.5px;
+    color:var(--gold-soft);border:1px solid var(--line);padding:4px 10px;border-radius:20px;
+    background:rgba(232,185,74,.06)}
+
+  /* CLAN TABS */
+  .tabs{display:flex;gap:8px;overflow-x:auto;padding:6px 2px 12px;scrollbar-width:none}
+  .tabs::-webkit-scrollbar{display:none}
+  .tab{
+    flex:0 0 auto;padding:9px 15px;border-radius:12px;border:1px solid var(--line);
+    background:var(--card);color:var(--muted);font-size:13px;font-weight:600;cursor:pointer;
+    white-space:nowrap;transition:.18s;
+  }
+  .tab .n{font-size:10px;color:var(--muted2);display:block;font-weight:700;letter-spacing:1px}
+  .tab.active{
+    background:linear-gradient(160deg,var(--gold) 0%,#c8922e 100%);color:#20140a;border-color:var(--gold);
+    box-shadow:0 6px 18px rgba(232,185,74,.25);
+  }
+  .tab.active .n{color:#5c3e12}
+  .tab.locked{opacity:.4;cursor:not-allowed;filter:grayscale(.3)}
+
+  /* CLAN HEAD */
+  .clanhead{
+    display:flex;align-items:center;justify-content:space-between;
+    background:linear-gradient(120deg,var(--card2),var(--card));
+    border:1px solid var(--line);border-radius:16px;padding:14px 16px;margin:4px 0 14px;
+  }
+  .clanhead .left h2{font-size:18px;font-weight:800}
+  .clanhead .left p{color:var(--muted);font-size:12px;margin-top:2px}
+  .liga{font-size:11px;font-weight:700;color:var(--gold-soft);
+    border:1px solid var(--line);padding:5px 11px;border-radius:20px;background:rgba(232,185,74,.07);white-space:nowrap}
+
+  /* MVP */
+  .mvp{
+    display:flex;align-items:center;gap:14px;border-radius:16px;padding:14px 16px;margin-bottom:16px;
+    background:linear-gradient(120deg,rgba(232,185,74,.16),rgba(232,185,74,.03));
+    border:1px solid rgba(232,185,74,.4);
+  }
+  .mvp .medal{font-size:30px}
+  .mvp .info{flex:1}
+  .mvp .info .lbl{font-size:10px;letter-spacing:1.5px;color:var(--gold);font-weight:800}
+  .mvp .info .nm{font-size:17px;font-weight:800;margin-top:1px}
+  .mvp .info .dt{font-size:11.5px;color:var(--muted);margin-top:2px}
+  .mvp .score{text-align:center}
+  .mvp .score b{font-size:22px;color:var(--gold-soft);font-weight:800;display:block;line-height:1}
+  .mvp .score span{font-size:9.5px;color:var(--muted2);letter-spacing:1px}
+
+  /* PLAYER CARD */
+  .list{display:flex;flex-direction:column;gap:9px}
+  .p{
+    display:flex;align-items:center;gap:12px;padding:12px 13px;border-radius:14px;
+    background:var(--card);border:1px solid var(--line);position:relative;overflow:hidden;
+  }
+  .p.promo{border-color:rgba(40,168,106,.55);background:linear-gradient(100deg,rgba(40,168,106,.12),var(--card) 60%)}
+  .p.rebx{border-color:rgba(224,82,96,.5);background:linear-gradient(100deg,rgba(224,82,96,.12),var(--card) 60%)}
+  .rk{
+    flex:0 0 34px;height:34px;border-radius:10px;display:flex;align-items:center;justify-content:center;
+    font-weight:800;font-size:15px;background:var(--card2);border:1px solid var(--line);color:var(--muted)
+  }
+  .rk.g1{background:linear-gradient(160deg,var(--gold),#b9862a);color:#20140a;border-color:var(--gold)}
+  .rk.g2{background:linear-gradient(160deg,#e4ecf6,#9fb2c9);color:#1a2c42;border-color:#c9d6e5}
+  .rk.g3{background:linear-gradient(160deg,#d99a5c,#a5622f);color:#20140a;border-color:#cd8a4d}
+  .pbody{flex:1;min-width:0}
+  .prow1{display:flex;align-items:center;justify-content:space-between;gap:8px}
+  .pname{font-weight:700;font-size:14.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .th{font-size:9.5px;color:var(--muted2);font-weight:700;border:1px solid var(--line);
+    padding:1px 6px;border-radius:6px;margin-left:6px;flex:0 0 auto}
+  .idxnum{font-weight:800;font-size:15px;color:var(--gold-soft);flex:0 0 auto}
+  .bar{height:6px;border-radius:4px;background:#0a1e38;margin-top:8px;overflow:hidden}
+  .bar i{display:block;height:100%;border-radius:4px;
+    background:linear-gradient(90deg,#c8922e,var(--gold),var(--gold-soft))}
+  .meta{display:flex;gap:12px;margin-top:8px;font-size:11px;color:var(--muted);flex-wrap:wrap}
+  .meta .st{color:var(--gold-soft);font-weight:700}
+  .meta b{color:var(--ink)}
+  .zbadge{position:absolute;top:0;right:0;font-size:9px;font-weight:800;letter-spacing:.5px;
+    padding:3px 9px;border-bottom-left-radius:10px}
+  .zbadge.promo{background:var(--green);color:#fff}
+  .zbadge.rebx{background:var(--red);color:#fff}
+  .zbadge.samp{background:#2b4870;color:var(--muted)}
+
+  .legend{display:flex;gap:14px;justify-content:center;margin-top:18px;flex-wrap:wrap;font-size:11px;color:var(--muted)}
+  .legend span{display:flex;align-items:center;gap:6px}
+  .dot{width:11px;height:11px;border-radius:4px;display:inline-block}
+  .foot{text-align:center;color:var(--muted2);font-size:11px;margin-top:22px;line-height:1.7}
+  @media(min-width:620px){ header h1{font-size:30px} .pname{font-size:15px} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="crest">⚔️</div>
+    <h1>SPAMIREZA</h1>
+    <div class="sub">Campeonato Interno · Liga de Guerra</div>
+    <div class="demo">◆ PRÉVIA COM DADOS DE EXEMPLO</div>
+  </header>
+
+  <div class="tabs" id="tabs"></div>
+  <div id="clanhead"></div>
+  <div id="mvp"></div>
+  <div class="list" id="list"></div>
+
+  <div class="legend">
+    <span><i class="dot" style="background:var(--green)"></i> Zona de promoção</span>
+    <span><i class="dot" style="background:var(--red)"></i> Zona de rebaixamento</span>
+    <span><i class="dot" style="background:var(--gold)"></i> Índice ajustado</span>
+  </div>
+  <div class="foot">
+    Índice = 55% ataque + 20% defesa + 25% confiabilidade, × dificuldade da liga.<br>
+    MVP = estrelas de ataque + estrelas negadas na defesa.
+  </div>
+</div>
+
+<script>
+const DATA = [
+ {jog:"Marinaul war",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:7,spa:2.95,conf:100,idx:96.2,mvp:52,rank:1,zona:"—"},
+ {jog:"SR • Thiago",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:7,spa:2.90,conf:100,idx:94.1,mvp:50,rank:2,zona:"—"},
+ {jog:"lynch",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:7,spa:2.86,conf:100,idx:92.8,mvp:48,rank:3,zona:"—"},
+ {jog:"SR • Inthedark",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:6,spa:2.83,conf:100,idx:91.0,mvp:45,rank:4,zona:"—"},
+ {jog:"Neskau",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:7,spa:2.86,conf:100,idx:89.6,mvp:47,rank:5,zona:"—"},
+ {jog:"Zod",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:7,spa:2.71,conf:100,idx:88.2,mvp:44,rank:6,zona:"—"},
+ {jog:"SR • Caiçara",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:7,spa:2.71,conf:100,idx:86.9,mvp:43,rank:7,zona:"—"},
+ {jog:"Kingofbilada",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:6,spa:2.67,conf:100,idx:85.1,mvp:41,rank:8,zona:"—"},
+ {jog:"SR • Jon Snow 2",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:7,spa:2.57,conf:100,idx:83.7,mvp:42,rank:9,zona:"—"},
+ {jog:"Luminos",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:5,spa:2.60,conf:100,idx:82.0,mvp:38,rank:10,zona:"—"},
+ {jog:"Levi Neiva",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:6,spa:2.50,conf:100,idx:80.4,mvp:39,rank:11,zona:"—"},
+ {jog:"Spaceblank",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:7,spa:2.43,conf:100,idx:78.1,mvp:37,rank:12,zona:"—"},
+ {jog:"Jan",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:5,spa:2.40,conf:80,idx:75.6,mvp:34,rank:13,zona:"—"},
+ {jog:"Henrique Nerath",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:6,spa:2.33,conf:83,idx:72.3,mvp:33,rank:14,zona:"—"},
+ {jog:"SR • Giovanelli",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:5,spa:2.20,conf:100,idx:68.9,mvp:30,rank:15,zona:"—"},
+ {jog:"Reikan",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:5,spa:2.00,conf:80,idx:61.2,mvp:27,rank:16,zona:"⬇ Rebaixamento"},
+ {jog:"Tozim",cla:1,clanome:"SpamiReza",liga:"Champion I",th:18,atk:6,spa:1.83,conf:71,idx:54.8,mvp:24,rank:17,zona:"⬇ Rebaixamento"},
+ {jog:"Mari",cla:2,clanome:"RezaSpamandu",liga:"Champion III",th:15,atk:6,spa:3.0,conf:100,idx:87.3,mvp:42,rank:1,zona:"⬆ Promoção"},
+ {jog:"Renan",cla:2,clanome:"RezaSpamandu",liga:"Champion III",th:15,atk:7,spa:2.57,conf:100,idx:85.9,mvp:44,rank:2,zona:"⬆ Promoção"},
+ {jog:"Léo",cla:2,clanome:"RezaSpamandu",liga:"Champion III",th:14,atk:7,spa:2.71,conf:100,idx:85.2,mvp:40,rank:3,zona:"—"},
+ {jog:"Gustavo",cla:2,clanome:"RezaSpamandu",liga:"Champion III",th:15,atk:5,spa:2.6,conf:100,idx:72.1,mvp:26,rank:4,zona:"⬇ Rebaixamento"},
+ {jog:"Zé",cla:2,clanome:"RezaSpamandu",liga:"Champion III",th:14,atk:1,spa:1.0,conf:20,idx:31.4,mvp:15,rank:5,zona:"Sem amostra"},
+ {jog:"Rafa",cla:3,clanome:"ScamiReza",liga:"Master I",th:13,atk:7,spa:2.71,conf:100,idx:85.5,mvp:55,rank:1,zona:"⬆ Promoção"},
+ {jog:"Pedro",cla:3,clanome:"ScamiReza",liga:"Master I",th:14,atk:7,spa:2.71,conf:100,idx:84.7,mvp:41,rank:2,zona:"⬆ Promoção"},
+ {jog:"Vini",cla:3,clanome:"ScamiReza",liga:"Master I",th:14,atk:4,spa:3.0,conf:100,idx:81.3,mvp:38,rank:3,zona:"—"},
+ {jog:"Nanda",cla:3,clanome:"ScamiReza",liga:"Master I",th:14,atk:5,spa:2.8,conf:100,idx:79.0,mvp:40,rank:4,zona:"⬇ Rebaixamento"},
+ {jog:"Bia",cla:3,clanome:"ScamiReza",liga:"Master I",th:13,atk:3,spa:3.0,conf:100,idx:75.0,mvp:25,rank:5,zona:"⬇ Rebaixamento"},
+ {jog:"Lu",cla:4,clanome:"RezaScamandu",liga:"Master III",th:13,atk:7,spa:2.71,conf:100,idx:78.1,mvp:46,rank:1,zona:"⬆ Promoção"},
+ {jog:"Caio",cla:4,clanome:"RezaScamandu",liga:"Master III",th:13,atk:7,spa:2.57,conf:100,idx:75.3,mvp:44,rank:2,zona:"⬆ Promoção"},
+ {jog:"Tom",cla:4,clanome:"RezaScamandu",liga:"Master III",th:12,atk:4,spa:2.5,conf:100,idx:73.2,mvp:36,rank:3,zona:"—"},
+ {jog:"Sofia",cla:4,clanome:"RezaScamandu",liga:"Master III",th:13,atk:4,spa:1.75,conf:100,idx:52.1,mvp:27,rank:4,zona:"⬇ Rebaixamento"},
+ {jog:"Igor",cla:4,clanome:"RezaScamandu",liga:"Master III",th:12,atk:4,spa:1.25,conf:100,idx:44.7,mvp:21,rank:5,zona:"⬇ Rebaixamento"},
+ {jog:"Well",cla:5,clanome:"e-SpamiReza",liga:"Crystal I",th:12,atk:1,spa:3.0,conf:100,idx:77.9,mvp:30,rank:1,zona:"Sem amostra"},
+ {jog:"Aline",cla:5,clanome:"e-SpamiReza",liga:"Crystal I",th:11,atk:3,spa:3.0,conf:100,idx:76.9,mvp:28,rank:2,zona:"⬆ Promoção"},
+ {jog:"Dani",cla:5,clanome:"e-SpamiReza",liga:"Crystal I",th:12,atk:7,spa:2.43,conf:100,idx:69.9,mvp:39,rank:3,zona:"—"},
+ {jog:"Rod",cla:5,clanome:"e-SpamiReza",liga:"Crystal I",th:12,atk:4,spa:2.5,conf:100,idx:63.4,mvp:29,rank:4,zona:"—"},
+ {jog:"Nino",cla:5,clanome:"e-SpamiReza",liga:"Crystal I",th:11,atk:3,spa:2.0,conf:100,idx:55.1,mvp:28,rank:5,zona:"—"},
+];
+const CLANS=[1,2,3,4,5];
+const NAMES={1:"SpamiReza",2:"RezaSpamandu",3:"ScamiReza",4:"RezaScamandu",5:"e-SpamiReza"};
+let active=1;
+
+const stars=(s)=>{const f=Math.round(s);return "★★★".slice(0,f)+"☆☆☆".slice(0,3-f);};
+
+function renderTabs(){
+  document.getElementById('tabs').innerHTML=CLANS.map(c=>{
+    const locked=c!==1;
+    return `<div class="tab ${c===active?'active':''} ${locked?'locked':''}"
+       ${locked?'':`onclick="setClan(${c})"`}>
+       <span class="n">CLÃ ${c}</span>${NAMES[c]}${locked?' 🔒':''}</div>`;
+  }).join('');
+}
+function setClan(c){active=c;render();}
+
+function render(){
+  renderTabs();
+  const rows=DATA.filter(d=>d.cla===active).sort((a,b)=>a.rank-b.rank);
+  const liga=rows[0].liga;
+  document.getElementById('clanhead').innerHTML=
+    `<div class="clanhead"><div class="left"><h2>Clã ${active} · ${NAMES[active]}</h2>
+     <p>${rows.length} jogadores no elenco</p></div><div class="liga">🏆 ${liga}</div></div>`;
+
+  // MVP = maior mvp score do clã
+  const mvp=[...rows].sort((a,b)=>b.mvp-a.mvp)[0];
+  document.getElementById('mvp').innerHTML=
+    `<div class="mvp"><div class="medal">🏅</div>
+      <div class="info"><div class="lbl">MVP DA LIGA</div><div class="nm">${mvp.jog}</div>
+      <div class="dt">${mvp.spa.toFixed(2)} ★/ataque · ${mvp.atk} ataques</div></div>
+      <div class="score"><b>${mvp.mvp}</b><span>PONTOS</span></div></div>`;
+
+  document.getElementById('list').innerHTML=rows.map(d=>{
+    const promo=d.zona.includes("Promoção"), rebx=d.zona.includes("Rebaix"), samp=d.zona.includes("amostra");
+    const rkcls=d.rank===1?'g1':d.rank===2?'g2':d.rank===3?'g3':'';
+    let badge='';
+    if(promo) badge=`<div class="zbadge promo">▲ SOBE</div>`;
+    else if(rebx) badge=`<div class="zbadge rebx">▼ DESCE</div>`;
+    else if(samp) badge=`<div class="zbadge samp">SEM AMOSTRA</div>`;
+    return `<div class="p ${promo?'promo':''} ${rebx?'rebx':''}">
+      ${badge}
+      <div class="rk ${rkcls}">${d.rank}</div>
+      <div class="pbody">
+        <div class="prow1">
+          <div class="pname">${d.jog}<span class="th">TH${d.th}</span></div>
+          <div class="idxnum">${d.idx.toFixed(1)}</div>
+        </div>
+        <div class="bar"><i style="width:${d.idx}%"></i></div>
+        <div class="meta">
+          <span class="st">${stars(d.spa)} ${d.spa.toFixed(2)}/atk</span>
+          <span>⚔️ <b>${d.atk}</b> ataques</span>
+          <span>🎯 conf <b>${d.conf}%</b></span>
+          <span>🏅 <b>${d.mvp}</b> mvp</span>
+        </div>
+      </div></div>`;
+  }).join('');
+}
+render();
+</script>
+</body>
+</html>
