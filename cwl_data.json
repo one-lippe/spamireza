@@ -134,8 +134,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "tozim",
@@ -281,7 +281,12 @@
             "tag": "#V88C2Y99",
             "th": 18,
             "pos": 17,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           }
@@ -477,8 +482,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "tozim",
@@ -624,7 +629,12 @@
           "tag": "#V88C2Y99",
           "th": 18,
           "pos": 17,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         }
@@ -1540,8 +1550,8 @@
                 "destr": 61
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Sr • Pbalestra",
@@ -1585,7 +1595,12 @@
             "tag": "#Q2UJJ89VG",
             "th": 18,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -1622,7 +1637,12 @@
             "tag": "#GYGL8J2GR",
             "th": 18,
             "pos": 13,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -1841,8 +1861,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "F4KER",
@@ -2213,8 +2233,8 @@
               "destr": 61
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Sr • Pbalestra",
@@ -2258,7 +2278,12 @@
           "tag": "#Q2UJJ89VG",
           "th": 18,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -2295,7 +2320,12 @@
           "tag": "#GYGL8J2GR",
           "th": 18,
           "pos": 13,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -2514,8 +2544,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "F4KER",
@@ -2712,7 +2742,12 @@
             "tag": "#20UUPGPCV",
             "th": 18,
             "pos": 1,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 78
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 63
           },
@@ -2744,7 +2779,12 @@
             "tag": "#L9GRLYGVQ",
             "th": 17,
             "pos": 4,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 79
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -2790,7 +2830,12 @@
             "tag": "#GY0Q0VRL0",
             "th": 16,
             "pos": 8,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 63
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -2805,8 +2850,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "NAUZIN",
@@ -3360,7 +3405,12 @@
           "tag": "#20UUPGPCV",
           "th": 18,
           "pos": 1,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 78
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 63
         },
@@ -3392,7 +3442,12 @@
           "tag": "#L9GRLYGVQ",
           "th": 17,
           "pos": 4,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 79
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3438,7 +3493,12 @@
           "tag": "#GY0Q0VRL0",
           "th": 16,
           "pos": 8,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 63
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3453,8 +3513,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "NAUZIN",
