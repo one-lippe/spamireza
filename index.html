@@ -14,7 +14,10 @@
   *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
   body{
     font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;
-    background:radial-gradient(1200px 600px at 50% -10%,#12335c 0%,var(--navy) 55%,#050f1d 100%);
+    background:
+      linear-gradient(180deg,rgba(5,15,29,.6) 0,rgba(5,15,29,.32) 320px,rgba(5,15,29,0) 700px),
+      url('ARTES/bg.jpg') center top / cover no-repeat;
+    background-color:#050f1d;
     color:var(--ink);min-height:100vh;padding:0 0 40px;-webkit-font-smoothing:antialiased;
   }
   .wrap{max-width:760px;margin:0 auto;padding:0 14px}
@@ -68,7 +71,7 @@
 
   .foot{text-align:center;color:var(--muted2);font-size:11px;margin-top:22px;line-height:1.7}
   @media(min-width:620px){ header h1{font-size:30px} }
-  .logo{height:104px;width:auto;margin:0 auto 6px;display:block;
+  .logo{height:210px;width:auto;margin:0 auto 6px;display:block;
     filter:drop-shadow(0 8px 20px rgba(0,0,0,.45))}
 </style>
 </head>
