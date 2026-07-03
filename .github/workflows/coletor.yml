@@ -2,7 +2,7 @@ name: Coletor CWL Spamireza
 
 on:
   schedule:
-    - cron: '7 * * * *'      # toda hora (UTC) — ajuste livre
+    - cron: '*/10 * * * *'   # a cada 10 minutos
   workflow_dispatch: {}        # botão pra rodar na hora, manualmente
 
 permissions:
