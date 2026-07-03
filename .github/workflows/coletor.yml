@@ -34,7 +34,16 @@ jobs:
           git add index.html Dashboard_Spamireza.html cwl_data.json
           if git diff --cached --quiet; then
             echo "Nada mudou — sem commit."
-          else
-            git commit -m "auto: atualiza CWL [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "auto: atualiza CWL [skip ci]"
+          for i in 1 2 3 4 5; do
+            if git push origin HEAD:main; then echo "push ok"; exit 0; fi
+            echo "push colidiu (tentativa $i) — re-sincronizando com o remoto..."
+            git fetch origin main
+            git reset --soft origin/main
+            git add index.html Dashboard_Spamireza.html cwl_data.json
+            git diff --cached --quiet || git commit -m "auto: atualiza CWL [skip ci]"
+            sleep $((i * 3))
+          done
+          echo "Falhou apos varias tentativas."; exit 1
