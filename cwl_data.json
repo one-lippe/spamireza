@@ -93,7 +93,7 @@
     "rodadas": [
       {
         "warTag": "#8RYYP8VGV",
-        "state": "preparation",
+        "state": "inWar",
         "teamSize": 15,
         "adversario": "ÄVÈñGÈR§ 2.0",
         "prep": "20260702T040628.000Z",
@@ -236,11 +236,157 @@
             "def_destr": null
           }
         ]
+      },
+      {
+        "warTag": "#8RYQ8GC2Q",
+        "state": "preparation",
+        "teamSize": 15,
+        "adversario": "In The Dark 2.0",
+        "prep": "20260703T040634.000Z",
+        "inicio": "20260704T040633.000Z",
+        "fim": "20260705T040633.000Z",
+        "membros": [
+          {
+            "nome": "marinaul war",
+            "tag": "#8GGCQPYP",
+            "th": 18,
+            "pos": 1,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR • Giovanelli",
+            "tag": "#PJ0YJLGJ",
+            "th": 18,
+            "pos": 2,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR - JON SNOW 2",
+            "tag": "#9VV909C89",
+            "th": 18,
+            "pos": 3,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "tozim",
+            "tag": "#9G22U9U2Y",
+            "th": 18,
+            "pos": 4,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Henrique Nerath",
+            "tag": "#2U8P0YQ92",
+            "th": 18,
+            "pos": 5,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "KingOfBilada™",
+            "tag": "#92PQV82G0",
+            "th": 18,
+            "pos": 7,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Jan",
+            "tag": "#2899CRJG",
+            "th": 18,
+            "pos": 9,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Levi_Neiva",
+            "tag": "#C8R989YJ",
+            "th": 18,
+            "pos": 10,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR • THIAGO",
+            "tag": "#89G0YGUJY",
+            "th": 18,
+            "pos": 11,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Nesk",
+            "tag": "#99220V0Q8",
+            "th": 18,
+            "pos": 12,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "MAJ0R FiV3",
+            "tag": "#LCR9YQGYY",
+            "th": 18,
+            "pos": 13,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "ＬＵＭＩＮＯＵＳ",
+            "tag": "#2LLYCQPG8",
+            "th": 18,
+            "pos": 14,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Reikan",
+            "tag": "#GJYRCJ0PR",
+            "th": 18,
+            "pos": 15,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "linch",
+            "tag": "#Q09UU0CL",
+            "th": 18,
+            "pos": 16,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
+            "tag": "#V88C2Y99",
+            "th": 18,
+            "pos": 17,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          }
+        ]
       }
     ],
     "atual": {
       "warTag": "#8RYYP8VGV",
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 15,
       "adversario": "ÄVÈñGÈR§ 2.0",
       "prep": "20260702T040628.000Z",
@@ -486,7 +632,7 @@
     "rodadas": [
       {
         "warTag": "#8GLRPJPPU",
-        "state": "preparation",
+        "state": "inWar",
         "teamSize": 15,
         "adversario": "✨ﺣّ͠ـڪْڪْٱيھَہّ",
         "prep": "20260702T040848.000Z",
@@ -534,7 +680,12 @@
             "tag": "#VP2GP0L9",
             "th": 18,
             "pos": 5,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -629,11 +780,157 @@
             "def_destr": null
           }
         ]
+      },
+      {
+        "warTag": "#8GLC8UP9J",
+        "state": "preparation",
+        "teamSize": 15,
+        "adversario": "Jalapa Top GT",
+        "prep": "20260703T040900.000Z",
+        "inicio": "20260704T040857.000Z",
+        "fim": "20260705T040857.000Z",
+        "membros": [
+          {
+            "nome": "SR • JON SNOW",
+            "tag": "#LYV2J2LU",
+            "th": 18,
+            "pos": 1,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Tony D. Chopper",
+            "tag": "#8RC2LPCRR",
+            "th": 18,
+            "pos": 2,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SrNunes",
+            "tag": "#2LY8G8Y9",
+            "th": 18,
+            "pos": 3,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "I G R I S ™",
+            "tag": "#RRVQQPJ8",
+            "th": 18,
+            "pos": 4,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "×Darkøn×",
+            "tag": "#VP2GP0L9",
+            "th": 18,
+            "pos": 5,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "GSAzevedo30",
+            "tag": "#CJLVVL9L",
+            "th": 18,
+            "pos": 6,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "LEANDRO",
+            "tag": "#QPCRCR8VY",
+            "th": 18,
+            "pos": 7,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Neskau",
+            "tag": "#P8GLGPRP",
+            "th": 18,
+            "pos": 8,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "LSWRTH",
+            "tag": "#YVU0L88P",
+            "th": 18,
+            "pos": 9,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR . João V.",
+            "tag": "#QP9GY9G",
+            "th": 18,
+            "pos": 10,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "TomorrowBr",
+            "tag": "#YPJLVPL9U",
+            "th": 18,
+            "pos": 11,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR • Edu",
+            "tag": "#PQYV8PYQQ",
+            "th": 18,
+            "pos": 12,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR•GOD kratos",
+            "tag": "#LUJ9CRJQG",
+            "th": 18,
+            "pos": 15,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "MAJ0R FiV3",
+            "tag": "#QRJL0RGQR",
+            "th": 18,
+            "pos": 16,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "PaiDeFamilia",
+            "tag": "#2GCJ8QC92",
+            "th": 18,
+            "pos": 17,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          }
+        ]
       }
     ],
     "atual": {
       "warTag": "#8GLRPJPPU",
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 15,
       "adversario": "✨ﺣّ͠ـڪْڪْٱيھَہّ",
       "prep": "20260702T040848.000Z",
@@ -681,7 +978,12 @@
           "tag": "#VP2GP0L9",
           "th": 18,
           "pos": 5,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -2115,8 +2417,8 @@
             "th": 16,
             "pos": 7,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 2,
+            "def_destr": 91
           },
           {
             "nome": "Líder André 3",
@@ -2703,8 +3005,8 @@
           "th": 16,
           "pos": 7,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 2,
+          "def_destr": 91
         },
         {
           "nome": "Líder André 3",
