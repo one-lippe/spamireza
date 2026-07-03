@@ -114,7 +114,12 @@
             "tag": "#PJ0YJLGJ",
             "th": 18,
             "pos": 2,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -123,7 +128,12 @@
             "tag": "#9VV909C89",
             "th": 18,
             "pos": 3,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -132,7 +142,12 @@
             "tag": "#9G22U9U2Y",
             "th": 18,
             "pos": 4,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 93
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -191,7 +206,12 @@
             "tag": "#99220V0Q8",
             "th": 18,
             "pos": 12,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 65
           },
@@ -200,7 +220,12 @@
             "tag": "#LCR9YQGYY",
             "th": 18,
             "pos": 13,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -412,7 +437,12 @@
           "tag": "#PJ0YJLGJ",
           "th": 18,
           "pos": 2,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -421,7 +451,12 @@
           "tag": "#9VV909C89",
           "th": 18,
           "pos": 3,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -430,7 +465,12 @@
           "tag": "#9G22U9U2Y",
           "th": 18,
           "pos": 4,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 93
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -489,7 +529,12 @@
           "tag": "#99220V0Q8",
           "th": 18,
           "pos": 12,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 65
         },
@@ -498,7 +543,12 @@
           "tag": "#LCR9YQGYY",
           "th": 18,
           "pos": 13,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -654,7 +704,12 @@
             "tag": "#LYV2J2LU",
             "th": 18,
             "pos": 1,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 79
           },
@@ -678,15 +733,20 @@
             "th": 18,
             "pos": 3,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "I G R I S ™",
             "tag": "#RRVQQPJ8",
             "th": 18,
             "pos": 4,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -709,7 +769,12 @@
             "tag": "#CJLVVL9L",
             "th": 18,
             "pos": 6,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -741,7 +806,12 @@
             "tag": "#P8GLGPRP",
             "th": 18,
             "pos": 9,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -750,7 +820,12 @@
             "tag": "#QP9GY9G",
             "th": 18,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -768,7 +843,12 @@
             "tag": "#PQYV8PYQQ",
             "th": 18,
             "pos": 12,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 80
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -786,9 +866,14 @@
             "tag": "#QRJL0RGQR",
             "th": 18,
             "pos": 16,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "PaiDeFamilia",
@@ -967,7 +1052,12 @@
           "tag": "#LYV2J2LU",
           "th": 18,
           "pos": 1,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 79
         },
@@ -991,15 +1081,20 @@
           "th": 18,
           "pos": 3,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "I G R I S ™",
           "tag": "#RRVQQPJ8",
           "th": 18,
           "pos": 4,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -1022,7 +1117,12 @@
           "tag": "#CJLVVL9L",
           "th": 18,
           "pos": 6,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -1054,7 +1154,12 @@
           "tag": "#P8GLGPRP",
           "th": 18,
           "pos": 9,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -1063,7 +1168,12 @@
           "tag": "#QP9GY9G",
           "th": 18,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -1081,7 +1191,12 @@
           "tag": "#PQYV8PYQQ",
           "th": 18,
           "pos": 12,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 80
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -1099,9 +1214,14 @@
           "tag": "#QRJL0RGQR",
           "th": 18,
           "pos": 16,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "PaiDeFamilia",
@@ -1304,8 +1424,8 @@
             "th": 18,
             "pos": 1,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Agnes",
@@ -1321,7 +1441,12 @@
             "tag": "#LU2PQ0CU8",
             "th": 18,
             "pos": 3,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 82
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -1372,7 +1497,12 @@
             "tag": "#22YJPYPCJ",
             "th": 18,
             "pos": 7,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 70
           },
@@ -1413,7 +1543,12 @@
             "tag": "#G2V22VQUY",
             "th": 18,
             "pos": 12,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -1431,7 +1566,12 @@
             "tag": "#2LLJ9JUYJ",
             "th": 18,
             "pos": 14,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -1546,7 +1686,12 @@
             "tag": "#Y22C09J8Q",
             "th": 17,
             "pos": 24,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -1564,7 +1709,12 @@
             "tag": "#QQC298JUC",
             "th": 17,
             "pos": 26,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -1619,9 +1769,14 @@
             "tag": "#QQQ8VQPL0",
             "th": 17,
             "pos": 32,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 2,
+            "def_destr": 79
           }
         ]
       },
@@ -1922,8 +2077,8 @@
           "th": 18,
           "pos": 1,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Agnes",
@@ -1939,7 +2094,12 @@
           "tag": "#LU2PQ0CU8",
           "th": 18,
           "pos": 3,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 82
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -1990,7 +2150,12 @@
           "tag": "#22YJPYPCJ",
           "th": 18,
           "pos": 7,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 70
         },
@@ -2031,7 +2196,12 @@
           "tag": "#G2V22VQUY",
           "th": 18,
           "pos": 12,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -2049,7 +2219,12 @@
           "tag": "#2LLJ9JUYJ",
           "th": 18,
           "pos": 14,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -2164,7 +2339,12 @@
           "tag": "#Y22C09J8Q",
           "th": 17,
           "pos": 24,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -2182,7 +2362,12 @@
           "tag": "#QQC298JUC",
           "th": 17,
           "pos": 26,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -2237,9 +2422,14 @@
           "tag": "#QQQ8VQPL0",
           "th": 17,
           "pos": 32,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
+          "def_estrelas": 2,
+          "def_destr": 79
         }
       ]
     },
@@ -2437,8 +2627,8 @@
                 "destr": 73
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 2,
+            "def_destr": 83
           },
           {
             "nome": "SR•Dos Ovos",
@@ -2496,8 +2686,8 @@
             "th": 16,
             "pos": 8,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Fernandes^",
@@ -2541,7 +2731,12 @@
             "tag": "#JLYPQP80",
             "th": 16,
             "pos": 12,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -2550,7 +2745,12 @@
             "tag": "#LJYRU2J2C",
             "th": 17,
             "pos": 13,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 93
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -2568,7 +2768,12 @@
             "tag": "#QQUC9JQ9R",
             "th": 15,
             "pos": 15,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -2613,7 +2818,12 @@
             "tag": "#G2QQ2998J",
             "th": 15,
             "pos": 20,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -2654,7 +2864,12 @@
             "tag": "#2J0G8Y80C",
             "th": 16,
             "pos": 24,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -3035,8 +3250,8 @@
               "destr": 73
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 2,
+          "def_destr": 83
         },
         {
           "nome": "SR•Dos Ovos",
@@ -3094,8 +3309,8 @@
           "th": 16,
           "pos": 8,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Fernandes^",
@@ -3139,7 +3354,12 @@
           "tag": "#JLYPQP80",
           "th": 16,
           "pos": 12,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3148,7 +3368,12 @@
           "tag": "#LJYRU2J2C",
           "th": 17,
           "pos": 13,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 93
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3166,7 +3391,12 @@
           "tag": "#QQUC9JQ9R",
           "th": 15,
           "pos": 15,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -3211,7 +3441,12 @@
           "tag": "#G2QQ2998J",
           "th": 15,
           "pos": 20,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3252,7 +3487,12 @@
           "tag": "#2J0G8Y80C",
           "th": 16,
           "pos": 24,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
