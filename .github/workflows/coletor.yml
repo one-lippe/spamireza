@@ -1,0 +1,40 @@
+name: Coletor CWL Spamireza
+
+on:
+  schedule:
+    - cron: '7 * * * *'      # toda hora (UTC) — ajuste livre
+  workflow_dispatch: {}        # botão pra rodar na hora, manualmente
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coletor
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Rodar coletor
+        env:
+          COC_TOKEN: ${{ secrets.COC_TOKEN }}
+        run: python3 coletor_cwl.py
+
+      - name: Commitar se houver mudança
+        run: |
+          git config user.name "coletor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.html Dashboard_Spamireza.html cwl_data.json
+          if git diff --cached --quiet; then
+            echo "Nada mudou — sem commit."
+          else
+            git commit -m "auto: atualiza CWL [skip ci]"
+            git push
+          fi
