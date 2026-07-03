@@ -25,9 +25,14 @@ PESO_ATK, PESO_DEF, PESO_CONF, PISO, NMOV = 0.55, 0.20, 0.25, 3, 2
 
 def token():
     if os.environ.get("COC_TOKEN"): return os.environ["COC_TOKEN"].strip()
-    for p in [ROOT/".token", ROOT/"COC_TOKEN.txt", ROOT/".."/"COC - Coach"/"api"/".token"]:
-        if p.exists(): return p.read_text().strip()
-    sys.exit("Token CoC não encontrado (env COC_TOKEN ou ../COC - Coach/api/.token)")
+    cands = [ROOT / ".token", ROOT / "COC_TOKEN.txt"]
+    p = ROOT
+    for _ in range(6):  # sobe as pastas procurando "COC - Coach/api/.token"
+        cands.append(p / "COC - Coach" / "api" / ".token")
+        p = p.parent
+    for c in cands:
+        if c.exists(): return c.read_text().strip()
+    sys.exit("Token CoC não encontrado (defina COC_TOKEN ou tenha 'COC - Coach/api/.token' perto do projeto)")
 
 TOK = token()
 def get(path):
