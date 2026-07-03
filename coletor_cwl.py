@@ -117,9 +117,10 @@ def agregar(out):
         notaDef = 100 if a["defcnt"] == 0 else (1 - (a["defsof"] / a["defcnt"]) / 3) * 100
         conf = min(1, atk / a["rounds"]) if a["rounds"] else 0
         idx = (PESO_ATK * notaAtk + PESO_DEF * notaDef + PESO_CONF * conf * 100) * mult
+        sof = round(a["defsof"] / a["defcnt"], 1) if a["defcnt"] else None  # estrelas sofridas/defesa
         rank.append({"n": a["nome"], "th": a["th"], "atk": atk, "est": a["est"],
                      "spa": round(spa, 2), "conf": round(conf * 100), "def": round(notaDef),
-                     "ndef": a["defcnt"], "idx": round(idx, 1),
+                     "sof": sof, "ndef": a["defcnt"], "idx": round(idx, 1),
                      "mvp": a["est"] + a["defneg"]})
     rank.sort(key=lambda x: -x["idx"])
     total_atk = sum(x["atk"] for x in rank); n = len(rank); c = out["num"]
