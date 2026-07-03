@@ -106,8 +106,8 @@
             "th": 18,
             "pos": 1,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "SR • Giovanelli",
@@ -142,8 +142,8 @@
             "th": 18,
             "pos": 5,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "KingOfBilada™",
@@ -192,8 +192,8 @@
             "th": 18,
             "pos": 12,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 2,
+            "def_destr": 65
           },
           {
             "nome": "MAJ0R FiV3",
@@ -404,8 +404,8 @@
           "th": 18,
           "pos": 1,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "SR • Giovanelli",
@@ -440,8 +440,8 @@
           "th": 18,
           "pos": 5,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "KingOfBilada™",
@@ -490,8 +490,8 @@
           "th": 18,
           "pos": 12,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 2,
+          "def_destr": 65
         },
         {
           "nome": "MAJ0R FiV3",
@@ -718,7 +718,12 @@
             "tag": "#QPCRCR8VY",
             "th": 18,
             "pos": 7,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -790,7 +795,12 @@
             "tag": "#2GCJ8QC92",
             "th": 18,
             "pos": 17,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           }
@@ -1021,7 +1031,12 @@
           "tag": "#QPCRCR8VY",
           "th": 18,
           "pos": 7,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -1093,7 +1108,12 @@
           "tag": "#2GCJ8QC92",
           "th": 18,
           "pos": 17,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         }
@@ -1642,24 +1662,6 @@
             "def_destr": null
           },
           {
-            "nome": "☆VILA DO PX ツ",
-            "tag": "#8PUL8JPC",
-            "th": 18,
-            "pos": 4,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
-          },
-          {
-            "nome": "Samuel Soares",
-            "tag": "#9V2L9J9JP",
-            "th": 18,
-            "pos": 5,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
-          },
-          {
             "nome": "Sr • Pbalestra",
             "tag": "#2YP8QV8J9",
             "th": 18,
@@ -1673,6 +1675,15 @@
             "tag": "#22YJPYPCJ",
             "th": 18,
             "pos": 7,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "nogz",
+            "tag": "#GV09299QL",
+            "th": 18,
+            "pos": 8,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null
@@ -1853,6 +1864,15 @@
             "tag": "#9PY02020G",
             "th": 18,
             "pos": 28,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "irmão do jorel",
+            "tag": "#P2JCQRPGJ",
+            "th": 18,
+            "pos": 29,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null
@@ -2558,8 +2578,8 @@
             "th": 15,
             "pos": 16,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Jan™",
@@ -2594,8 +2614,8 @@
             "th": 15,
             "pos": 20,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "SR • JotaErre",
@@ -2612,8 +2632,8 @@
             "th": 15,
             "pos": 22,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 2,
+            "def_destr": 76
           },
           {
             "nome": "Honrado",
@@ -2653,8 +2673,8 @@
             "th": 14,
             "pos": 26,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "☆InTheDark☆",
@@ -3156,8 +3176,8 @@
           "th": 15,
           "pos": 16,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Jan™",
@@ -3192,8 +3212,8 @@
           "th": 15,
           "pos": 20,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "SR • JotaErre",
@@ -3210,8 +3230,8 @@
           "th": 15,
           "pos": 22,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 2,
+          "def_destr": 76
         },
         {
           "nome": "Honrado",
@@ -3251,8 +3271,8 @@
           "th": 14,
           "pos": 26,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "☆InTheDark☆",
