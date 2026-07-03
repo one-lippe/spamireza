@@ -60,7 +60,7 @@ Os "principais" jogam do clã 1 ao 5. Em dia de liga, remanejar jogadores entre 
 - **Repositório:** https://github.com/one-lippe/spamireza (público)
 - **Site no ar (GitHub Pages):** https://one-lippe.github.io/spamireza/
 - **Branch:** main · Pages servindo `index.html` da raiz.
-Push feito via git a partir de checkout temporário (token de acesso pessoal armazenado fora deste repositório, nunca commitado).
+Push feito via git a partir de checkout temporário (a pasta local do Mac não permite operações de git — ver seção 10). Token de acesso pessoal NÃO deve ser salvo em texto puro neste arquivo (GitHub push protection bloqueia e é risco de segurança).
 
 
 ---
@@ -125,3 +125,12 @@ Sem imagens ainda (pasta vazia). Aba fica **travada 🔒** no dashboard.
 - Usuário: Lippe (One Publicidade). Prefere respostas concisas e diretas.
 - Projeto recreativo. Conta do GitHub é de teste.
 - Sempre publicar/verificar o dashboard no ar após mudanças.
+
+---
+
+## 10. Git / push — como funciona de verdade (02/07/2026)
+
+- A pasta `Spamireza/` no Mac **não permite deletar/renomear arquivos** (restrição do Cowork nessa pasta conectada). Git precisa criar/apagar arquivos temporários (`.git/objects/tmp_*`, locks) o tempo todo — por isso `git init`/`git push` rodado direto nela **sempre falha** com "Operation not permitted".
+- Por isso todo o histórico do repo até aqui era só commits "Add files via upload" (feitos manualmente pelo site do GitHub).
+- **Forma que funciona:** clonar o repo num diretório temporário do sandbox, copiar os arquivos atualizados da pasta local pra lá, commitar e dar push de lá. Arquivo de referência de token de acesso: pedir para o usuário fornecer de novo caso necessário (não guardar em texto puro em arquivos deste repositório — GitHub bloqueia por push protection e é risco de segurança).
+- Repo público já contém (após push de 02/07/26): index.html, README.md, ARTES/, Dashboard_Spamireza.html, Indice_Spamireza.xlsx, Indice_Spamireza_EXEMPLO.xlsx, LOGO BLACK.png, LOGO NEGATIVA, LIGAS/ (prints das escalações), HANDOFF.md.
