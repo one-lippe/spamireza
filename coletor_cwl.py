@@ -118,7 +118,8 @@ def agregar(out):
         conf = min(1, atk / a["rounds"]) if a["rounds"] else 0
         idx = (PESO_ATK * notaAtk + PESO_DEF * notaDef + PESO_CONF * conf * 100) * mult
         rank.append({"n": a["nome"], "th": a["th"], "atk": atk, "est": a["est"],
-                     "spa": round(spa, 2), "conf": round(conf * 100), "idx": round(idx, 1),
+                     "spa": round(spa, 2), "conf": round(conf * 100), "def": round(notaDef),
+                     "ndef": a["defcnt"], "idx": round(idx, 1),
                      "mvp": a["est"] + a["defneg"]})
     rank.sort(key=lambda x: -x["idx"])
     total_atk = sum(x["atk"] for x in rank); n = len(rank); c = out["num"]
