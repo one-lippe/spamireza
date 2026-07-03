@@ -2584,8 +2584,8 @@
             "th": 14,
             "pos": 25,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 2,
+            "def_destr": 95
           },
           {
             "nome": "Tomorrowland",
@@ -3172,8 +3172,8 @@
           "th": 14,
           "pos": 25,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 2,
+          "def_destr": 95
         },
         {
           "nome": "Tomorrowland",
