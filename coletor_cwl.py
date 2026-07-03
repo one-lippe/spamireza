@@ -2,16 +2,18 @@
 """
 Coletor CWL — Spamireza
 Puxa os 5 clãs da família via API oficial do CoC (proxy RoyaleAPI) e gera:
-  - cwl_data.json  : snapshot completo (elenco, rodadas, escalação, ataques, defesa)
-  - injeta os dados no index.html (bloco CLANS) e sincroniza Dashboard_Spamireza.html
+  - cwl_data.json  : snapshot completo (elenco, rodadas, ataques, defesa)
+  - injeta no index.html o bloco CLANS com: escalação (esc/res), timer (state/inicio/fim)
+    e RANKING agregado das 7 rodadas (Índice, MVP, zonas de promoção/rebaixamento).
 
+Modelo do Índice: 55% ataque + 20% defesa + 25% confiabilidade, x multiplicador de liga.
 Token CoC: env COC_TOKEN  ou  ../COC - Coach/api/.token
 Uso: python3 coletor_cwl.py
 """
 import os, sys, json, re, urllib.request, urllib.parse, pathlib
 
 PROXY = "https://cocproxy.royaleapi.dev/v1"
-CLANS = [  # (nº, nome, tag)
+CLANS = [
     (1, "SpamiReza",     "#2J90U9GYP"),
     (2, "RezaSpamandu",  "#2R9CC2P02"),
     (3, "ScamiReza",     "#2CY9P2L9J"),
@@ -19,6 +21,7 @@ CLANS = [  # (nº, nome, tag)
     (5, "e-SpamiReza",   "#2CPQQQ008"),
 ]
 ROOT = pathlib.Path(__file__).resolve().parent
+PESO_ATK, PESO_DEF, PESO_CONF, PISO, NMOV = 0.55, 0.20, 0.25, 3, 2
 
 def token():
     if os.environ.get("COC_TOKEN"): return os.environ["COC_TOKEN"].strip()
@@ -35,20 +38,32 @@ def get(path):
     except Exception as e:
         return getattr(e, "code", "ERR"), str(e)
 
+def mult_liga(nome):
+    if not nome: return 0.85
+    base = {"champion": 1.00, "master": 0.93, "crystal": 0.83, "gold": 0.72,
+            "silver": 0.62, "bronze": 0.55}
+    passo = {0: 0.0, 1: -0.03, 2: -0.06}  # I, II, III
+    n = nome.lower()
+    tier = next((v for k, v in base.items() if k in n), 0.85)
+    m = re.search(r"\b(iii|ii|i)\b", n)
+    roman = {"i": 0, "ii": 1, "iii": 2}.get(m.group(1), 0) if m else 0
+    return round(tier + passo[roman], 3)
+
 def coletar_cla(num, nome, tag):
     q = urllib.parse.quote(tag)
+    out = {"num": num, "nome": nome, "tag": tag, "elenco": [], "rodadas": [],
+           "atual": None, "liga": None, "mult": 0.85}
     st, lg = get(f"/clans/{q}/currentwar/leaguegroup")
-    out = {"num": num, "nome": nome, "tag": tag, "estado_grupo": None,
-           "elenco": [], "rodadas": [], "atual": None}
     if st != 200 or not isinstance(lg, dict):
-        out["erro"] = f"leaguegroup status {st}"
-        return out
-    out["estado_grupo"] = lg.get("state")
+        out["erro"] = f"leaguegroup status {st}"; return out
+    sc, ci = get(f"/clans/{q}")
+    if isinstance(ci, dict):
+        out["liga"] = (ci.get("warLeague") or {}).get("name")
+        out["mult"] = mult_liga(out["liga"])
     me = next((c for c in lg.get("clans", []) if c.get("tag") == tag), None)
     if me:
         out["elenco"] = [{"nome": m.get("name"), "tag": m.get("tag"),
                           "th": m.get("townHallLevel")} for m in me.get("members", [])]
-    # todas as guerras da família nesse clã
     war_tags = [wt for rd in lg.get("rounds", []) for wt in rd.get("warTags", []) if wt and wt != "#0"]
     for wt in war_tags:
         s, w = get(f"/clanwarleagues/wars/{urllib.parse.quote(wt)}")
@@ -64,41 +79,73 @@ def coletar_cla(num, nome, tag):
                 "nome": m.get("name"), "tag": m.get("tag"), "th": m.get("townhallLevel"),
                 "pos": m.get("mapPosition"),
                 "ataques": [{"estrelas": a.get("stars"), "destr": a.get("destructionPercentage")} for a in atks],
-                "def_estrelas": bo.get("stars"), "def_destr": bo.get("destructionPercentage"),
-            })
+                "def_estrelas": bo.get("stars"), "def_destr": bo.get("destructionPercentage")})
         membros.sort(key=lambda x: x.get("pos") or 99)
-        rodada = {"warTag": wt, "state": w.get("state"), "teamSize": w.get("teamSize"),
-                  "adversario": adv.get("name"), "prep": w.get("preparationStartTime"),
-                  "inicio": w.get("startTime"), "fim": w.get("endTime"), "membros": membros}
-        out["rodadas"].append(rodada)
-    # rodada "atual" = a mais recente disponível (maior prep)
+        out["rodadas"].append({"warTag": wt, "state": w.get("state"), "teamSize": w.get("teamSize"),
+                               "adversario": adv.get("name"), "prep": w.get("preparationStartTime"),
+                               "inicio": w.get("startTime"), "fim": w.get("endTime"), "membros": membros})
     if out["rodadas"]:
         out["atual"] = max(out["rodadas"], key=lambda r: r.get("prep") or "")
     return out
 
+def agregar(out):
+    """Ranking agregado das rodadas: Índice, MVP, confiabilidade, zona."""
+    mult = out.get("mult") or 1.0
+    agg = {}
+    for rd in out["rodadas"]:
+        for m in rd["membros"]:
+            a = agg.setdefault(m["tag"], {"nome": m["nome"], "th": m["th"], "rounds": 0, "atk": 0,
+                                          "est": 0, "destr": 0.0, "defsof": 0, "defcnt": 0, "defneg": 0})
+            a["nome"], a["th"] = m["nome"], m["th"]; a["rounds"] += 1
+            for at in m["ataques"]:
+                a["atk"] += 1; a["est"] += at["estrelas"] or 0; a["destr"] += at["destr"] or 0
+            ds = m.get("def_estrelas")
+            if ds is not None:
+                a["defsof"] += ds; a["defcnt"] += 1; a["defneg"] += (3 - ds)
+    rank = []
+    for a in agg.values():
+        atk = a["atk"]; spa = a["est"] / atk if atk else 0
+        notaAtk = spa / 3 * 100
+        notaDef = 100 if a["defcnt"] == 0 else (1 - (a["defsof"] / a["defcnt"]) / 3) * 100
+        conf = min(1, atk / a["rounds"]) if a["rounds"] else 0
+        idx = (PESO_ATK * notaAtk + PESO_DEF * notaDef + PESO_CONF * conf * 100) * mult
+        rank.append({"n": a["nome"], "th": a["th"], "atk": atk, "est": a["est"],
+                     "spa": round(spa, 2), "conf": round(conf * 100), "idx": round(idx, 1),
+                     "mvp": a["est"] + a["defneg"]})
+    rank.sort(key=lambda x: -x["idx"])
+    total_atk = sum(x["atk"] for x in rank); n = len(rank); c = out["num"]
+    for i, x in enumerate(rank):
+        x["pos"] = i + 1
+        if x["atk"] < PISO: x["zona"] = "—"
+        elif c > 1 and x["pos"] <= NMOV: x["zona"] = "promo"
+        elif c < 5 and x["pos"] > n - NMOV: x["zona"] = "rebx"
+        else: x["zona"] = "—"
+    return rank, ("rank" if total_atk > 0 else "esc")
+
 def build_clans_js(dados):
+    j = lambda v: json.dumps(v, ensure_ascii=False)
     linhas = []
     for d in dados:
         atual = d.get("atual")
+        rank, mode = agregar(d)
         if atual:
             esc = [m["nome"] for m in atual["membros"]]
             esc_tags = {m["tag"] for m in atual["membros"]}
             res = [e["nome"] for e in d["elenco"] if e["tag"] not in esc_tags]
             vs = atual["adversario"]; tam = f'{atual["teamSize"]} x {atual["teamSize"]}'
-            state = atual["state"]; inicio = atual["inicio"]; fim = atual["fim"]
+            state, inicio, fim = atual["state"], atual["inicio"], atual["fim"]
         else:
             esc, res, vs, tam, state, inicio, fim = [], [e["nome"] for e in d["elenco"]], None, None, None, None, None
-        j = lambda v: json.dumps(v, ensure_ascii=False)
-        linhas.append(f' {d["num"]}:{{nome:{j(d["nome"])},vs:{j(vs)},tam:{j(tam)},'
-                      f'state:{j(state)},inicio:{j(inicio)},fim:{j(fim)},'
-                      f'esc:{j(esc)},res:{j(res)}}}')
+        linhas.append(
+            f' {d["num"]}:{{nome:{j(d["nome"])},vs:{j(vs)},tam:{j(tam)},liga:{j(d["liga"])},'
+            f'state:{j(state)},inicio:{j(inicio)},fim:{j(fim)},mode:{j(mode)},'
+            f'esc:{j(esc)},res:{j(res)},rank:{j(rank)}}}')
     return "const CLANS={\n" + ",\n".join(linhas) + "\n};\n"
 
 def injetar_no_html(clans_js):
     idx = ROOT / "index.html"
     html = idx.read_text(encoding="utf-8")
     html = re.sub(r"const CLANS=\{.*?\};\s*", clans_js, html, count=1, flags=re.DOTALL)
-    # destrava qualquer clã que tenha guerra (vs != null)
     html = html.replace("const locked=c===5;", "const locked=CLANS[c].vs===null;")
     idx.write_text(html, encoding="utf-8")
     (ROOT / "Dashboard_Spamireza.html").write_text(html, encoding="utf-8")
@@ -107,15 +154,15 @@ def main():
     dados = []
     print("Coletando CWL dos 5 clãs...")
     for num, nome, tag in CLANS:
-        d = coletar_cla(num, nome, tag)
-        dados.append(d)
+        d = coletar_cla(num, nome, tag); dados.append(d)
         at = d.get("atual")
+        _, mode = agregar(d)
         if at:
             esc = len(at["membros"]); res = len(d["elenco"]) - esc
-            print(f"  Clã {num} {nome:14} vs {at['adversario']:18} {at['teamSize']}x{at['teamSize']} "
-                  f"| {esc} esc + {res} res | state={at['state']}")
+            print(f"  Clã {num} {nome:14} vs {at['adversario']:16} {at['teamSize']}x{at['teamSize']} "
+                  f"| {esc} esc + {res} res | {d['liga']} (x{d['mult']}) | modo={mode} | {at['state']}")
         else:
-            print(f"  Clã {num} {nome:14} — sem guerra ativa (elenco: {len(d['elenco'])})  {d.get('erro','')}")
+            print(f"  Clã {num} {nome:14} — sem guerra ativa  {d.get('erro','')}")
     (ROOT / "cwl_data.json").write_text(json.dumps(dados, ensure_ascii=False, indent=2), encoding="utf-8")
     injetar_no_html(build_clans_js(dados))
     print("OK -> cwl_data.json + index.html atualizados")

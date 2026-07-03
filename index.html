@@ -90,6 +90,36 @@
   .timer b{font-variant-numeric:tabular-nums;color:#fff;font-size:13.5px;letter-spacing:.5px}
   .timer.live{color:#ffd9dc;background:rgba(224,82,96,.16);border-color:rgba(224,82,96,.55)}
   .timer.ended{color:var(--muted);background:rgba(30,69,116,.25);border-color:var(--line)}
+  /* --- modo ranking --- */
+  .mvp{display:flex;align-items:center;gap:14px;border-radius:16px;padding:13px 16px;margin-bottom:14px;
+    background:linear-gradient(120deg,rgba(232,185,74,.18),rgba(232,185,74,.03));border:1px solid rgba(232,185,74,.42)}
+  .mvp .medal{font-size:28px}
+  .mvp .info{flex:1}
+  .mvp .info .lbl{font-size:10px;letter-spacing:1.5px;color:var(--gold);font-weight:800}
+  .mvp .info .nm{font-size:16px;font-weight:800;margin-top:1px}
+  .mvp .info .dt{font-size:11px;color:var(--muted);margin-top:2px}
+  .mvp .score{text-align:center}
+  .mvp .score b{font-size:21px;color:var(--gold-soft);font-weight:800;display:block;line-height:1}
+  .mvp .score span{font-size:9px;color:var(--muted2);letter-spacing:1px}
+  .p.promo{border-color:rgba(40,168,106,.55);background:linear-gradient(100deg,rgba(40,168,106,.13),var(--card) 60%)}
+  .p.rebx{border-color:rgba(224,82,96,.5);background:linear-gradient(100deg,rgba(224,82,96,.13),var(--card) 60%)}
+  .rk{flex:0 0 32px;height:32px;border-radius:9px;display:flex;align-items:center;justify-content:center;
+    font-weight:800;font-size:14px;background:var(--card2);border:1px solid var(--line);color:var(--muted)}
+  .rk.g1{background:linear-gradient(160deg,var(--gold),#b9862a);color:#20140a;border-color:var(--gold)}
+  .rk.g2{background:linear-gradient(160deg,#e4ecf6,#9fb2c9);color:#1a2c42;border-color:#c9d6e5}
+  .rk.g3{background:linear-gradient(160deg,#d99a5c,#a5622f);color:#20140a;border-color:#cd8a4d}
+  .pbody{flex:1;min-width:0}
+  .prow1{display:flex;align-items:center;justify-content:space-between;gap:8px}
+  .th{font-size:9px;color:var(--muted2);font-weight:700;border:1px solid var(--line);padding:1px 5px;border-radius:5px;margin-left:5px}
+  .idxnum{font-weight:800;font-size:15px;color:var(--gold-soft);flex:0 0 auto}
+  .bar{height:6px;border-radius:4px;background:#0a1e38;margin-top:7px;overflow:hidden}
+  .bar i{display:block;height:100%;border-radius:4px;background:linear-gradient(90deg,#c8922e,var(--gold),var(--gold-soft))}
+  .meta{display:flex;gap:12px;margin-top:7px;font-size:11px;color:var(--muted);flex-wrap:wrap}
+  .meta .st{color:var(--gold-soft);font-weight:700}
+  .zbadge{position:absolute;top:0;right:0;font-size:9px;font-weight:800;padding:3px 9px;border-bottom-left-radius:10px}
+  .zbadge.promo{background:var(--green);color:#fff}
+  .zbadge.rebx{background:var(--red);color:#fff}
+  .p{position:relative;overflow:hidden}
 </style>
 </head>
 <body>
@@ -114,11 +144,11 @@
 
 <script>
 const CLANS={
- 1:{nome:"SpamiReza",vs:"ÄVÈñGÈR§ 2.0",tam:"15 x 15",state:"preparation",inicio:"20260703T040627.000Z",fim:"20260704T040627.000Z",esc:["marinaul war", "SR • Giovanelli", "SR - JON SNOW 2", "tozim", "Henrique Nerath", "KingOfBilada™", "Jan", "Levi_Neiva", "SR • THIAGO", "Nesk", "MAJ0R FiV3", "ＬＵＭＩＮＯＵＳ", "Reikan", "linch", "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛"],res:["SR • InTheDark☆", "SR • C∆iç∆r∆"]},
- 2:{nome:"RezaSpamandu",vs:"✨ﺣّ͠ـڪْڪْٱيھَہّ",tam:"15 x 15",state:"preparation",inicio:"20260703T040847.000Z",fim:"20260704T040847.000Z",esc:["SR • JON SNOW", "Tony D. Chopper", "SrNunes", "I G R I S ™", "×Darkøn×", "GSAzevedo30", "LEANDRO", "LSWRTH", "Neskau", "SR . João V.", "TomorrowBr", "SR • Edu", "SR•GOD kratos", "MAJ0R FiV3", "PaiDeFamilia"],res:["menolli", "Nathan♣️", "SR • C∆mbUri"]},
- 3:{nome:"ScamiReza",vs:"U.T.W.™️",tam:"30 x 30",state:"preparation",inicio:"20260704T022606.000Z",fim:"20260705T022606.000Z",esc:["Sene", "Agnes", "MattosxP", "☆VILA DO PX ツ", "Samuel Soares", "Sr • Pbalestra", "KingMpg", "nonick", "Psico 2k25", "Maxpaz", "ROBERTHWILLIAMM", "chaos", "Gameplay", "rei do crime", "SR • The off", "matias?", "Dalton", "SR • Nitzuほウめ", "SR • Balestra", "·Holtser Ω", "SR • DuM∆R", "SR • GPM 2", "R A K A N ☦️", "SR • One☆", "Duff", "$ GUADIADOR $", "nathan_GO$", "ayumatsui", "Elianin?", "F4KER"],res:["nogz", "irmão do jorel"]},
- 4:{nome:"RezaScamandu",vs:"THE Clasher",tam:"30 x 30",state:"preparation",inicio:"20260703T030808.000Z",fim:"20260704T030808.000Z",esc:["Lider Andre", "Deyvidzk", "SR•Dos Ovos", "Lider André 2", "SR • Dennis", "Ligeirinh0xD", "CoR1nG4 ×,×", "Líder André 3", "Fernandes^", "NAUZIN", "Nesk'", "B E L L I O N™", "B E R U 炎", "h7dek1", "Ghostface", "Ganso", "Jan™", "PaulinhoPH", "Ｎａｔｈａｎ ＴＨ１１", "SR • Chefex", "SR • JotaErre", "RAGNAROK", "Honrado", "-Meliodas-", "°D∆×iLh∆°", "Tomorrowland", "☆InTheDark☆", "JigSaw", "Ligeirinh2xD", "GSAzevedo30 #2"],res:["SR • Borges"]},
- 5:{nome:"e-SpamiReza",vs:"Tool Shed",tam:"15 x 15",state:"preparation",inicio:"20260703T232707.000Z",fim:"20260704T232707.000Z",esc:["lanterna verde", "SR • Caibreck", "RoDrIgOo", "scamador'd'calv", "ASG BLACK OPS✅", "TH", "SR • Comunista", "SR- Nathan", "GPM no defense", "TH", "Crypt Myers", "SR- Lopes", "SR • InTheDark☆", "TH", "SR • PBalestra"],res:[]}
+ 1:{nome:"SpamiReza",vs:"ÄVÈñGÈR§ 2.0",tam:"15 x 15",liga:"Champion League II",state:"preparation",inicio:"20260703T040627.000Z",fim:"20260704T040627.000Z",mode:"esc",esc:["marinaul war", "SR • Giovanelli", "SR - JON SNOW 2", "tozim", "Henrique Nerath", "KingOfBilada™", "Jan", "Levi_Neiva", "SR • THIAGO", "Nesk", "MAJ0R FiV3", "ＬＵＭＩＮＯＵＳ", "Reikan", "linch", "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛"],res:["SR • InTheDark☆", "SR • C∆iç∆r∆"],rank:[{"n": "marinaul war", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 1, "zona": "—"}, {"n": "SR • Giovanelli", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 2, "zona": "—"}, {"n": "SR - JON SNOW 2", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 3, "zona": "—"}, {"n": "tozim", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 4, "zona": "—"}, {"n": "Henrique Nerath", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 5, "zona": "—"}, {"n": "KingOfBilada™", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 6, "zona": "—"}, {"n": "Jan", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 7, "zona": "—"}, {"n": "Levi_Neiva", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 8, "zona": "—"}, {"n": "SR • THIAGO", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 9, "zona": "—"}, {"n": "Nesk", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 10, "zona": "—"}, {"n": "MAJ0R FiV3", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 11, "zona": "—"}, {"n": "ＬＵＭＩＮＯＵＳ", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 12, "zona": "—"}, {"n": "Reikan", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 13, "zona": "—"}, {"n": "linch", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 14, "zona": "—"}, {"n": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 19.4, "mvp": 0, "pos": 15, "zona": "—"}]},
+ 2:{nome:"RezaSpamandu",vs:"✨ﺣّ͠ـڪْڪْٱيھَہّ",tam:"15 x 15",liga:"Champion League III",state:"preparation",inicio:"20260703T040847.000Z",fim:"20260704T040847.000Z",mode:"esc",esc:["SR • JON SNOW", "Tony D. Chopper", "SrNunes", "I G R I S ™", "×Darkøn×", "GSAzevedo30", "LEANDRO", "LSWRTH", "Neskau", "SR . João V.", "TomorrowBr", "SR • Edu", "SR•GOD kratos", "MAJ0R FiV3", "PaiDeFamilia"],res:["menolli", "Nathan♣️", "SR • C∆mbUri"],rank:[{"n": "SR • JON SNOW", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 1, "zona": "—"}, {"n": "Tony D. Chopper", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 2, "zona": "—"}, {"n": "SrNunes", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 3, "zona": "—"}, {"n": "I G R I S ™", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 4, "zona": "—"}, {"n": "×Darkøn×", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 5, "zona": "—"}, {"n": "GSAzevedo30", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 6, "zona": "—"}, {"n": "LEANDRO", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 7, "zona": "—"}, {"n": "LSWRTH", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 8, "zona": "—"}, {"n": "Neskau", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 9, "zona": "—"}, {"n": "SR . João V.", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 10, "zona": "—"}, {"n": "TomorrowBr", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 11, "zona": "—"}, {"n": "SR • Edu", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 12, "zona": "—"}, {"n": "SR•GOD kratos", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 13, "zona": "—"}, {"n": "MAJ0R FiV3", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 14, "zona": "—"}, {"n": "PaiDeFamilia", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.8, "mvp": 0, "pos": 15, "zona": "—"}]},
+ 3:{nome:"ScamiReza",vs:"U.T.W.™️",tam:"30 x 30",liga:"Master League II",state:"preparation",inicio:"20260704T022606.000Z",fim:"20260705T022606.000Z",mode:"rank",esc:["Sene", "Agnes", "MattosxP", "☆VILA DO PX ツ", "Samuel Soares", "Sr • Pbalestra", "KingMpg", "nonick", "Psico 2k25", "Maxpaz", "ROBERTHWILLIAMM", "chaos", "Gameplay", "rei do crime", "SR • The off", "matias?", "Dalton", "SR • Nitzuほウめ", "SR • Balestra", "·Holtser Ω", "SR • DuM∆R", "SR • GPM 2", "R A K A N ☦️", "SR • One☆", "Duff", "$ GUADIADOR $", "nathan_GO$", "ayumatsui", "Elianin?", "F4KER"],res:["nogz", "irmão do jorel"],rank:[{"n": "Sr • Pbalestra", "th": 18, "atk": 1, "est": 3, "spa": 3.0, "conf": 50, "idx": 78.8, "mvp": 3, "pos": 1, "zona": "—"}, {"n": "Maxpaz", "th": 18, "atk": 1, "est": 3, "spa": 3.0, "conf": 50, "idx": 78.8, "mvp": 3, "pos": 2, "zona": "—"}, {"n": "SR • The off", "th": 18, "atk": 1, "est": 3, "spa": 3.0, "conf": 50, "idx": 78.8, "mvp": 3, "pos": 3, "zona": "—"}, {"n": "rei do crime", "th": 18, "atk": 1, "est": 3, "spa": 3.0, "conf": 50, "idx": 78.8, "mvp": 3, "pos": 4, "zona": "—"}, {"n": "SR • Nitzuほウめ", "th": 18, "atk": 1, "est": 3, "spa": 3.0, "conf": 50, "idx": 78.8, "mvp": 3, "pos": 5, "zona": "—"}, {"n": "SR • Balestra", "th": 17, "atk": 1, "est": 3, "spa": 3.0, "conf": 50, "idx": 78.8, "mvp": 3, "pos": 6, "zona": "—"}, {"n": "Elianin?", "th": 17, "atk": 1, "est": 3, "spa": 3.0, "conf": 50, "idx": 78.8, "mvp": 3, "pos": 7, "zona": "—"}, {"n": "Sene", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 8, "zona": "—"}, {"n": "MattosxP", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 9, "zona": "—"}, {"n": "☆VILA DO PX ツ", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 10, "zona": "—"}, {"n": "Samuel Soares", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 11, "zona": "—"}, {"n": "nonick", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 12, "zona": "—"}, {"n": "Psico 2k25", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 13, "zona": "—"}, {"n": "ROBERTHWILLIAMM", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 14, "zona": "—"}, {"n": "chaos", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 15, "zona": "—"}, {"n": "Gameplay", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 16, "zona": "—"}, {"n": "matias?", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 17, "zona": "—"}, {"n": "·Holtser Ω", "th": 17, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 18, "zona": "—"}, {"n": "SR • DuM∆R", "th": 17, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 19, "zona": "—"}, {"n": "SR • GPM 2", "th": 17, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 20, "zona": "—"}, {"n": "R A K A N ☦️", "th": 17, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 21, "zona": "—"}, {"n": "Duff", "th": 17, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 22, "zona": "—"}, {"n": "$ GUADIADOR $", "th": 17, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 23, "zona": "—"}, {"n": "ayumatsui", "th": 17, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 24, "zona": "—"}, {"n": "F4KER", "th": 17, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 18.0, "mvp": 0, "pos": 25, "zona": "—"}, {"n": "Agnes", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 6.0, "mvp": 1, "pos": 26, "zona": "—"}, {"n": "KingMpg", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 6.0, "mvp": 1, "pos": 27, "zona": "—"}, {"n": "Dalton", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 6.0, "mvp": 1, "pos": 28, "zona": "—"}, {"n": "nathan_GO$", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 6.0, "mvp": 1, "pos": 29, "zona": "—"}, {"n": "SR • One☆", "th": 17, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 0.0, "mvp": 0, "pos": 30, "zona": "—"}]},
+ 4:{nome:"RezaScamandu",vs:"4 Christ",tam:"30 x 30",liga:"Crystal League II",state:"preparation",inicio:"20260704T030817.000Z",fim:"20260705T030817.000Z",mode:"rank",esc:["Lider Andre", "Deyvidzk", "SR•Dos Ovos", "Lider André 2", "SR • Dennis", "Ligeirinh0xD", "CoR1nG4 ×,×", "Líder André 3", "Fernandes^", "NAUZIN", "Nesk'", "B E L L I O N™", "B E R U 炎", "h7dek1", "Ghostface", "Ganso", "Jan™", "PaulinhoPH", "SR • Chefex", "Ｎａｔｈａｎ ＴＨ１１", "SR • JotaErre", "RAGNAROK", "Honrado", "-Meliodas-", "°D∆×iLh∆°", "Tomorrowland", "☆InTheDark☆", "JigSaw", "Ligeirinh2xD", "GSAzevedo30 #2"],res:["SR • Borges"],rank:[{"n": "GSAzevedo30 #2", "th": 14, "atk": 1, "est": 3, "spa": 3.0, "conf": 50, "idx": 70.0, "mvp": 3, "pos": 1, "zona": "—"}, {"n": "Lider Andre", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 2, "zona": "—"}, {"n": "Deyvidzk", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 3, "zona": "—"}, {"n": "SR•Dos Ovos", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 4, "zona": "—"}, {"n": "SR • Dennis", "th": 17, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 5, "zona": "—"}, {"n": "Ligeirinh0xD", "th": 17, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 6, "zona": "—"}, {"n": "CoR1nG4 ×,×", "th": 16, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 7, "zona": "—"}, {"n": "Líder André 3", "th": 16, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 8, "zona": "—"}, {"n": "Fernandes^", "th": 16, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 9, "zona": "—"}, {"n": "NAUZIN", "th": 16, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 10, "zona": "—"}, {"n": "Nesk'", "th": 16, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 11, "zona": "—"}, {"n": "B E L L I O N™", "th": 16, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 12, "zona": "—"}, {"n": "B E R U 炎", "th": 17, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 13, "zona": "—"}, {"n": "h7dek1", "th": 15, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 14, "zona": "—"}, {"n": "Ghostface", "th": 15, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 15, "zona": "—"}, {"n": "Ganso", "th": 15, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 16, "zona": "—"}, {"n": "Jan™", "th": 15, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 17, "zona": "—"}, {"n": "PaulinhoPH", "th": 15, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 18, "zona": "—"}, {"n": "Ｎａｔｈａｎ ＴＨ１１", "th": 15, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 19, "zona": "—"}, {"n": "SR • Chefex", "th": 15, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 20, "zona": "—"}, {"n": "SR • JotaErre", "th": 15, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 21, "zona": "—"}, {"n": "RAGNAROK", "th": 15, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 22, "zona": "—"}, {"n": "Honrado", "th": 15, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 23, "zona": "—"}, {"n": "-Meliodas-", "th": 16, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 24, "zona": "—"}, {"n": "°D∆×iLh∆°", "th": 14, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 25, "zona": "—"}, {"n": "Tomorrowland", "th": 14, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 26, "zona": "—"}, {"n": "☆InTheDark☆", "th": 14, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 27, "zona": "—"}, {"n": "JigSaw", "th": 14, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 28, "zona": "—"}, {"n": "Ligeirinh2xD", "th": 15, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 16.0, "mvp": 0, "pos": 29, "zona": "—"}, {"n": "Lider André 2", "th": 17, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 0.0, "mvp": 0, "pos": 30, "zona": "—"}]},
+ 5:{nome:"e-SpamiReza",vs:"Tool Shed",tam:"15 x 15",liga:"Gold League I",state:"preparation",inicio:"20260703T232707.000Z",fim:"20260704T232707.000Z",mode:"esc",esc:["lanterna verde", "SR • Caibreck", "RoDrIgOo", "scamador'd'calv", "ASG BLACK OPS✅", "TH", "SR • Comunista", "SR- Nathan", "GPM no defense", "TH", "Crypt Myers", "SR- Lopes", "SR • InTheDark☆", "TH", "SR • PBalestra"],res:[],rank:[{"n": "lanterna verde", "th": 18, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 1, "zona": "—"}, {"n": "SR • Caibreck", "th": 16, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 2, "zona": "—"}, {"n": "RoDrIgOo", "th": 15, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 3, "zona": "—"}, {"n": "scamador'd'calv", "th": 14, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 4, "zona": "—"}, {"n": "ASG BLACK OPS✅", "th": 15, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 5, "zona": "—"}, {"n": "TH", "th": 13, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 6, "zona": "—"}, {"n": "SR • Comunista", "th": 13, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 7, "zona": "—"}, {"n": "SR- Nathan", "th": 12, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 8, "zona": "—"}, {"n": "GPM no defense", "th": 13, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 9, "zona": "—"}, {"n": "TH", "th": 12, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 10, "zona": "—"}, {"n": "Crypt Myers", "th": 12, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 11, "zona": "—"}, {"n": "SR- Lopes", "th": 11, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 12, "zona": "—"}, {"n": "SR • InTheDark☆", "th": 11, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 13, "zona": "—"}, {"n": "TH", "th": 10, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 14, "zona": "—"}, {"n": "SR • PBalestra", "th": 8, "atk": 0, "est": 0, "spa": 0, "conf": 0, "idx": 14.4, "mvp": 0, "pos": 15, "zona": "—"}]}
 };
 let active=1;
 
@@ -131,19 +161,24 @@ function renderTabs(){
 }
 function setClan(c){active=c;render();}
 
+const stars=s=>{const f=Math.round(s);return "★★★".slice(0,f)+"☆☆☆".slice(0,3-f);};
+
 function render(){
   renderTabs();
   const d=CLANS[active];
   document.getElementById('clanhead').innerHTML=
     `<div class="clanhead"><h2>Clã ${active} · ${d.nome}</h2>
-     <div class="vs">🗡️ vs <b>${d.vs}</b> · guerra ${d.tam}</div>
+     <div class="vs">🗡️ vs <b>${d.vs}</b> · guerra ${d.tam}${d.liga?` · ${d.liga}`:''}</div>
      <div class="counts">
        <span class="pill esc">▲ ${d.esc.length} escalados</span>
        <span class="pill res">${d.res.length} reservas</span>
      </div>
      <div><span class="timer" id="timer"></span></div></div>`;
   updateTimer();
+  if(d.mode==='rank') renderRanking(d); else renderEscalacao(d);
+}
 
+function renderEscalacao(d){
   let html=d.esc.map((n,i)=>
     `<div class="p"><div class="pos">${i+1}</div>
       <div class="pname">${n}</div><div class="badge esc">ESCALADO</div></div>`).join('');
@@ -153,6 +188,34 @@ function render(){
       `<div class="p res"><div class="pos">R</div>
         <div class="pname">${n}</div><div class="badge res">RESERVA</div></div>`).join('');
   }
+  document.getElementById('list').innerHTML=html;
+}
+
+function renderRanking(d){
+  const r=d.rank||[];
+  const mvp=[...r].sort((a,b)=>b.mvp-a.mvp)[0];
+  let html='';
+  if(mvp && mvp.mvp>0){
+    html+=`<div class="mvp"><div class="medal">🏅</div><div class="info">
+      <div class="lbl">MVP DA LIGA</div><div class="nm">${mvp.n}</div>
+      <div class="dt">${mvp.spa.toFixed(2)} ★/atk · ${mvp.atk} ataques</div></div>
+      <div class="score"><b>${mvp.mvp}</b><span>PONTOS</span></div></div>`;
+  }
+  html+=r.map(p=>{
+    const rk=p.pos===1?'g1':p.pos===2?'g2':p.pos===3?'g3':'';
+    const promo=p.zona==='promo', rebx=p.zona==='rebx';
+    const badge=promo?'<div class="zbadge promo">▲ SOBE</div>':rebx?'<div class="zbadge rebx">▼ DESCE</div>':'';
+    const w=Math.max(0,Math.min(100,p.idx));
+    return `<div class="p ${promo?'promo':''} ${rebx?'rebx':''}">${badge}
+      <div class="rk ${rk}">${p.pos}</div>
+      <div class="pbody">
+        <div class="prow1"><div class="pname">${p.n}<span class="th">TH${p.th}</span></div>
+          <div class="idxnum">${p.idx.toFixed(1)}</div></div>
+        <div class="bar"><i style="width:${w}%"></i></div>
+        <div class="meta"><span class="st">${stars(p.spa)} ${p.spa.toFixed(2)}/atk</span>
+          <span>⚔️ ${p.atk} atq</span><span>🎯 ${p.conf}%</span><span>🏅 ${p.mvp}</span></div>
+      </div></div>`;
+  }).join('');
   document.getElementById('list').innerHTML=html;
 }
 
