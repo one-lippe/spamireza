@@ -2085,7 +2085,12 @@
             "tag": "#GRR2G9LP0",
             "th": 17,
             "pos": 6,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -2658,7 +2663,12 @@
           "tag": "#GRR2G9LP0",
           "th": 17,
           "pos": 6,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
