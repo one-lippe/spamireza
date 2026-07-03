@@ -84,6 +84,12 @@
   @media(min-width:620px){ header h1{font-size:30px} }
   .logo{height:210px;width:auto;margin:0 auto 6px;display:block;
     filter:drop-shadow(0 8px 20px rgba(0,0,0,.45))}
+  .timer{margin-top:10px;display:inline-flex;align-items:center;gap:7px;font-size:12px;font-weight:700;
+    color:var(--gold-soft);background:rgba(232,185,74,.1);border:1px solid rgba(232,185,74,.4);
+    padding:6px 12px;border-radius:20px}
+  .timer b{font-variant-numeric:tabular-nums;color:#fff;font-size:13.5px;letter-spacing:.5px}
+  .timer.live{color:#ffd9dc;background:rgba(224,82,96,.16);border-color:rgba(224,82,96,.55)}
+  .timer.ended{color:var(--muted);background:rgba(30,69,116,.25);border-color:var(--line)}
 </style>
 </head>
 <body>
@@ -108,11 +114,11 @@
 
 <script>
 const CLANS={
- 1:{nome:"SpamiReza",vs:"ÄVÈñGÈR§ 2.0",tam:"15 x 15",esc:["marinaul war", "SR • Giovanelli", "SR - JON SNOW 2", "tozim", "Henrique Nerath", "KingOfBilada™", "Jan", "Levi_Neiva", "SR • THIAGO", "Nesk", "MAJ0R FiV3", "ＬＵＭＩＮＯＵＳ", "Reikan", "linch", "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛"],res:["SR • InTheDark☆", "SR • C∆iç∆r∆"]},
- 2:{nome:"RezaSpamandu",vs:"✨ﺣّ͠ـڪْڪْٱيھَہّ",tam:"15 x 15",esc:["SR • JON SNOW", "Tony D. Chopper", "SrNunes", "I G R I S ™", "×Darkøn×", "GSAzevedo30", "LEANDRO", "LSWRTH", "Neskau", "SR . João V.", "TomorrowBr", "SR • Edu", "SR•GOD kratos", "MAJ0R FiV3", "PaiDeFamilia"],res:["menolli", "Nathan♣️", "SR • C∆mbUri"]},
- 3:{nome:"ScamiReza",vs:"U.T.W.™️",tam:"30 x 30",esc:["Sene", "Agnes", "MattosxP", "☆VILA DO PX ツ", "Samuel Soares", "Sr • Pbalestra", "KingMpg", "nonick", "Psico 2k25", "Maxpaz", "ROBERTHWILLIAMM", "chaos", "Gameplay", "rei do crime", "SR • The off", "matias?", "Dalton", "SR • Nitzuほウめ", "SR • Balestra", "·Holtser Ω", "SR • DuM∆R", "SR • GPM 2", "R A K A N ☦️", "SR • One☆", "Duff", "$ GUADIADOR $", "nathan_GO$", "ayumatsui", "Elianin?", "F4KER"],res:["nogz", "irmão do jorel"]},
- 4:{nome:"RezaScamandu",vs:"THE Clasher",tam:"30 x 30",esc:["Lider Andre", "Deyvidzk", "SR•Dos Ovos", "Lider André 2", "SR • Dennis", "Ligeirinh0xD", "CoR1nG4 ×,×", "Líder André 3", "Fernandes^", "NAUZIN", "Nesk'", "B E L L I O N™", "B E R U 炎", "h7dek1", "Ghostface", "Ganso", "Jan™", "PaulinhoPH", "Ｎａｔｈａｎ ＴＨ１１", "SR • Chefex", "SR • JotaErre", "RAGNAROK", "Honrado", "-Meliodas-", "°D∆×iLh∆°", "Tomorrowland", "☆InTheDark☆", "JigSaw", "Ligeirinh2xD", "GSAzevedo30 #2"],res:["SR • Borges"]},
- 5:{nome:"e-SpamiReza",vs:"Tool Shed",tam:"15 x 15",esc:["lanterna verde", "SR • Caibreck", "RoDrIgOo", "scamador'd'calv", "ASG BLACK OPS✅", "TH", "SR • Comunista", "SR- Nathan", "GPM no defense", "TH", "Crypt Myers", "SR- Lopes", "SR • InTheDark☆", "TH", "SR • PBalestra"],res:[]}
+ 1:{nome:"SpamiReza",vs:"ÄVÈñGÈR§ 2.0",tam:"15 x 15",state:"preparation",inicio:"20260703T040627.000Z",fim:"20260704T040627.000Z",esc:["marinaul war", "SR • Giovanelli", "SR - JON SNOW 2", "tozim", "Henrique Nerath", "KingOfBilada™", "Jan", "Levi_Neiva", "SR • THIAGO", "Nesk", "MAJ0R FiV3", "ＬＵＭＩＮＯＵＳ", "Reikan", "linch", "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛"],res:["SR • InTheDark☆", "SR • C∆iç∆r∆"]},
+ 2:{nome:"RezaSpamandu",vs:"✨ﺣّ͠ـڪْڪْٱيھَہّ",tam:"15 x 15",state:"preparation",inicio:"20260703T040847.000Z",fim:"20260704T040847.000Z",esc:["SR • JON SNOW", "Tony D. Chopper", "SrNunes", "I G R I S ™", "×Darkøn×", "GSAzevedo30", "LEANDRO", "LSWRTH", "Neskau", "SR . João V.", "TomorrowBr", "SR • Edu", "SR•GOD kratos", "MAJ0R FiV3", "PaiDeFamilia"],res:["menolli", "Nathan♣️", "SR • C∆mbUri"]},
+ 3:{nome:"ScamiReza",vs:"U.T.W.™️",tam:"30 x 30",state:"preparation",inicio:"20260704T022606.000Z",fim:"20260705T022606.000Z",esc:["Sene", "Agnes", "MattosxP", "☆VILA DO PX ツ", "Samuel Soares", "Sr • Pbalestra", "KingMpg", "nonick", "Psico 2k25", "Maxpaz", "ROBERTHWILLIAMM", "chaos", "Gameplay", "rei do crime", "SR • The off", "matias?", "Dalton", "SR • Nitzuほウめ", "SR • Balestra", "·Holtser Ω", "SR • DuM∆R", "SR • GPM 2", "R A K A N ☦️", "SR • One☆", "Duff", "$ GUADIADOR $", "nathan_GO$", "ayumatsui", "Elianin?", "F4KER"],res:["nogz", "irmão do jorel"]},
+ 4:{nome:"RezaScamandu",vs:"THE Clasher",tam:"30 x 30",state:"preparation",inicio:"20260703T030808.000Z",fim:"20260704T030808.000Z",esc:["Lider Andre", "Deyvidzk", "SR•Dos Ovos", "Lider André 2", "SR • Dennis", "Ligeirinh0xD", "CoR1nG4 ×,×", "Líder André 3", "Fernandes^", "NAUZIN", "Nesk'", "B E L L I O N™", "B E R U 炎", "h7dek1", "Ghostface", "Ganso", "Jan™", "PaulinhoPH", "Ｎａｔｈａｎ ＴＨ１１", "SR • Chefex", "SR • JotaErre", "RAGNAROK", "Honrado", "-Meliodas-", "°D∆×iLh∆°", "Tomorrowland", "☆InTheDark☆", "JigSaw", "Ligeirinh2xD", "GSAzevedo30 #2"],res:["SR • Borges"]},
+ 5:{nome:"e-SpamiReza",vs:"Tool Shed",tam:"15 x 15",state:"preparation",inicio:"20260703T232707.000Z",fim:"20260704T232707.000Z",esc:["lanterna verde", "SR • Caibreck", "RoDrIgOo", "scamador'd'calv", "ASG BLACK OPS✅", "TH", "SR • Comunista", "SR- Nathan", "GPM no defense", "TH", "Crypt Myers", "SR- Lopes", "SR • InTheDark☆", "TH", "SR • PBalestra"],res:[]}
 };
 let active=1;
 
@@ -134,7 +140,9 @@ function render(){
      <div class="counts">
        <span class="pill esc">▲ ${d.esc.length} escalados</span>
        <span class="pill res">${d.res.length} reservas</span>
-     </div></div>`;
+     </div>
+     <div><span class="timer" id="timer"></span></div></div>`;
+  updateTimer();
 
   let html=d.esc.map((n,i)=>
     `<div class="p"><div class="pos">${i+1}</div>
@@ -147,6 +155,36 @@ function render(){
   }
   document.getElementById('list').innerHTML=html;
 }
+
+function cocDate(s){
+  if(!s) return null;
+  const m=String(s).match(/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})/);
+  return m ? new Date(Date.UTC(+m[1],+m[2]-1,+m[3],+m[4],+m[5],+m[6])) : null;
+}
+function fmtDur(ms){
+  if(ms<0) ms=0;
+  let s=Math.floor(ms/1000);
+  const d=Math.floor(s/86400); s-=d*86400;
+  const h=Math.floor(s/3600);  s-=h*3600;
+  const mi=Math.floor(s/60);   s-=mi*60;
+  const p=n=>String(n).padStart(2,'0');
+  return (d>0? d+'d ':'')+p(h)+':'+p(mi)+':'+p(s);
+}
+function updateTimer(){
+  const el=document.getElementById('timer'); if(!el) return;
+  const d=CLANS[active], now=Date.now();
+  el.className='timer';
+  if(d.state==='preparation'){
+    const t=cocDate(d.inicio);
+    el.innerHTML = t ? `⏳ Batalha começa em <b>${fmtDur(t-now)}</b>` : '⏳ Aguardando início';
+  } else if(d.state==='inWar'){
+    const t=cocDate(d.fim); el.classList.add('live');
+    el.innerHTML = t ? `🔥 Guerra acaba em <b>${fmtDur(t-now)}</b>` : '🔥 Em guerra';
+  } else if(d.state==='warEnded'){
+    el.classList.add('ended'); el.innerHTML='✔️ Guerra encerrada';
+  } else { el.innerHTML=''; }
+}
+setInterval(updateTimer,1000);
 render();
 </script>
 </body>

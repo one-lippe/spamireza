@@ -85,10 +85,12 @@ def build_clans_js(dados):
             esc_tags = {m["tag"] for m in atual["membros"]}
             res = [e["nome"] for e in d["elenco"] if e["tag"] not in esc_tags]
             vs = atual["adversario"]; tam = f'{atual["teamSize"]} x {atual["teamSize"]}'
+            state = atual["state"]; inicio = atual["inicio"]; fim = atual["fim"]
         else:
-            esc, res, vs, tam = [], [e["nome"] for e in d["elenco"]], None, None
+            esc, res, vs, tam, state, inicio, fim = [], [e["nome"] for e in d["elenco"]], None, None, None, None, None
         j = lambda v: json.dumps(v, ensure_ascii=False)
         linhas.append(f' {d["num"]}:{{nome:{j(d["nome"])},vs:{j(vs)},tam:{j(tam)},'
+                      f'state:{j(state)},inicio:{j(inicio)},fim:{j(fim)},'
                       f'esc:{j(esc)},res:{j(res)}}}')
     return "const CLANS={\n" + ",\n".join(linhas) + "\n};\n"
 
