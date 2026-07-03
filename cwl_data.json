@@ -832,8 +832,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "×Darkøn×",
@@ -846,8 +846,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "GSAzevedo30",
@@ -860,8 +860,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "LEANDRO",
@@ -874,8 +874,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "LSWRTH",
@@ -888,8 +888,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Neskau",
@@ -916,8 +916,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "TomorrowBr",
@@ -930,8 +930,8 @@
                 "destr": 94
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "SR • Edu",
@@ -944,8 +944,8 @@
                 "destr": 80
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "SR•GOD kratos",
@@ -958,8 +958,8 @@
                 "destr": 96
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "MAJ0R FiV3",
@@ -1200,8 +1200,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "×Darkøn×",
@@ -1214,8 +1214,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "GSAzevedo30",
@@ -1228,8 +1228,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "LEANDRO",
@@ -1242,8 +1242,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "LSWRTH",
@@ -1256,8 +1256,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Neskau",
@@ -1284,8 +1284,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "TomorrowBr",
@@ -1298,8 +1298,8 @@
               "destr": 94
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "SR • Edu",
@@ -1312,8 +1312,8 @@
               "destr": 80
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "SR•GOD kratos",
@@ -1326,8 +1326,8 @@
               "destr": 96
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "MAJ0R FiV3",
@@ -1641,7 +1641,12 @@
             "tag": "#G890RJVCR",
             "th": 18,
             "pos": 9,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 98
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -1684,8 +1689,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "chaos",
@@ -1855,7 +1860,12 @@
             "tag": "#Q9PL0CUU",
             "th": 17,
             "pos": 25,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -2329,7 +2339,12 @@
           "tag": "#G890RJVCR",
           "th": 18,
           "pos": 9,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 98
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -2372,8 +2387,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "chaos",
@@ -2543,7 +2558,12 @@
           "tag": "#Q9PL0CUU",
           "th": 17,
           "pos": 25,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3026,8 +3046,8 @@
             "th": 15,
             "pos": 18,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 1,
+            "def_destr": 86
           },
           {
             "nome": "Ｎａｔｈａｎ ＴＨ１１",
@@ -3694,8 +3714,8 @@
           "th": 15,
           "pos": 18,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 1,
+          "def_destr": 86
         },
         {
           "nome": "Ｎａｔｈａｎ ＴＨ１１",
@@ -3929,7 +3949,7 @@
     "rodadas": [
       {
         "warTag": "#8QR88P82R",
-        "state": "preparation",
+        "state": "inWar",
         "teamSize": 15,
         "adversario": "Tool Shed",
         "prep": "20260702T232709.000Z",
@@ -4076,7 +4096,7 @@
     ],
     "atual": {
       "warTag": "#8QR88P82R",
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 15,
       "adversario": "Tool Shed",
       "prep": "20260702T232709.000Z",
