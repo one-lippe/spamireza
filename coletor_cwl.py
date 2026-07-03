@@ -85,7 +85,10 @@ def coletar_cla(num, nome, tag):
                                "adversario": adv.get("name"), "prep": w.get("preparationStartTime"),
                                "inicio": w.get("startTime"), "fim": w.get("endTime"), "membros": membros})
     if out["rodadas"]:
-        out["atual"] = max(out["rodadas"], key=lambda r: r.get("prep") or "")
+        # prioriza guerra ATIVA (inWar) > preparação > encerrada; desempate pelo horário
+        ordem = {"inWar": 3, "preparation": 2, "warEnded": 1, "notInWar": 0}
+        out["atual"] = max(out["rodadas"],
+                           key=lambda r: (ordem.get(r.get("state"), 0), r.get("inicio") or r.get("prep") or ""))
     return out
 
 def agregar(out):
