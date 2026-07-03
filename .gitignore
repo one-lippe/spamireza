@@ -1,0 +1,7 @@
+# segredos — nunca commitar
+git_token.txt
+*.token
+.token
+# lixo de sistema / temporários de Office
+.DS_Store
+~$*
