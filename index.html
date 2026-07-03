@@ -108,25 +108,17 @@
 
 <script>
 const CLANS={
- 1:{nome:"SpamiReza",vs:"ÄVÈÑGÈRS 2.0",tam:"15 x 15",
-    esc:["Marinaul war","SR · Giovanelli","SR · Jon Snow 2","tozim","Henrique Nerath","KingOfBilada™","SR · Caiçara","Jan","Levi_Neiva","SR · Thiago","Nesk","MAJOR FIV3","Reikan","linch","GENERAL ZOD"],
-    res:["SR · InTheDark☆","LUMINOUS"]},
- 2:{nome:"RezaSpamandu",vs:"حكحكأيهم",tam:"15 x 15",
-    esc:["SR · Jon Snow","Tony D. Chopper","SrNunes","IGRIS™","×Darkøn×","GSAzevedo30","LEANDRO","LSWRTH","Neskau","SR . João V.","TomorrowBr","SR · Edu","SR·GOD kratos","MAJOR FIV3","PaiDeFamilia"],
-    res:["menolli","Nathan♣","SR · Camburi"]},
- 3:{nome:"ScamiReza",vs:"MINNESOTA",tam:"30 x 30",
-    esc:["Sene","Agnes","MattosxP","☆VILA DO PX ッ","Samuel Soares","SR · Pbalestra","KingMpg","nogz","nonick","Psico 2k25","Maxpaz","ROBERTHWILLIAMM","chaos","SR · The off","rei do crime","matias?","Dalton","SR · Nitzuほうめ","SR · Balestra","·Holtser Ω","SR · DuMAR","SR · GPM 2","RAKAN","SR · One☆","Duff","$ GUADIADOR $","nathan_GO$","ayumatsui","Elianin?","F4KER"],
-    res:["irmão do jorel","Gameplay"]},
- 4:{nome:"RezaScamandu",vs:"THE Clasher",tam:"30 x 30",
-    esc:["Lider Andre","Deyvidzk","SR·Dos Ovos","Lider André 2","SR · Dennis","LigeirinhOxD","CoR1nG4 ×.×","Lider André 3","Fernandes^","NAUZIN","Nesk'","BELLION™","BERU炎","h7dek1","Ghostface","Ganso","Jan™","PaulinhoPH","Nathan TH11","SR · Chefex","SR · JotaErre","RAGNAROK","Honrado","-Meliodas-","°DAxiLHA°","Tomorrowland","☆InTheDark☆","JigSaw","Ligeirinh2xD","GSAzevedo30 #2"],
-    res:["SR · Borges"]},
- 5:{nome:"e-SpamiReza",vs:null,tam:null,esc:[],res:[]}
+ 1:{nome:"SpamiReza",vs:"ÄVÈñGÈR§ 2.0",tam:"15 x 15",esc:["marinaul war", "SR • Giovanelli", "SR - JON SNOW 2", "tozim", "Henrique Nerath", "KingOfBilada™", "Jan", "Levi_Neiva", "SR • THIAGO", "Nesk", "MAJ0R FiV3", "ＬＵＭＩＮＯＵＳ", "Reikan", "linch", "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛"],res:["SR • InTheDark☆", "SR • C∆iç∆r∆"]},
+ 2:{nome:"RezaSpamandu",vs:"✨ﺣّ͠ـڪْڪْٱيھَہّ",tam:"15 x 15",esc:["SR • JON SNOW", "Tony D. Chopper", "SrNunes", "I G R I S ™", "×Darkøn×", "GSAzevedo30", "LEANDRO", "LSWRTH", "Neskau", "SR . João V.", "TomorrowBr", "SR • Edu", "SR•GOD kratos", "MAJ0R FiV3", "PaiDeFamilia"],res:["menolli", "Nathan♣️", "SR • C∆mbUri"]},
+ 3:{nome:"ScamiReza",vs:"U.T.W.™️",tam:"30 x 30",esc:["Sene", "Agnes", "MattosxP", "☆VILA DO PX ツ", "Samuel Soares", "Sr • Pbalestra", "KingMpg", "nonick", "Psico 2k25", "Maxpaz", "ROBERTHWILLIAMM", "chaos", "Gameplay", "rei do crime", "SR • The off", "matias?", "Dalton", "SR • Nitzuほウめ", "SR • Balestra", "·Holtser Ω", "SR • DuM∆R", "SR • GPM 2", "R A K A N ☦️", "SR • One☆", "Duff", "$ GUADIADOR $", "nathan_GO$", "ayumatsui", "Elianin?", "F4KER"],res:["nogz", "irmão do jorel"]},
+ 4:{nome:"RezaScamandu",vs:"THE Clasher",tam:"30 x 30",esc:["Lider Andre", "Deyvidzk", "SR•Dos Ovos", "Lider André 2", "SR • Dennis", "Ligeirinh0xD", "CoR1nG4 ×,×", "Líder André 3", "Fernandes^", "NAUZIN", "Nesk'", "B E L L I O N™", "B E R U 炎", "h7dek1", "Ghostface", "Ganso", "Jan™", "PaulinhoPH", "Ｎａｔｈａｎ ＴＨ１１", "SR • Chefex", "SR • JotaErre", "RAGNAROK", "Honrado", "-Meliodas-", "°D∆×iLh∆°", "Tomorrowland", "☆InTheDark☆", "JigSaw", "Ligeirinh2xD", "GSAzevedo30 #2"],res:["SR • Borges"]},
+ 5:{nome:"e-SpamiReza",vs:"Tool Shed",tam:"15 x 15",esc:["lanterna verde", "SR • Caibreck", "RoDrIgOo", "scamador'd'calv", "ASG BLACK OPS✅", "TH", "SR • Comunista", "SR- Nathan", "GPM no defense", "TH", "Crypt Myers", "SR- Lopes", "SR • InTheDark☆", "TH", "SR • PBalestra"],res:[]}
 };
 let active=1;
 
 function renderTabs(){
   document.getElementById('tabs').innerHTML=[1,2,3,4,5].map(c=>{
-    const locked=c===5;
+    const locked=CLANS[c].vs===null;
     return `<div class="tab ${c===active?'active':''} ${locked?'locked':''}"
       ${locked?'':`onclick="setClan(${c})"`}><span class="n">CLÃ ${c}</span>${CLANS[c].nome}${locked?' 🔒':''}</div>`;
   }).join('');
