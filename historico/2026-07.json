@@ -1,6 +1,6 @@
 {
   "season": "2026-07",
-  "atualizado": "2026-07-04T04:17:41.464890Z",
+  "atualizado": "2026-07-04T04:22:22.442470Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -38,7 +38,7 @@
           "zona": "—"
         },
         {
-          "n": "Levi_Neiva",
+          "n": "SR - JON SNOW 2",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -53,7 +53,7 @@
           "zona": "—"
         },
         {
-          "n": "Nesk",
+          "n": "Levi_Neiva",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -68,22 +68,22 @@
           "zona": "—"
         },
         {
-          "n": "marinaul war",
+          "n": "Nesk",
           "th": 18,
           "atk": 1,
           "est": 3,
           "spa": 3.0,
           "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "idx": 65.5,
-          "mvp": 3,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "idx": 68.7,
+          "mvp": 4,
           "pos": 5,
           "zona": "—"
         },
         {
-          "n": "SR • Giovanelli",
+          "n": "marinaul war",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -98,7 +98,7 @@
           "zona": "—"
         },
         {
-          "n": "SR - JON SNOW 2",
+          "n": "SR • Giovanelli",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -278,7 +278,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 1,
+          "ndef": 2,
           "idx": 75.2,
           "mvp": 6,
           "pos": 1,
@@ -532,8 +532,8 @@
       "mode": "rank",
       "rank": [
         {
-          "n": "R A K A N ☦️",
-          "th": 17,
+          "n": "Gameplay",
+          "th": 18,
           "atk": 2,
           "est": 6,
           "spa": 3.0,
@@ -547,7 +547,7 @@
           "zona": "—"
         },
         {
-          "n": "Duff",
+          "n": "R A K A N ☦️",
           "th": 17,
           "atk": 2,
           "est": 6,
@@ -562,7 +562,7 @@
           "zona": "—"
         },
         {
-          "n": "F4KER",
+          "n": "Duff",
           "th": 17,
           "atk": 2,
           "est": 6,
@@ -577,6 +577,21 @@
           "zona": "—"
         },
         {
+          "n": "F4KER",
+          "th": 17,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "idx": 78.0,
+          "mvp": 7,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
           "n": "matias?",
           "th": 18,
           "atk": 1,
@@ -588,7 +603,7 @@
           "ndef": 0,
           "idx": 75.9,
           "mvp": 3,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -603,7 +618,7 @@
           "ndef": 0,
           "idx": 75.9,
           "mvp": 3,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -618,7 +633,7 @@
           "ndef": 2,
           "idx": 75.0,
           "mvp": 7,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -633,7 +648,7 @@
           "ndef": 1,
           "idx": 66.8,
           "mvp": 4,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -648,26 +663,11 @@
           "ndef": 1,
           "idx": 66.8,
           "mvp": 4,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "Psico 2k25",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "idx": 66.8,
-          "mvp": 4,
           "pos": 9,
           "zona": "—"
         },
         {
-          "n": "Gameplay",
+          "n": "Psico 2k25",
           "th": 18,
           "atk": 1,
           "est": 3,
