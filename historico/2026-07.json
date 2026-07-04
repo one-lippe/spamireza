@@ -1,6 +1,6 @@
 {
   "season": "2026-07",
-  "atualizado": "2026-07-04T19:48:50.611269Z",
+  "atualizado": "2026-07-04T20:38:03.946786Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -53,7 +53,7 @@
           "zona": "—"
         },
         {
-          "n": "KingOfBilada™",
+          "n": "marinaul war",
           "th": 18,
           "atk": 2,
           "est": 6,
@@ -61,14 +61,14 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 2,
+          "ndef": 1,
           "idx": 77.6,
           "mvp": 6,
           "pos": 4,
           "zona": "—"
         },
         {
-          "n": "MAJ0R FiV3",
+          "n": "KingOfBilada™",
           "th": 18,
           "atk": 2,
           "est": 6,
@@ -83,7 +83,7 @@
           "zona": "—"
         },
         {
-          "n": "Reikan",
+          "n": "MAJ0R FiV3",
           "th": 18,
           "atk": 2,
           "est": 6,
@@ -98,7 +98,7 @@
           "zona": "—"
         },
         {
-          "n": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
+          "n": "Reikan",
           "th": 18,
           "atk": 2,
           "est": 6,
@@ -113,6 +113,21 @@
           "zona": "—"
         },
         {
+          "n": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 77.6,
+          "mvp": 6,
+          "pos": 8,
+          "zona": "—"
+        },
+        {
           "n": "SR - JON SNOW 2",
           "th": 18,
           "atk": 2,
@@ -124,7 +139,7 @@
           "ndef": 2,
           "idx": 71.9,
           "mvp": 6,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -139,21 +154,6 @@
           "ndef": 2,
           "idx": 68.7,
           "mvp": 5,
-          "pos": 9,
-          "zona": "—"
-        },
-        {
-          "n": "marinaul war",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "idx": 65.5,
-          "mvp": 3,
           "pos": 10,
           "zona": "—"
         },
