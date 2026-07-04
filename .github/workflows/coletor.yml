@@ -31,19 +31,18 @@ jobs:
         run: |
           git config user.name "coletor-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add index.html; git add historico 2>/dev/null || true
-          if git diff --cached --quiet; then
-            echo "Nada mudou — sem commit."
-            exit 0
-          fi
-          git commit -m "auto: atualiza CWL"
+          # guarda só os arquivos gerados (nunca toca em .github/workflows)
+          cp index.html /tmp/index.html
+          rm -rf /tmp/historico; [ -d historico ] && cp -r historico /tmp/historico || true
           for i in 1 2 3 4 5; do
-            if git push origin HEAD:main; then echo "push ok"; exit 0; fi
-            echo "push colidiu (tentativa $i) — re-sincronizando com o remoto..."
-            git fetch origin main
-            git reset --soft origin/main
-            git add index.html; git add historico 2>/dev/null || true
-            git diff --cached --quiet || git commit -m "auto: atualiza CWL"
-            sleep $((i * 3))
+            git fetch --quiet origin main
+            git reset --hard --quiet origin/main           # base limpa = exatamente o remoto
+            cp /tmp/index.html index.html                  # sobrepõe só os dados
+            [ -d /tmp/historico ] && { mkdir -p historico && cp -r /tmp/historico/. historico/; } || true
+            git add index.html historico 2>/dev/null || git add index.html
+            if git diff --cached --quiet; then echo "nada mudou"; exit 0; fi
+            git commit --quiet -m "auto: atualiza CWL"
+            if git push --quiet origin HEAD:main; then echo "push ok"; exit 0; fi
+            echo "push colidiu (tentativa $i), re-sincronizando..."; sleep $((i * 2))
           done
-          echo "Falhou apos varias tentativas."; exit 1
+          echo "falhou apos varias tentativas"; exit 1
