@@ -1,6 +1,6 @@
 {
   "season": "2026-07",
-  "atualizado": "2026-07-04T17:29:26.806978Z",
+  "atualizado": "2026-07-04T18:33:06.719941Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -83,6 +83,21 @@
           "zona": "—"
         },
         {
+          "n": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 77.6,
+          "mvp": 6,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
           "n": "SR - JON SNOW 2",
           "th": 18,
           "atk": 2,
@@ -94,7 +109,7 @@
           "ndef": 2,
           "idx": 71.9,
           "mvp": 6,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -109,7 +124,22 @@
           "ndef": 1,
           "idx": 71.9,
           "mvp": 4,
-          "pos": 7,
+          "pos": 8,
+          "zona": "—"
+        },
+        {
+          "n": "linch",
+          "th": 18,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 68.7,
+          "mvp": 5,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -124,41 +154,11 @@
           "ndef": 1,
           "idx": 65.5,
           "mvp": 3,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "ＬＵＭＩＮＯＵＳ",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "idx": 65.5,
-          "mvp": 3,
-          "pos": 9,
-          "zona": "—"
-        },
-        {
-          "n": "linch",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "idx": 65.5,
-          "mvp": 3,
           "pos": 10,
           "zona": "—"
         },
         {
-          "n": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
+          "n": "ＬＵＭＩＮＯＵＳ",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -443,7 +443,7 @@
           "conf": 50,
           "def": 0,
           "sof": 3.0,
-          "ndef": 1,
+          "ndef": 2,
           "idx": 63.4,
           "mvp": 3,
           "pos": 12,
@@ -585,9 +585,9 @@
           "conf": 100,
           "def": 33,
           "sof": 2.0,
-          "ndef": 1,
+          "ndef": 2,
           "idx": 78.0,
-          "mvp": 7,
+          "mvp": 8,
           "pos": 4,
           "zona": "—"
         },
@@ -720,7 +720,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 1,
+          "ndef": 2,
           "idx": 72.0,
           "mvp": 6,
           "pos": 13,
@@ -787,6 +787,21 @@
           "zona": "—"
         },
         {
+          "n": "Sene",
+          "th": 18,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "idx": 66.8,
+          "mvp": 6,
+          "pos": 18,
+          "zona": "—"
+        },
+        {
           "n": "nathan_GO$",
           "th": 18,
           "atk": 1,
@@ -798,21 +813,6 @@
           "ndef": 1,
           "idx": 66.8,
           "mvp": 4,
-          "pos": 18,
-          "zona": "—"
-        },
-        {
-          "n": "Sene",
-          "th": 18,
-          "atk": 2,
-          "est": 5,
-          "spa": 2.5,
-          "conf": 100,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "idx": 63.8,
-          "mvp": 5,
           "pos": 19,
           "zona": "—"
         },
@@ -1342,7 +1342,7 @@
           "conf": 50,
           "def": 0,
           "sof": 3.0,
-          "ndef": 1,
+          "ndef": 2,
           "idx": 54.0,
           "mvp": 3,
           "pos": 22,
@@ -1521,8 +1521,8 @@
           "zona": "—"
         },
         {
-          "n": "SR • PBalestra",
-          "th": 8,
+          "n": "scamador'd'calv",
+          "th": 14,
           "atk": 1,
           "est": 2,
           "spa": 2.0,
@@ -1536,17 +1536,17 @@
           "zona": "—"
         },
         {
-          "n": "SR • Caibreck",
-          "th": 16,
+          "n": "SR • PBalestra",
+          "th": 8,
           "atk": 1,
-          "est": 1,
-          "spa": 1.0,
+          "est": 2,
+          "spa": 2.0,
           "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 39.0,
-          "mvp": 1,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 44.4,
+          "mvp": 2,
           "pos": 5,
           "zona": "—"
         },
@@ -1596,6 +1596,21 @@
           "zona": "—"
         },
         {
+          "n": "SR • Caibreck",
+          "th": 16,
+          "atk": 1,
+          "est": 1,
+          "spa": 1.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 31.2,
+          "mvp": 1,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "SR • Comunista",
           "th": 13,
           "atk": 1,
@@ -1607,7 +1622,7 @@
           "ndef": 1,
           "idx": 31.2,
           "mvp": 1,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -1622,7 +1637,7 @@
           "ndef": 1,
           "idx": 18.0,
           "mvp": 0,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -1635,21 +1650,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 1,
-          "idx": 0.0,
-          "mvp": 0,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "scamador'd'calv",
-          "th": 14,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
           "pos": 12,
