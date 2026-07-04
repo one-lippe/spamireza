@@ -101,6 +101,8 @@ def agregar(out):
     mult = out.get("mult") or 1.0
     agg = {}
     for rd in out["rodadas"]:
+        if rd.get("state") not in ("inWar", "warEnded"):
+            continue  # rodada em preparação ainda não é oportunidade (ninguém pôde atacar)
         for m in rd["membros"]:
             a = agg.setdefault(m["tag"], {"nome": m["nome"], "th": m["th"], "rounds": 0, "atk": 0,
                                           "est": 0, "destr": 0.0, "defsof": 0, "defcnt": 0, "defneg": 0})
