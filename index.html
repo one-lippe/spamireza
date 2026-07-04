@@ -203,22 +203,12 @@ function renderEscalacao(d){
   document.getElementById('list').innerHTML=html;
 }
 
-function renderRanking(d){
-  const r=d.rank||[];
-  const mvp=[...r].sort((a,b)=>b.mvp-a.mvp)[0];
-  let html='';
-  if(mvp && mvp.mvp>0){
-    html+=`<div class="mvp"><div class="medal">🏅</div><div class="info">
-      <div class="lbl">MVP DA LIGA</div><div class="nm">${mvp.n}</div>
-      <div class="dt">${mvp.spa.toFixed(2)} ★/atk · ${mvp.atk} ataques</div></div>
-      <div class="score"><b>${mvp.mvp}</b><span>PONTOS</span></div></div>`;
-  }
-  html+=r.map(p=>{
-    const rk=p.pos===1?'g1':p.pos===2?'g2':p.pos===3?'g3':'';
-    const promo=p.zona==='promo', rebx=p.zona==='rebx';
-    const badge=promo?'<div class="zbadge promo">▲ SOBE</div>':rebx?'<div class="zbadge rebx">▼ DESCE</div>':'';
-    const w=Math.max(0,Math.min(100,p.idx));
-    return `<div class="p ${promo?'promo':''} ${rebx?'rebx':''}">${badge}
+function cardRank(p){
+  const rk=p.pos===1?'g1':p.pos===2?'g2':p.pos===3?'g3':'';
+  const promo=p.zona==='promo', rebx=p.zona==='rebx';
+  const badge=promo?'<div class="zbadge promo">▲ SOBE</div>':rebx?'<div class="zbadge rebx">▼ DESCE</div>':'';
+  const w=Math.max(0,Math.min(100,p.idx));
+  return `<div class="p ${promo?'promo':''} ${rebx?'rebx':''}">${badge}
       <div class="rk ${rk}">${p.pos}</div>
       <div class="pbody">
         <div class="prow1"><div class="pname">${p.n}<span class="th">TH${p.th}</span></div>
@@ -227,11 +217,27 @@ function renderRanking(d){
         <div class="meta"><span class="st">${stars(p.spa)} ${p.spa.toFixed(2)}/atk</span>
           <span>⚔️ ${p.atk} atq</span><span>🛡️ ${p.sof==null?'—':p.sof.toFixed(1)+'★'} sofr</span><span>🎯 conf ${p.conf}%</span><span>🏅 ${p.mvp}</span></div>
       </div></div>`;
-  }).join('');
-  if(d.state!=='warEnded' && d.res && d.res.length){
-    html+=`<div class="divider">RESERVAS DA GUERRA ATUAL</div>`;
-    html+=d.res.map(n=>`<div class="p res"><div class="pos">R</div>
-      <div class="pname">${n}</div><div class="badge res">RESERVA</div></div>`).join('');
+}
+function renderRanking(d){
+  const r=d.rank||[];
+  const escSet=new Set(d.esc||[]), resSet=new Set(d.res||[]);
+  const escalados=r.filter(p=>escSet.has(p.n));
+  const reservas=r.filter(p=>resSet.has(p.n));
+  const semDados=(d.res||[]).filter(n=>!r.some(p=>p.n===n));
+  const mvp=[...r].sort((a,b)=>b.mvp-a.mvp)[0];
+  let html='';
+  if(mvp && mvp.mvp>0){
+    html+=`<div class="mvp"><div class="medal">🏅</div><div class="info">
+      <div class="lbl">MVP DA LIGA</div><div class="nm">${mvp.n}</div>
+      <div class="dt">${mvp.spa.toFixed(2)} ★/atk · ${mvp.atk} ataques</div></div>
+      <div class="score"><b>${mvp.mvp}</b><span>PONTOS</span></div></div>`;
+  }
+  html+=(escalados.length?escalados:r).map(cardRank).join('');
+  if(d.state!=='warEnded' && (reservas.length||semDados.length)){
+    html+=`<div class="divider">RESERVAS DA GUERRA ATUAL · dados da temporada</div>`;
+    html+=reservas.map(cardRank).join('');
+    html+=semDados.map(n=>`<div class="p res"><div class="pos">R</div>
+      <div class="pname">${n}</div><div class="badge res">sem dados ainda</div></div>`).join('');
   }
   document.getElementById('list').innerHTML=html;
 }
