@@ -116,12 +116,19 @@ def agregar(out):
     for a in agg.values():
         atk = a["atk"]; spa = a["est"] / atk if atk else 0
         notaAtk = spa / 3 * 100
-        notaDef = 100 if a["defcnt"] == 0 else (1 - (a["defsof"] / a["defcnt"]) / 3) * 100
         conf = min(1, atk / a["rounds"]) if a["rounds"] else 0
-        idx = (PESO_ATK * notaAtk + PESO_DEF * notaDef + PESO_CONF * conf * 100) * mult
+        # defesa só entra no índice se a vila foi atacada; senão os pesos se redistribuem
+        comps = [(PESO_ATK, notaAtk), (PESO_CONF, conf * 100)]
+        notaDef = None
+        if a["defcnt"] > 0:
+            notaDef = (1 - (a["defsof"] / a["defcnt"]) / 3) * 100
+            comps.append((PESO_DEF, notaDef))
+        wsum = sum(p for p, _ in comps) or 1
+        idx = (sum(p * v for p, v in comps) / wsum) * mult
         sof = round(a["defsof"] / a["defcnt"], 1) if a["defcnt"] else None  # estrelas sofridas/defesa
         rank.append({"n": a["nome"], "th": a["th"], "atk": atk, "est": a["est"],
-                     "spa": round(spa, 2), "conf": round(conf * 100), "def": round(notaDef),
+                     "spa": round(spa, 2), "conf": round(conf * 100),
+                     "def": (round(notaDef) if notaDef is not None else None),
                      "sof": sof, "ndef": a["defcnt"], "idx": round(idx, 1),
                      "mvp": a["est"] + a["defneg"]})
     rank.sort(key=lambda x: -x["idx"])
@@ -154,6 +161,25 @@ def build_clans_js(dados):
             f'esc:{j(esc)},res:{j(res)},rank:{j(rank)}}}')
     return "const CLANS={\n" + ",\n".join(linhas) + "\n};\n"
 
+def salvar_historico(dados):
+    """Arquiva o resultado da temporada atual (YYYY-MM) para preservar histórico
+    entre ligas — a API só expõe a temporada corrente."""
+    import datetime
+    season = datetime.datetime.utcnow().strftime("%Y-%m")
+    clas = {}; tem = False
+    for d in dados:
+        rank, mode = agregar(d)
+        clas[str(d["num"])] = {"nome": d["nome"], "liga": d["liga"], "mode": mode, "rank": rank}
+        if mode == "rank":
+            tem = True
+    if not tem:
+        return  # nenhuma batalha ainda; não sobrescreve arquivo de temporada
+    hd = ROOT / "historico"; hd.mkdir(exist_ok=True)
+    (hd / f"{season}.json").write_text(json.dumps(
+        {"season": season, "atualizado": datetime.datetime.utcnow().isoformat() + "Z", "clas": clas},
+        ensure_ascii=False, indent=2), encoding="utf-8")
+    print("historico:", season, "salvo")
+
 def injetar_no_html(clans_js):
     idx = ROOT / "index.html"
     html = idx.read_text(encoding="utf-8")
@@ -177,7 +203,8 @@ def main():
             print(f"  Clã {num} {nome:14} — sem guerra ativa  {d.get('erro','')}")
     (ROOT / "cwl_data.json").write_text(json.dumps(dados, ensure_ascii=False, indent=2), encoding="utf-8")
     injetar_no_html(build_clans_js(dados))
-    print("OK -> cwl_data.json + index.html atualizados")
+    salvar_historico(dados)
+    print("OK -> index.html + historico atualizados")
 
 if __name__ == "__main__":
     main()
