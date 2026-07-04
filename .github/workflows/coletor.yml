@@ -36,14 +36,14 @@ jobs:
             echo "Nada mudou — sem commit."
             exit 0
           fi
-          git commit -m "auto: atualiza CWL [skip ci]"
+          git commit -m "auto: atualiza CWL"
           for i in 1 2 3 4 5; do
             if git push origin HEAD:main; then echo "push ok"; exit 0; fi
             echo "push colidiu (tentativa $i) — re-sincronizando com o remoto..."
             git fetch origin main
             git reset --soft origin/main
             git add index.html
-            git diff --cached --quiet || git commit -m "auto: atualiza CWL [skip ci]"
+            git diff --cached --quiet || git commit -m "auto: atualiza CWL"
             sleep $((i * 3))
           done
           echo "Falhou apos varias tentativas."; exit 1
