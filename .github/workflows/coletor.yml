@@ -10,28 +10,21 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: coletor
-  cancel-in-progress: false
-
 jobs:
   coletar:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    concurrency:
+      group: coletor
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Rodar coletor
         env:
           COC_TOKEN: ${{ secrets.COC_TOKEN }}
         run: python3 coletor_cwl.py
-
       - name: Commitar dados (index.html + historico)
         run: |
           git config user.name "coletor-bot"
@@ -40,7 +33,7 @@ jobs:
           rm -rf /tmp/historico; [ -d historico ] && cp -r historico /tmp/historico || true
           for i in 1 2 3 4 5; do
             git fetch --quiet origin main
-            git reset --hard --quiet origin/main            # base limpa = remoto (nunca toca workflow)
+            git reset --hard --quiet origin/main
             cp /tmp/index.html index.html
             [ -d /tmp/historico ] && { mkdir -p historico && cp -r /tmp/historico/. historico/; } || true
             git add index.html historico 2>/dev/null || git add index.html
@@ -50,13 +43,24 @@ jobs:
             echo "push colidiu (tentativa $i), re-sincronizando..."; sleep $((i * 2))
           done
 
-      - name: Montar site (só o público)
+  deploy:
+    needs: coletar
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages            # deploys nunca disputam: o novo cancela o anterior
+      cancel-in-progress: true
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Montar site (só index.html + artes usadas)
         run: |
           rm -rf _site && mkdir _site
           cp index.html _site/index.html
-          [ -d ARTES ] && cp -r ARTES _site/ARTES || true
+          mkdir -p _site/ARTES
+          for f in bg.jpg FAISCAS.png; do [ -f "ARTES/$f" ] && cp "ARTES/$f" "_site/ARTES/$f" || true; done
           touch _site/.nojekyll
-
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
