@@ -228,6 +228,11 @@ function renderRanking(d){
           <span>⚔️ ${p.atk} atq</span><span>🛡️ ${p.sof==null?'—':p.sof.toFixed(1)+'★'} sofr</span><span>🎯 conf ${p.conf}%</span><span>🏅 ${p.mvp}</span></div>
       </div></div>`;
   }).join('');
+  if(d.state!=='warEnded' && d.res && d.res.length){
+    html+=`<div class="divider">RESERVAS DA GUERRA ATUAL</div>`;
+    html+=d.res.map(n=>`<div class="p res"><div class="pos">R</div>
+      <div class="pname">${n}</div><div class="badge res">RESERVA</div></div>`).join('');
+  }
   document.getElementById('list').innerHTML=html;
 }
 
