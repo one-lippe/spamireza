@@ -1,6 +1,6 @@
 {
   "season": "2026-07",
-  "atualizado": "2026-07-08T21:46:15.599759Z",
+  "atualizado": "2026-07-08T22:45:18.016209Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -547,23 +547,23 @@
           "zona": "promo"
         },
         {
-          "n": "乂 ALIFER 乂",
-          "th": 18,
+          "n": "R A K A N ☦️",
+          "th": 17,
           "atk": 6,
           "est": 18,
           "spa": 3.0,
           "conf": 100,
-          "def": 27,
+          "def": 28,
           "sof": 2.2,
-          "ndef": 5,
-          "idx": 76.8,
-          "mvp": 22,
+          "ndef": 6,
+          "idx": 77.0,
+          "mvp": 23,
           "pos": 2,
           "zona": "promo"
         },
         {
-          "n": "R A K A N ☦️",
-          "th": 17,
+          "n": "乂 ALIFER 乂",
+          "th": 18,
           "atk": 6,
           "est": 18,
           "spa": 3.0,
@@ -1019,6 +1019,21 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "Jan™",
+          "th": 15,
+          "atk": 6,
+          "est": 18,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 6,
+          "idx": 69.3,
+          "mvp": 24,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "JigSaw",
           "th": 14,
           "atk": 6,
@@ -1030,7 +1045,7 @@
           "ndef": 5,
           "idx": 68.3,
           "mvp": 22,
-          "pos": 1,
+          "pos": 2,
           "zona": "promo"
         },
         {
@@ -1045,8 +1060,8 @@
           "ndef": 4,
           "idx": 68.0,
           "mvp": 21,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "GSAzevedo30 #2",
@@ -1060,7 +1075,7 @@
           "ndef": 6,
           "idx": 67.6,
           "mvp": 22,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -1074,21 +1089,6 @@
           "sof": 2.4,
           "ndef": 5,
           "idx": 67.2,
-          "mvp": 21,
-          "pos": 4,
-          "zona": "—"
-        },
-        {
-          "n": "Jan™",
-          "th": 15,
-          "atk": 5,
-          "est": 15,
-          "spa": 3.0,
-          "conf": 83,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 6,
-          "idx": 66.0,
           "mvp": 21,
           "pos": 5,
           "zona": "—"
@@ -1611,6 +1611,21 @@
           "zona": "—"
         },
         {
+          "n": "TH",
+          "th": 12,
+          "atk": 4,
+          "est": 9,
+          "spa": 2.25,
+          "conf": 80,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 3,
+          "idx": 44.1,
+          "mvp": 9,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
           "n": "SR- Nathan",
           "th": 12,
           "atk": 5,
@@ -1622,21 +1637,6 @@
           "ndef": 3,
           "idx": 41.8,
           "mvp": 9,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "TH",
-          "th": 12,
-          "atk": 3,
-          "est": 7,
-          "spa": 2.33,
-          "conf": 60,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 3,
-          "idx": 41.6,
-          "mvp": 7,
           "pos": 11,
           "zona": "—"
         },
@@ -1658,15 +1658,15 @@
         {
           "n": "TH",
           "th": 10,
-          "atk": 3,
-          "est": 5,
-          "spa": 1.67,
-          "conf": 60,
+          "atk": 4,
+          "est": 7,
+          "spa": 1.75,
+          "conf": 80,
           "def": 13,
           "sof": 2.6,
           "ndef": 5,
-          "idx": 34.7,
-          "mvp": 7,
+          "idx": 39.4,
+          "mvp": 9,
           "pos": 13,
           "zona": "—"
         },
@@ -1688,14 +1688,14 @@
         {
           "n": "SR • PBalestra",
           "th": 8,
-          "atk": 3,
+          "atk": 4,
           "est": 5,
-          "spa": 1.67,
-          "conf": 60,
+          "spa": 1.25,
+          "conf": 80,
           "def": 0,
           "sof": 3.0,
           "ndef": 4,
-          "idx": 32.8,
+          "idx": 30.9,
           "mvp": 5,
           "pos": 15,
           "zona": "—"
