@@ -1,6 +1,6 @@
 {
   "season": "2026-07",
-  "atualizado": "2026-07-09T05:11:15.848017Z",
+  "atualizado": "2026-07-09T08:46:30.414718Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -23,22 +23,22 @@
           "zona": "—"
         },
         {
-          "n": "marinaul war",
+          "n": "ＬＵＭＩＮＯＵＳ",
           "th": 18,
-          "atk": 6,
-          "est": 18,
+          "atk": 7,
+          "est": 21,
           "spa": 3.0,
-          "conf": 86,
-          "def": 11,
-          "sof": 2.7,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
           "ndef": 6,
-          "idx": 76.3,
-          "mvp": 20,
+          "idx": 77.6,
+          "mvp": 21,
           "pos": 2,
           "zona": "—"
         },
         {
-          "n": "Levi_Neiva",
+          "n": "marinaul war",
           "th": 18,
           "atk": 6,
           "est": 18,
@@ -53,6 +53,21 @@
           "zona": "—"
         },
         {
+          "n": "Levi_Neiva",
+          "th": 18,
+          "atk": 6,
+          "est": 18,
+          "spa": 3.0,
+          "conf": 86,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 6,
+          "idx": 76.3,
+          "mvp": 20,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
           "n": "Jan",
           "th": 18,
           "atk": 6,
@@ -64,7 +79,7 @@
           "ndef": 5,
           "idx": 75.4,
           "mvp": 19,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -79,21 +94,6 @@
           "ndef": 6,
           "idx": 75.2,
           "mvp": 19,
-          "pos": 5,
-          "zona": "—"
-        },
-        {
-          "n": "ＬＵＭＩＮＯＵＳ",
-          "th": 18,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 6,
-          "idx": 74.1,
-          "mvp": 18,
           "pos": 6,
           "zona": "—"
         },
@@ -270,34 +270,49 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "Nathan♣️",
+          "th": 18,
+          "atk": 6,
+          "est": 18,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "idx": 77.7,
+          "mvp": 20,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
+          "n": "Tony D. Chopper",
+          "th": 18,
+          "atk": 7,
+          "est": 20,
+          "spa": 2.86,
+          "conf": 100,
+          "def": 6,
+          "sof": 2.8,
+          "ndef": 6,
+          "idx": 73.8,
+          "mvp": 21,
+          "pos": 2,
+          "zona": "promo"
+        },
+        {
           "n": "MAJ0R FiV3",
           "th": 18,
           "atk": 6,
           "est": 18,
           "spa": 3.0,
           "conf": 86,
-          "def": 11,
+          "def": 10,
           "sof": 2.7,
-          "ndef": 6,
-          "idx": 73.9,
+          "ndef": 7,
+          "idx": 73.6,
           "mvp": 20,
-          "pos": 1,
-          "zona": "promo"
-        },
-        {
-          "n": "Nathan♣️",
-          "th": 18,
-          "atk": 5,
-          "est": 15,
-          "spa": 3.0,
-          "conf": 83,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "idx": 73.8,
-          "mvp": 17,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "SR•GOD kratos",
@@ -306,31 +321,16 @@
           "est": 17,
           "spa": 2.83,
           "conf": 86,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 6,
-          "idx": 72.1,
+          "def": 14,
+          "sof": 2.6,
+          "ndef": 7,
+          "idx": 71.7,
           "mvp": 20,
-          "pos": 3,
-          "zona": "—"
-        },
-        {
-          "n": "SR • JON SNOW",
-          "th": 18,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 86,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
-          "idx": 70.0,
-          "mvp": 18,
           "pos": 4,
           "zona": "—"
         },
         {
-          "n": "Tony D. Chopper",
+          "n": "SR • JON SNOW",
           "th": 18,
           "atk": 6,
           "est": 17,
@@ -360,21 +360,6 @@
           "zona": "—"
         },
         {
-          "n": "menolli",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "idx": 69.1,
-          "mvp": 15,
-          "pos": 7,
-          "zona": "—"
-        },
-        {
           "n": "SrNunes",
           "th": 18,
           "atk": 6,
@@ -386,6 +371,21 @@
           "ndef": 6,
           "idx": 69.0,
           "mvp": 17,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
+          "n": "menolli",
+          "th": 18,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 83,
+          "def": 6,
+          "sof": 2.8,
+          "ndef": 6,
+          "idx": 68.9,
+          "mvp": 15,
           "pos": 8,
           "zona": "—"
         },
@@ -456,10 +456,10 @@
           "est": 15,
           "spa": 2.5,
           "conf": 86,
-          "def": 11,
+          "def": 10,
           "sof": 2.7,
-          "ndef": 6,
-          "idx": 65.3,
+          "ndef": 7,
+          "idx": 65.0,
           "mvp": 17,
           "pos": 13,
           "zona": "—"
@@ -495,7 +495,7 @@
           "zona": "—"
         },
         {
-          "n": "I G R I S ™",
+          "n": "LSWRTH",
           "th": 18,
           "atk": 5,
           "est": 12,
@@ -510,16 +510,16 @@
           "zona": "rebx"
         },
         {
-          "n": "LSWRTH",
+          "n": "I G R I S ™",
           "th": 18,
           "atk": 5,
           "est": 12,
           "spa": 2.4,
           "conf": 83,
-          "def": 7,
+          "def": 6,
           "sof": 2.8,
-          "ndef": 5,
-          "idx": 62.2,
+          "ndef": 6,
+          "idx": 62.0,
           "mvp": 13,
           "pos": 17,
           "zona": "rebx"
@@ -547,19 +547,34 @@
           "zona": "promo"
         },
         {
+          "n": "nathan_GO$",
+          "th": 18,
+          "atk": 7,
+          "est": 21,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 22,
+          "sof": 2.3,
+          "ndef": 6,
+          "idx": 76.0,
+          "mvp": 25,
+          "pos": 2,
+          "zona": "promo"
+        },
+        {
           "n": "F4KER",
           "th": 17,
           "atk": 7,
           "est": 21,
           "spa": 3.0,
           "conf": 100,
-          "def": 20,
-          "sof": 2.4,
-          "ndef": 5,
-          "idx": 75.6,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 6,
+          "idx": 75.0,
           "mvp": 24,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "R A K A N ☦️",
@@ -573,21 +588,6 @@
           "ndef": 6,
           "idx": 73.8,
           "mvp": 23,
-          "pos": 3,
-          "zona": "—"
-        },
-        {
-          "n": "nathan_GO$",
-          "th": 18,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 22,
-          "sof": 2.3,
-          "ndef": 6,
-          "idx": 72.8,
-          "mvp": 22,
           "pos": 4,
           "zona": "—"
         },
@@ -652,6 +652,21 @@
           "zona": "—"
         },
         {
+          "n": "ROBERTHWILLIAMM",
+          "th": 18,
+          "atk": 7,
+          "est": 19,
+          "spa": 2.71,
+          "conf": 100,
+          "def": 19,
+          "sof": 2.4,
+          "ndef": 7,
+          "idx": 70.7,
+          "mvp": 23,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "Duff",
           "th": 17,
           "atk": 6,
@@ -663,7 +678,22 @@
           "ndef": 5,
           "idx": 70.5,
           "mvp": 18,
-          "pos": 9,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
+          "n": "ayumatsui",
+          "th": 17,
+          "atk": 7,
+          "est": 19,
+          "spa": 2.71,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 6,
+          "idx": 70.3,
+          "mvp": 22,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -678,7 +708,7 @@
           "ndef": 6,
           "idx": 70.3,
           "mvp": 22,
-          "pos": 10,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -693,7 +723,7 @@
           "ndef": 6,
           "idx": 70.0,
           "mvp": 21,
-          "pos": 11,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -708,7 +738,7 @@
           "ndef": 6,
           "idx": 69.9,
           "mvp": 23,
-          "pos": 12,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -723,7 +753,7 @@
           "ndef": 6,
           "idx": 69.0,
           "mvp": 20,
-          "pos": 13,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -738,7 +768,7 @@
           "ndef": 5,
           "idx": 68.8,
           "mvp": 18,
-          "pos": 14,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -753,7 +783,7 @@
           "ndef": 5,
           "idx": 67.2,
           "mvp": 18,
-          "pos": 15,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -768,7 +798,7 @@
           "ndef": 6,
           "idx": 67.0,
           "mvp": 18,
-          "pos": 16,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -783,7 +813,7 @@
           "ndef": 6,
           "idx": 67.0,
           "mvp": 18,
-          "pos": 17,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -798,36 +828,6 @@
           "ndef": 6,
           "idx": 66.9,
           "mvp": 20,
-          "pos": 18,
-          "zona": "—"
-        },
-        {
-          "n": "ROBERTHWILLIAMM",
-          "th": 18,
-          "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 86,
-          "def": 19,
-          "sof": 2.4,
-          "ndef": 7,
-          "idx": 66.7,
-          "mvp": 20,
-          "pos": 19,
-          "zona": "—"
-        },
-        {
-          "n": "ayumatsui",
-          "th": 17,
-          "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 86,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 6,
-          "idx": 66.3,
-          "mvp": 19,
           "pos": 20,
           "zona": "—"
         },
@@ -1057,9 +1057,9 @@
           "conf": 86,
           "def": 33,
           "sof": 2.0,
-          "ndef": 6,
+          "ndef": 7,
           "idx": 66.5,
-          "mvp": 24,
+          "mvp": 25,
           "pos": 3,
           "zona": "—"
         },
@@ -1094,6 +1094,21 @@
           "zona": "—"
         },
         {
+          "n": "Ｎａｔｈａｎ ＴＨ１１",
+          "th": 15,
+          "atk": 7,
+          "est": 21,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "idx": 65.1,
+          "mvp": 22,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
           "n": "CoR1nG4 ×,×",
           "th": 16,
           "atk": 7,
@@ -1105,7 +1120,7 @@
           "ndef": 4,
           "idx": 64.6,
           "mvp": 22,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -1120,7 +1135,7 @@
           "ndef": 5,
           "idx": 64.3,
           "mvp": 21,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -1135,7 +1150,7 @@
           "ndef": 5,
           "idx": 64.3,
           "mvp": 21,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -1150,7 +1165,7 @@
           "ndef": 5,
           "idx": 64.0,
           "mvp": 22,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -1165,26 +1180,11 @@
           "ndef": 5,
           "idx": 62.2,
           "mvp": 19,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "Ghostface",
-          "th": 15,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "idx": 62.2,
-          "mvp": 19,
           "pos": 11,
           "zona": "—"
         },
         {
-          "n": "Ｎａｔｈａｎ ＴＨ１１",
+          "n": "Ghostface",
           "th": 15,
           "atk": 6,
           "est": 18,
@@ -1325,11 +1325,11 @@
           "est": 14,
           "spa": 2.8,
           "conf": 71,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "idx": 56.7,
-          "mvp": 15,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "idx": 57.5,
+          "mvp": 16,
           "pos": 21,
           "zona": "—"
         },
@@ -1432,9 +1432,9 @@
           "conf": 86,
           "def": 33,
           "sof": 2.0,
-          "ndef": 5,
+          "ndef": 6,
           "idx": 51.8,
-          "mvp": 17,
+          "mvp": 18,
           "pos": 28,
           "zona": "—"
         },
@@ -1521,6 +1521,21 @@
           "zona": "—"
         },
         {
+          "n": "SR- Lopes",
+          "th": 11,
+          "atk": 6,
+          "est": 15,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 51.0,
+          "mvp": 15,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
           "n": "scamador'd'calv",
           "th": 14,
           "atk": 5,
@@ -1530,21 +1545,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 5,
-          "idx": 49.3,
-          "mvp": 13,
-          "pos": 4,
-          "zona": "—"
-        },
-        {
-          "n": "SR- Lopes",
-          "th": 11,
-          "atk": 5,
-          "est": 13,
-          "spa": 2.6,
-          "conf": 83,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
           "idx": 49.3,
           "mvp": 13,
           "pos": 5,
@@ -1596,6 +1596,21 @@
           "zona": "—"
         },
         {
+          "n": "SR- Nathan",
+          "th": 12,
+          "atk": 6,
+          "est": 11,
+          "spa": 1.83,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 3,
+          "idx": 42.2,
+          "mvp": 11,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "TH",
           "th": 12,
           "atk": 4,
@@ -1607,7 +1622,7 @@
           "ndef": 3,
           "idx": 41.7,
           "mvp": 9,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -1622,21 +1637,6 @@
           "ndef": 3,
           "idx": 41.4,
           "mvp": 10,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "SR- Nathan",
-          "th": 12,
-          "atk": 5,
-          "est": 9,
-          "spa": 1.8,
-          "conf": 83,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 3,
-          "idx": 38.8,
-          "mvp": 9,
           "pos": 11,
           "zona": "—"
         },
