@@ -1,6 +1,6 @@
 {
   "season": "2026-07",
-  "atualizado": "2026-07-09T21:49:58.130932Z",
+  "atualizado": "2026-07-09T22:58:45.850023Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -8,22 +8,22 @@
       "mode": "rank",
       "rank": [
         {
-          "n": "KingOfBilada™",
+          "n": "marinaul war",
           "th": 18,
           "atk": 7,
           "est": 21,
           "spa": 3.0,
           "conf": 100,
-          "def": 10,
-          "sof": 2.7,
+          "def": 14,
+          "sof": 2.6,
           "ndef": 7,
-          "idx": 79.4,
-          "mvp": 23,
+          "idx": 80.4,
+          "mvp": 24,
           "pos": 1,
           "zona": "—"
         },
         {
-          "n": "Levi_Neiva",
+          "n": "KingOfBilada™",
           "th": 18,
           "atk": 7,
           "est": 21,
@@ -38,6 +38,21 @@
           "zona": "—"
         },
         {
+          "n": "Levi_Neiva",
+          "th": 18,
+          "atk": 7,
+          "est": 21,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 10,
+          "sof": 2.7,
+          "ndef": 7,
+          "idx": 79.4,
+          "mvp": 23,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
           "n": "Nesk",
           "th": 18,
           "atk": 6,
@@ -49,7 +64,7 @@
           "ndef": 6,
           "idx": 78.9,
           "mvp": 21,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -64,7 +79,7 @@
           "ndef": 6,
           "idx": 78.7,
           "mvp": 19,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -79,7 +94,7 @@
           "ndef": 7,
           "idx": 78.5,
           "mvp": 22,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -93,21 +108,6 @@
           "sof": 3.0,
           "ndef": 7,
           "idx": 77.6,
-          "mvp": 21,
-          "pos": 6,
-          "zona": "—"
-        },
-        {
-          "n": "marinaul war",
-          "th": 18,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 14,
-          "sof": 2.6,
-          "ndef": 7,
-          "idx": 76.9,
           "mvp": 21,
           "pos": 7,
           "zona": "—"
@@ -220,15 +220,15 @@
         {
           "n": "linch",
           "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 100,
           "def": 0,
           "sof": 3.0,
           "ndef": 6,
-          "idx": 70.0,
-          "mvp": 14,
+          "idx": 71.7,
+          "mvp": 16,
           "pos": 15,
           "zona": "—"
         },
@@ -658,10 +658,10 @@
           "est": 20,
           "spa": 2.86,
           "conf": 100,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 6,
-          "idx": 72.6,
+          "def": 14,
+          "sof": 2.6,
+          "ndef": 7,
+          "idx": 72.2,
           "mvp": 23,
           "pos": 9,
           "zona": "—"
@@ -898,10 +898,10 @@
           "est": 17,
           "spa": 2.43,
           "conf": 100,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
-          "idx": 63.6,
+          "def": 5,
+          "sof": 2.9,
+          "ndef": 7,
+          "idx": 63.4,
           "mvp": 18,
           "pos": 25,
           "zona": "—"
@@ -1512,10 +1512,10 @@
           "est": 13,
           "spa": 2.6,
           "conf": 83,
-          "def": 22,
-          "sof": 2.3,
-          "ndef": 3,
-          "idx": 52.5,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 4,
+          "idx": 51.7,
           "mvp": 15,
           "pos": 3,
           "zona": "—"
@@ -1529,7 +1529,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 2,
+          "ndef": 3,
           "idx": 51.0,
           "mvp": 15,
           "pos": 4,
