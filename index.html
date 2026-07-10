@@ -205,10 +205,8 @@ function renderEscalacao(d){
 
 function cardRank(p){
   const rk=p.pos===1?'g1':p.pos===2?'g2':p.pos===3?'g3':'';
-  const promo=p.zona==='promo', rebx=p.zona==='rebx';
-  const badge=promo?'<div class="zbadge promo">▲ SOBE</div>':rebx?'<div class="zbadge rebx">▼ DESCE</div>':'';
   const w=Math.max(0,Math.min(100,p.idx));
-  return `<div class="p ${promo?'promo':''} ${rebx?'rebx':''}">${badge}
+  return `<div class="p">
       <div class="rk ${rk}">${p.pos}</div>
       <div class="pbody">
         <div class="prow1"><div class="pname">${p.n}<span class="th">TH${p.th}</span></div>
@@ -233,7 +231,7 @@ function renderRanking(d){
       <div class="score"><b>${mvp.mvp}</b><span>PONTOS</span></div></div>`;
   }
   html+=(escalados.length?escalados:r).map(cardRank).join('');
-  if(d.state!=='warEnded' && (reservas.length||semDados.length)){
+  if(!d.ligaFim && (reservas.length||semDados.length)){
     html+=`<div class="divider">RESERVAS DA GUERRA ATUAL · dados da temporada</div>`;
     html+=reservas.map(cardRank).join('');
     html+=semDados.map(n=>`<div class="p res"><div class="pos">R</div>

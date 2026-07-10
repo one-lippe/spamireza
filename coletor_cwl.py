@@ -155,9 +155,11 @@ def build_clans_js(dados):
             state, inicio, fim = atual["state"], atual["inicio"], atual["fim"]
         else:
             esc, res, vs, tam, state, inicio, fim = [], [e["nome"] for e in d["elenco"]], None, None, None, None, None
+        rodadas = d.get("rodadas") or []
+        liga_fim = len(rodadas) >= 7 and all(r.get("state") == "warEnded" for r in rodadas)
         linhas.append(
             f' {d["num"]}:{{nome:{j(d["nome"])},vs:{j(vs)},tam:{j(tam)},liga:{j(d["liga"])},'
-            f'state:{j(state)},inicio:{j(inicio)},fim:{j(fim)},mode:{j(mode)},'
+            f'state:{j(state)},inicio:{j(inicio)},fim:{j(fim)},mode:{j(mode)},ligaFim:{j(liga_fim)},'
             f'esc:{j(esc)},res:{j(res)},rank:{j(rank)}}}')
     return "const CLANS={\n" + ",\n".join(linhas) + "\n};\n"
 
