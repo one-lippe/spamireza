@@ -1,6 +1,6 @@
 {
   "season": "2026-07",
-  "atualizado": "2026-07-10T10:39:55.622977Z",
+  "atualizado": "2026-07-10T12:57:11.988053Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1521,6 +1521,21 @@
           "zona": "—"
         },
         {
+          "n": "scamador'd'calv",
+          "th": 15,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 86,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 6,
+          "idx": 50.6,
+          "mvp": 16,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
           "n": "GPM no defense",
           "th": 13,
           "atk": 6,
@@ -1532,7 +1547,7 @@
           "ndef": 6,
           "idx": 50.6,
           "mvp": 16,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -1547,21 +1562,6 @@
           "ndef": 3,
           "idx": 48.4,
           "mvp": 15,
-          "pos": 5,
-          "zona": "—"
-        },
-        {
-          "n": "scamador'd'calv",
-          "th": 15,
-          "atk": 5,
-          "est": 13,
-          "spa": 2.6,
-          "conf": 71,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 6,
-          "idx": 47.2,
-          "mvp": 13,
           "pos": 6,
           "zona": "—"
         },
@@ -1589,7 +1589,7 @@
           "conf": 86,
           "def": 0,
           "sof": 3.0,
-          "ndef": 5,
+          "ndef": 6,
           "idx": 46.2,
           "mvp": 14,
           "pos": 8,
