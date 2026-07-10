@@ -1,6 +1,6 @@
 {
   "season": "2026-07",
-  "atualizado": "2026-07-10T07:49:15.124766Z",
+  "atualizado": "2026-07-10T10:39:55.622977Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1476,6 +1476,21 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "RoDrIgOo",
+          "th": 15,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 86,
+          "def": 24,
+          "sof": 2.3,
+          "ndef": 7,
+          "idx": 56.3,
+          "mvp": 22,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "lanterna verde",
           "th": 18,
           "atk": 6,
@@ -1487,23 +1502,23 @@
           "ndef": 5,
           "idx": 55.4,
           "mvp": 21,
-          "pos": 1,
+          "pos": 2,
           "zona": "promo"
         },
         {
-          "n": "RoDrIgOo",
-          "th": 15,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 71,
-          "def": 24,
-          "sof": 2.3,
-          "ndef": 7,
-          "idx": 53.2,
-          "mvp": 19,
-          "pos": 2,
-          "zona": "promo"
+          "n": "SR • InTheDark☆",
+          "th": 11,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 86,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "idx": 52.5,
+          "mvp": 18,
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "GPM no defense",
@@ -1517,21 +1532,6 @@
           "ndef": 6,
           "idx": 50.6,
           "mvp": 16,
-          "pos": 3,
-          "zona": "—"
-        },
-        {
-          "n": "SR • InTheDark☆",
-          "th": 11,
-          "atk": 5,
-          "est": 13,
-          "spa": 2.6,
-          "conf": 71,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "idx": 49.1,
-          "mvp": 15,
           "pos": 4,
           "zona": "—"
         },
@@ -1632,10 +1632,10 @@
           "est": 10,
           "spa": 2.0,
           "conf": 71,
-          "def": 11,
+          "def": 10,
           "sof": 2.7,
-          "ndef": 6,
-          "idx": 40.9,
+          "ndef": 7,
+          "idx": 40.6,
           "mvp": 12,
           "pos": 11,
           "zona": "—"
