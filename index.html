@@ -158,7 +158,7 @@ let active=1;
 
 function renderTabs(){
   document.getElementById('tabs').innerHTML=[1,2,3,4,5].map(c=>{
-    const locked=CLANS[c].vs===null;
+    const locked=CLANS[c].vs===null && !(CLANS[c].rank&&CLANS[c].rank.length);
     return `<div class="tab ${c===active?'active':''} ${locked?'locked':''}"
       ${locked?'':`onclick="setClan(${c})"`}><span class="n">CLÃ ${c}</span>${CLANS[c].nome}${locked?' 🔒':''}</div>`;
   }).join('');
@@ -181,11 +181,14 @@ function render(){
   }
   document.getElementById('clanhead').innerHTML=
     `<div class="clanhead"><h2>Clã ${active} · ${d.nome}</h2>
-     <div class="vs">🗡️ vs <b>${d.vs}</b> · guerra ${d.tam}${d.liga?` · ${d.liga}`:''}</div>
-     <div class="counts">
-       <span class="pill esc">▲ ${d.esc.length} escalados</span>
-       <span class="pill res">${d.res.length} reservas</span>
-     </div>
+     ${d.ligaFim
+       ? `<div class="vs">🏆 Liga encerrada${d.liga?` · ${d.liga}`:''} · ${(d.rank||[]).length} jogadores</div>
+          <div class="counts"><span class="pill esc">✔️ Resultado final</span></div>`
+       : `<div class="vs">🗡️ vs <b>${d.vs}</b> · guerra ${d.tam}${d.liga?` · ${d.liga}`:''}</div>
+          <div class="counts">
+            <span class="pill esc">▲ ${d.esc.length} escalados</span>
+            <span class="pill res">${d.res.length} reservas</span>
+          </div>`}
      <div><span class="timer" id="timer"></span></div></div>`;
   updateTimer();
   if(d.mode==='rank') renderRanking(d); else renderEscalacao(d);
