@@ -1,8 +1,10 @@
 name: Coletor CWL Spamireza
 
 on:
-  schedule:
-    - cron: '*/10 * * * *'      # a cada 10 minutos
+  # PAUSADO — liga de julho/26 encerrada. Dashboard congelado no resultado final.
+  # Para retomar na próxima liga: descomente o bloco schedule abaixo.
+  # schedule:
+  #   - cron: '*/10 * * * *'      # a cada 10 minutos
   workflow_dispatch: {}
 
 permissions:

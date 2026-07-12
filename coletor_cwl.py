@@ -165,19 +165,32 @@ def build_clans_js(dados):
 
 def salvar_historico(dados):
     """Arquiva o resultado da temporada atual (YYYY-MM) para preservar histórico
-    entre ligas — a API só expõe a temporada corrente."""
+    entre ligas — a API só expõe a temporada corrente.
+    BLINDAGEM: mescla por clã e NUNCA sobrescreve os dados de um clã por dados
+    com MENOS ataques. Assim, quando a API zera um clã ao fim da liga, o resultado
+    final já arquivado é preservado (evita a perda de dados de julho/26)."""
     import datetime
     season = datetime.datetime.utcnow().strftime("%Y-%m")
-    clas = {}; tem = False
+    hd = ROOT / "historico"; hd.mkdir(exist_ok=True)
+    fp = hd / f"{season}.json"
+    try:
+        atual = json.loads(fp.read_text(encoding="utf-8"))
+        clas = atual.get("clas", {})
+    except Exception:
+        clas = {}
+    mudou = False
     for d in dados:
         rank, mode = agregar(d)
-        clas[str(d["num"])] = {"nome": d["nome"], "liga": d["liga"], "mode": mode, "rank": rank}
-        if mode == "rank":
-            tem = True
-    if not tem:
-        return  # nenhuma batalha ainda; não sobrescreve arquivo de temporada
-    hd = ROOT / "historico"; hd.mkdir(exist_ok=True)
-    (hd / f"{season}.json").write_text(json.dumps(
+        k = str(d["num"])
+        novo_atk = sum(p.get("atk", 0) for p in rank)
+        ant = clas.get(k)
+        ant_atk = sum(p.get("atk", 0) for p in (ant or {}).get("rank", []))
+        if ant is None or novo_atk >= ant_atk:  # só grava se não regride
+            clas[k] = {"nome": d["nome"], "liga": d["liga"], "mode": mode, "rank": rank}
+            mudou = True
+    if not mudou:
+        return
+    fp.write_text(json.dumps(
         {"season": season, "atualizado": datetime.datetime.utcnow().isoformat() + "Z", "clas": clas},
         ensure_ascii=False, indent=2), encoding="utf-8")
     print("historico:", season, "salvo")
