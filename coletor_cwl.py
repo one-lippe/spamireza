@@ -195,6 +195,47 @@ def salvar_historico(dados):
         ensure_ascii=False, indent=2), encoding="utf-8")
     print("historico:", season, "salvo")
 
+def salvar_detalhe(dados):
+    """Arquiva o DETALHE guerra-a-guerra (quem atacou em cada guerra, com quantas
+    estrelas) por temporada, em historico/<season>_detalhe.json. Permite dizer depois
+    'fulano furou a guerra X'. Blindado igual ao historico: só atualiza um clã se o novo
+    tiver >= ataques (nunca perde dado quando a API zera a temporada encerrada).
+    Fica no repositório (git), mas NÃO é publicado no site (só index.html vai pro Pages)."""
+    import datetime
+    season = datetime.datetime.utcnow().strftime("%Y-%m")
+    hd = ROOT / "historico"; hd.mkdir(exist_ok=True)
+    fp = hd / f"{season}_detalhe.json"
+    try:
+        clas = json.loads(fp.read_text(encoding="utf-8")).get("clas", {})
+    except Exception:
+        clas = {}
+    mudou = False
+    for d in dados:
+        rods = [r for r in d.get("rodadas", []) if r.get("state") in ("inWar", "warEnded")]
+        guerras, total_atk = [], 0
+        for i, r in enumerate(rods, 1):
+            jog = []
+            for m in r["membros"]:
+                ats = [a.get("estrelas") for a in m.get("ataques", [])]
+                total_atk += len(ats)
+                jog.append({"nome": m["nome"], "tag": m["tag"], "th": m.get("th"),
+                            "atk": ats, "def_est": m.get("def_estrelas")})
+            guerras.append({"g": i, "vs": r.get("adversario"), "state": r.get("state"),
+                            "size": r.get("teamSize"), "jogadores": jog})
+        k = str(d["num"])
+        ant = clas.get(k)
+        ant_atk = sum(len(j.get("atk", [])) for g in (ant or {}).get("guerras", [])
+                      for j in g.get("jogadores", [])) if ant else -1
+        if ant is None or total_atk >= ant_atk:  # só grava se não regride
+            clas[k] = {"nome": d["nome"], "liga": d["liga"], "guerras": guerras}
+            mudou = True
+    if not mudou:
+        return
+    fp.write_text(json.dumps(
+        {"season": season, "atualizado": datetime.datetime.utcnow().isoformat() + "Z", "clas": clas},
+        ensure_ascii=False, indent=2), encoding="utf-8")
+    print("detalhe:", season, "salvo (guerra a guerra)")
+
 def injetar_no_html(clans_js):
     idx = ROOT / "index.html"
     html = idx.read_text(encoding="utf-8")
@@ -219,7 +260,8 @@ def main():
     (ROOT / "cwl_data.json").write_text(json.dumps(dados, ensure_ascii=False, indent=2), encoding="utf-8")
     injetar_no_html(build_clans_js(dados))
     salvar_historico(dados)
-    print("OK -> index.html + historico atualizados")
+    salvar_detalhe(dados)
+    print("OK -> index.html + historico + detalhe atualizados")
 
 if __name__ == "__main__":
     main()
