@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-03T20:37:09.033491Z",
+  "atualizado": "2026-08-03T21:45:02.111781Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -71,7 +71,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "KingOfBilada™",
@@ -508,7 +508,9 @@
               "nome": "SR • Dennis",
               "tag": "#82R9VYVGY",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
