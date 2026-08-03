@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-03T19:06:22.766451Z",
+  "atualizado": "2026-08-03T20:37:09.033491Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -94,7 +94,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Tony D. Chopper",
@@ -232,7 +232,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "PaiDeFamilia",
@@ -412,7 +412,9 @@
               "nome": "R A K A N ☦️",
               "tag": "#Y22C09J8Q",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -458,7 +460,9 @@
               "nome": "SR • One☆",
               "tag": "#Q9PL0CUU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
