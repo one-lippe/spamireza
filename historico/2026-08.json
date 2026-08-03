@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-03T15:51:02.821914Z",
+  "atualizado": "2026-08-03T17:29:58.689139Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -98,7 +98,7 @@
           "zona": "—"
         },
         {
-          "n": "Dog Apollo",
+          "n": "tozim",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -113,7 +113,7 @@
           "zona": "—"
         },
         {
-          "n": "SR • InTheDark☆",
+          "n": "Dog Apollo",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -128,7 +128,7 @@
           "zona": "—"
         },
         {
-          "n": "Nesk",
+          "n": "SR • InTheDark☆",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -143,6 +143,21 @@
           "zona": "—"
         },
         {
+          "n": "Nesk",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 80.0,
+          "mvp": 3,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
           "n": "SR • JON SNOW",
           "th": 18,
           "atk": 1,
@@ -154,7 +169,22 @@
           "ndef": 1,
           "idx": 68.3,
           "mvp": 3,
-          "pos": 10,
+          "pos": 11,
+          "zona": "—"
+        },
+        {
+          "n": "GSAzevedo30",
+          "th": 18,
+          "atk": 0,
+          "est": 0,
+          "spa": 0,
+          "conf": 0,
+          "def": 67,
+          "sof": 1.0,
+          "ndef": 1,
+          "idx": 13.3,
+          "mvp": 2,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -169,22 +199,7 @@
           "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "tozim",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "idx": 0.0,
-          "mvp": 0,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -199,7 +214,7 @@
           "ndef": 1,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -212,21 +227,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 1,
-          "idx": 0.0,
-          "mvp": 0,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "GSAzevedo30",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
           "pos": 15,
@@ -360,6 +360,21 @@
           "zona": "—"
         },
         {
+          "n": "PaiDeFamilia",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 75.2,
+          "mvp": 3,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "SR • Edu",
           "th": 18,
           "atk": 1,
@@ -371,7 +386,7 @@
           "ndef": 0,
           "idx": 72.5,
           "mvp": 2,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -386,7 +401,7 @@
           "ndef": 1,
           "idx": 64.2,
           "mvp": 3,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -401,7 +416,7 @@
           "ndef": 1,
           "idx": 64.2,
           "mvp": 3,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -416,7 +431,7 @@
           "ndef": 1,
           "idx": 58.0,
           "mvp": 2,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -431,21 +446,6 @@
           "ndef": 1,
           "idx": 58.0,
           "mvp": 2,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "PaiDeFamilia",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "idx": 0.0,
-          "mvp": 0,
           "pos": 14,
           "zona": "—"
         },
@@ -472,7 +472,7 @@
       "mode": "rank",
       "rank": [
         {
-          "n": "nonick",
+          "n": "Agnes",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -487,6 +487,81 @@
           "zona": "—"
         },
         {
+          "n": "nonick",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "idx": 90.0,
+          "mvp": 3,
+          "pos": 2,
+          "zona": "—"
+        },
+        {
+          "n": "Elianin?",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "idx": 90.0,
+          "mvp": 3,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
+          "n": "Duff",
+          "th": 17,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "idx": 90.0,
+          "mvp": 3,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
+          "n": "F4KER",
+          "th": 17,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "idx": 90.0,
+          "mvp": 3,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
+          "n": "ayumatsui",
+          "th": 17,
+          "atk": 1,
+          "est": 1,
+          "spa": 1.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 39.0,
+          "mvp": 1,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
           "n": "Fernandes^",
           "th": 17,
           "atk": 0,
@@ -498,22 +573,37 @@
           "ndef": 1,
           "idx": 18.0,
           "mvp": 3,
-          "pos": 2,
+          "pos": 7,
           "zona": "—"
         },
         {
-          "n": "Agnes",
+          "n": "Ligeirinh0xD",
           "th": 18,
           "atk": 0,
           "est": 0,
           "spa": 0,
           "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 0.0,
-          "mvp": 0,
-          "pos": 3,
+          "def": 67,
+          "sof": 1.0,
+          "ndef": 1,
+          "idx": 12.0,
+          "mvp": 2,
+          "pos": 8,
+          "zona": "—"
+        },
+        {
+          "n": "·Holtser Ω",
+          "th": 17,
+          "atk": 0,
+          "est": 0,
+          "spa": 0,
+          "conf": 0,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "idx": 6.0,
+          "mvp": 1,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -528,7 +618,7 @@
           "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 4,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -543,7 +633,7 @@
           "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 5,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -558,7 +648,7 @@
           "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 6,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -573,7 +663,7 @@
           "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 7,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -583,12 +673,12 @@
           "est": 0,
           "spa": 0,
           "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 8,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -603,7 +693,7 @@
           "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 9,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -618,7 +708,7 @@
           "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 10,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -633,7 +723,7 @@
           "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 11,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -648,7 +738,7 @@
           "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 12,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -663,7 +753,7 @@
           "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 13,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -678,7 +768,7 @@
           "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 14,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -693,7 +783,7 @@
           "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 15,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -708,67 +798,7 @@
           "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 16,
-          "zona": "—"
-        },
-        {
-          "n": "Ligeirinh0xD",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 0.0,
-          "mvp": 0,
-          "pos": 17,
-          "zona": "—"
-        },
-        {
-          "n": "Elianin?",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 0.0,
-          "mvp": 0,
-          "pos": 18,
-          "zona": "—"
-        },
-        {
-          "n": "Duff",
-          "th": 17,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 0.0,
-          "mvp": 0,
-          "pos": 19,
-          "zona": "—"
-        },
-        {
-          "n": "·Holtser Ω",
-          "th": 17,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 0.0,
-          "mvp": 0,
-          "pos": 20,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -783,7 +813,7 @@
           "ndef": 0,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 21,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -793,47 +823,17 @@
           "est": 0,
           "spa": 0,
           "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 0.0,
-          "mvp": 0,
-          "pos": 22,
-          "zona": "—"
-        },
-        {
-          "n": "irmão do jorel",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 0.0,
-          "mvp": 0,
-          "pos": 23,
-          "zona": "—"
-        },
-        {
-          "n": "ayumatsui",
-          "th": 17,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
           "idx": 0.0,
           "mvp": 0,
           "pos": 24,
           "zona": "—"
         },
         {
-          "n": "F4KER",
-          "th": 17,
+          "n": "irmão do jorel",
+          "th": 18,
           "atk": 0,
           "est": 0,
           "spa": 0,
