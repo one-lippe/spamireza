@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-03T21:45:02.111781Z",
+  "atualizado": "2026-08-03T22:41:59.944964Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -84,7 +84,9 @@
               "nome": "Jan",
               "tag": "#2899CRJG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -385,7 +387,7 @@
               "tag": "#Q2UJJ89VG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "rei do crime",
@@ -405,7 +407,9 @@
               "nome": "SR • The off",
               "tag": "#YJ2JLPQGR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -488,7 +492,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Fernandes^",
@@ -531,7 +535,9 @@
               "nome": "Jan™",
               "tag": "#CJV9G22Q",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             }
           ]
@@ -541,7 +547,123 @@
     "4": {
       "nome": "RezaScamandu",
       "liga": "Crystal League I",
-      "guerras": []
+      "guerras": [
+        {
+          "g": 1,
+          "vs": "A Giant Pekka",
+          "state": "inWar",
+          "size": 15,
+          "jogadores": [
+            {
+              "nome": "SR • Balestra",
+              "tag": "#8UJY9C8RQ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "LSWRTHN",
+              "tag": "#QJY8RRYR",
+              "th": 16,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "SR • Caibreck",
+              "tag": "#PUPQ0RC92",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Nesk'",
+              "tag": "#YCRJU229",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "B E L L I O N™",
+              "tag": "#JLYPQP80",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Ghostface",
+              "tag": "#QQUC9JQ9R",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "PaulinhoPH",
+              "tag": "#GVLGQ098",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Wilson z2",
+              "tag": "#2RLG220GY",
+              "th": 15,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "h7dek1",
+              "tag": "#9CPYVGR0Q",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • Eduhh",
+              "tag": "#2Q9RYUCCP",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Honrado",
+              "tag": "#G9RR0JYUC",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "☆InTheDark☆",
+              "tag": "#LL8GP2CQP",
+              "th": 15,
+              "atk": [
+                2
+              ],
+              "def_est": 3
+            },
+            {
+              "nome": "-Meliodas-",
+              "tag": "#2J0G8Y80C",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "GSAzevedo30 #2",
+              "tag": "#29882J2L2",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Ligeirinh2xD",
+              "tag": "#GCC98R22R",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            }
+          ]
+        }
+      ]
     },
     "5": {
       "nome": "e-SpamiReza",
