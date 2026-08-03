@@ -1,0 +1,526 @@
+{
+  "season": "2026-08",
+  "atualizado": "2026-08-03T15:48:21.425148Z",
+  "clas": {
+    "1": {
+      "nome": "SpamiReza",
+      "liga": "Champion League I",
+      "guerras": [
+        {
+          "g": 1,
+          "vs": "Five Magics",
+          "state": "inWar",
+          "size": 15,
+          "jogadores": [
+            {
+              "nome": "SR • JON SNOW",
+              "tag": "#LYV2J2LU",
+              "th": 18,
+              "atk": [
+                2
+              ],
+              "def_est": 2
+            },
+            {
+              "nome": "Henrique Nerath",
+              "tag": "#2U8P0YQ92",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": 3
+            },
+            {
+              "nome": "marinaul war",
+              "tag": "#8GGCQPYP",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "tozim",
+              "tag": "#9G22U9U2Y",
+              "th": 18,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "Dog Apollo",
+              "tag": "#YJ9R2GPJG",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": 3
+            },
+            {
+              "nome": "SR • InTheDark☆",
+              "tag": "#PQRRG2YCP",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": 3
+            },
+            {
+              "nome": "SR • Giovanelli",
+              "tag": "#PJ0YJLGJ",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "KingOfBilada™",
+              "tag": "#92PQV82G0",
+              "th": 18,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "Jan",
+              "tag": "#2899CRJG",
+              "th": 18,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "Levi_Neiva",
+              "tag": "#C8R989YJ",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "Tony D. Chopper",
+              "tag": "#8RC2LPCRR",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "I G R I S ™",
+              "tag": "#RRVQQPJ8",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "MAJ0R FiV3",
+              "tag": "#LCR9YQGYY",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "GSAzevedo30",
+              "tag": "#CJLVVL9L",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Nesk",
+              "tag": "#99220V0Q8",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": 3
+            }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "nome": "RezaSpamandu",
+      "liga": "Champion League III",
+      "guerras": [
+        {
+          "g": 1,
+          "vs": "Alianza Chile",
+          "state": "inWar",
+          "size": 15,
+          "jogadores": [
+            {
+              "nome": "SR - JON SNOW 2",
+              "tag": "#9VV909C89",
+              "th": 18,
+              "atk": [
+                2
+              ],
+              "def_est": 3
+            },
+            {
+              "nome": "JUNIOR SV",
+              "tag": "#9YGJ00CRJ",
+              "th": 18,
+              "atk": [
+                2
+              ],
+              "def_est": 3
+            },
+            {
+              "nome": "Neskau",
+              "tag": "#P8GLGPRP",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": 2
+            },
+            {
+              "nome": "Reikan",
+              "tag": "#GJYRCJ0PR",
+              "th": 18,
+              "atk": [
+                2
+              ],
+              "def_est": 2
+            },
+            {
+              "nome": "KingMpg",
+              "tag": "#22YJPYPCJ",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": 3
+            },
+            {
+              "nome": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
+              "tag": "#V88C2Y99",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": 2
+            },
+            {
+              "nome": "TomorrowBr",
+              "tag": "#YPJLVPL9U",
+              "th": 18,
+              "atk": [
+                2
+              ],
+              "def_est": 2
+            },
+            {
+              "nome": "n a t h a n",
+              "tag": "#28YL09GJ8",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "MAJ0R FiV3",
+              "tag": "#QRJL0RGQR",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "PaiDeFamilia",
+              "tag": "#2GCJ8QC92",
+              "th": 18,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "SR • Edu",
+              "tag": "#PQYV8PYQQ",
+              "th": 18,
+              "atk": [
+                2
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "SR•GOD kratos",
+              "tag": "#LUJ9CRJQG",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": 2
+            },
+            {
+              "nome": "Levi_Neiva 2",
+              "tag": "#90GRYGJVP",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "matias?",
+              "tag": "#RCQQUGC9",
+              "th": 18,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "ROBERTHWILLIAMM",
+              "tag": "#G2V22VQUY",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "nome": "ScamiReza",
+      "liga": "Master League II",
+      "guerras": [
+        {
+          "g": 1,
+          "vs": "\"eking_egames\"",
+          "state": "inWar",
+          "size": 30,
+          "jogadores": [
+            {
+              "nome": "Agnes",
+              "tag": "#LLLU0VQCL",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Sene",
+              "tag": "#8JQJYQC",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SrNunes",
+              "tag": "#2LY8G8Y9",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "LSWRTH",
+              "tag": "#YVU0L88P",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "MattosxP",
+              "tag": "#LU2PQ0CU8",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "LEANDRO",
+              "tag": "#QPCRCR8VY",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Lider Andre",
+              "tag": "#20UUPGPCV",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Sr • Pbalestra",
+              "tag": "#2YP8QV8J9",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "menolli",
+              "tag": "#RGYQYP9U",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "nonick",
+              "tag": "#G890RJVCR",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "Psico 2k25",
+              "tag": "#Q2UJJ89VG",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "rei do crime",
+              "tag": "#RP8VCCUV",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR . Kcatoyo",
+              "tag": "#20GJVUJLU",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • The off",
+              "tag": "#YJ2JLPQGR",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "R A K A N ☦️",
+              "tag": "#Y22C09J8Q",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Ligeirinh0xD",
+              "tag": "#GRR2G9LP0",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Elianin?",
+              "tag": "#GG809LPPJ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Duff",
+              "tag": "#QQC298JUC",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "·Holtser Ω",
+              "tag": "#8GG88V2PU",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Lider André 2",
+              "tag": "#L9GRLYGVQ",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • One☆",
+              "tag": "#Q9PL0CUU",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "irmão do jorel",
+              "tag": "#P2JCQRPGJ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "ayumatsui",
+              "tag": "#QPJ209J89",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "F4KER",
+              "tag": "#QQQ8VQPL0",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Fernandes^",
+              "tag": "#8UCVRGCLQ",
+              "th": 17,
+              "atk": [],
+              "def_est": 0
+            },
+            {
+              "nome": "Sra Nunes",
+              "tag": "#22JQULR22",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • Dennis",
+              "tag": "#82R9VYVGY",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Darth Revan",
+              "tag": "#8R280VRCQ",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "CoR1nG4 ×,×",
+              "tag": "#9PJL20YUU",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Jan™",
+              "tag": "#CJV9G22Q",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "nome": "RezaScamandu",
+      "liga": "Crystal League I",
+      "guerras": []
+    },
+    "5": {
+      "nome": "e-SpamiReza",
+      "liga": null,
+      "guerras": []
+    }
+  }
+}
