@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-04T09:48:37.801910Z",
+  "atualizado": "2026-08-04T11:50:49.000268Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -118,7 +118,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "MAJ0R FiV3",
@@ -308,7 +308,9 @@
               "nome": "SR - JON SNOW 2",
               "tag": "#9VV909C89",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -343,8 +345,10 @@
               "nome": "KingMpg",
               "tag": "#22YJPYPCJ",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                2
+              ],
+              "def_est": 3
             },
             {
               "nome": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
@@ -359,21 +363,27 @@
               "nome": "TomorrowBr",
               "tag": "#YPJLVPL9U",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": null
             },
             {
               "nome": "MAJ0R FiV3",
               "tag": "#QRJL0RGQR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
               "nome": "PaiDeFamilia",
               "tag": "#2GCJ8QC92",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -387,8 +397,10 @@
               "nome": "Levi_Neiva 2",
               "tag": "#90GRYGJVP",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 3
             },
             {
               "nome": "matias?",
@@ -456,7 +468,9 @@
               "nome": "LSWRTH",
               "tag": "#YVU0L88P",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": null
             },
             {
@@ -583,7 +597,9 @@
               "nome": "·Holtser Ω",
               "tag": "#8GG88V2PU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {

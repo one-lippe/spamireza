@@ -1,27 +1,12 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-04T09:48:37.800418Z",
+  "atualizado": "2026-08-04T11:50:48.998767Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
       "liga": "Champion League I",
       "mode": "rank",
       "rank": [
-        {
-          "n": "I G R I S ™",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 100.0,
-          "mvp": 3,
-          "pos": 1,
-          "zona": "—"
-        },
         {
           "n": "GSAzevedo30",
           "th": 18,
@@ -34,7 +19,7 @@
           "ndef": 1,
           "idx": 93.3,
           "mvp": 5,
-          "pos": 2,
+          "pos": 1,
           "zona": "—"
         },
         {
@@ -49,7 +34,7 @@
           "ndef": 1,
           "idx": 86.7,
           "mvp": 4,
-          "pos": 3,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -64,7 +49,7 @@
           "ndef": 1,
           "idx": 86.7,
           "mvp": 4,
-          "pos": 4,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -79,7 +64,7 @@
           "ndef": 1,
           "idx": 80.0,
           "mvp": 3,
-          "pos": 5,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -94,7 +79,7 @@
           "ndef": 1,
           "idx": 80.0,
           "mvp": 3,
-          "pos": 6,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -109,7 +94,7 @@
           "ndef": 1,
           "idx": 80.0,
           "mvp": 3,
-          "pos": 7,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -124,7 +109,7 @@
           "ndef": 1,
           "idx": 80.0,
           "mvp": 3,
-          "pos": 8,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -139,11 +124,26 @@
           "ndef": 1,
           "idx": 80.0,
           "mvp": 3,
-          "pos": 9,
+          "pos": 8,
           "zona": "—"
         },
         {
           "n": "Levi_Neiva",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 80.0,
+          "mvp": 3,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
+          "n": "I G R I S ™",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -255,6 +255,21 @@
           "zona": "—"
         },
         {
+          "n": "MAJ0R FiV3",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "idx": 81.5,
+          "mvp": 7,
+          "pos": 2,
+          "zona": "—"
+        },
+        {
           "n": "n a t h a n",
           "th": 18,
           "atk": 1,
@@ -266,7 +281,37 @@
           "ndef": 1,
           "idx": 75.2,
           "mvp": 3,
-          "pos": 2,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
+          "n": "PaiDeFamilia",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 75.2,
+          "mvp": 6,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
+          "n": "Levi_Neiva 2",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 75.2,
+          "mvp": 6,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -281,22 +326,22 @@
           "ndef": 2,
           "idx": 72.8,
           "mvp": 6,
-          "pos": 3,
+          "pos": 6,
           "zona": "—"
         },
         {
-          "n": "MAJ0R FiV3",
+          "n": "SR - JON SNOW 2",
           "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 33,
-          "sof": 2.0,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
           "ndef": 1,
-          "idx": 69.7,
-          "mvp": 4,
-          "pos": 4,
+          "idx": 66.6,
+          "mvp": 5,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -311,7 +356,22 @@
           "ndef": 2,
           "idx": 66.6,
           "mvp": 4,
-          "pos": 5,
+          "pos": 8,
+          "zona": "—"
+        },
+        {
+          "n": "KingMpg",
+          "th": 18,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 66.6,
+          "mvp": 5,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -326,52 +386,7 @@
           "ndef": 1,
           "idx": 64.2,
           "mvp": 3,
-          "pos": 6,
-          "zona": "—"
-        },
-        {
-          "n": "KingMpg",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "idx": 63.4,
-          "mvp": 3,
-          "pos": 7,
-          "zona": "—"
-        },
-        {
-          "n": "PaiDeFamilia",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "idx": 63.4,
-          "mvp": 3,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "Levi_Neiva 2",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "idx": 63.4,
-          "mvp": 3,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -386,7 +401,7 @@
           "ndef": 1,
           "idx": 63.4,
           "mvp": 3,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -401,36 +416,21 @@
           "ndef": 1,
           "idx": 58.0,
           "mvp": 2,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
           "n": "TomorrowBr",
           "th": 18,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 50,
+          "atk": 2,
+          "est": 3,
+          "spa": 1.5,
+          "conf": 100,
           "def": 33,
           "sof": 2.0,
           "ndef": 1,
-          "idx": 52.5,
-          "mvp": 3,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "SR - JON SNOW 2",
-          "th": 18,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "idx": 46.2,
-          "mvp": 2,
+          "idx": 55.6,
+          "mvp": 4,
           "pos": 13,
           "zona": "—"
         },
@@ -682,6 +682,21 @@
           "zona": "—"
         },
         {
+          "n": "·Holtser Ω",
+          "th": 17,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "idx": 78.0,
+          "mvp": 4,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
           "n": "irmão do jorel",
           "th": 18,
           "atk": 1,
@@ -693,7 +708,7 @@
           "ndef": 1,
           "idx": 78.0,
           "mvp": 4,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -708,7 +723,7 @@
           "ndef": 1,
           "idx": 78.0,
           "mvp": 4,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -723,7 +738,7 @@
           "ndef": 1,
           "idx": 78.0,
           "mvp": 4,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -738,7 +753,7 @@
           "ndef": 1,
           "idx": 78.0,
           "mvp": 4,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -753,7 +768,7 @@
           "ndef": 1,
           "idx": 78.0,
           "mvp": 4,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -768,7 +783,7 @@
           "ndef": 1,
           "idx": 72.0,
           "mvp": 3,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -783,7 +798,7 @@
           "ndef": 1,
           "idx": 72.0,
           "mvp": 3,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -798,7 +813,7 @@
           "ndef": 1,
           "idx": 72.0,
           "mvp": 3,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -813,7 +828,7 @@
           "ndef": 1,
           "idx": 72.0,
           "mvp": 3,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -828,7 +843,7 @@
           "ndef": 1,
           "idx": 72.0,
           "mvp": 3,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -843,7 +858,22 @@
           "ndef": 1,
           "idx": 55.5,
           "mvp": 2,
-          "pos": 22,
+          "pos": 23,
+          "zona": "—"
+        },
+        {
+          "n": "LSWRTH",
+          "th": 18,
+          "atk": 1,
+          "est": 1,
+          "spa": 1.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "idx": 48.7,
+          "mvp": 1,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -858,7 +888,7 @@
           "ndef": 1,
           "idx": 39.0,
           "mvp": 1,
-          "pos": 23,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -873,22 +903,7 @@
           "ndef": 1,
           "idx": 12.0,
           "mvp": 2,
-          "pos": 24,
-          "zona": "—"
-        },
-        {
-          "n": "·Holtser Ω",
-          "th": 17,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "idx": 6.0,
-          "mvp": 1,
-          "pos": 25,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -903,21 +918,6 @@
           "ndef": 1,
           "idx": 6.0,
           "mvp": 1,
-          "pos": 26,
-          "zona": "—"
-        },
-        {
-          "n": "LSWRTH",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 0.0,
-          "mvp": 0,
           "pos": 27,
           "zona": "—"
         },
