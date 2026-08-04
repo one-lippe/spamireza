@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-04T07:10:26.211044Z",
+  "atualizado": "2026-08-04T09:48:37.801910Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -441,7 +441,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SrNunes",
@@ -496,7 +496,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "nonick",
@@ -523,7 +523,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR . Kcatoyo",
@@ -532,7 +532,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "SR • The off",
@@ -715,8 +715,10 @@
               "nome": "SR • Caibreck",
               "tag": "#PUPQ0RC92",
               "th": 16,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                2
+              ],
+              "def_est": 3
             },
             {
               "nome": "Nesk'",
@@ -743,7 +745,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "PaulinhoPH",
@@ -808,7 +810,9 @@
               "nome": "GSAzevedo30 #2",
               "tag": "#29882J2L2",
               "th": 15,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": null
             },
             {

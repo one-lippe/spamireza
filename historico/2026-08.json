@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-04T07:10:26.209822Z",
+  "atualizado": "2026-08-04T09:48:37.800418Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -532,7 +532,7 @@
           "zona": "—"
         },
         {
-          "n": "Sene",
+          "n": "SrNunes",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -547,7 +547,7 @@
           "zona": "—"
         },
         {
-          "n": "SrNunes",
+          "n": "Elianin?",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -562,8 +562,8 @@
           "zona": "—"
         },
         {
-          "n": "menolli",
-          "th": 18,
+          "n": "Duff",
+          "th": 17,
           "atk": 1,
           "est": 3,
           "spa": 3.0,
@@ -577,8 +577,8 @@
           "zona": "—"
         },
         {
-          "n": "rei do crime",
-          "th": 18,
+          "n": "Darth Revan",
+          "th": 17,
           "atk": 1,
           "est": 3,
           "spa": 3.0,
@@ -598,57 +598,12 @@
           "est": 3,
           "spa": 3.0,
           "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 90.0,
-          "mvp": 3,
+          "def": 67,
+          "sof": 1.0,
+          "ndef": 1,
+          "idx": 84.0,
+          "mvp": 5,
           "pos": 6,
-          "zona": "—"
-        },
-        {
-          "n": "Elianin?",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 90.0,
-          "mvp": 3,
-          "pos": 7,
-          "zona": "—"
-        },
-        {
-          "n": "Duff",
-          "th": 17,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 90.0,
-          "mvp": 3,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "Darth Revan",
-          "th": 17,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 90.0,
-          "mvp": 3,
-          "pos": 9,
           "zona": "—"
         },
         {
@@ -663,7 +618,37 @@
           "ndef": 1,
           "idx": 84.0,
           "mvp": 5,
-          "pos": 10,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
+          "n": "Sene",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "idx": 78.0,
+          "mvp": 4,
+          "pos": 8,
+          "zona": "—"
+        },
+        {
+          "n": "menolli",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "idx": 78.0,
+          "mvp": 4,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -678,7 +663,7 @@
           "ndef": 1,
           "idx": 78.0,
           "mvp": 4,
-          "pos": 11,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -693,7 +678,7 @@
           "ndef": 1,
           "idx": 78.0,
           "mvp": 4,
-          "pos": 12,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -708,7 +693,7 @@
           "ndef": 1,
           "idx": 78.0,
           "mvp": 4,
-          "pos": 13,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -723,7 +708,7 @@
           "ndef": 1,
           "idx": 78.0,
           "mvp": 4,
-          "pos": 14,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -738,7 +723,7 @@
           "ndef": 1,
           "idx": 78.0,
           "mvp": 4,
-          "pos": 15,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -753,7 +738,7 @@
           "ndef": 1,
           "idx": 78.0,
           "mvp": 4,
-          "pos": 16,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -768,7 +753,7 @@
           "ndef": 1,
           "idx": 78.0,
           "mvp": 4,
-          "pos": 17,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -783,11 +768,26 @@
           "ndef": 1,
           "idx": 72.0,
           "mvp": 3,
-          "pos": 18,
+          "pos": 17,
           "zona": "—"
         },
         {
           "n": "Psico 2k25",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 72.0,
+          "mvp": 3,
+          "pos": 18,
+          "zona": "—"
+        },
+        {
+          "n": "rei do crime",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -1049,21 +1049,6 @@
           "zona": "—"
         },
         {
-          "n": "Ghostface",
-          "th": 16,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 64.0,
-          "mvp": 2,
-          "pos": 6,
-          "zona": "—"
-        },
-        {
           "n": "SR • Eduhh",
           "th": 15,
           "atk": 1,
@@ -1075,7 +1060,7 @@
           "ndef": 0,
           "idx": 64.0,
           "mvp": 2,
-          "pos": 7,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -1090,7 +1075,37 @@
           "ndef": 1,
           "idx": 62.2,
           "mvp": 4,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
+          "n": "SR • Caibreck",
+          "th": 16,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 51.2,
+          "mvp": 2,
           "pos": 8,
+          "zona": "—"
+        },
+        {
+          "n": "Ghostface",
+          "th": 16,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 51.2,
+          "mvp": 2,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -1105,7 +1120,7 @@
           "ndef": 1,
           "idx": 51.2,
           "mvp": 2,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -1120,7 +1135,22 @@
           "ndef": 1,
           "idx": 51.2,
           "mvp": 2,
-          "pos": 10,
+          "pos": 11,
+          "zona": "—"
+        },
+        {
+          "n": "GSAzevedo30 #2",
+          "th": 15,
+          "atk": 1,
+          "est": 1,
+          "spa": 1.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "idx": 45.0,
+          "mvp": 1,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -1135,7 +1165,7 @@
           "ndef": 1,
           "idx": 5.5,
           "mvp": 1,
-          "pos": 11,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -1150,42 +1180,12 @@
           "ndef": 1,
           "idx": 0.0,
           "mvp": 0,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Caibreck",
-          "th": 16,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 0.0,
-          "mvp": 0,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
           "n": "Honrado",
           "th": 16,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 0.0,
-          "mvp": 0,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "GSAzevedo30 #2",
-          "th": 15,
           "atk": 0,
           "est": 0,
           "spa": 0,
