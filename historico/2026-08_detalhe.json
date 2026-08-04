@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-04T04:27:44.739395Z",
+  "atualizado": "2026-08-04T07:10:26.211044Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -350,7 +350,9 @@
               "nome": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
               "tag": "#V88C2Y99",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -379,7 +381,7 @@
               "tag": "#LUJ9CRJQG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "Levi_Neiva 2",
@@ -407,7 +409,7 @@
               "tag": "#YQRJL098P",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             }
           ]
         }
@@ -482,7 +484,9 @@
               "nome": "Sr • Pbalestra",
               "tag": "#2YP8QV8J9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -605,7 +609,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "ayumatsui",
@@ -630,7 +634,7 @@
               "tag": "#8UCVRGCLQ",
               "th": 17,
               "atk": [],
-              "def_est": 0
+              "def_est": 2
             },
             {
               "nome": "Sra Nunes",
@@ -695,7 +699,9 @@
               "nome": "SR • Balestra",
               "tag": "#8UJY9C8RQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 1
             },
             {
@@ -762,7 +768,7 @@
               "tag": "#9CPYVGR0Q",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • Eduhh",
