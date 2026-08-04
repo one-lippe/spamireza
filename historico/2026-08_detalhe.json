@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-04T20:53:23.415103Z",
+  "atualizado": "2026-08-04T22:02:17.699650Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -194,14 +194,14 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Giovanelli",
               "tag": "#PJ0YJLGJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • InTheDark☆",
@@ -233,7 +233,7 @@
               "tag": "#GL0PRCU9L",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Tony D. Chopper",
@@ -251,7 +251,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "I G R I S ™",
@@ -269,7 +269,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30",
@@ -1091,7 +1091,9 @@
               "nome": "Jan™",
               "tag": "#CJV9G22Q",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             }
           ]
@@ -1105,7 +1107,7 @@
         {
           "g": 1,
           "vs": "A Giant Pekka",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
@@ -1167,7 +1169,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Wilson z2",
@@ -1198,7 +1200,9 @@
               "nome": "Honrado",
               "tag": "#G9RR0JYUC",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
