@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-03T23:48:53.153477Z",
+  "atualizado": "2026-08-04T01:09:32.272601Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -34,7 +34,9 @@
               "nome": "marinaul war",
               "tag": "#8GGCQPYP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
@@ -77,7 +79,9 @@
               "nome": "KingOfBilada™",
               "tag": "#92PQV82G0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -288,7 +292,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
@@ -355,7 +359,7 @@
               "tag": "#20UUPGPCV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "Sr • Pbalestra",
@@ -386,21 +390,27 @@
               "nome": "Psico 2k25",
               "tag": "#Q2UJJ89VG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
               "nome": "rei do crime",
               "tag": "#RP8VCCUV",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
               "nome": "SR . Kcatoyo",
               "tag": "#20GJVUJLU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -519,7 +529,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Darth Revan",
@@ -535,7 +545,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Jan™",
@@ -585,7 +595,9 @@
               "nome": "Nesk'",
               "tag": "#YCRJU229",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -601,14 +613,18 @@
               "nome": "Ghostface",
               "tag": "#QQUC9JQ9R",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
               "nome": "PaulinhoPH",
               "tag": "#GVLGQ098",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -654,7 +670,9 @@
               "nome": "-Meliodas-",
               "tag": "#2J0G8Y80C",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
