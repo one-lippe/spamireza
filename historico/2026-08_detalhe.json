@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-04T16:01:28.567651Z",
+  "atualizado": "2026-08-04T18:00:05.462890Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -160,7 +160,7 @@
               "tag": "#LYV2J2LU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Henrique Nerath",
@@ -276,7 +276,7 @@
               "tag": "#CJLVVL9L",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
@@ -527,7 +527,9 @@
               "nome": "SR•GOD kratos",
               "tag": "#LUJ9CRJQG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 1
             },
             {
@@ -886,8 +888,10 @@
               "nome": "MattosxP",
               "tag": "#LU2PQ0CU8",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                2
+              ],
+              "def_est": 1
             },
             {
               "nome": "LEANDRO",
@@ -914,7 +918,9 @@
               "nome": "menolli",
               "tag": "#RGYQYP9U",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -922,7 +928,7 @@
               "tag": "#G890RJVCR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Psico 2k25",
@@ -961,7 +967,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Ligeirinh0xD",
@@ -981,7 +987,9 @@
               "nome": "Duff",
               "tag": "#QQC298JUC",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -996,14 +1004,14 @@
               "tag": "#8GG88V2PU",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • One☆",
               "tag": "#Q9PL0CUU",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "irmão do jorel",
@@ -1016,7 +1024,9 @@
               "nome": "F4KER",
               "tag": "#QQQ8VQPL0",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1193,7 +1203,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30 #2",
