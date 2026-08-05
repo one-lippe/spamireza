@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-05T22:17:32.532408Z",
+  "atualizado": "2026-08-05T23:19:29.703384Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1448,7 +1448,9 @@
               "nome": "SrNunes",
               "tag": "#2LY8G8Y9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1539,7 +1541,9 @@
               "nome": "SR • The off",
               "tag": "#YJ2JLPQGR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1582,7 +1586,9 @@
               "nome": "SR • One☆",
               "tag": "#Q9PL0CUU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1623,7 +1629,9 @@
               "nome": "Sra Nunes",
               "tag": "#22JQULR22",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1955,6 +1963,121 @@
                 3
               ],
               "def_est": 3
+            }
+          ]
+        },
+        {
+          "g": 3,
+          "vs": "ALSANCAK",
+          "state": "inWar",
+          "size": 15,
+          "jogadores": [
+            {
+              "nome": "SR • Balestra",
+              "tag": "#8UJY9C8RQ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • Caibreck",
+              "tag": "#PUPQ0RC92",
+              "th": 16,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "Nesk'",
+              "tag": "#YCRJU229",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "B E L L I O N™",
+              "tag": "#JLYPQP80",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Gerion",
+              "tag": "#YP9L000LG",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Ghostface",
+              "tag": "#QQUC9JQ9R",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "PaulinhoPH",
+              "tag": "#GVLGQ098",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • Eduhh",
+              "tag": "#2Q9RYUCCP",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Wilson z2",
+              "tag": "#2RLG220GY",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Honrado",
+              "tag": "#G9RR0JYUC",
+              "th": 16,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "☆InTheDark☆",
+              "tag": "#LL8GP2CQP",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "-Meliodas-",
+              "tag": "#2J0G8Y80C",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "GSAzevedo30 #2",
+              "tag": "#29882J2L2",
+              "th": 15,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "Ligeirinh2xD",
+              "tag": "#GCC98R22R",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "°D∆×iLh∆°",
+              "tag": "#PR0R0VC9P",
+              "th": 14,
+              "atk": [],
+              "def_est": null
             }
           ]
         }
