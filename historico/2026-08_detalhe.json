@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-05T13:01:06.082203Z",
+  "atualizado": "2026-08-05T15:23:26.127837Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -310,7 +310,7 @@
               "tag": "#8GGCQPYP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "tozim",
@@ -323,7 +323,9 @@
               "nome": "Dog Apollo",
               "tag": "#YJ9R2GPJG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -331,20 +333,22 @@
               "tag": "#2U8P0YQ92",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • InTheDark☆",
               "tag": "#PQRRG2YCP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Giovanelli",
               "tag": "#PJ0YJLGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -352,7 +356,7 @@
               "tag": "#2899CRJG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "KingOfBilada™",
@@ -374,14 +378,18 @@
               "nome": "MAJ0R FiV3",
               "tag": "#LCR9YQGYY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
               "nome": "Tony D. Chopper",
               "tag": "#8RC2LPCRR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -718,7 +726,9 @@
               "nome": "JUNIOR SV",
               "tag": "#9YGJ00CRJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -800,14 +810,18 @@
               "nome": "Levi_Neiva 2",
               "tag": "#90GRYGJVP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
               "nome": "matias?",
               "tag": "#RCQQUGC9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1138,7 +1152,9 @@
               "nome": "SrNunes",
               "tag": "#2LY8G8Y9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1172,7 +1188,9 @@
               "nome": "Lider Andre",
               "tag": "#20UUPGPCV",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -1197,7 +1215,9 @@
               "nome": "nonick",
               "tag": "#G890RJVCR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -1276,7 +1296,9 @@
               "nome": "Lider André 2",
               "tag": "#L9GRLYGVQ",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1319,7 +1341,9 @@
               "nome": "Sra Nunes",
               "tag": "#22JQULR22",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -1566,7 +1590,7 @@
               "tag": "#JLYPQP80",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Gerion",
@@ -1575,7 +1599,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ghostface",
@@ -1627,7 +1651,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "-Meliodas-",
@@ -1652,7 +1676,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
