@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-05T06:09:50.105455Z",
+  "atualizado": "2026-08-05T08:49:46.150636Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -178,7 +178,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "tozim",
@@ -996,7 +996,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Sene",
@@ -1078,7 +1078,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "rei do crime",
@@ -1239,7 +1239,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             }
           ]
         }
