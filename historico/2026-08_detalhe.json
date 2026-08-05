@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-05T19:58:02.196338Z",
+  "atualizado": "2026-08-05T21:03:38.922429Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1909,7 +1909,9 @@
               "nome": "Honrado",
               "tag": "#G9RR0JYUC",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
