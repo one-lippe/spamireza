@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-04T23:13:56.770507Z",
+  "atualizado": "2026-08-05T00:15:29.779473Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -175,7 +175,9 @@
               "nome": "marinaul war",
               "tag": "#8GGCQPYP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -200,7 +202,9 @@
               "nome": "SR • Giovanelli",
               "tag": "#PJ0YJLGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -954,13 +958,15 @@
               "tag": "#RP8VCCUV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR . Kcatoyo",
               "tag": "#20GJVUJLU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1061,7 +1067,9 @@
               "nome": "CoR1nG4 ×,×",
               "tag": "#9PJL20YUU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1258,21 +1266,21 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • Caibreck",
               "tag": "#PUPQ0RC92",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "NAUZIN",
               "tag": "#G9PGYJPYP",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Nesk'",
@@ -1308,7 +1316,9 @@
               "nome": "PaulinhoPH",
               "tag": "#GVLGQ098",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
@@ -1316,7 +1326,7 @@
               "tag": "#2RLG220GY",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • Eduhh",
