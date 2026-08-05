@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-05T03:33:45.861670Z",
+  "atualizado": "2026-08-05T06:09:50.103687Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -255,6 +255,21 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "MAJ0R FiV3",
+          "th": 18,
+          "atk": 3,
+          "est": 9,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 2,
+          "idx": 81.5,
+          "mvp": 11,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "SR•GOD kratos",
           "th": 18,
           "atk": 2,
@@ -266,7 +281,7 @@
           "ndef": 2,
           "idx": 76.8,
           "mvp": 9,
-          "pos": 1,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -281,26 +296,11 @@
           "ndef": 1,
           "idx": 75.2,
           "mvp": 3,
-          "pos": 2,
-          "zona": "—"
-        },
-        {
-          "n": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
-          "th": 18,
-          "atk": 2,
-          "est": 6,
-          "spa": 3.0,
-          "conf": 67,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 2,
-          "idx": 73.6,
-          "mvp": 8,
           "pos": 3,
           "zona": "—"
         },
         {
-          "n": "MAJ0R FiV3",
+          "n": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
           "th": 18,
           "atk": 2,
           "est": 6,
@@ -420,22 +420,22 @@
           "zona": "—"
         },
         {
-          "n": "SR • THIAGO",
+          "n": "SR • Edu",
           "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
           "def": 0,
           "sof": 3.0,
           "ndef": 1,
-          "idx": 63.4,
-          "mvp": 3,
+          "idx": 66.6,
+          "mvp": 5,
           "pos": 12,
           "zona": "—"
         },
         {
-          "n": "linch",
+          "n": "SR • THIAGO",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -450,6 +450,21 @@
           "zona": "—"
         },
         {
+          "n": "linch",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 50,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 63.4,
+          "mvp": 3,
+          "pos": 14,
+          "zona": "—"
+        },
+        {
           "n": "matias?",
           "th": 18,
           "atk": 2,
@@ -461,7 +476,7 @@
           "ndef": 3,
           "idx": 62.9,
           "mvp": 7,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -476,7 +491,7 @@
           "ndef": 2,
           "idx": 58.8,
           "mvp": 5,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -491,7 +506,7 @@
           "ndef": 2,
           "idx": 52.5,
           "mvp": 4,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -506,21 +521,6 @@
           "ndef": 2,
           "idx": 50.1,
           "mvp": 4,
-          "pos": 17,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Edu",
-          "th": 18,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "idx": 46.2,
-          "mvp": 2,
           "pos": 18,
           "zona": "—"
         }
@@ -847,21 +847,6 @@
           "zona": "—"
         },
         {
-          "n": "irmão do jorel",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "idx": 66.8,
-          "mvp": 4,
-          "pos": 22,
-          "zona": "—"
-        },
-        {
           "n": "Sra Nunes",
           "th": 17,
           "atk": 1,
@@ -873,12 +858,27 @@
           "ndef": 2,
           "idx": 66.8,
           "mvp": 5,
-          "pos": 23,
+          "pos": 22,
           "zona": "—"
         },
         {
           "n": "Lider André 2",
           "th": 17,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 50,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "idx": 63.8,
+          "mvp": 4,
+          "pos": 23,
+          "zona": "—"
+        },
+        {
+          "n": "irmão do jorel",
+          "th": 18,
           "atk": 1,
           "est": 3,
           "spa": 3.0,
@@ -937,21 +937,6 @@
           "zona": "—"
         },
         {
-          "n": "Lider Andre",
-          "th": 18,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 50,
-          "def": 67,
-          "sof": 1.0,
-          "ndef": 1,
-          "idx": 56.2,
-          "mvp": 4,
-          "pos": 28,
-          "zona": "—"
-        },
-        {
           "n": "rei do crime",
           "th": 18,
           "atk": 2,
@@ -962,6 +947,21 @@
           "sof": 3.0,
           "ndef": 2,
           "idx": 55.5,
+          "mvp": 4,
+          "pos": 28,
+          "zona": "—"
+        },
+        {
+          "n": "Lider Andre",
+          "th": 18,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 50,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 2,
+          "idx": 50.2,
           "mvp": 4,
           "pos": 29,
           "zona": "—"
@@ -1139,6 +1139,21 @@
           "zona": "—"
         },
         {
+          "n": "GSAzevedo30 #2",
+          "th": 15,
+          "atk": 2,
+          "est": 4,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "idx": 53.9,
+          "mvp": 5,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "SR • Eduhh",
           "th": 15,
           "atk": 2,
@@ -1150,7 +1165,7 @@
           "ndef": 2,
           "idx": 46.3,
           "mvp": 4,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -1165,7 +1180,7 @@
           "ndef": 2,
           "idx": 43.6,
           "mvp": 3,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -1180,7 +1195,7 @@
           "ndef": 2,
           "idx": 40.8,
           "mvp": 2,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -1194,21 +1209,6 @@
           "sof": 3.0,
           "ndef": 1,
           "idx": 40.8,
-          "mvp": 2,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "GSAzevedo30 #2",
-          "th": 15,
-          "atk": 1,
-          "est": 1,
-          "spa": 1.0,
-          "conf": 50,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "idx": 28.4,
           "mvp": 2,
           "pos": 13,
           "zona": "—"

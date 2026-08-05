@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-05T03:33:45.863422Z",
+  "atualizado": "2026-08-05T06:09:50.105455Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -643,14 +643,18 @@
               "nome": "MAJ0R FiV3",
               "tag": "#QRJL0RGQR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
               "nome": "SR • Edu",
               "tag": "#PQYV8PYQQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1040,7 +1044,7 @@
               "tag": "#20UUPGPCV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Sr • Pbalestra",
@@ -1167,7 +1171,7 @@
               "tag": "#P2JCQRPGJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "F4KER",
@@ -1495,7 +1499,9 @@
               "nome": "GSAzevedo30 #2",
               "tag": "#29882J2L2",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
