@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-05T21:03:38.922429Z",
+  "atualizado": "2026-08-05T22:17:32.532408Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -311,7 +311,9 @@
               "nome": "marinaul war",
               "tag": "#8GGCQPYP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -359,7 +361,9 @@
               "nome": "Jan",
               "tag": "#2899CRJG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -766,7 +770,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
@@ -775,7 +779,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Reikan",
@@ -811,7 +815,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•GOD kratos",
@@ -1601,7 +1605,9 @@
               "nome": "irmão do jorel",
               "tag": "#P2JCQRPGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1632,7 +1638,7 @@
               "tag": "#82R9VYVGY",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "CoR1nG4 ×,×",
@@ -1814,7 +1820,7 @@
         {
           "g": 2,
           "vs": "*SORNA*",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
