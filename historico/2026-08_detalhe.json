@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-06T13:12:54.031330Z",
+  "atualizado": "2026-08-06T15:31:38.861848Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -446,21 +446,21 @@
               "tag": "#8GGCQPYP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • JON SNOW",
               "tag": "#LYV2J2LU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Henrique Nerath",
               "tag": "#2U8P0YQ92",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Dog Apollo",
@@ -473,21 +473,27 @@
               "nome": "tozim",
               "tag": "#9G22U9U2Y",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
               "nome": "SR • InTheDark☆",
               "tag": "#PQRRG2YCP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
               "nome": "SR • Giovanelli",
               "tag": "#PJ0YJLGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -502,27 +508,33 @@
               "tag": "#9UP90VGP8",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "KingOfBilada™",
               "tag": "#92PQV82G0",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 3
             },
             {
               "nome": "Levi_Neiva",
               "tag": "#C8R989YJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
               "nome": "Tony D. Chopper",
               "tag": "#8RC2LPCRR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -538,7 +550,9 @@
               "nome": "Nesk",
               "tag": "#99220V0Q8",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -546,7 +560,7 @@
               "tag": "#RRVQQPJ8",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             }
           ]
         }
@@ -1004,7 +1018,9 @@
               "nome": "JUNIOR SV",
               "tag": "#9YGJ00CRJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -1023,7 +1039,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
@@ -1066,7 +1082,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "PaiDeFamilia",
@@ -1729,7 +1745,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "LEANDRO",
@@ -1756,7 +1772,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "menolli",
@@ -1909,7 +1925,7 @@
               "atk": [
                 3
               ],
-              "def_est": 0
+              "def_est": 2
             },
             {
               "nome": "SR • Dennis",
@@ -1927,7 +1943,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "Líder André 3",
@@ -1936,7 +1952,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Jan™",
@@ -2284,7 +2300,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Gerion",
@@ -2293,7 +2309,7 @@
               "atk": [
                 1
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ghostface",
@@ -2329,7 +2345,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Honrado",
