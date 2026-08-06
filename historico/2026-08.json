@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-06T09:07:16.472329Z",
+  "atualizado": "2026-08-06T11:31:03.687251Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -270,6 +270,21 @@
           "zona": "promo"
         },
         {
+          "n": "MAJ0R FiV3",
+          "th": 18,
+          "atk": 4,
+          "est": 12,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 22,
+          "sof": 2.3,
+          "ndef": 3,
+          "idx": 79.4,
+          "mvp": 14,
+          "pos": 2,
+          "zona": "promo"
+        },
+        {
           "n": "n a t h a n",
           "th": 18,
           "atk": 1,
@@ -281,7 +296,7 @@
           "ndef": 1,
           "idx": 75.2,
           "mvp": 3,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -296,7 +311,37 @@
           "ndef": 3,
           "idx": 75.2,
           "mvp": 12,
-          "pos": 3,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
+          "n": "ROBERTHWILLIAMM",
+          "th": 18,
+          "atk": 4,
+          "est": 12,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 3,
+          "idx": 75.2,
+          "mvp": 12,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
+          "n": "linch",
+          "th": 18,
+          "atk": 3,
+          "est": 9,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 75.2,
+          "mvp": 9,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -311,22 +356,22 @@
           "ndef": 4,
           "idx": 74.0,
           "mvp": 12,
-          "pos": 4,
+          "pos": 7,
           "zona": "—"
         },
         {
-          "n": "MAJ0R FiV3",
+          "n": "SR - JON SNOW 2",
           "th": 18,
-          "atk": 3,
-          "est": 9,
-          "spa": 3.0,
-          "conf": 75,
-          "def": 22,
-          "sof": 2.3,
-          "ndef": 3,
-          "idx": 73.5,
+          "atk": 4,
+          "est": 11,
+          "spa": 2.75,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 4,
+          "idx": 70.9,
           "mvp": 11,
-          "pos": 5,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -341,7 +386,7 @@
           "ndef": 2,
           "idx": 69.7,
           "mvp": 6,
-          "pos": 6,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -353,10 +398,10 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 2,
+          "ndef": 3,
           "idx": 69.5,
           "mvp": 8,
-          "pos": 7,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -371,22 +416,7 @@
           "ndef": 4,
           "idx": 69.3,
           "mvp": 9,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "ROBERTHWILLIAMM",
-          "th": 18,
-          "atk": 3,
-          "est": 9,
-          "spa": 3.0,
-          "conf": 75,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 3,
-          "idx": 69.3,
-          "mvp": 9,
-          "pos": 9,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -401,22 +431,7 @@
           "ndef": 3,
           "idx": 67.8,
           "mvp": 10,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "linch",
-          "th": 18,
-          "atk": 2,
-          "est": 6,
-          "spa": 3.0,
-          "conf": 67,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "idx": 67.4,
-          "mvp": 6,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -431,7 +446,7 @@
           "ndef": 2,
           "idx": 66.6,
           "mvp": 5,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -446,21 +461,6 @@
           "ndef": 3,
           "idx": 65.7,
           "mvp": 9,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "SR - JON SNOW 2",
-          "th": 18,
-          "atk": 3,
-          "est": 8,
-          "spa": 2.67,
-          "conf": 75,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
-          "idx": 63.6,
-          "mvp": 8,
           "pos": 14,
           "zona": "—"
         },
@@ -516,10 +516,10 @@
           "est": 3,
           "spa": 1.5,
           "conf": 67,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "idx": 44.7,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "idx": 43.6,
           "mvp": 4,
           "pos": 18,
           "zona": "—"
@@ -900,9 +900,9 @@
           "conf": 100,
           "def": 33,
           "sof": 2.0,
-          "ndef": 2,
+          "ndef": 3,
           "idx": 67.0,
-          "mvp": 9,
+          "mvp": 10,
           "pos": 25,
           "zona": "—"
         },
@@ -1049,7 +1049,7 @@
           "zona": "promo"
         },
         {
-          "n": "Nesk'",
+          "n": "B E L L I O N™",
           "th": 16,
           "atk": 3,
           "est": 8,
@@ -1064,16 +1064,16 @@
           "zona": "—"
         },
         {
-          "n": "B E L L I O N™",
+          "n": "Nesk'",
           "th": 16,
           "atk": 3,
           "est": 8,
           "spa": 2.67,
           "conf": 100,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "idx": 64.1,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "idx": 63.2,
           "mvp": 9,
           "pos": 4,
           "zona": "—"
@@ -1102,14 +1102,14 @@
           "conf": 67,
           "def": 0,
           "sof": 3.0,
-          "ndef": 2,
+          "ndef": 3,
           "idx": 59.5,
           "mvp": 6,
           "pos": 6,
           "zona": "—"
         },
         {
-          "n": "PaulinhoPH",
+          "n": "GSAzevedo30 #2",
           "th": 15,
           "atk": 3,
           "est": 7,
@@ -1124,16 +1124,16 @@
           "zona": "—"
         },
         {
-          "n": "GSAzevedo30 #2",
+          "n": "PaulinhoPH",
           "th": 15,
           "atk": 3,
           "est": 7,
           "spa": 2.33,
           "conf": 100,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "idx": 59.0,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "idx": 58.1,
           "mvp": 8,
           "pos": 8,
           "zona": "—"
@@ -1154,6 +1154,21 @@
           "zona": "—"
         },
         {
+          "n": "Wilson z2",
+          "th": 15,
+          "atk": 3,
+          "est": 6,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "idx": 53.9,
+          "mvp": 7,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
           "n": "☆InTheDark☆",
           "th": 15,
           "atk": 2,
@@ -1162,10 +1177,10 @@
           "conf": 67,
           "def": 0,
           "sof": 3.0,
-          "ndef": 2,
+          "ndef": 3,
           "idx": 51.9,
           "mvp": 5,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -1175,12 +1190,12 @@
           "est": 5,
           "spa": 1.67,
           "conf": 100,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "idx": 48.9,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "idx": 48.0,
           "mvp": 6,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -1195,7 +1210,7 @@
           "ndef": 3,
           "idx": 46.1,
           "mvp": 5,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -1210,21 +1225,6 @@
           "ndef": 1,
           "idx": 43.6,
           "mvp": 3,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "Wilson z2",
-          "th": 15,
-          "atk": 2,
-          "est": 3,
-          "spa": 1.5,
-          "conf": 67,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "idx": 39.4,
-          "mvp": 4,
           "pos": 14,
           "zona": "—"
         },
