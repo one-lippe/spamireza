@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-05T23:19:29.703384Z",
+  "atualizado": "2026-08-06T00:12:58.350173Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -338,7 +338,9 @@
               "nome": "Henrique Nerath",
               "tag": "#2U8P0YQ92",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1498,7 +1500,9 @@
               "nome": "menolli",
               "tag": "#RGYQYP9U",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1638,7 +1642,9 @@
               "nome": "Darth Revan",
               "tag": "#8R280VRCQ",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 0
             },
             {
@@ -1666,8 +1672,10 @@
               "nome": "Jan™",
               "tag": "#CJV9G22Q",
               "th": 17,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 3
             },
             {
               "nome": "B E R U 炎",
@@ -1976,7 +1984,9 @@
               "nome": "SR • Balestra",
               "tag": "#8UJY9C8RQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
