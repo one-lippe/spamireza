@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T06:20:01.178864Z",
+  "atualizado": "2026-08-07T07:47:12.551923Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -68,22 +68,22 @@
           "zona": "—"
         },
         {
-          "n": "Nesk",
+          "n": "I G R I S ™",
           "th": 18,
           "atk": 4,
           "est": 12,
           "spa": 3.0,
           "conf": 100,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 3,
-          "idx": 82.2,
+          "def": 8,
+          "sof": 2.8,
+          "ndef": 4,
+          "idx": 81.7,
           "mvp": 13,
           "pos": 5,
           "zona": "—"
         },
         {
-          "n": "I G R I S ™",
+          "n": "Nesk",
           "th": 18,
           "atk": 4,
           "est": 12,
@@ -300,17 +300,17 @@
           "zona": "promo"
         },
         {
-          "n": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
+          "n": "ROBERTHWILLIAMM",
           "th": 18,
-          "atk": 4,
-          "est": 12,
+          "atk": 5,
+          "est": 15,
           "spa": 3.0,
-          "conf": 80,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 4,
-          "idx": 73.6,
-          "mvp": 14,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 3,
+          "idx": 75.2,
+          "mvp": 15,
           "pos": 3,
           "zona": "—"
         },
@@ -330,6 +330,21 @@
           "zona": "—"
         },
         {
+          "n": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
+          "th": 18,
+          "atk": 4,
+          "est": 12,
+          "spa": 3.0,
+          "conf": 80,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "idx": 73.0,
+          "mvp": 14,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
           "n": "SR • Edu",
           "th": 18,
           "atk": 4,
@@ -341,7 +356,7 @@
           "ndef": 3,
           "idx": 70.9,
           "mvp": 11,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -356,7 +371,7 @@
           "ndef": 4,
           "idx": 70.5,
           "mvp": 12,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -371,37 +386,7 @@
           "ndef": 4,
           "idx": 70.5,
           "mvp": 12,
-          "pos": 7,
-          "zona": "—"
-        },
-        {
-          "n": "ROBERTHWILLIAMM",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 3,
-          "idx": 70.5,
-          "mvp": 12,
           "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "matias?",
-          "th": 18,
-          "atk": 4,
-          "est": 11,
-          "spa": 2.75,
-          "conf": 80,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 4,
-          "idx": 69.3,
-          "mvp": 13,
-          "pos": 9,
           "zona": "—"
         },
         {
@@ -416,6 +401,21 @@
           "ndef": 3,
           "idx": 69.3,
           "mvp": 9,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
+          "n": "matias?",
+          "th": 18,
+          "atk": 4,
+          "est": 11,
+          "spa": 2.75,
+          "conf": 80,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "idx": 68.7,
+          "mvp": 13,
           "pos": 10,
           "zona": "—"
         },
@@ -583,11 +583,11 @@
           "est": 12,
           "spa": 3.0,
           "conf": 100,
-          "def": 44,
-          "sof": 1.7,
-          "ndef": 3,
-          "idx": 80.0,
-          "mvp": 16,
+          "def": 42,
+          "sof": 1.8,
+          "ndef": 4,
+          "idx": 79.5,
+          "mvp": 17,
           "pos": 3,
           "zona": "—"
         },

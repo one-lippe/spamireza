@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T06:20:01.181078Z",
+  "atualizado": "2026-08-07T07:47:12.554083Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -563,7 +563,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "I G R I S ™",
@@ -1186,7 +1186,7 @@
               "tag": "#V88C2Y99",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "linch",
@@ -1251,13 +1251,15 @@
               "tag": "#RCQQUGC9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "ROBERTHWILLIAMM",
               "tag": "#G2V22VQUY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2338,7 +2340,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Líder André 3",
