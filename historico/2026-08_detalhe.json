@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T22:24:10.041970Z",
+  "atualizado": "2026-08-07T23:01:46.596825Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3270,7 +3270,7 @@
               "tag": "#GVLGQ098",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Eduhh",
