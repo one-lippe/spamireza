@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T18:53:51.782602Z",
+  "atualizado": "2026-08-07T19:42:56.460590Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1415,7 +1415,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • DuM∆R",
@@ -2660,7 +2660,9 @@
               "nome": "Duff",
               "tag": "#QQC298JUC",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2697,7 +2699,9 @@
               "nome": "ayumatsui",
               "tag": "#QPJ209J89",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3218,7 +3222,9 @@
               "nome": "SR • Caibreck",
               "tag": "#PUPQ0RC92",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -3276,7 +3282,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Honrado",
