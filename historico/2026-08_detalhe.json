@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T10:35:03.082751Z",
+  "atualizado": "2026-08-07T11:26:19.224352Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1223,7 +1223,7 @@
               "tag": "#2GCJ8QC92",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Edu",
@@ -2857,14 +2857,18 @@
               "nome": "SR • Eduhh",
               "tag": "#2Q9RYUCCP",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
               "nome": "Wilson z2",
               "tag": "#2RLG220GY",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -2879,7 +2883,7 @@
               "tag": "#LL8GP2CQP",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "-Meliodas-",
@@ -2901,7 +2905,9 @@
               "nome": "Ligeirinh2xD",
               "tag": "#GCC98R22R",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2909,7 +2915,7 @@
               "tag": "#PR0R0VC9P",
               "th": 14,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }

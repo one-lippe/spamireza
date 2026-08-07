@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T10:35:03.080559Z",
+  "atualizado": "2026-08-07T11:26:19.222693Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -368,7 +368,7 @@
           "conf": 80,
           "def": 0,
           "sof": 3.0,
-          "ndef": 4,
+          "ndef": 5,
           "idx": 70.5,
           "mvp": 12,
           "pos": 7,
@@ -1051,15 +1051,15 @@
         {
           "n": "Ligeirinh2xD",
           "th": 15,
-          "atk": 3,
-          "est": 9,
+          "atk": 4,
+          "est": 12,
           "spa": 3.0,
-          "conf": 75,
+          "conf": 100,
           "def": 0,
           "sof": 3.0,
           "ndef": 3,
-          "idx": 61.2,
-          "mvp": 9,
+          "idx": 66.4,
+          "mvp": 12,
           "pos": 2,
           "zona": "promo"
         },
@@ -1139,6 +1139,21 @@
           "zona": "—"
         },
         {
+          "n": "Wilson z2",
+          "th": 15,
+          "atk": 4,
+          "est": 8,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "idx": 53.0,
+          "mvp": 9,
+          "pos": 8,
+          "zona": "—"
+        },
+        {
           "n": "PaulinhoPH",
           "th": 15,
           "atk": 3,
@@ -1150,7 +1165,7 @@
           "ndef": 3,
           "idx": 52.9,
           "mvp": 8,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -1165,7 +1180,22 @@
           "ndef": 3,
           "idx": 51.1,
           "mvp": 7,
-          "pos": 9,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
+          "n": "SR • Eduhh",
+          "th": 15,
+          "atk": 4,
+          "est": 7,
+          "spa": 1.75,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "idx": 49.2,
+          "mvp": 8,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -1177,39 +1207,9 @@
           "conf": 50,
           "def": 0,
           "sof": 3.0,
-          "ndef": 3,
+          "ndef": 4,
           "idx": 48.4,
           "mvp": 5,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "Wilson z2",
-          "th": 15,
-          "atk": 3,
-          "est": 6,
-          "spa": 2.0,
-          "conf": 75,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 3,
-          "idx": 47.8,
-          "mvp": 7,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Eduhh",
-          "th": 15,
-          "atk": 3,
-          "est": 5,
-          "spa": 1.67,
-          "conf": 75,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 3,
-          "idx": 42.8,
-          "mvp": 6,
           "pos": 12,
           "zona": "—"
         },
@@ -1237,7 +1237,7 @@
           "conf": 50,
           "def": 0,
           "sof": 3.0,
-          "ndef": 1,
+          "ndef": 2,
           "idx": 40.8,
           "mvp": 2,
           "pos": 14,
