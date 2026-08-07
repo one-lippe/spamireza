@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T11:26:19.224352Z",
+  "atualizado": "2026-08-07T12:05:39.989759Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -517,7 +517,9 @@
               "nome": "Vittor Honorio",
               "tag": "#9UP90VGP8",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1245,7 +1247,9 @@
               "nome": "Levi_Neiva 2",
               "tag": "#90GRYGJVP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
