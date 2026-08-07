@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T21:06:20.443289Z",
+  "atualizado": "2026-08-07T21:51:12.112484Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -648,7 +648,7 @@
               "tag": "#9UP90VGP8",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Levi_Neiva",
@@ -1424,7 +1424,7 @@
               "tag": "#YQRJL098P",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             }
           ]
         }
@@ -3218,7 +3218,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • Caibreck",
