@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T09:42:40.407931Z",
+  "atualizado": "2026-08-07T10:35:03.082751Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1206,7 +1206,9 @@
               "nome": "TomorrowBr",
               "tag": "#YPJLVPL9U",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -2308,7 +2310,7 @@
               "tag": "#QQQ8VQPL0",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Sra Nunes",
@@ -2323,7 +2325,9 @@
               "nome": "Darth Revan",
               "tag": "#8R280VRCQ",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -2812,7 +2816,7 @@
               "tag": "#PUPQ0RC92",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Nesk'",

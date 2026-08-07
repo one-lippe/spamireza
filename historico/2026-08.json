@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T09:42:40.405782Z",
+  "atualizado": "2026-08-07T10:35:03.080559Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -480,6 +480,21 @@
           "zona": "—"
         },
         {
+          "n": "TomorrowBr",
+          "th": 18,
+          "atk": 4,
+          "est": 9,
+          "spa": 2.25,
+          "conf": 100,
+          "def": 8,
+          "sof": 2.8,
+          "ndef": 4,
+          "idx": 63.8,
+          "mvp": 10,
+          "pos": 15,
+          "zona": "—"
+        },
+        {
           "n": "KingMpg",
           "th": 18,
           "atk": 3,
@@ -491,7 +506,7 @@
           "ndef": 3,
           "idx": 63.7,
           "mvp": 7,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -506,7 +521,7 @@
           "ndef": 2,
           "idx": 61.9,
           "mvp": 6,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -521,23 +536,8 @@
           "ndef": 2,
           "idx": 58.8,
           "mvp": 5,
-          "pos": 17,
-          "zona": "—"
-        },
-        {
-          "n": "TomorrowBr",
-          "th": 18,
-          "atk": 3,
-          "est": 6,
-          "spa": 2.0,
-          "conf": 75,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "idx": 53.7,
-          "mvp": 7,
           "pos": 18,
-          "zona": "rebx"
+          "zona": "—"
         }
       ]
     },
@@ -727,7 +727,7 @@
           "zona": "—"
         },
         {
-          "n": "Jan™",
+          "n": "Darth Revan",
           "th": 17,
           "atk": 4,
           "est": 12,
@@ -742,22 +742,22 @@
           "zona": "—"
         },
         {
-          "n": "Lider André 2",
+          "n": "Jan™",
           "th": 17,
-          "atk": 3,
-          "est": 9,
+          "atk": 4,
+          "est": 12,
           "spa": 3.0,
-          "conf": 75,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 3,
-          "idx": 72.4,
-          "mvp": 12,
+          "conf": 100,
+          "def": 8,
+          "sof": 2.8,
+          "ndef": 4,
+          "idx": 73.5,
+          "mvp": 13,
           "pos": 14,
           "zona": "—"
         },
         {
-          "n": "F4KER",
+          "n": "Lider André 2",
           "th": 17,
           "atk": 3,
           "est": 9,
@@ -817,6 +817,21 @@
           "zona": "—"
         },
         {
+          "n": "F4KER",
+          "th": 17,
+          "atk": 3,
+          "est": 9,
+          "spa": 3.0,
+          "conf": 75,
+          "def": 25,
+          "sof": 2.2,
+          "ndef": 4,
+          "idx": 70.9,
+          "mvp": 12,
+          "pos": 19,
+          "zona": "—"
+        },
+        {
           "n": "SR • One☆",
           "th": 17,
           "atk": 3,
@@ -828,7 +843,7 @@
           "ndef": 3,
           "idx": 70.4,
           "mvp": 11,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -843,7 +858,7 @@
           "ndef": 4,
           "idx": 69.4,
           "mvp": 11,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -858,21 +873,6 @@
           "ndef": 3,
           "idx": 68.5,
           "mvp": 8,
-          "pos": 21,
-          "zona": "—"
-        },
-        {
-          "n": "Darth Revan",
-          "th": 17,
-          "atk": 3,
-          "est": 9,
-          "spa": 3.0,
-          "conf": 75,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "idx": 67.9,
-          "mvp": 10,
           "pos": 22,
           "zona": "—"
         },
@@ -1222,7 +1222,7 @@
           "conf": 75,
           "def": 0,
           "sof": 3.0,
-          "ndef": 3,
+          "ndef": 4,
           "idx": 40.9,
           "mvp": 5,
           "pos": 13,
