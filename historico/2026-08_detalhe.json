@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T17:59:04.877609Z",
+  "atualizado": "2026-08-07T18:53:51.782602Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1397,13 +1397,15 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "matias?",
               "tag": "#RCQQUGC9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -2665,7 +2667,9 @@
               "nome": "Ligeirinh0xD",
               "tag": "#GRR2G9LP0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2708,7 +2712,7 @@
               "tag": "#QQQ8VQPL0",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Fernandes^",
@@ -3278,7 +3282,9 @@
               "nome": "Honrado",
               "tag": "#G9RR0JYUC",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
