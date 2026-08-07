@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T20:23:17.788868Z",
+  "atualizado": "2026-08-07T21:06:20.443289Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1369,7 +1369,9 @@
               "nome": "PaiDeFamilia",
               "tag": "#2GCJ8QC92",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -2553,7 +2555,7 @@
               "tag": "#LLLU0VQCL",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Sene",
@@ -2730,7 +2732,7 @@
               "tag": "#22JQULR22",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Darth Revan",
@@ -3240,7 +3242,9 @@
               "nome": "Gerion",
               "tag": "#YP9L000LG",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
@@ -3248,7 +3252,7 @@
               "tag": "#JLYPQP80",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Ghostface",

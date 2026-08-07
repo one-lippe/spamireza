@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T20:23:17.786586Z",
+  "atualizado": "2026-08-07T21:06:20.441331Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -330,7 +330,7 @@
           "zona": "—"
         },
         {
-          "n": "Levi_Neiva 2",
+          "n": "PaiDeFamilia",
           "th": 18,
           "atk": 5,
           "est": 15,
@@ -345,6 +345,21 @@
           "zona": "—"
         },
         {
+          "n": "Levi_Neiva 2",
+          "th": 18,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 5,
+          "idx": 75.2,
+          "mvp": 15,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
           "n": "ROBERTHWILLIAMM",
           "th": 18,
           "atk": 5,
@@ -356,7 +371,7 @@
           "ndef": 4,
           "idx": 75.2,
           "mvp": 15,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -371,7 +386,7 @@
           "ndef": 3,
           "idx": 75.2,
           "mvp": 12,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -386,7 +401,7 @@
           "ndef": 3,
           "idx": 75.1,
           "mvp": 13,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -401,7 +416,7 @@
           "ndef": 5,
           "idx": 74.3,
           "mvp": 16,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -416,7 +431,7 @@
           "ndef": 5,
           "idx": 73.0,
           "mvp": 15,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -431,7 +446,7 @@
           "ndef": 4,
           "idx": 71.8,
           "mvp": 14,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -446,21 +461,6 @@
           "ndef": 4,
           "idx": 70.9,
           "mvp": 11,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "PaiDeFamilia",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 5,
-          "idx": 70.5,
-          "mvp": 12,
           "pos": 13,
           "zona": "—"
         },
@@ -727,23 +727,23 @@
           "zona": "—"
         },
         {
-          "n": "SrNunes",
-          "th": 18,
+          "n": "Sra Nunes",
+          "th": 17,
           "atk": 4,
           "est": 12,
           "spa": 3.0,
           "conf": 80,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 4,
-          "idx": 70.5,
-          "mvp": 14,
+          "def": 20,
+          "sof": 2.4,
+          "ndef": 5,
+          "idx": 71.1,
+          "mvp": 15,
           "pos": 13,
           "zona": "—"
         },
         {
-          "n": "·Holtser Ω",
-          "th": 17,
+          "n": "SrNunes",
+          "th": 18,
           "atk": 4,
           "est": 12,
           "spa": 3.0,
@@ -757,7 +757,7 @@
           "zona": "—"
         },
         {
-          "n": "Sra Nunes",
+          "n": "·Holtser Ω",
           "th": 17,
           "atk": 4,
           "est": 12,
@@ -787,22 +787,22 @@
           "zona": "—"
         },
         {
-          "n": "SR • The off",
+          "n": "Agnes",
           "th": 18,
           "atk": 4,
           "est": 12,
           "spa": 3.0,
           "conf": 80,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 3,
-          "idx": 69.5,
-          "mvp": 13,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "idx": 69.9,
+          "mvp": 14,
           "pos": 17,
           "zona": "—"
         },
         {
-          "n": "irmão do jorel",
+          "n": "SR • The off",
           "th": 18,
           "atk": 4,
           "est": 12,
@@ -817,6 +817,21 @@
           "zona": "—"
         },
         {
+          "n": "irmão do jorel",
+          "th": 18,
+          "atk": 4,
+          "est": 12,
+          "spa": 3.0,
+          "conf": 80,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "idx": 69.5,
+          "mvp": 13,
+          "pos": 19,
+          "zona": "—"
+        },
+        {
           "n": "Lider André 2",
           "th": 17,
           "atk": 4,
@@ -828,21 +843,6 @@
           "ndef": 3,
           "idx": 69.4,
           "mvp": 14,
-          "pos": 19,
-          "zona": "—"
-        },
-        {
-          "n": "Agnes",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "idx": 69.0,
-          "mvp": 13,
           "pos": 20,
           "zona": "—"
         },
@@ -1094,6 +1094,21 @@
           "zona": "—"
         },
         {
+          "n": "B E L L I O N™",
+          "th": 16,
+          "atk": 3,
+          "est": 8,
+          "spa": 2.67,
+          "conf": 75,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 4,
+          "idx": 58.9,
+          "mvp": 10,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
           "n": "Honrado",
           "th": 16,
           "atk": 4,
@@ -1105,21 +1120,6 @@
           "ndef": 3,
           "idx": 58.8,
           "mvp": 10,
-          "pos": 5,
-          "zona": "—"
-        },
-        {
-          "n": "B E L L I O N™",
-          "th": 16,
-          "atk": 3,
-          "est": 8,
-          "spa": 2.67,
-          "conf": 75,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 3,
-          "idx": 58.0,
-          "mvp": 9,
           "pos": 6,
           "zona": "—"
         },
@@ -1214,6 +1214,21 @@
           "zona": "—"
         },
         {
+          "n": "Gerion",
+          "th": 16,
+          "atk": 3,
+          "est": 5,
+          "spa": 1.67,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "idx": 48.0,
+          "mvp": 6,
+          "pos": 13,
+          "zona": "—"
+        },
+        {
           "n": "SR • Caibreck",
           "th": 16,
           "atk": 4,
@@ -1225,7 +1240,7 @@
           "ndef": 4,
           "idx": 47.4,
           "mvp": 7,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -1240,21 +1255,6 @@
           "ndef": 2,
           "idx": 40.8,
           "mvp": 2,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "Gerion",
-          "th": 16,
-          "atk": 2,
-          "est": 3,
-          "spa": 1.5,
-          "conf": 67,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 3,
-          "idx": 38.5,
-          "mvp": 4,
           "pos": 15,
           "zona": "—"
         },
