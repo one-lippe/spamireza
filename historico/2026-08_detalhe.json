@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T00:28:42.158726Z",
+  "atualizado": "2026-08-07T03:27:32.675032Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -463,7 +463,9 @@
               "nome": "Henrique Nerath",
               "tag": "#2U8P0YQ92",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -473,7 +475,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "tozim",
@@ -534,7 +536,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Tony D. Chopper",
@@ -1040,7 +1042,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "linch",
@@ -2091,21 +2093,27 @@
               "nome": "SR . Kcatoyo",
               "tag": "#20GJVUJLU",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 1
             },
             {
               "nome": "rei do crime",
               "tag": "#RP8VCCUV",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
               "nome": "SR • The off",
               "tag": "#YJ2JLPQGR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -2133,13 +2141,15 @@
               "atk": [
                 1
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Duff",
               "tag": "#QQC298JUC",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -2163,7 +2173,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "irmão do jorel",
@@ -2172,7 +2182,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "F4KER",
@@ -2185,7 +2195,9 @@
               "nome": "Sra Nunes",
               "tag": "#22JQULR22",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -2206,7 +2218,9 @@
               "nome": "CoR1nG4 ×,×",
               "tag": "#9PJL20YUU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2669,7 +2683,9 @@
               "nome": "SR • Balestra",
               "tag": "#8UJY9C8RQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2733,7 +2749,7 @@
               "tag": "#G9RR0JYUC",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "☆InTheDark☆",
@@ -2747,7 +2763,7 @@
               "tag": "#2J0G8Y80C",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30 #2",
