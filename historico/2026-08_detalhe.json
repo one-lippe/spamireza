@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T16:14:13.761899Z",
+  "atualizado": "2026-08-07T17:08:43.250603Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -670,7 +670,9 @@
               "nome": "SR • C∆iç∆r∆",
               "tag": "#GL0PRCU9L",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -680,7 +682,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30",
@@ -1327,7 +1329,9 @@
               "nome": "linch",
               "tag": "#Q09UU0CL",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1380,7 +1384,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Levi_Neiva 2",
@@ -2598,7 +2602,9 @@
               "nome": "nonick",
               "tag": "#G890RJVCR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -2612,7 +2618,9 @@
               "nome": "SR . Kcatoyo",
               "tag": "#20GJVUJLU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2655,7 +2663,7 @@
               "tag": "#8GG88V2PU",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • One☆",
