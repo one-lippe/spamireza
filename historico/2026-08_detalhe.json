@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-07T19:42:56.460590Z",
+  "atualizado": "2026-08-07T20:23:17.788868Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -641,7 +641,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Vittor Honorio",
