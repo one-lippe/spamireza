@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T17:50:18.603096Z",
+  "atualizado": "2026-08-08T18:15:44.836787Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -235,17 +235,17 @@
         {
           "n": "SR • C∆iç∆r∆",
           "th": 18,
-          "atk": 2,
-          "est": 5,
-          "spa": 2.5,
-          "conf": 67,
+          "atk": 3,
+          "est": 7,
+          "spa": 2.33,
+          "conf": 100,
           "def": 17,
           "sof": 2.5,
           "ndef": 2,
-          "idx": 65.8,
-          "mvp": 6,
+          "idx": 71.1,
+          "mvp": 8,
           "pos": 16,
-          "zona": "—"
+          "zona": "rebx"
         },
         {
           "n": "Vittor Honorio",

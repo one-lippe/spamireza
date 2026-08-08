@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T17:50:18.605691Z",
+  "atualizado": "2026-08-08T18:15:44.839526Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -809,7 +809,9 @@
               "nome": "SR • C∆iç∆r∆",
               "tag": "#GL0PRCU9L",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
