@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T00:31:24.673006Z",
+  "atualizado": "2026-08-08T02:31:03.465079Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -68,6 +68,21 @@
           "zona": "—"
         },
         {
+          "n": "Henrique Nerath",
+          "th": 18,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 5,
+          "idx": 80.0,
+          "mvp": 15,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
           "n": "Dog Apollo",
           "th": 18,
           "atk": 5,
@@ -79,7 +94,7 @@
           "ndef": 4,
           "idx": 80.0,
           "mvp": 15,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -94,7 +109,7 @@
           "ndef": 5,
           "idx": 80.0,
           "mvp": 15,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -109,7 +124,7 @@
           "ndef": 4,
           "idx": 78.3,
           "mvp": 14,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -124,7 +139,7 @@
           "ndef": 5,
           "idx": 77.7,
           "mvp": 15,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -139,7 +154,7 @@
           "ndef": 5,
           "idx": 77.7,
           "mvp": 15,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -154,7 +169,7 @@
           "ndef": 3,
           "idx": 77.6,
           "mvp": 12,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -169,7 +184,7 @@
           "ndef": 1,
           "idx": 77.5,
           "mvp": 6,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -184,7 +199,7 @@
           "ndef": 4,
           "idx": 77.1,
           "mvp": 12,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -199,21 +214,6 @@
           "ndef": 4,
           "idx": 76.7,
           "mvp": 13,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "Henrique Nerath",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 5,
-          "idx": 75.0,
-          "mvp": 12,
           "pos": 14,
           "zona": "—"
         },
@@ -250,15 +250,15 @@
         {
           "n": "Vittor Honorio",
           "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
           "def": 0,
           "sof": 3.0,
           "ndef": 2,
-          "idx": 67.5,
-          "mvp": 3,
+          "idx": 70.8,
+          "mvp": 5,
           "pos": 17,
           "zona": "—"
         }
@@ -488,7 +488,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 2,
+          "ndef": 3,
           "idx": 69.5,
           "mvp": 8,
           "pos": 15,
@@ -660,9 +660,9 @@
           "conf": 80,
           "def": 33,
           "sof": 2.0,
-          "ndef": 4,
+          "ndef": 5,
           "idx": 73.5,
-          "mvp": 16,
+          "mvp": 17,
           "pos": 8,
           "zona": "—"
         },
@@ -787,6 +787,21 @@
           "zona": "—"
         },
         {
+          "n": "Líder André 3",
+          "th": 17,
+          "atk": 3,
+          "est": 9,
+          "spa": 3.0,
+          "conf": 75,
+          "def": 25,
+          "sof": 2.2,
+          "ndef": 4,
+          "idx": 70.9,
+          "mvp": 12,
+          "pos": 17,
+          "zona": "—"
+        },
+        {
           "n": "SrNunes",
           "th": 18,
           "atk": 4,
@@ -798,21 +813,6 @@
           "ndef": 4,
           "idx": 70.5,
           "mvp": 14,
-          "pos": 17,
-          "zona": "—"
-        },
-        {
-          "n": "Líder André 3",
-          "th": 17,
-          "atk": 3,
-          "est": 9,
-          "spa": 3.0,
-          "conf": 75,
-          "def": 22,
-          "sof": 2.3,
-          "ndef": 3,
-          "idx": 70.4,
-          "mvp": 11,
           "pos": 18,
           "zona": "—"
         },
@@ -975,7 +975,7 @@
           "conf": 80,
           "def": 0,
           "sof": 3.0,
-          "ndef": 4,
+          "ndef": 5,
           "idx": 59.3,
           "mvp": 10,
           "pos": 29,
@@ -1036,16 +1036,31 @@
         {
           "n": "SR • Balestra",
           "th": 18,
-          "atk": 4,
-          "est": 11,
-          "spa": 2.75,
-          "conf": 80,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 100,
           "def": 33,
           "sof": 2.0,
           "ndef": 4,
-          "idx": 64.0,
-          "mvp": 15,
+          "idx": 68.9,
+          "mvp": 18,
           "pos": 1,
+          "zona": "promo"
+        },
+        {
+          "n": "Nesk'",
+          "th": 16,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "idx": 65.2,
+          "mvp": 15,
+          "pos": 2,
           "zona": "promo"
         },
         {
@@ -1060,22 +1075,22 @@
           "ndef": 4,
           "idx": 62.2,
           "mvp": 12,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
-          "n": "Nesk'",
-          "th": 16,
-          "atk": 4,
-          "est": 11,
-          "spa": 2.75,
-          "conf": 80,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 3,
-          "idx": 60.3,
-          "mvp": 12,
-          "pos": 3,
+          "n": "GSAzevedo30 #2",
+          "th": 15,
+          "atk": 5,
+          "est": 12,
+          "spa": 2.4,
+          "conf": 100,
+          "def": 8,
+          "sof": 2.8,
+          "ndef": 4,
+          "idx": 58.7,
+          "mvp": 13,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -1090,21 +1105,6 @@
           "ndef": 4,
           "idx": 57.3,
           "mvp": 12,
-          "pos": 4,
-          "zona": "—"
-        },
-        {
-          "n": "GSAzevedo30 #2",
-          "th": 15,
-          "atk": 4,
-          "est": 10,
-          "spa": 2.5,
-          "conf": 80,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "idx": 56.0,
-          "mvp": 11,
           "pos": 5,
           "zona": "—"
         },

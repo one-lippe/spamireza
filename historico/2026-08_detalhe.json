@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T00:31:24.675319Z",
+  "atualizado": "2026-08-08T02:31:03.467413Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -633,7 +633,9 @@
               "nome": "Henrique Nerath",
               "tag": "#2U8P0YQ92",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -649,7 +651,9 @@
               "nome": "Vittor Honorio",
               "tag": "#9UP90VGP8",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -1311,7 +1315,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Neskau",
@@ -2566,7 +2570,7 @@
               "tag": "#8JQJYQC",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SrNunes",
@@ -2580,7 +2584,7 @@
               "tag": "#YVU0L88P",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "LEANDRO",
@@ -2774,7 +2778,7 @@
               "tag": "#GY0Q0VRL0",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Jan™",
@@ -3366,7 +3370,9 @@
               "nome": "SR • Balestra",
               "tag": "#8UJY9C8RQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3380,7 +3386,9 @@
               "nome": "Nesk'",
               "tag": "#YCRJU229",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3452,7 +3460,9 @@
               "nome": "GSAzevedo30 #2",
               "tag": "#29882J2L2",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
