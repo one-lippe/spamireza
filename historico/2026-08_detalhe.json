@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T18:59:22.078190Z",
+  "atualizado": "2026-08-08T19:28:57.071801Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -803,7 +803,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • C∆iç∆r∆",
@@ -830,7 +830,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Nesk",
@@ -3098,7 +3098,9 @@
               "nome": "Agnes",
               "tag": "#LLLU0VQCL",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -3112,7 +3114,9 @@
               "nome": "SrNunes",
               "tag": "#2LY8G8Y9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
@@ -3261,7 +3265,9 @@
               "nome": "Sra Nunes",
               "tag": "#22JQULR22",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3917,7 +3923,7 @@
               "atk": [
                 1
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Ghostface",
