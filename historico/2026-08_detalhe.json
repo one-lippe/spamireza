@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T20:49:27.888399Z",
+  "atualizado": "2026-08-08T21:13:46.724794Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -745,7 +745,9 @@
               "nome": "tozim",
               "tag": "#9G22U9U2Y",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3212,7 +3214,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "·Holtser Ω",
