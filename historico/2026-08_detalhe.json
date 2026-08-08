@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T19:53:35.839636Z",
+  "atualizado": "2026-08-08T20:16:03.512648Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3175,7 +3175,7 @@
               "tag": "#20GJVUJLU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "rei do crime",
@@ -3209,7 +3209,9 @@
               "nome": "Ligeirinh0xD",
               "tag": "#GRR2G9LP0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
