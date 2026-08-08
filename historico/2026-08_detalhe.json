@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T02:31:03.467413Z",
+  "atualizado": "2026-08-08T03:53:41.632290Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -669,7 +669,9 @@
               "nome": "KingOfBilada™",
               "tag": "#92PQV82G0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -2583,7 +2585,9 @@
               "nome": "LSWRTH",
               "tag": "#YVU0L88P",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
