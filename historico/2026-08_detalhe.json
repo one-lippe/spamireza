@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T21:13:46.724794Z",
+  "atualizado": "2026-08-08T21:46:53.520246Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1627,7 +1627,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Reikan",
@@ -3109,7 +3109,9 @@
               "nome": "Sene",
               "tag": "#8JQJYQC",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3220,7 +3222,9 @@
               "nome": "·Holtser Ω",
               "tag": "#8GG88V2PU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3956,7 +3960,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "Honrado",
@@ -3974,14 +3978,14 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "☆InTheDark☆",
               "tag": "#LL8GP2CQP",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "-Meliodas-",
