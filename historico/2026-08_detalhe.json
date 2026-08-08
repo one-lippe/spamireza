@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T08:29:23.452495Z",
+  "atualizado": "2026-08-08T09:10:37.999074Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1543,7 +1543,9 @@
               "nome": "ROBERTHWILLIAMM",
               "tag": "#G2V22VQUY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
