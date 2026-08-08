@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T07:56:27.656327Z",
+  "atualizado": "2026-08-08T08:29:23.450041Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -622,22 +622,22 @@
           "zona": "—"
         },
         {
-          "n": "Duff",
+          "n": "Psico 2k25",
           "th": 18,
           "atk": 5,
           "est": 15,
           "spa": 3.0,
           "conf": 100,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 3,
-          "idx": 74.0,
-          "mvp": 16,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "idx": 74.4,
+          "mvp": 17,
           "pos": 6,
           "zona": "—"
         },
         {
-          "n": "irmão do jorel",
+          "n": "Duff",
           "th": 18,
           "atk": 5,
           "est": 15,
@@ -652,6 +652,21 @@
           "zona": "—"
         },
         {
+          "n": "irmão do jorel",
+          "th": 18,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "idx": 74.0,
+          "mvp": 16,
+          "pos": 8,
+          "zona": "—"
+        },
+        {
           "n": "Sene",
           "th": 18,
           "atk": 4,
@@ -663,7 +678,7 @@
           "ndef": 5,
           "idx": 73.5,
           "mvp": 17,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -678,7 +693,7 @@
           "ndef": 4,
           "idx": 73.5,
           "mvp": 16,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -693,26 +708,11 @@
           "ndef": 5,
           "idx": 72.3,
           "mvp": 16,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "LEANDRO",
-          "th": 18,
-          "atk": 5,
-          "est": 15,
-          "spa": 3.0,
-          "conf": 100,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
-          "idx": 72.0,
-          "mvp": 15,
           "pos": 11,
           "zona": "—"
         },
         {
-          "n": "Psico 2k25",
+          "n": "LEANDRO",
           "th": 18,
           "atk": 5,
           "est": 15,
@@ -870,9 +870,9 @@
           "conf": 80,
           "def": 33,
           "sof": 2.0,
-          "ndef": 3,
+          "ndef": 4,
           "idx": 69.4,
-          "mvp": 14,
+          "mvp": 15,
           "pos": 22,
           "zona": "—"
         },

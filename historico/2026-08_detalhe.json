@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T07:56:27.658673Z",
+  "atualizado": "2026-08-08T08:29:23.452495Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2755,7 +2755,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "SR . Kcatoyo",
@@ -2826,7 +2826,7 @@
               "tag": "#L9GRLYGVQ",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "ayumatsui",
