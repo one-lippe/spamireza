@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T07:08:02.320884Z",
+  "atualizado": "2026-08-08T07:56:27.658673Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -672,7 +672,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • C∆iç∆r∆",
@@ -1493,7 +1493,7 @@
               "tag": "#GJYRCJ0PR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "MAJ0R FiV3",
@@ -1514,7 +1514,7 @@
               "tag": "#PQYV8PYQQ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•GOD kratos",
@@ -1551,7 +1551,7 @@
               "tag": "#YQRJL098P",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
