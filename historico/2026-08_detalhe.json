@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T23:02:38.144901Z",
+  "atualizado": "2026-08-08T23:38:49.475263Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -787,7 +787,7 @@
               "tag": "#9UP90VGP8",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Levi_Neiva",
@@ -841,7 +841,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "I G R I S ™",
@@ -3129,14 +3129,18 @@
               "nome": "LSWRTH",
               "tag": "#YVU0L88P",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
               "nome": "LEANDRO",
               "tag": "#QPCRCR8VY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3214,7 +3218,9 @@
               "nome": "Duff",
               "tag": "#QQC298JUC",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3276,7 +3282,9 @@
               "nome": "F4KER",
               "tag": "#QQQ8VQPL0",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3899,7 +3907,7 @@
         {
           "g": 5,
           "vs": "paeez",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
