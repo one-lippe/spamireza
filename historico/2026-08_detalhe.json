@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T16:14:06.100646Z",
+  "atualizado": "2026-08-08T16:53:17.826613Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1627,7 +1627,9 @@
               "nome": "Reikan",
               "tag": "#GJYRCJ0PR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3093,7 +3095,7 @@
               "tag": "#LLLU0VQCL",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Sene",
@@ -3107,14 +3109,14 @@
               "tag": "#2LY8G8Y9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "LSWRTH",
               "tag": "#YVU0L88P",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "LEANDRO",
@@ -3170,7 +3172,7 @@
               "tag": "#RP8VCCUV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • The off",
@@ -3225,7 +3227,9 @@
               "nome": "ayumatsui",
               "tag": "#QPJ209J89",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
