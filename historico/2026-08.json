@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T04:45:34.577497Z",
+  "atualizado": "2026-08-08T05:28:01.615130Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -345,6 +345,21 @@
           "zona": "—"
         },
         {
+          "n": "Neskau",
+          "th": 18,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 6,
+          "sof": 2.8,
+          "ndef": 6,
+          "idx": 73.4,
+          "mvp": 18,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
           "n": "PaiDeFamilia",
           "th": 18,
           "atk": 5,
@@ -356,7 +371,7 @@
           "ndef": 5,
           "idx": 71.3,
           "mvp": 15,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -371,7 +386,7 @@
           "ndef": 4,
           "idx": 71.3,
           "mvp": 15,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -386,7 +401,7 @@
           "ndef": 4,
           "idx": 70.5,
           "mvp": 12,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -401,7 +416,7 @@
           "ndef": 5,
           "idx": 70.3,
           "mvp": 16,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -416,26 +431,11 @@
           "ndef": 4,
           "idx": 69.3,
           "mvp": 13,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "SR - JON SNOW 2",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
-          "idx": 68.9,
-          "mvp": 15,
           "pos": 11,
           "zona": "—"
         },
         {
-          "n": "Neskau",
+          "n": "SR - JON SNOW 2",
           "th": 18,
           "atk": 5,
           "est": 14,
@@ -1040,10 +1040,10 @@
           "est": 14,
           "spa": 2.8,
           "conf": 100,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 4,
-          "idx": 68.9,
+          "def": 27,
+          "sof": 2.2,
+          "ndef": 5,
+          "idx": 67.8,
           "mvp": 18,
           "pos": 1,
           "zona": "promo"
@@ -1175,10 +1175,10 @@
           "est": 9,
           "spa": 2.25,
           "conf": 80,
-          "def": 8,
+          "def": 7,
           "sof": 2.8,
-          "ndef": 4,
-          "idx": 52.2,
+          "ndef": 5,
+          "idx": 51.9,
           "mvp": 10,
           "pos": 10,
           "zona": "—"

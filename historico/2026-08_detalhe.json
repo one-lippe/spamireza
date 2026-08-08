@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T04:45:34.579913Z",
+  "atualizado": "2026-08-08T05:28:01.617496Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1462,7 +1462,9 @@
               "nome": "Neskau",
               "tag": "#P8GLGPRP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3494,7 +3496,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Caibreck",
@@ -3540,7 +3542,7 @@
               "tag": "#GVLGQ098",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Eduhh",
