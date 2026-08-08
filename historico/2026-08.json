@@ -1,12 +1,27 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T15:18:31.234150Z",
+  "atualizado": "2026-08-08T15:49:11.827011Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
       "liga": "Champion League I",
       "mode": "rank",
       "rank": [
+        {
+          "n": "Levi_Neiva",
+          "th": 18,
+          "atk": 6,
+          "est": 18,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 6,
+          "idx": 83.3,
+          "mvp": 21,
+          "pos": 1,
+          "zona": "—"
+        },
         {
           "n": "Tony D. Chopper",
           "th": 18,
@@ -19,7 +34,7 @@
           "ndef": 5,
           "idx": 81.3,
           "mvp": 19,
-          "pos": 1,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -34,21 +49,6 @@
           "ndef": 5,
           "idx": 79.6,
           "mvp": 19,
-          "pos": 2,
-          "zona": "—"
-        },
-        {
-          "n": "Levi_Neiva",
-          "th": 18,
-          "atk": 5,
-          "est": 15,
-          "spa": 3.0,
-          "conf": 83,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 6,
-          "idx": 79.2,
-          "mvp": 18,
           "pos": 3,
           "zona": "—"
         },

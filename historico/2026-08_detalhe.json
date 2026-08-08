@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T15:18:31.235756Z",
+  "atualizado": "2026-08-08T15:49:11.828581Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -791,7 +791,9 @@
               "nome": "Levi_Neiva",
               "tag": "#C8R989YJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
