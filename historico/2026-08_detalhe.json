@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T10:19:58.552501Z",
+  "atualizado": "2026-08-08T10:54:56.156621Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1507,7 +1507,7 @@
               "tag": "#2GCJ8QC92",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Edu",
@@ -2861,7 +2861,9 @@
               "nome": "Fernandes^",
               "tag": "#8UCVRGCLQ",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
