@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T11:19:18.199310Z",
+  "atualizado": "2026-08-08T11:48:01.357196Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -696,7 +696,9 @@
               "nome": "GSAzevedo30",
               "tag": "#CJLVVL9L",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -706,7 +708,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "I G R I S ™",
@@ -715,7 +717,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
@@ -1503,7 +1505,9 @@
               "nome": "MAJ0R FiV3",
               "tag": "#QRJL0RGQR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 1
             },
             {
@@ -2694,7 +2698,9 @@
               "nome": "Sene",
               "tag": "#8JQJYQC",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -2917,7 +2923,9 @@
               "nome": "Jan™",
               "tag": "#CJV9G22Q",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -3604,7 +3612,9 @@
               "nome": "Ligeirinh2xD",
               "tag": "#GCC98R22R",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
