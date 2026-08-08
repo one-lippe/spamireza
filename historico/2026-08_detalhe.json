@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T19:28:57.071801Z",
+  "atualizado": "2026-08-08T19:53:35.839636Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3151,7 +3151,9 @@
               "nome": "menolli",
               "tag": "#RGYQYP9U",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3938,7 +3940,9 @@
               "nome": "PaulinhoPH",
               "tag": "#GVLGQ098",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
