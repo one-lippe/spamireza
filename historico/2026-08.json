@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T14:55:30.230636Z",
+  "atualizado": "2026-08-08T15:18:31.234150Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -38,22 +38,22 @@
           "zona": "—"
         },
         {
-          "n": "SR • Giovanelli",
+          "n": "Levi_Neiva",
           "th": 18,
           "atk": 5,
           "est": 15,
           "spa": 3.0,
           "conf": 83,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "idx": 78.5,
-          "mvp": 17,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 6,
+          "idx": 79.2,
+          "mvp": 18,
           "pos": 3,
           "zona": "—"
         },
         {
-          "n": "Levi_Neiva",
+          "n": "SR • Giovanelli",
           "th": 18,
           "atk": 5,
           "est": 15,
@@ -420,21 +420,6 @@
           "zona": "—"
         },
         {
-          "n": "linch",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 5,
-          "idx": 70.5,
-          "mvp": 12,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
           "n": "matias?",
           "th": 18,
           "atk": 5,
@@ -446,7 +431,7 @@
           "ndef": 5,
           "idx": 70.3,
           "mvp": 16,
-          "pos": 12,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -460,6 +445,21 @@
           "sof": 2.6,
           "ndef": 5,
           "idx": 68.7,
+          "mvp": 13,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
+          "n": "linch",
+          "th": 18,
+          "atk": 5,
+          "est": 13,
+          "spa": 2.6,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 5,
+          "idx": 68.3,
           "mvp": 13,
           "pos": 13,
           "zona": "—"
