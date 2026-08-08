@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T06:05:00.949770Z",
+  "atualizado": "2026-08-08T07:08:02.320884Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1479,7 +1479,7 @@
               "tag": "#Q09UU0CL",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "TomorrowBr",
@@ -2696,7 +2696,7 @@
               "tag": "#2LY8G8Y9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "LSWRTH",
@@ -2714,14 +2714,14 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Lider Andre",
               "tag": "#20UUPGPCV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "Sr • Pbalestra",
@@ -2730,14 +2730,14 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "menolli",
               "tag": "#RGYQYP9U",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "nonick",
@@ -2778,7 +2778,7 @@
               "tag": "#YJ2JLPQGR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "R A K A N ☦️",
@@ -2794,7 +2794,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ligeirinh0xD",
@@ -2803,7 +2803,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "·Holtser Ω",
@@ -2819,7 +2819,7 @@
               "tag": "#Q9PL0CUU",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Lider André 2",
@@ -2908,14 +2908,14 @@
               "tag": "#CJV9G22Q",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "B E R U 炎",
               "tag": "#LJYRU2J2C",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
@@ -3519,7 +3519,7 @@
               "tag": "#JLYPQP80",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Gerion",
