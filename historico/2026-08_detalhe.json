@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T09:55:07.430046Z",
+  "atualizado": "2026-08-08T10:19:58.552501Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2748,7 +2748,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Psico 2k25",
@@ -3505,7 +3505,7 @@
               "tag": "#PUPQ0RC92",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Nesk'",
@@ -3558,13 +3558,15 @@
               "tag": "#G9RR0JYUC",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Wilson z2",
               "tag": "#2RLG220GY",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
