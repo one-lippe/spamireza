@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T21:14:51.129492Z",
+  "atualizado": "2026-08-09T21:48:59.235215Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -158,22 +158,22 @@
           "zona": "—"
         },
         {
-          "n": "tozim",
+          "n": "KingOfBilada™",
           "th": 18,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 86,
+          "atk": 7,
+          "est": 19,
+          "spa": 2.71,
+          "conf": 100,
           "def": 10,
           "sof": 2.7,
           "ndef": 7,
-          "idx": 75.3,
-          "mvp": 19,
+          "idx": 76.7,
+          "mvp": 21,
           "pos": 11,
           "zona": "—"
         },
         {
-          "n": "KingOfBilada™",
+          "n": "tozim",
           "th": 18,
           "atk": 6,
           "est": 17,
@@ -188,6 +188,21 @@
           "zona": "—"
         },
         {
+          "n": "SR • JON SNOW",
+          "th": 18,
+          "atk": 5,
+          "est": 13,
+          "spa": 2.6,
+          "conf": 100,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "idx": 74.0,
+          "mvp": 14,
+          "pos": 13,
+          "zona": "—"
+        },
+        {
           "n": "Jan",
           "th": 18,
           "atk": 5,
@@ -199,7 +214,7 @@
           "ndef": 6,
           "idx": 73.3,
           "mvp": 15,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -214,7 +229,7 @@
           "ndef": 4,
           "idx": 72.5,
           "mvp": 11,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -229,8 +244,8 @@
           "ndef": 5,
           "idx": 71.7,
           "mvp": 14,
-          "pos": 15,
-          "zona": "—"
+          "pos": 16,
+          "zona": "rebx"
         },
         {
           "n": "Vittor Honorio",
@@ -244,21 +259,6 @@
           "ndef": 4,
           "idx": 67.9,
           "mvp": 10,
-          "pos": 16,
-          "zona": "rebx"
-        },
-        {
-          "n": "SR • JON SNOW",
-          "th": 18,
-          "atk": 4,
-          "est": 10,
-          "spa": 2.5,
-          "conf": 80,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "idx": 67.2,
-          "mvp": 11,
           "pos": 17,
           "zona": "rebx"
         }
@@ -291,10 +291,10 @@
           "est": 21,
           "spa": 3.0,
           "conf": 100,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 6,
-          "idx": 78.3,
+          "def": 14,
+          "sof": 2.6,
+          "ndef": 7,
+          "idx": 77.9,
           "mvp": 24,
           "pos": 2,
           "zona": "promo"
