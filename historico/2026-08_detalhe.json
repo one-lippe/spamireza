@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T10:48:53.781508Z",
+  "atualizado": "2026-08-09T11:14:43.203056Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3323,7 +3323,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR . Kcatoyo",
@@ -4241,7 +4241,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ghostface",
