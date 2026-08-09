@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T09:33:21.269080Z",
+  "atualizado": "2026-08-09T10:07:33.006550Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -272,15 +272,15 @@
         {
           "n": "MAJ0R FiV3",
           "th": 18,
-          "atk": 6,
-          "est": 18,
+          "atk": 7,
+          "est": 21,
           "spa": 3.0,
-          "conf": 86,
+          "conf": 100,
           "def": 33,
           "sof": 2.0,
           "ndef": 6,
-          "idx": 78.1,
-          "mvp": 24,
+          "idx": 81.5,
+          "mvp": 27,
           "pos": 1,
           "zona": "promo"
         },
@@ -480,6 +480,21 @@
           "zona": "—"
         },
         {
+          "n": "TomorrowBr",
+          "th": 18,
+          "atk": 6,
+          "est": 14,
+          "spa": 2.33,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 6,
+          "idx": 65.8,
+          "mvp": 16,
+          "pos": 15,
+          "zona": "—"
+        },
+        {
           "n": "linch",
           "th": 18,
           "atk": 5,
@@ -491,7 +506,7 @@
           "ndef": 5,
           "idx": 64.4,
           "mvp": 13,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -506,21 +521,6 @@
           "ndef": 4,
           "idx": 63.8,
           "mvp": 10,
-          "pos": 16,
-          "zona": "—"
-        },
-        {
-          "n": "TomorrowBr",
-          "th": 18,
-          "atk": 5,
-          "est": 11,
-          "spa": 2.2,
-          "conf": 83,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 6,
-          "idx": 59.6,
-          "mvp": 13,
           "pos": 17,
           "zona": "rebx"
         },
