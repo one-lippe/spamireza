@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-08T23:38:49.475263Z",
+  "atualizado": "2026-08-09T00:01:01.541029Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -786,7 +786,9 @@
               "nome": "Vittor Honorio",
               "tag": "#9UP90VGP8",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -823,7 +825,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30",
@@ -3307,7 +3309,9 @@
               "nome": "SR • Dennis",
               "tag": "#82R9VYVGY",
               "th": 17,
-              "atk": [],
+              "atk": [
+                0
+              ],
               "def_est": null
             },
             {
