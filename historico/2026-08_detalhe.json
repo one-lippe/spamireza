@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T22:50:56.987956Z",
+  "atualizado": "2026-08-09T23:19:12.849333Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1918,7 +1918,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "TomorrowBr",
@@ -3726,7 +3726,9 @@
               "nome": "Sr • Pbalestra",
               "tag": "#2YP8QV8J9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3908,7 +3910,9 @@
               "nome": "Jan™",
               "tag": "#CJV9G22Q",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
