@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T13:59:42.727478Z",
+  "atualizado": "2026-08-09T14:34:13.915466Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -932,8 +932,10 @@
               "nome": "Vittor Honorio",
               "tag": "#9UP90VGP8",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                1
+              ],
+              "def_est": 2
             },
             {
               "nome": "KingOfBilada™",
@@ -980,7 +982,9 @@
               "nome": "I G R I S ™",
               "tag": "#RRVQQPJ8",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             }
           ]
@@ -1882,8 +1886,10 @@
               "nome": "KingMpg",
               "tag": "#22YJPYPCJ",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 1
             },
             {
               "nome": "Neskau",
@@ -1926,7 +1932,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "PaiDeFamilia",
@@ -3417,7 +3423,9 @@
               "nome": "Lider Andre",
               "tag": "#20UUPGPCV",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -3487,7 +3495,9 @@
               "nome": "R A K A N ☦️",
               "tag": "#Y22C09J8Q",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -3521,7 +3531,9 @@
               "nome": "Lider André 2",
               "tag": "#L9GRLYGVQ",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -3605,7 +3617,9 @@
               "nome": "Líder André 3",
               "tag": "#GY0Q0VRL0",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -3621,7 +3635,9 @@
               "nome": "B E R U 炎",
               "tag": "#LJYRU2J2C",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             }
           ]
