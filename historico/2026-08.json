@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T01:49:42.143585Z",
+  "atualizado": "2026-08-09T03:22:36.710688Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -23,7 +23,7 @@
           "zona": "—"
         },
         {
-          "n": "Tony D. Chopper",
+          "n": "Dog Apollo",
           "th": 18,
           "atk": 6,
           "est": 18,
@@ -38,7 +38,7 @@
           "zona": "—"
         },
         {
-          "n": "Nesk",
+          "n": "Tony D. Chopper",
           "th": 18,
           "atk": 6,
           "est": 18,
@@ -53,6 +53,21 @@
           "zona": "—"
         },
         {
+          "n": "Nesk",
+          "th": 18,
+          "atk": 6,
+          "est": 18,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 6,
+          "sof": 2.8,
+          "ndef": 6,
+          "idx": 81.1,
+          "mvp": 19,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
           "n": "Henrique Nerath",
           "th": 18,
           "atk": 6,
@@ -64,7 +79,7 @@
           "ndef": 6,
           "idx": 80.0,
           "mvp": 18,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -79,7 +94,7 @@
           "ndef": 5,
           "idx": 79.6,
           "mvp": 19,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -94,7 +109,7 @@
           "ndef": 6,
           "idx": 79.2,
           "mvp": 19,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -109,7 +124,7 @@
           "ndef": 5,
           "idx": 78.3,
           "mvp": 18,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -124,7 +139,7 @@
           "ndef": 6,
           "idx": 78.1,
           "mvp": 18,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -139,7 +154,7 @@
           "ndef": 4,
           "idx": 78.0,
           "mvp": 15,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -154,21 +169,6 @@
           "ndef": 3,
           "idx": 77.6,
           "mvp": 12,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "Dog Apollo",
-          "th": 18,
-          "atk": 5,
-          "est": 15,
-          "spa": 3.0,
-          "conf": 83,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
-          "idx": 76.9,
-          "mvp": 16,
           "pos": 11,
           "zona": "—"
         },
@@ -188,6 +188,21 @@
           "zona": "—"
         },
         {
+          "n": "I G R I S ™",
+          "th": 18,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 83,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 6,
+          "idx": 74.4,
+          "mvp": 16,
+          "pos": 13,
+          "zona": "—"
+        },
+        {
           "n": "Vittor Honorio",
           "th": 18,
           "atk": 3,
@@ -199,21 +214,6 @@
           "ndef": 3,
           "idx": 73.9,
           "mvp": 8,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "I G R I S ™",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "idx": 73.5,
-          "mvp": 15,
           "pos": 14,
           "zona": "—"
         },
@@ -254,10 +254,10 @@
           "est": 7,
           "spa": 2.33,
           "conf": 100,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "idx": 71.1,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "idx": 70.0,
           "mvp": 8,
           "pos": 17,
           "zona": "rebx"
@@ -375,6 +375,21 @@
           "zona": "—"
         },
         {
+          "n": "matias?",
+          "th": 18,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 6,
+          "idx": 74.4,
+          "mvp": 19,
+          "pos": 8,
+          "zona": "—"
+        },
+        {
           "n": "Reikan",
           "th": 18,
           "atk": 5,
@@ -386,7 +401,7 @@
           "ndef": 5,
           "idx": 74.3,
           "mvp": 16,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -401,7 +416,7 @@
           "ndef": 4,
           "idx": 74.0,
           "mvp": 13,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -416,7 +431,7 @@
           "ndef": 6,
           "idx": 73.4,
           "mvp": 18,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -431,7 +446,7 @@
           "ndef": 5,
           "idx": 71.8,
           "mvp": 14,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -446,7 +461,7 @@
           "ndef": 4,
           "idx": 70.9,
           "mvp": 11,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -461,21 +476,6 @@
           "ndef": 6,
           "idx": 70.5,
           "mvp": 17,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "matias?",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "idx": 70.3,
-          "mvp": 16,
           "pos": 14,
           "zona": "—"
         },
@@ -952,6 +952,21 @@
           "zona": "—"
         },
         {
+          "n": "rei do crime",
+          "th": 18,
+          "atk": 5,
+          "est": 13,
+          "spa": 2.6,
+          "conf": 83,
+          "def": 8,
+          "sof": 2.8,
+          "ndef": 4,
+          "idx": 63.2,
+          "mvp": 14,
+          "pos": 28,
+          "zona": "—"
+        },
+        {
           "n": "Fernandes^",
           "th": 17,
           "atk": 1,
@@ -963,7 +978,7 @@
           "ndef": 1,
           "idx": 63.0,
           "mvp": 4,
-          "pos": 28,
+          "pos": 29,
           "zona": "—"
         },
         {
@@ -978,7 +993,7 @@
           "ndef": 4,
           "idx": 62.6,
           "mvp": 11,
-          "pos": 29,
+          "pos": 30,
           "zona": "—"
         },
         {
@@ -993,21 +1008,6 @@
           "ndef": 1,
           "idx": 61.0,
           "mvp": 7,
-          "pos": 30,
-          "zona": "—"
-        },
-        {
-          "n": "rei do crime",
-          "th": 18,
-          "atk": 4,
-          "est": 10,
-          "spa": 2.5,
-          "conf": 67,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "idx": 57.8,
-          "mvp": 11,
           "pos": 31,
           "zona": "rebx"
         },
@@ -1034,6 +1034,21 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "Nesk'",
+          "th": 16,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 8,
+          "sof": 2.8,
+          "ndef": 4,
+          "idx": 65.2,
+          "mvp": 18,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "SR • Balestra",
           "th": 18,
           "atk": 5,
@@ -1045,21 +1060,6 @@
           "ndef": 5,
           "idx": 64.3,
           "mvp": 18,
-          "pos": 1,
-          "zona": "promo"
-        },
-        {
-          "n": "Nesk'",
-          "th": 16,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "idx": 61.3,
-          "mvp": 15,
           "pos": 2,
           "zona": "promo"
         },
