@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T15:04:00.007148Z",
+  "atualizado": "2026-08-09T15:40:51.486553Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -951,7 +951,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • C∆iç∆r∆",
@@ -1872,8 +1872,10 @@
               "nome": "SR • THIAGO",
               "tag": "#89G0YGUJY",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 3
             },
             {
               "nome": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
@@ -3586,7 +3588,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Darth Revan",
@@ -3595,7 +3597,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Dennis",
@@ -3604,7 +3606,7 @@
               "atk": [
                 0
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "CoR1nG4 ×,×",
@@ -3622,7 +3624,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Jan™",
@@ -3631,7 +3633,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "B E R U 炎",
@@ -4431,7 +4433,7 @@
               "tag": "#2RLG220GY",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "☆InTheDark☆",
