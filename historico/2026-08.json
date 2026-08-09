@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T07:28:58.514987Z",
+  "atualizado": "2026-08-09T08:07:55.168757Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1034,6 +1034,21 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "SR • Balestra",
+          "th": 18,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 27,
+          "sof": 2.2,
+          "ndef": 5,
+          "idx": 68.3,
+          "mvp": 21,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "Nesk'",
           "th": 16,
           "atk": 6,
@@ -1044,21 +1059,6 @@
           "sof": 2.8,
           "ndef": 4,
           "idx": 65.2,
-          "mvp": 18,
-          "pos": 1,
-          "zona": "promo"
-        },
-        {
-          "n": "SR • Balestra",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 27,
-          "sof": 2.2,
-          "ndef": 5,
-          "idx": 64.3,
           "mvp": 18,
           "pos": 2,
           "zona": "promo"
