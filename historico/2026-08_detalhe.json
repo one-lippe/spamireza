@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T00:01:01.541029Z",
+  "atualizado": "2026-08-09T01:49:42.146110Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -731,7 +731,9 @@
               "nome": "marinaul war",
               "tag": "#8GGCQPYP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -754,7 +756,9 @@
               "nome": "SR • Giovanelli",
               "tag": "#PJ0YJLGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -770,8 +774,10 @@
               "nome": "Henrique Nerath",
               "tag": "#2U8P0YQ92",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 3
             },
             {
               "nome": "Jan",
@@ -1594,7 +1600,9 @@
               "nome": "SR • THIAGO",
               "tag": "#89G0YGUJY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1707,7 +1715,9 @@
               "nome": "SR • DuM∆R",
               "tag": "#YQRJL098P",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             }
           ]
@@ -3143,7 +3153,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Lider Andre",
@@ -3207,7 +3217,7 @@
               "tag": "#YJ2JLPQGR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "R A K A N ☦️",
@@ -3270,7 +3280,9 @@
               "nome": "irmão do jorel",
               "tag": "#P2JCQRPGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -4044,6 +4056,123 @@
                 2
               ],
               "def_est": 3
+            }
+          ]
+        },
+        {
+          "g": 6,
+          "vs": "الكواسر",
+          "state": "inWar",
+          "size": 15,
+          "jogadores": [
+            {
+              "nome": "SR • Balestra",
+              "tag": "#8UJY9C8RQ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • Caibreck",
+              "tag": "#PUPQ0RC92",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Nesk'",
+              "tag": "#YCRJU229",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "B E L L I O N™",
+              "tag": "#JLYPQP80",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Gerion",
+              "tag": "#YP9L000LG",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Ghostface",
+              "tag": "#QQUC9JQ9R",
+              "th": 16,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "PaulinhoPH",
+              "tag": "#GVLGQ098",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • Eduhh",
+              "tag": "#2Q9RYUCCP",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Honrado",
+              "tag": "#G9RR0JYUC",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Wilson z2",
+              "tag": "#2RLG220GY",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "☆InTheDark☆",
+              "tag": "#LL8GP2CQP",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "-Meliodas-",
+              "tag": "#2J0G8Y80C",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "GSAzevedo30 #2",
+              "tag": "#29882J2L2",
+              "th": 15,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "Ligeirinh2xD",
+              "tag": "#GCC98R22R",
+              "th": 15,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "°D∆×iLh∆°",
+              "tag": "#PR0R0VC9P",
+              "th": 14,
+              "atk": [],
+              "def_est": null
             }
           ]
         }
