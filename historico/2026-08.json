@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T17:49:16.841062Z",
+  "atualizado": "2026-08-09T18:17:24.663982Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -381,10 +381,10 @@
           "est": 20,
           "spa": 2.86,
           "conf": 100,
-          "def": 11,
+          "def": 10,
           "sof": 2.7,
-          "ndef": 6,
-          "idx": 74.8,
+          "ndef": 7,
+          "idx": 74.5,
           "mvp": 22,
           "pos": 8,
           "zona": "—"
@@ -577,7 +577,7 @@
           "zona": "promo"
         },
         {
-          "n": "Ligeirinh0xD",
+          "n": "Sene",
           "th": 18,
           "atk": 7,
           "est": 21,
@@ -592,6 +592,21 @@
           "zona": "—"
         },
         {
+          "n": "Ligeirinh0xD",
+          "th": 18,
+          "atk": 7,
+          "est": 21,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 6,
+          "idx": 78.0,
+          "mvp": 27,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
           "n": "Duff",
           "th": 18,
           "atk": 7,
@@ -603,7 +618,7 @@
           "ndef": 4,
           "idx": 76.5,
           "mvp": 24,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -617,21 +632,6 @@
           "sof": 2.5,
           "ndef": 6,
           "idx": 75.0,
-          "mvp": 24,
-          "pos": 5,
-          "zona": "—"
-        },
-        {
-          "n": "Sene",
-          "th": 18,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 6,
-          "idx": 74.8,
           "mvp": 24,
           "pos": 6,
           "zona": "—"

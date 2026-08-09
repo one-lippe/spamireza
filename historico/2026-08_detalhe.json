@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T17:49:16.843730Z",
+  "atualizado": "2026-08-09T18:17:24.666534Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1981,7 +1981,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "ROBERTHWILLIAMM",
@@ -3669,7 +3669,9 @@
               "nome": "Sene",
               "tag": "#8JQJYQC",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
