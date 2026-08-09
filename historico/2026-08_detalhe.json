@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T13:10:45.529754Z",
+  "atualizado": "2026-08-09T13:59:42.727478Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -875,28 +875,30 @@
               "tag": "#8GGCQPYP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "tozim",
               "tag": "#9G22U9U2Y",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • JON SNOW",
               "tag": "#LYV2J2LU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Dog Apollo",
               "tag": "#YJ9R2GPJG",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 1
             },
             {
               "nome": "SR • Giovanelli",
@@ -910,21 +912,21 @@
               "tag": "#2U8P0YQ92",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Jan",
               "tag": "#2899CRJG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Levi_Neiva",
               "tag": "#C8R989YJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Vittor Honorio",
@@ -944,7 +946,9 @@
               "nome": "Tony D. Chopper",
               "tag": "#8RC2LPCRR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -958,14 +962,18 @@
               "nome": "MAJ0R FiV3",
               "tag": "#LCR9YQGYY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
               "nome": "Nesk",
               "tag": "#99220V0Q8",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -1881,7 +1889,9 @@
               "nome": "Neskau",
               "tag": "#P8GLGPRP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1947,7 +1957,9 @@
               "nome": "Levi_Neiva 2",
               "tag": "#90GRYGJVP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
