@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T14:34:13.915466Z",
+  "atualizado": "2026-08-09T15:04:00.007148Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -905,7 +905,7 @@
               "tag": "#PJ0YJLGJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Henrique Nerath",
@@ -942,7 +942,7 @@
               "tag": "#92PQV82G0",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Tony D. Chopper",
@@ -1972,7 +1972,9 @@
               "nome": "matias?",
               "tag": "#RCQQUGC9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3507,7 +3509,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "Ligeirinh0xD",
