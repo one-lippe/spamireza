@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T22:12:57.673037Z",
+  "atualizado": "2026-08-09T22:50:56.987956Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -926,7 +926,9 @@
               "nome": "Jan",
               "tag": "#2899CRJG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1895,7 +1897,9 @@
               "nome": "ɢᴇɴᴇʀᴀʟ ᴢᴏᴅ ≛",
               "tag": "#V88C2Y99",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1957,7 +1961,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Edu",
@@ -3690,7 +3694,9 @@
               "nome": "SrNunes",
               "tag": "#2LY8G8Y9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -3704,7 +3710,9 @@
               "nome": "LEANDRO",
               "tag": "#QPCRCR8VY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -3748,7 +3756,9 @@
               "nome": "SR . Kcatoyo",
               "tag": "#20GJVUJLU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3783,7 +3793,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Ligeirinh0xD",
@@ -3857,7 +3867,9 @@
               "nome": "Sra Nunes",
               "tag": "#22JQULR22",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
