@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T20:05:11.157729Z",
+  "atualizado": "2026-08-09T20:47:09.678017Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3758,7 +3758,9 @@
               "nome": "SR • The off",
               "tag": "#YJ2JLPQGR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3792,7 +3794,9 @@
               "nome": "·Holtser Ω",
               "tag": "#8GG88V2PU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3824,7 +3828,9 @@
               "nome": "Fernandes^",
               "tag": "#8UCVRGCLQ",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -4719,7 +4725,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "°D∆×iLh∆°",
