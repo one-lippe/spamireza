@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T23:19:12.849333Z",
+  "atualizado": "2026-08-09T23:51:24.334204Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3729,7 +3729,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "menolli",
