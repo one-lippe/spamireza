@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T16:48:48.509388Z",
+  "atualizado": "2026-08-09T17:17:05.911004Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -960,7 +960,7 @@
               "tag": "#GL0PRCU9L",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "MAJ0R FiV3",
@@ -3856,7 +3856,9 @@
               "nome": "CoR1nG4 ×,×",
               "tag": "#9PJL20YUU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -4614,7 +4616,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "B E L L I O N™",
@@ -4646,7 +4648,7 @@
               "tag": "#GVLGQ098",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • Eduhh",
@@ -4655,14 +4657,14 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Honrado",
               "tag": "#G9RR0JYUC",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Wilson z2",
@@ -4676,7 +4678,7 @@
               "tag": "#LL8GP2CQP",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "-Meliodas-",
@@ -4692,7 +4694,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ligeirinh2xD",
@@ -4708,7 +4710,7 @@
               "tag": "#PR0R0VC9P",
               "th": 14,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
