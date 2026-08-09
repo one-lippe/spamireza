@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T08:07:55.168757Z",
+  "atualizado": "2026-08-09T08:57:34.120965Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -149,10 +149,10 @@
           "est": 14,
           "spa": 2.8,
           "conf": 100,
-          "def": 8,
+          "def": 7,
           "sof": 2.8,
-          "ndef": 4,
-          "idx": 78.0,
+          "ndef": 5,
+          "idx": 77.7,
           "mvp": 15,
           "pos": 10,
           "zona": "—"
@@ -285,6 +285,21 @@
           "zona": "promo"
         },
         {
+          "n": "Reikan",
+          "th": 18,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 6,
+          "idx": 75.5,
+          "mvp": 20,
+          "pos": 2,
+          "zona": "promo"
+        },
+        {
           "n": "n a t h a n",
           "th": 18,
           "atk": 1,
@@ -296,7 +311,7 @@
           "ndef": 1,
           "idx": 75.2,
           "mvp": 3,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -311,7 +326,7 @@
           "ndef": 6,
           "idx": 75.0,
           "mvp": 21,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -326,21 +341,6 @@
           "ndef": 6,
           "idx": 75.0,
           "mvp": 21,
-          "pos": 4,
-          "zona": "—"
-        },
-        {
-          "n": "Reikan",
-          "th": 18,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 100,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "idx": 74.8,
-          "mvp": 19,
           "pos": 5,
           "zona": "—"
         },
@@ -922,21 +922,6 @@
           "zona": "—"
         },
         {
-          "n": "B E R U 炎",
-          "th": 17,
-          "atk": 3,
-          "est": 9,
-          "spa": 3.0,
-          "conf": 60,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "idx": 64.5,
-          "mvp": 10,
-          "pos": 26,
-          "zona": "—"
-        },
-        {
           "n": "Lider Andre",
           "th": 18,
           "atk": 5,
@@ -948,6 +933,21 @@
           "ndef": 5,
           "idx": 64.4,
           "mvp": 17,
+          "pos": 26,
+          "zona": "—"
+        },
+        {
+          "n": "B E R U 炎",
+          "th": 17,
+          "atk": 3,
+          "est": 9,
+          "spa": 3.0,
+          "conf": 60,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "idx": 64.2,
+          "mvp": 10,
           "pos": 27,
           "zona": "—"
         },

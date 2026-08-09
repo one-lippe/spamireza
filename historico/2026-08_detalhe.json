@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T08:07:55.171241Z",
+  "atualizado": "2026-08-09T08:57:34.122912Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -788,7 +788,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Vittor Honorio",
@@ -1788,7 +1788,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "MAJ0R FiV3",
@@ -3479,7 +3479,7 @@
               "tag": "#LJYRU2J2C",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
