@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T11:14:43.203056Z",
+  "atualizado": "2026-08-09T11:46:11.985322Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1781,7 +1781,7 @@
               "tag": "#Q09UU0CL",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Reikan",
