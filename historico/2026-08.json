@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T21:48:59.235215Z",
+  "atualizado": "2026-08-09T22:12:57.670453Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1214,6 +1214,21 @@
           "zona": "—"
         },
         {
+          "n": "SR • Caibreck",
+          "th": 16,
+          "atk": 6,
+          "est": 11,
+          "spa": 1.83,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 6,
+          "idx": 48.6,
+          "mvp": 11,
+          "pos": 13,
+          "zona": "—"
+        },
+        {
           "n": "Gerion",
           "th": 16,
           "atk": 5,
@@ -1225,7 +1240,7 @@
           "ndef": 5,
           "idx": 47.3,
           "mvp": 10,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -1240,21 +1255,6 @@
           "ndef": 4,
           "idx": 46.0,
           "mvp": 6,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Caibreck",
-          "th": 16,
-          "atk": 5,
-          "est": 9,
-          "spa": 1.8,
-          "conf": 83,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 6,
-          "idx": 44.7,
-          "mvp": 9,
           "pos": 15,
           "zona": "—"
         },

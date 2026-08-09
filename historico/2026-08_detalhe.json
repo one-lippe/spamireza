@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T21:48:59.237778Z",
+  "atualizado": "2026-08-09T22:12:57.673037Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -4630,7 +4630,9 @@
               "nome": "SR • Caibreck",
               "tag": "#PUPQ0RC92",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
