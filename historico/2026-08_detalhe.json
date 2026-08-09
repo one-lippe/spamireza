@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T06:24:16.788918Z",
+  "atualizado": "2026-08-09T07:28:58.517456Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1825,7 +1825,7 @@
               "tag": "#90GRYGJVP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "matias?",
@@ -1839,7 +1839,7 @@
               "tag": "#G2V22VQUY",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
