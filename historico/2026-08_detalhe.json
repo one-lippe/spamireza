@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T15:40:51.486553Z",
+  "atualizado": "2026-08-09T16:05:01.815943Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1958,7 +1958,9 @@
               "nome": "SR•GOD kratos",
               "tag": "#LUJ9CRJQG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3375,7 +3377,7 @@
         {
           "g": 6,
           "vs": "Mystic Warriors",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 30,
           "jogadores": [
             {
@@ -3439,7 +3441,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "menolli",
@@ -3554,7 +3556,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "irmão do jorel",
@@ -3563,14 +3565,14 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Fernandes^",
               "tag": "#8UCVRGCLQ",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "F4KER",
@@ -3579,7 +3581,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Sra Nunes",
@@ -3643,6 +3645,224 @@
                 3
               ],
               "def_est": 3
+            }
+          ]
+        },
+        {
+          "g": 7,
+          "vs": "37 LEGEND WAR",
+          "state": "inWar",
+          "size": 30,
+          "jogadores": [
+            {
+              "nome": "Agnes",
+              "tag": "#LLLU0VQCL",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Sene",
+              "tag": "#8JQJYQC",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SrNunes",
+              "tag": "#2LY8G8Y9",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "LSWRTH",
+              "tag": "#YVU0L88P",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "LEANDRO",
+              "tag": "#QPCRCR8VY",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Lider Andre",
+              "tag": "#20UUPGPCV",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Sr • Pbalestra",
+              "tag": "#2YP8QV8J9",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "menolli",
+              "tag": "#RGYQYP9U",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "nonick",
+              "tag": "#G890RJVCR",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Psico 2k25",
+              "tag": "#Q2UJJ89VG",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR . Kcatoyo",
+              "tag": "#20GJVUJLU",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "rei do crime",
+              "tag": "#RP8VCCUV",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • The off",
+              "tag": "#YJ2JLPQGR",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "R A K A N ☦️",
+              "tag": "#Y22C09J8Q",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Duff",
+              "tag": "#QQC298JUC",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Ligeirinh0xD",
+              "tag": "#GRR2G9LP0",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "·Holtser Ω",
+              "tag": "#8GG88V2PU",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Lider André 2",
+              "tag": "#L9GRLYGVQ",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • One☆",
+              "tag": "#Q9PL0CUU",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "ayumatsui",
+              "tag": "#QPJ209J89",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Fernandes^",
+              "tag": "#8UCVRGCLQ",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "irmão do jorel",
+              "tag": "#P2JCQRPGJ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "F4KER",
+              "tag": "#QQQ8VQPL0",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Sra Nunes",
+              "tag": "#22JQULR22",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Darth Revan",
+              "tag": "#8R280VRCQ",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • Dennis",
+              "tag": "#82R9VYVGY",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "CoR1nG4 ×,×",
+              "tag": "#9PJL20YUU",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Líder André 3",
+              "tag": "#GY0Q0VRL0",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Jan™",
+              "tag": "#CJV9G22Q",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "B E R U 炎",
+              "tag": "#LJYRU2J2C",
+              "th": 17,
+              "atk": [],
+              "def_est": null
             }
           ]
         }
