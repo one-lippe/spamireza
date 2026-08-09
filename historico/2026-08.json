@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T17:17:05.790784Z",
+  "atualizado": "2026-08-09T17:49:16.841062Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -585,9 +585,9 @@
           "conf": 100,
           "def": 33,
           "sof": 2.0,
-          "ndef": 5,
+          "ndef": 6,
           "idx": 78.0,
-          "mvp": 26,
+          "mvp": 27,
           "pos": 3,
           "zona": "—"
         },
@@ -1124,6 +1124,36 @@
           "zona": "—"
         },
         {
+          "n": "PaulinhoPH",
+          "th": 15,
+          "atk": 6,
+          "est": 13,
+          "spa": 2.17,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 6,
+          "idx": 55.6,
+          "mvp": 15,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
+          "n": "B E L L I O N™",
+          "th": 16,
+          "atk": 3,
+          "est": 8,
+          "spa": 2.67,
+          "conf": 50,
+          "def": 22,
+          "sof": 2.3,
+          "ndef": 6,
+          "idx": 54.6,
+          "mvp": 12,
+          "pos": 8,
+          "zona": "—"
+        },
+        {
           "n": "Wilson z2",
           "th": 15,
           "atk": 5,
@@ -1135,7 +1165,7 @@
           "ndef": 6,
           "idx": 54.5,
           "mvp": 15,
-          "pos": 7,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -1150,36 +1180,6 @@
           "ndef": 6,
           "idx": 53.9,
           "mvp": 15,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "B E L L I O N™",
-          "th": 16,
-          "atk": 3,
-          "est": 8,
-          "spa": 2.67,
-          "conf": 50,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "idx": 53.2,
-          "mvp": 10,
-          "pos": 9,
-          "zona": "—"
-        },
-        {
-          "n": "PaulinhoPH",
-          "th": 15,
-          "atk": 5,
-          "est": 11,
-          "spa": 2.2,
-          "conf": 83,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 6,
-          "idx": 52.6,
-          "mvp": 13,
           "pos": 10,
           "zona": "—"
         },

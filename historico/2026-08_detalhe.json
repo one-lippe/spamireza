@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T17:17:05.911004Z",
+  "atualizado": "2026-08-09T17:49:16.843730Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3776,7 +3776,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "·Holtser Ω",
@@ -4623,7 +4623,7 @@
               "tag": "#JLYPQP80",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "Gerion",
@@ -4647,7 +4647,9 @@
               "nome": "PaulinhoPH",
               "tag": "#GVLGQ098",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
