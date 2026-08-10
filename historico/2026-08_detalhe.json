@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-10T07:59:38.162604Z",
+  "atualizado": "2026-08-10T09:19:47.599195Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3704,7 +3704,7 @@
               "tag": "#YVU0L88P",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "LEANDRO",
@@ -3765,7 +3765,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "rei do crime",
@@ -3859,7 +3859,9 @@
               "nome": "irmão do jorel",
               "tag": "#P2JCQRPGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -4887,7 +4889,7 @@
               "tag": "#PR0R0VC9P",
               "th": 14,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             }
           ]
         }

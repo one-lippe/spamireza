@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-10T07:59:38.160050Z",
+  "atualizado": "2026-08-10T09:19:47.596595Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -553,11 +553,11 @@
           "est": 21,
           "spa": 3.0,
           "conf": 100,
-          "def": 56,
-          "sof": 1.3,
-          "ndef": 3,
-          "idx": 82.0,
-          "mvp": 26,
+          "def": 50,
+          "sof": 1.5,
+          "ndef": 4,
+          "idx": 81.0,
+          "mvp": 27,
           "pos": 1,
           "zona": "promo"
         },
@@ -802,6 +802,21 @@
           "zona": "—"
         },
         {
+          "n": "irmão do jorel",
+          "th": 18,
+          "atk": 7,
+          "est": 20,
+          "spa": 2.86,
+          "conf": 100,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "idx": 70.8,
+          "mvp": 21,
+          "pos": 18,
+          "zona": "—"
+        },
+        {
           "n": "Sr • Pbalestra",
           "th": 18,
           "atk": 7,
@@ -813,7 +828,7 @@
           "ndef": 7,
           "idx": 70.7,
           "mvp": 23,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -828,7 +843,7 @@
           "ndef": 5,
           "idx": 69.3,
           "mvp": 21,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -843,7 +858,7 @@
           "ndef": 6,
           "idx": 68.9,
           "mvp": 22,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -858,21 +873,6 @@
           "ndef": 6,
           "idx": 68.0,
           "mvp": 17,
-          "pos": 21,
-          "zona": "—"
-        },
-        {
-          "n": "irmão do jorel",
-          "th": 18,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 86,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "idx": 67.2,
-          "mvp": 18,
           "pos": 22,
           "zona": "—"
         },
@@ -922,6 +922,21 @@
           "zona": "—"
         },
         {
+          "n": "LSWRTH",
+          "th": 18,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 86,
+          "def": 10,
+          "sof": 2.7,
+          "ndef": 7,
+          "idx": 65.0,
+          "mvp": 18,
+          "pos": 26,
+          "zona": "—"
+        },
+        {
           "n": "rei do crime",
           "th": 18,
           "atk": 6,
@@ -932,21 +947,6 @@
           "sof": 2.8,
           "ndef": 5,
           "idx": 64.5,
-          "mvp": 17,
-          "pos": 26,
-          "zona": "—"
-        },
-        {
-          "n": "LSWRTH",
-          "th": 18,
-          "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 86,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
-          "idx": 64.3,
           "mvp": 17,
           "pos": 27,
           "zona": "—"
@@ -1220,11 +1220,11 @@
           "est": 8,
           "spa": 2.0,
           "conf": 80,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
-          "idx": 47.0,
-          "mvp": 8,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "idx": 48.1,
+          "mvp": 9,
           "pos": 13,
           "zona": "—"
         },
