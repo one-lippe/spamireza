@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-10T09:19:47.599195Z",
+  "atualizado": "2026-08-10T10:39:29.073839Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3703,7 +3703,9 @@
               "nome": "LSWRTH",
               "tag": "#YVU0L88P",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -3792,7 +3794,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Duff",
@@ -4801,7 +4803,7 @@
               "tag": "#JLYPQP80",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ghostface",
@@ -4810,14 +4812,14 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Gerion",
               "tag": "#YP9L000LG",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "PaulinhoPH",
@@ -4840,7 +4842,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Honrado",
@@ -4861,14 +4863,14 @@
               "tag": "#LL8GP2CQP",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "GSAzevedo30 #2",
               "tag": "#29882J2L2",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "-Meliodas-",
