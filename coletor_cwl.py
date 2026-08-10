@@ -45,8 +45,9 @@ def get(path):
 
 def mult_liga(nome):
     if not nome: return 0.85
-    base = {"champion": 1.00, "master": 0.93, "crystal": 0.83, "gold": 0.72,
-            "silver": 0.62, "bronze": 0.55}
+    # ordem checada do topo pro fundo (Titan/Legend adicionados em 2026, acima de Champion)
+    base = {"legend": 1.15, "titan": 1.07, "champion": 1.00, "master": 0.93,
+            "crystal": 0.83, "gold": 0.72, "silver": 0.62, "bronze": 0.55}
     passo = {0: 0.0, 1: -0.03, 2: -0.06}  # I, II, III
     n = nome.lower()
     tier = next((v for k, v in base.items() if k in n), 0.85)
