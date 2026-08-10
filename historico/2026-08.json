@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-10T11:32:45.733334Z",
+  "atualizado": "2026-08-10T12:26:36.754335Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -840,9 +840,9 @@
           "conf": 86,
           "def": 33,
           "sof": 2.0,
-          "ndef": 5,
+          "ndef": 6,
           "idx": 69.3,
-          "mvp": 21,
+          "mvp": 22,
           "pos": 20,
           "zona": "—"
         },
@@ -1034,6 +1034,21 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "SR • Balestra",
+          "th": 18,
+          "atk": 7,
+          "est": 20,
+          "spa": 2.86,
+          "conf": 100,
+          "def": 29,
+          "sof": 2.1,
+          "ndef": 7,
+          "idx": 69.0,
+          "mvp": 26,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "Ligeirinh2xD",
           "th": 15,
           "atk": 7,
@@ -1045,21 +1060,6 @@
           "ndef": 7,
           "idx": 67.4,
           "mvp": 24,
-          "pos": 1,
-          "zona": "promo"
-        },
-        {
-          "n": "SR • Balestra",
-          "th": 18,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 86,
-          "def": 28,
-          "sof": 2.2,
-          "ndef": 6,
-          "idx": 65.5,
-          "mvp": 22,
           "pos": 2,
           "zona": "promo"
         },

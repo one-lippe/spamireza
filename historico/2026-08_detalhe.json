@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-10T11:32:45.735096Z",
+  "atualizado": "2026-08-10T12:26:36.756914Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3830,7 +3830,7 @@
               "tag": "#L9GRLYGVQ",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • One☆",
@@ -4790,8 +4790,10 @@
               "nome": "SR • Balestra",
               "tag": "#8UJY9C8RQ",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 2
             },
             {
               "nome": "SR • Caibreck",
