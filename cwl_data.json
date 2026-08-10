@@ -8849,7 +8849,12 @@
             "tag": "#2RLG220GY",
             "th": 15,
             "pos": 13,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 72
           },
@@ -9041,7 +9046,12 @@
           "tag": "#2RLG220GY",
           "th": 15,
           "pos": 13,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 72
         },

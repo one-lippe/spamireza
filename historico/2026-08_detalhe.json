@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-10T23:24:38.661982Z",
+  "atualizado": "2026-08-10T23:57:22.997766Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -4869,7 +4869,9 @@
               "nome": "Wilson z2",
               "tag": "#2RLG220GY",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
