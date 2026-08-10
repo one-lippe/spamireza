@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-09T23:51:24.334204Z",
+  "atualizado": "2026-08-10T00:51:48.708677Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3735,14 +3735,18 @@
               "nome": "menolli",
               "tag": "#RGYQYP9U",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
               "nome": "nonick",
               "tag": "#G890RJVCR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3847,14 +3851,14 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "irmão do jorel",
               "tag": "#P2JCQRPGJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "F4KER",
@@ -3863,7 +3867,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Sra Nunes",
@@ -4716,7 +4720,9 @@
               "nome": "Wilson z2",
               "tag": "#2RLG220GY",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -4757,7 +4763,9 @@
               "nome": "°D∆×iLh∆°",
               "tag": "#PR0R0VC9P",
               "th": 14,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             }
           ]
