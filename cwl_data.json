@@ -8757,7 +8757,12 @@
             "tag": "#PUPQ0RC92",
             "th": 16,
             "pos": 3,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 54
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -8944,7 +8949,12 @@
           "tag": "#PUPQ0RC92",
           "th": 16,
           "pos": 3,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 54
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },

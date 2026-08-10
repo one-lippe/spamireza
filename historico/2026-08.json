@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-10T22:55:20.358133Z",
+  "atualizado": "2026-08-10T23:24:38.659971Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1231,15 +1231,15 @@
         {
           "n": "SR • Caibreck",
           "th": 16,
-          "atk": 6,
-          "est": 11,
-          "spa": 1.83,
-          "conf": 86,
+          "atk": 7,
+          "est": 13,
+          "spa": 1.86,
+          "conf": 100,
           "def": 0,
           "sof": 3.0,
           "ndef": 7,
-          "idx": 45.7,
-          "mvp": 11,
+          "idx": 49.0,
+          "mvp": 13,
           "pos": 14,
           "zona": "—"
         },
