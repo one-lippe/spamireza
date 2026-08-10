@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-10T15:43:33.950587Z",
+  "atualizado": "2026-08-10T16:33:42.114477Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2016,7 +2016,7 @@
     },
     "3": {
       "nome": "ScamiReza",
-      "liga": "Master League II",
+      "liga": "Master League I",
       "guerras": [
         {
           "g": 1,
@@ -3671,7 +3671,7 @@
         {
           "g": 7,
           "vs": "37 LEGEND WAR",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 30,
           "jogadores": [
             {
@@ -4806,7 +4806,7 @@
               "tag": "#PUPQ0RC92",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "B E L L I O N™",
@@ -4874,7 +4874,9 @@
               "nome": "☆InTheDark☆",
               "tag": "#LL8GP2CQP",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
