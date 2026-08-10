@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-10T10:39:29.071257Z",
+  "atualizado": "2026-08-10T11:32:45.733334Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -68,22 +68,22 @@
           "zona": "—"
         },
         {
-          "n": "I G R I S ™",
+          "n": "marinaul war",
           "th": 18,
           "atk": 7,
           "est": 20,
           "spa": 2.86,
           "conf": 100,
-          "def": 11,
+          "def": 10,
           "sof": 2.7,
-          "ndef": 6,
-          "idx": 79.6,
+          "ndef": 7,
+          "idx": 79.3,
           "mvp": 22,
           "pos": 5,
           "zona": "—"
         },
         {
-          "n": "marinaul war",
+          "n": "tozim",
           "th": 18,
           "atk": 7,
           "est": 20,
@@ -113,6 +113,21 @@
           "zona": "—"
         },
         {
+          "n": "I G R I S ™",
+          "th": 18,
+          "atk": 7,
+          "est": 20,
+          "spa": 2.86,
+          "conf": 100,
+          "def": 10,
+          "sof": 2.7,
+          "ndef": 7,
+          "idx": 79.3,
+          "mvp": 22,
+          "pos": 8,
+          "zona": "—"
+        },
+        {
           "n": "Nesk",
           "th": 18,
           "atk": 7,
@@ -124,7 +139,7 @@
           "ndef": 7,
           "idx": 78.3,
           "mvp": 21,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -139,7 +154,7 @@
           "ndef": 6,
           "idx": 78.1,
           "mvp": 18,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -154,7 +169,7 @@
           "ndef": 4,
           "idx": 78.0,
           "mvp": 15,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -169,7 +184,7 @@
           "ndef": 6,
           "idx": 76.9,
           "mvp": 17,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -184,21 +199,6 @@
           "ndef": 7,
           "idx": 76.7,
           "mvp": 21,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "tozim",
-          "th": 18,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 86,
-          "def": 10,
-          "sof": 2.7,
-          "ndef": 7,
-          "idx": 75.3,
-          "mvp": 19,
           "pos": 13,
           "zona": "—"
         },
@@ -568,11 +568,11 @@
           "est": 21,
           "spa": 3.0,
           "conf": 100,
-          "def": 40,
-          "sof": 1.8,
-          "ndef": 5,
-          "idx": 79.2,
-          "mvp": 27,
+          "def": 44,
+          "sof": 1.7,
+          "ndef": 6,
+          "idx": 80.0,
+          "mvp": 29,
           "pos": 2,
           "zona": "promo"
         },
@@ -877,6 +877,21 @@
           "zona": "—"
         },
         {
+          "n": "B E R U 炎",
+          "th": 17,
+          "atk": 4,
+          "est": 12,
+          "spa": 3.0,
+          "conf": 67,
+          "def": 22,
+          "sof": 2.3,
+          "ndef": 6,
+          "idx": 68.5,
+          "mvp": 16,
+          "pos": 23,
+          "zona": "—"
+        },
+        {
           "n": "Líder André 3",
           "th": 17,
           "atk": 5,
@@ -888,7 +903,7 @@
           "ndef": 6,
           "idx": 68.0,
           "mvp": 17,
-          "pos": 23,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -903,7 +918,7 @@
           "ndef": 6,
           "idx": 66.3,
           "mvp": 19,
-          "pos": 24,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -918,21 +933,6 @@
           "ndef": 6,
           "idx": 65.9,
           "mvp": 19,
-          "pos": 25,
-          "zona": "—"
-        },
-        {
-          "n": "B E R U 炎",
-          "th": 17,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 67,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "idx": 65.7,
-          "mvp": 13,
           "pos": 26,
           "zona": "—"
         },
@@ -1034,6 +1034,21 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "Ligeirinh2xD",
+          "th": 15,
+          "atk": 7,
+          "est": 20,
+          "spa": 2.86,
+          "conf": 100,
+          "def": 19,
+          "sof": 2.4,
+          "ndef": 7,
+          "idx": 67.4,
+          "mvp": 24,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "SR • Balestra",
           "th": 18,
           "atk": 6,
@@ -1045,21 +1060,6 @@
           "ndef": 6,
           "idx": 65.5,
           "mvp": 22,
-          "pos": 1,
-          "zona": "promo"
-        },
-        {
-          "n": "Ligeirinh2xD",
-          "th": 15,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 86,
-          "def": 19,
-          "sof": 2.4,
-          "ndef": 7,
-          "idx": 64.1,
-          "mvp": 21,
           "pos": 2,
           "zona": "promo"
         },
@@ -1190,10 +1190,10 @@
           "est": 13,
           "spa": 2.17,
           "conf": 86,
-          "def": 11,
+          "def": 10,
           "sof": 2.7,
-          "ndef": 6,
-          "idx": 52.6,
+          "ndef": 7,
+          "idx": 52.3,
           "mvp": 15,
           "pos": 11,
           "zona": "—"
