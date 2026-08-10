@@ -1,10 +1,10 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-10T12:26:36.756914Z",
+  "atualizado": "2026-08-10T13:52:01.059175Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
-      "liga": "Champion League I",
+      "liga": "Titan League III",
       "guerras": [
         {
           "g": 1,
@@ -867,7 +867,7 @@
         {
           "g": 7,
           "vs": "nashik",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
@@ -3699,7 +3699,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "LSWRTH",
@@ -3723,7 +3723,9 @@
               "nome": "Lider Andre",
               "tag": "#20UUPGPCV",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -3829,7 +3831,9 @@
               "nome": "Lider André 2",
               "tag": "#L9GRLYGVQ",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
@@ -3893,7 +3897,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "SR • Dennis",
@@ -3917,7 +3921,9 @@
               "nome": "Líder André 3",
               "tag": "#GY0Q0VRL0",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3927,7 +3933,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "B E R U 炎",
