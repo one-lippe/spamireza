@@ -1,6 +1,6 @@
 {
   "season": "2026-08",
-  "atualizado": "2026-08-11T01:12:36.003746Z",
+  "atualizado": "2026-08-11T03:12:01.710619Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -4789,7 +4789,7 @@
         {
           "g": 7,
           "vs": "Timinator",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
@@ -4830,7 +4830,9 @@
               "nome": "Gerion",
               "tag": "#YP9L000LG",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -4864,7 +4866,9 @@
               "nome": "Honrado",
               "tag": "#G9RR0JYUC",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
