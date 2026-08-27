@@ -1,0 +1,40 @@
+name: Elenco atual Spamireza
+
+# Puxa quem está HOJE em cada clã (independente de onde jogou a CWL)
+# e commita elenco_atual.json. Rodar sob demanda.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  elenco:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: elenco
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Puxar elenco atual
+        env:
+          COC_TOKEN: ${{ secrets.COC_TOKEN }}
+        run: python3 elenco_atual.py
+      - name: Commitar elenco_atual.json
+        run: |
+          git config user.name "coletor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          cp elenco_atual.json /tmp/elenco_atual.json
+          for i in 1 2 3; do
+            git fetch --quiet origin main
+            git reset --hard --quiet origin/main
+            cp /tmp/elenco_atual.json elenco_atual.json
+            git add elenco_atual.json
+            if git diff --cached --quiet; then echo "nada mudou"; break; fi
+            git commit --quiet -m "auto: atualiza elenco atual dos clãs"
+            if git push --quiet origin HEAD:main; then echo "push ok"; break; fi
+            echo "push colidiu (tentativa $i)"; sleep $((i * 3))
+          done
