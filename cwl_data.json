@@ -792,7 +792,7 @@
     "rodadas": [
       {
         "warTag": "#8RU8222RJ",
-        "state": "inWar",
+        "state": "warEnded",
         "teamSize": 15,
         "adversario": "TOSCANA™",
         "prep": "20260901T223724.000Z",
@@ -1013,7 +1013,7 @@
       },
       {
         "warTag": "#8RU9UVCUG",
-        "state": "preparation",
+        "state": "inWar",
         "teamSize": 15,
         "adversario": "BASECAMP",
         "prep": "20260902T230425.000Z",
@@ -1106,7 +1106,12 @@
             "tag": "#Q2UJJ89VG",
             "th": 18,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 99
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -1159,139 +1164,94 @@
       }
     ],
     "atual": {
-      "warTag": "#8RU8222RJ",
+      "warTag": "#8RU9UVCUG",
       "state": "inWar",
       "teamSize": 15,
-      "adversario": "TOSCANA™",
-      "prep": "20260901T223724.000Z",
-      "inicio": "20260902T230347.000Z",
-      "fim": "20260903T233129.000Z",
+      "adversario": "BASECAMP",
+      "prep": "20260902T230425.000Z",
+      "inicio": "20260903T233334.000Z",
+      "fim": "20260904T233334.000Z",
       "membros": [
         {
           "nome": "Agnes",
           "tag": "#LLLU0VQCL",
           "th": 18,
           "pos": 1,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "SR - JON SNOW 2",
           "tag": "#9VV909C89",
           "th": 18,
           "pos": 2,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "SrNunes",
           "tag": "#2LY8G8Y9",
           "th": 18,
           "pos": 3,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "LSWRTH",
           "tag": "#YVU0L88P",
           "th": 18,
           "pos": 4,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "LEANDRO",
           "tag": "#QPCRCR8VY",
           "th": 18,
           "pos": 5,
-          "ataques": [
-            {
-              "estrelas": 2,
-              "destr": 97
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "Sene",
           "tag": "#8JQJYQC",
           "th": 18,
           "pos": 6,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 81
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "Sr • Pbalestra",
           "tag": "#2YP8QV8J9",
           "th": 18,
           "pos": 7,
-          "ataques": [
-            {
-              "estrelas": 2,
-              "destr": 82
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 92
-        },
-        {
-          "nome": "GSAzevedo30",
-          "tag": "#CJLVVL9L",
-          "th": 18,
-          "pos": 8,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "TomorrowBr",
           "tag": "#YPJLVPL9U",
           "th": 18,
+          "pos": 8,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
+        },
+        {
+          "nome": "GSAzevedo30",
+          "tag": "#CJLVVL9L",
+          "th": 18,
           "pos": 9,
-          "ataques": [
-            {
-              "estrelas": 2,
-              "destr": 86
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 66
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "Psico 2k25",
@@ -1300,82 +1260,57 @@
           "pos": 10,
           "ataques": [
             {
-              "estrelas": 3,
-              "destr": 100
+              "estrelas": 2,
+              "destr": 99
             }
           ],
-          "def_estrelas": 2,
-          "def_destr": 89
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "Reikan",
           "tag": "#GJYRCJ0PR",
           "th": 18,
           "pos": 11,
-          "ataques": [
-            {
-              "estrelas": 2,
-              "destr": 96
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "SR•GOD kratos",
           "tag": "#LUJ9CRJQG",
           "th": 18,
           "pos": 12,
-          "ataques": [
-            {
-              "estrelas": 2,
-              "destr": 95
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "SR . Kcatoyo",
           "tag": "#20GJVUJLU",
           "th": 18,
           "pos": 14,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "Levi_Neiva 2",
           "tag": "#90GRYGJVP",
           "th": 18,
           "pos": 16,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 65
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "ROBERTHWILLIAMM",
           "tag": "#G2V22VQUY",
           "th": 18,
           "pos": 17,
-          "ataques": [
-            {
-              "estrelas": 2,
-              "destr": 65
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 69
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         }
       ]
     },
@@ -1610,9 +1545,14 @@
             "tag": "#2GCJ8QC92",
             "th": 18,
             "pos": 4,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 91
+              }
+            ],
+            "def_estrelas": 2,
+            "def_destr": 58
           },
           {
             "nome": "ＬＵＭＩＮＯＵＳ",
@@ -1661,7 +1601,12 @@
             "tag": "#PRLJY29Y0",
             "th": 18,
             "pos": 8,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 85
           },
@@ -2308,9 +2253,14 @@
           "tag": "#2GCJ8QC92",
           "th": 18,
           "pos": 4,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 91
+            }
+          ],
+          "def_estrelas": 2,
+          "def_destr": 58
         },
         {
           "nome": "ＬＵＭＩＮＯＵＳ",
@@ -2359,7 +2309,12 @@
           "tag": "#PRLJY29Y0",
           "th": 18,
           "pos": 8,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 85
         },
@@ -2956,7 +2911,12 @@
             "tag": "#GVLGQ098",
             "th": 16,
             "pos": 7,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 77
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -3013,8 +2973,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "nogzrush",
@@ -3204,8 +3164,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 1,
+            "def_destr": 47
           },
           {
             "nome": "lipe",
@@ -3649,7 +3609,12 @@
           "tag": "#GVLGQ098",
           "th": 16,
           "pos": 7,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 77
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3706,8 +3671,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "nogzrush",
@@ -3897,8 +3862,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 1,
+          "def_destr": 47
         },
         {
           "nome": "lipe",

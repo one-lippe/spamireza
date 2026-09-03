@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-03T21:50:51.360857Z",
+  "atualizado": "2026-09-03T23:52:16.040444Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -158,7 +158,7 @@
         {
           "g": 1,
           "vs": "TOSCANA™",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
@@ -297,6 +297,121 @@
               "def_est": 2
             }
           ]
+        },
+        {
+          "g": 2,
+          "vs": "BASECAMP",
+          "state": "inWar",
+          "size": 15,
+          "jogadores": [
+            {
+              "nome": "Agnes",
+              "tag": "#LLLU0VQCL",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR - JON SNOW 2",
+              "tag": "#9VV909C89",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SrNunes",
+              "tag": "#2LY8G8Y9",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "LSWRTH",
+              "tag": "#YVU0L88P",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "LEANDRO",
+              "tag": "#QPCRCR8VY",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Sene",
+              "tag": "#8JQJYQC",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Sr • Pbalestra",
+              "tag": "#2YP8QV8J9",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "TomorrowBr",
+              "tag": "#YPJLVPL9U",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "GSAzevedo30",
+              "tag": "#CJLVVL9L",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Psico 2k25",
+              "tag": "#Q2UJJ89VG",
+              "th": 18,
+              "atk": [
+                2
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "Reikan",
+              "tag": "#GJYRCJ0PR",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR•GOD kratos",
+              "tag": "#LUJ9CRJQG",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR . Kcatoyo",
+              "tag": "#20GJVUJLU",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Levi_Neiva 2",
+              "tag": "#90GRYGJVP",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "ROBERTHWILLIAMM",
+              "tag": "#G2V22VQUY",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            }
+          ]
         }
       ]
     },
@@ -341,8 +456,10 @@
               "nome": "PaiDeFamilia",
               "tag": "#2GCJ8QC92",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                1
+              ],
+              "def_est": 2
             },
             {
               "nome": "ＬＵＭＩＮＯＵＳ",
@@ -375,7 +492,9 @@
               "nome": "Auki",
               "tag": "#PRLJY29Y0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -644,7 +763,9 @@
               "nome": "PaulinhoPH",
               "tag": "#GVLGQ098",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -681,7 +802,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "nogzrush",
@@ -805,7 +926,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "lipe",
