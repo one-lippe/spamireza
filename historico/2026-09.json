@@ -1,12 +1,42 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-04T08:16:18.570165Z",
+  "atualizado": "2026-09-04T12:47:41.724859Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
       "liga": "Titan League III",
       "mode": "rank",
       "rank": [
+        {
+          "n": "MAJ0R FiV3",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "idx": 87.5,
+          "mvp": 7,
+          "pos": 1,
+          "zona": "—"
+        },
+        {
+          "n": "☆VILA DO PX ツ",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "idx": 84.2,
+          "mvp": 7,
+          "pos": 2,
+          "zona": "—"
+        },
         {
           "n": "Dog Apollo",
           "th": 18,
@@ -19,11 +49,26 @@
           "ndef": 1,
           "idx": 80.8,
           "mvp": 6,
-          "pos": 1,
+          "pos": 3,
           "zona": "—"
         },
         {
-          "n": "☆VILA DO PX ツ",
+          "n": "SR • Giovanelli",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 80.8,
+          "mvp": 6,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
+          "n": "tozim",
           "th": 18,
           "atk": 2,
           "est": 6,
@@ -34,7 +79,22 @@
           "ndef": 1,
           "idx": 80.8,
           "mvp": 6,
-          "pos": 2,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
+          "n": "KingMpg",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 80.8,
+          "mvp": 6,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -49,7 +109,7 @@
           "ndef": 1,
           "idx": 74.9,
           "mvp": 4,
-          "pos": 3,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -64,22 +124,7 @@
           "ndef": 1,
           "idx": 74.9,
           "mvp": 4,
-          "pos": 4,
-          "zona": "—"
-        },
-        {
-          "n": "MAJ0R FiV3",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "idx": 74.9,
-          "mvp": 4,
-          "pos": 5,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -94,22 +139,7 @@
           "ndef": 2,
           "idx": 71.5,
           "mvp": 4,
-          "pos": 6,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Giovanelli",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "idx": 68.2,
-          "mvp": 3,
-          "pos": 7,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -122,36 +152,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 2,
-          "idx": 68.2,
-          "mvp": 3,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "tozim",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "idx": 68.2,
-          "mvp": 3,
-          "pos": 9,
-          "zona": "—"
-        },
-        {
-          "n": "KingMpg",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
           "idx": 68.2,
           "mvp": 3,
           "pos": 10,
@@ -173,6 +173,36 @@
           "zona": "—"
         },
         {
+          "n": "Henrique Nerath",
+          "th": 18,
+          "atk": 2,
+          "est": 4,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 62.3,
+          "mvp": 4,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
+          "n": "MAJ0R FiV3",
+          "th": 18,
+          "atk": 2,
+          "est": 4,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 62.3,
+          "mvp": 4,
+          "pos": 13,
+          "zona": "—"
+        },
+        {
           "n": "SR • InTheDark☆",
           "th": 18,
           "atk": 1,
@@ -184,36 +214,6 @@
           "ndef": 1,
           "idx": 56.4,
           "mvp": 3,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "Henrique Nerath",
-          "th": 18,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "idx": 49.7,
-          "mvp": 2,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "MAJ0R FiV3",
-          "th": 18,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "idx": 49.7,
-          "mvp": 2,
           "pos": 14,
           "zona": "—"
         },
@@ -226,7 +226,7 @@
           "conf": 50,
           "def": 0,
           "sof": 3.0,
-          "ndef": 1,
+          "ndef": 2,
           "idx": 31.1,
           "mvp": 1,
           "pos": 15,
@@ -240,7 +240,7 @@
       "mode": "rank",
       "rank": [
         {
-          "n": "GSAzevedo30",
+          "n": "Agnes",
           "th": 18,
           "atk": 2,
           "est": 6,
@@ -255,6 +255,36 @@
           "zona": "—"
         },
         {
+          "n": "LSWRTH",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 75.2,
+          "mvp": 6,
+          "pos": 2,
+          "zona": "—"
+        },
+        {
+          "n": "GSAzevedo30",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 75.2,
+          "mvp": 6,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
           "n": "SR . Kcatoyo",
           "th": 18,
           "atk": 2,
@@ -266,7 +296,7 @@
           "ndef": 1,
           "idx": 75.2,
           "mvp": 6,
-          "pos": 2,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -281,7 +311,7 @@
           "ndef": 1,
           "idx": 72.9,
           "mvp": 6,
-          "pos": 3,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -296,7 +326,7 @@
           "ndef": 1,
           "idx": 72.9,
           "mvp": 6,
-          "pos": 4,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -311,7 +341,22 @@
           "ndef": 2,
           "idx": 69.7,
           "mvp": 6,
-          "pos": 5,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
+          "n": "ROBERTHWILLIAMM",
+          "th": 18,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "idx": 69.7,
+          "mvp": 6,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -326,7 +371,7 @@
           "ndef": 1,
           "idx": 66.6,
           "mvp": 5,
-          "pos": 6,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -341,7 +386,7 @@
           "ndef": 2,
           "idx": 66.6,
           "mvp": 4,
-          "pos": 7,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -356,56 +401,11 @@
           "ndef": 1,
           "idx": 66.6,
           "mvp": 5,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "Agnes",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "idx": 63.4,
-          "mvp": 3,
-          "pos": 9,
-          "zona": "—"
-        },
-        {
-          "n": "SR - JON SNOW 2",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "idx": 63.4,
-          "mvp": 3,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "SrNunes",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "idx": 63.4,
-          "mvp": 3,
           "pos": 11,
           "zona": "—"
         },
         {
-          "n": "LSWRTH",
+          "n": "SR - JON SNOW 2",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -420,6 +420,21 @@
           "zona": "—"
         },
         {
+          "n": "SrNunes",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 50,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 63.4,
+          "mvp": 3,
+          "pos": 13,
+          "zona": "—"
+        },
+        {
           "n": "TomorrowBr",
           "th": 18,
           "atk": 1,
@@ -430,21 +445,6 @@
           "sof": 2.0,
           "ndef": 1,
           "idx": 52.5,
-          "mvp": 3,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "ROBERTHWILLIAMM",
-          "th": 18,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 50,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "idx": 49.3,
           "mvp": 3,
           "pos": 14,
           "zona": "—"
@@ -487,7 +487,7 @@
           "zona": "—"
         },
         {
-          "n": "乂 ALIFER 乂",
+          "n": "nogz",
           "th": 18,
           "atk": 2,
           "est": 6,
@@ -502,16 +502,16 @@
           "zona": "—"
         },
         {
-          "n": "nogz",
+          "n": "乂 ALIFER 乂",
           "th": 18,
           "atk": 2,
           "est": 6,
           "spa": 3.0,
           "conf": 100,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "idx": 80.6,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "idx": 77.5,
           "mvp": 7,
           "pos": 3,
           "zona": "—"
@@ -540,7 +540,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 1,
+          "ndef": 2,
           "idx": 74.4,
           "mvp": 6,
           "pos": 5,
@@ -615,7 +615,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 1,
+          "ndef": 2,
           "idx": 74.4,
           "mvp": 6,
           "pos": 10,
@@ -645,14 +645,14 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 1,
+          "ndef": 2,
           "idx": 74.4,
           "mvp": 6,
           "pos": 12,
           "zona": "—"
         },
         {
-          "n": "SR • The off",
+          "n": "Monesy",
           "th": 18,
           "atk": 2,
           "est": 5,
@@ -667,22 +667,22 @@
           "zona": "—"
         },
         {
-          "n": "Auki",
+          "n": "SR • The off",
           "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
           "def": 33,
           "sof": 2.0,
-          "ndef": 1,
-          "idx": 69.0,
-          "mvp": 4,
+          "ndef": 2,
+          "idx": 72.1,
+          "mvp": 7,
           "pos": 14,
           "zona": "—"
         },
         {
-          "n": "nonick",
+          "n": "Auki",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -697,21 +697,6 @@
           "zona": "—"
         },
         {
-          "n": "Monesy",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "idx": 69.0,
-          "mvp": 4,
-          "pos": 16,
-          "zona": "—"
-        },
-        {
           "n": "乂Maciel乂",
           "th": 18,
           "atk": 2,
@@ -723,7 +708,7 @@
           "ndef": 2,
           "idx": 65.9,
           "mvp": 5,
-          "pos": 17,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -738,7 +723,37 @@
           "ndef": 2,
           "idx": 65.9,
           "mvp": 4,
+          "pos": 17,
+          "zona": "—"
+        },
+        {
+          "n": "nonick",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 50,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "idx": 65.9,
+          "mvp": 4,
           "pos": 18,
+          "zona": "—"
+        },
+        {
+          "n": "Darth Revan",
+          "th": 17,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 65.9,
+          "mvp": 5,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -753,7 +768,7 @@
           "ndef": 1,
           "idx": 63.5,
           "mvp": 3,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -768,7 +783,7 @@
           "ndef": 1,
           "idx": 62.8,
           "mvp": 3,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -783,7 +798,7 @@
           "ndef": 1,
           "idx": 62.8,
           "mvp": 3,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -798,26 +813,11 @@
           "ndef": 1,
           "idx": 62.8,
           "mvp": 3,
-          "pos": 22,
-          "zona": "—"
-        },
-        {
-          "n": "Sra Nunes",
-          "th": 17,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "idx": 62.8,
-          "mvp": 3,
           "pos": 23,
           "zona": "—"
         },
         {
-          "n": "Darth Revan",
+          "n": "Sra Nunes",
           "th": 17,
           "atk": 1,
           "est": 3,
@@ -877,6 +877,21 @@
           "zona": "—"
         },
         {
+          "n": "SR•Dos Ovos",
+          "th": 18,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "idx": 57.4,
+          "mvp": 2,
+          "pos": 28,
+          "zona": "—"
+        },
+        {
           "n": "MattosxP",
           "th": 18,
           "atk": 1,
@@ -888,7 +903,7 @@
           "ndef": 2,
           "idx": 48.8,
           "mvp": 3,
-          "pos": 28,
+          "pos": 29,
           "zona": "—"
         },
         {
@@ -903,7 +918,7 @@
           "ndef": 1,
           "idx": 46.5,
           "mvp": 2,
-          "pos": 29,
+          "pos": 30,
           "zona": "—"
         },
         {
@@ -918,26 +933,11 @@
           "ndef": 1,
           "idx": 45.7,
           "mvp": 2,
-          "pos": 30,
-          "zona": "—"
-        },
-        {
-          "n": "♣DnF◆",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 0.0,
-          "mvp": 0,
           "pos": 31,
           "zona": "—"
         },
         {
-          "n": "SR•Dos Ovos",
+          "n": "♣DnF◆",
           "th": 18,
           "atk": 0,
           "est": 0,
@@ -959,7 +959,7 @@
       "mode": "rank",
       "rank": [
         {
-          "n": "Ligeirinh2xD",
+          "n": "RAGNAROK",
           "th": 15,
           "atk": 2,
           "est": 6,
@@ -974,6 +974,21 @@
           "zona": "—"
         },
         {
+          "n": "Ligeirinh2xD",
+          "th": 15,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "idx": 83.0,
+          "mvp": 6,
+          "pos": 2,
+          "zona": "—"
+        },
+        {
           "n": "scamador'd'calv",
           "th": 15,
           "atk": 2,
@@ -985,7 +1000,7 @@
           "ndef": 1,
           "idx": 77.5,
           "mvp": 8,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -1000,7 +1015,7 @@
           "ndef": 1,
           "idx": 72.6,
           "mvp": 6,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -1015,22 +1030,37 @@
           "ndef": 2,
           "idx": 71.9,
           "mvp": 8,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
-          "n": "RAGNAROK",
+          "n": "DO BRONX",
           "th": 15,
-          "atk": 1,
-          "est": 3,
+          "atk": 2,
+          "est": 6,
           "spa": 3.0,
-          "conf": 50,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "idx": 70.0,
-          "mvp": 3,
-          "pos": 5,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "idx": 71.9,
+          "mvp": 7,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
+          "n": "DARTH VADER",
+          "th": 14,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 2,
+          "idx": 71.9,
+          "mvp": 8,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -1045,7 +1075,7 @@
           "ndef": 1,
           "idx": 69.9,
           "mvp": 7,
-          "pos": 6,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -1060,7 +1090,7 @@
           "ndef": 2,
           "idx": 69.2,
           "mvp": 7,
-          "pos": 7,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -1075,7 +1105,7 @@
           "ndef": 2,
           "idx": 66.4,
           "mvp": 6,
-          "pos": 8,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -1090,7 +1120,7 @@
           "ndef": 1,
           "idx": 66.4,
           "mvp": 6,
-          "pos": 9,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -1105,7 +1135,7 @@
           "ndef": 2,
           "idx": 66.4,
           "mvp": 6,
-          "pos": 10,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -1120,7 +1150,7 @@
           "ndef": 1,
           "idx": 64.3,
           "mvp": 6,
-          "pos": 11,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -1135,7 +1165,7 @@
           "ndef": 2,
           "idx": 64.3,
           "mvp": 6,
-          "pos": 12,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -1150,51 +1180,21 @@
           "ndef": 1,
           "idx": 61.6,
           "mvp": 4,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "☆InTheDark☆",
-          "th": 15,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "idx": 61.6,
-          "mvp": 4,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "DO BRONX",
-          "th": 15,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "idx": 61.6,
-          "mvp": 4,
           "pos": 15,
           "zona": "—"
         },
         {
-          "n": "DARTH VADER",
-          "th": 14,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "idx": 61.6,
-          "mvp": 4,
+          "n": "Meliodas NNT",
+          "th": 17,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 58.8,
+          "mvp": 5,
           "pos": 16,
           "zona": "—"
         },
@@ -1229,22 +1229,22 @@
           "zona": "—"
         },
         {
-          "n": "Y4s",
-          "th": 17,
+          "n": "☆InTheDark☆",
+          "th": 15,
           "atk": 1,
           "est": 3,
           "spa": 3.0,
           "conf": 50,
-          "def": 0,
-          "sof": 3.0,
+          "def": 17,
+          "sof": 2.5,
           "ndef": 2,
-          "idx": 56.0,
-          "mvp": 3,
+          "idx": 58.8,
+          "mvp": 4,
           "pos": 19,
           "zona": "—"
         },
         {
-          "n": "Meliodas NNT",
+          "n": "Y4s",
           "th": 17,
           "atk": 1,
           "est": 3,
@@ -1357,7 +1357,7 @@
           "conf": 50,
           "def": 0,
           "sof": 3.0,
-          "ndef": 1,
+          "ndef": 2,
           "idx": 40.8,
           "mvp": 2,
           "pos": 27,
