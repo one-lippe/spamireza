@@ -1044,8 +1044,8 @@
             "th": 18,
             "pos": 3,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "LSWRTH",
@@ -1053,8 +1053,8 @@
             "th": 18,
             "pos": 4,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "LEANDRO",
@@ -1071,8 +1071,8 @@
             "th": 18,
             "pos": 6,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Sr • Pbalestra",
@@ -1097,7 +1097,12 @@
             "tag": "#CJLVVL9L",
             "th": 18,
             "pos": 9,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -1112,6 +1117,167 @@
                 "destr": 99
               }
             ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Reikan",
+            "tag": "#GJYRCJ0PR",
+            "th": 18,
+            "pos": 11,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR•GOD kratos",
+            "tag": "#LUJ9CRJQG",
+            "th": 18,
+            "pos": 12,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR . Kcatoyo",
+            "tag": "#20GJVUJLU",
+            "th": 18,
+            "pos": 14,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Levi_Neiva 2",
+            "tag": "#90GRYGJVP",
+            "th": 18,
+            "pos": 16,
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 88
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "ROBERTHWILLIAMM",
+            "tag": "#G2V22VQUY",
+            "th": 18,
+            "pos": 17,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          }
+        ]
+      },
+      {
+        "warTag": "#8RULPUQLP",
+        "state": "preparation",
+        "teamSize": 15,
+        "adversario": "♨『N』『O』『V』『A』♨",
+        "prep": "20260904T003734.000Z",
+        "inicio": "20260905T003732.000Z",
+        "fim": "20260906T003732.000Z",
+        "membros": [
+          {
+            "nome": "Agnes",
+            "tag": "#LLLU0VQCL",
+            "th": 18,
+            "pos": 1,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR - JON SNOW 2",
+            "tag": "#9VV909C89",
+            "th": 18,
+            "pos": 2,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SrNunes",
+            "tag": "#2LY8G8Y9",
+            "th": 18,
+            "pos": 3,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "LEANDRO",
+            "tag": "#QPCRCR8VY",
+            "th": 18,
+            "pos": 4,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "LSWRTH",
+            "tag": "#YVU0L88P",
+            "th": 18,
+            "pos": 5,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Sene",
+            "tag": "#8JQJYQC",
+            "th": 18,
+            "pos": 6,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Psico 2k25",
+            "tag": "#Q2UJJ89VG",
+            "th": 18,
+            "pos": 7,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Sr • Pbalestra",
+            "tag": "#2YP8QV8J9",
+            "th": 18,
+            "pos": 8,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "TomorrowBr",
+            "tag": "#YPJLVPL9U",
+            "th": 18,
+            "pos": 9,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "GSAzevedo30",
+            "tag": "#CJLVVL9L",
+            "th": 18,
+            "pos": 10,
+            "ataques": [],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -1146,7 +1312,7 @@
             "nome": "Levi_Neiva 2",
             "tag": "#90GRYGJVP",
             "th": 18,
-            "pos": 16,
+            "pos": 15,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null
@@ -1196,8 +1362,8 @@
           "th": 18,
           "pos": 3,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "LSWRTH",
@@ -1205,8 +1371,8 @@
           "th": 18,
           "pos": 4,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "LEANDRO",
@@ -1223,8 +1389,8 @@
           "th": 18,
           "pos": 6,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Sr • Pbalestra",
@@ -1249,7 +1415,12 @@
           "tag": "#CJLVVL9L",
           "th": 18,
           "pos": 9,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -1272,7 +1443,12 @@
           "tag": "#GJYRCJ0PR",
           "th": 18,
           "pos": 11,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -1290,7 +1466,12 @@
           "tag": "#20GJVUJLU",
           "th": 18,
           "pos": 14,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -1299,7 +1480,12 @@
           "tag": "#90GRYGJVP",
           "th": 18,
           "pos": 16,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 88
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -1491,7 +1677,7 @@
     "rodadas": [
       {
         "warTag": "#8RCQR090G",
-        "state": "inWar",
+        "state": "warEnded",
         "teamSize": 30,
         "adversario": "الصدقاء",
         "prep": "20260902T002425.000Z",
@@ -1783,7 +1969,12 @@
             "tag": "#8GG88V2PU",
             "th": 17,
             "pos": 23,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -1917,12 +2108,358 @@
       },
       {
         "warTag": "#8RCRQQL2L",
-        "state": "preparation",
+        "state": "inWar",
         "teamSize": 30,
         "adversario": "* Star Clash *",
         "prep": "20260903T005234.000Z",
         "inicio": "20260904T012115.000Z",
         "fim": "20260905T012115.000Z",
+        "membros": [
+          {
+            "nome": "乂Maciel乂",
+            "tag": "#9LCP9VPP",
+            "th": 18,
+            "pos": 1,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR • THIAGO",
+            "tag": "#89G0YGUJY",
+            "th": 18,
+            "pos": 2,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "MattosxP",
+            "tag": "#LU2PQ0CU8",
+            "th": 18,
+            "pos": 3,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "ＬＵＭＩＮＯＵＳ",
+            "tag": "#2LLYCQPG8",
+            "th": 18,
+            "pos": 5,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR • Balestra",
+            "tag": "#8UJY9C8RQ",
+            "th": 18,
+            "pos": 7,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Auki",
+            "tag": "#PRLJY29Y0",
+            "th": 18,
+            "pos": 8,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Samuel Soares",
+            "tag": "#9V2L9J9JP",
+            "th": 18,
+            "pos": 9,
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 86
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "nonick",
+            "tag": "#G890RJVCR",
+            "th": 18,
+            "pos": 10,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "matias?",
+            "tag": "#RCQQUGC9",
+            "th": 18,
+            "pos": 11,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "rei do crime",
+            "tag": "#RP8VCCUV",
+            "th": 18,
+            "pos": 12,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Monesy",
+            "tag": "#2YGJQG22G",
+            "th": 18,
+            "pos": 13,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "乂 ALIFER 乂",
+            "tag": "#2LLJ9JUYJ",
+            "th": 18,
+            "pos": 14,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "dvnly",
+            "tag": "#QR2JLQ2RR",
+            "th": 18,
+            "pos": 15,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "nogz",
+            "tag": "#GV09299QL",
+            "th": 18,
+            "pos": 16,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Duff",
+            "tag": "#QQC298JUC",
+            "th": 18,
+            "pos": 17,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR • The off",
+            "tag": "#YJ2JLPQGR",
+            "th": 18,
+            "pos": 18,
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 98
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "♣DnF◆",
+            "tag": "#8UY0889P9",
+            "th": 18,
+            "pos": 19,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR•Dos Ovos",
+            "tag": "#LPCCGGGY9",
+            "th": 18,
+            "pos": 20,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Ligeirinh0xD",
+            "tag": "#GRR2G9LP0",
+            "th": 18,
+            "pos": 21,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR • GPM 2",
+            "tag": "#Q22CCP90J",
+            "th": 17,
+            "pos": 22,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "·Holtser Ω",
+            "tag": "#8GG88V2PU",
+            "th": 17,
+            "pos": 23,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR • One☆",
+            "tag": "#Q9PL0CUU",
+            "th": 17,
+            "pos": 24,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "ayumatsui",
+            "tag": "#QPJ209J89",
+            "th": 17,
+            "pos": 25,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Sra Nunes",
+            "tag": "#22JQULR22",
+            "th": 17,
+            "pos": 26,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "F4KER",
+            "tag": "#QQQ8VQPL0",
+            "th": 17,
+            "pos": 27,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Darth Revan",
+            "tag": "#8R280VRCQ",
+            "th": 17,
+            "pos": 28,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR • Dennis",
+            "tag": "#82R9VYVGY",
+            "th": 17,
+            "pos": 29,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Jan™",
+            "tag": "#CJV9G22Q",
+            "th": 17,
+            "pos": 30,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Nesk'",
+            "tag": "#YCRJU229",
+            "th": 17,
+            "pos": 31,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "GPM Level 1",
+            "tag": "#QV2J0YV0V",
+            "th": 18,
+            "pos": 33,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          }
+        ]
+      },
+      {
+        "warTag": "#8RCCUC0VL",
+        "state": "preparation",
+        "teamSize": 30,
+        "adversario": "Moose Army",
+        "prep": "20260904T013217.000Z",
+        "inicio": "20260905T013215.000Z",
+        "fim": "20260906T013215.000Z",
         "membros": [
           {
             "nome": "乂Maciel乂",
@@ -1952,26 +2489,8 @@
             "def_destr": null
           },
           {
-            "nome": "PaiDeFamilia",
-            "tag": "#2GCJ8QC92",
-            "th": 18,
-            "pos": 4,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
-          },
-          {
             "nome": "ＬＵＭＩＮＯＵＳ",
             "tag": "#2LLYCQPG8",
-            "th": 18,
-            "pos": 5,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
-          },
-          {
-            "nome": "Lider Andre",
-            "tag": "#20UUPGPCV",
             "th": 18,
             "pos": 6,
             "ataques": [],
@@ -2082,6 +2601,24 @@
             "tag": "#YJ2JLPQGR",
             "th": 18,
             "pos": 18,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "♣DnF◆",
+            "tag": "#8UY0889P9",
+            "th": 18,
+            "pos": 19,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "SR•Dos Ovos",
+            "tag": "#LPCCGGGY9",
+            "th": 18,
+            "pos": 20,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null
@@ -2198,13 +2735,13 @@
       }
     ],
     "atual": {
-      "warTag": "#8RCQR090G",
+      "warTag": "#8RCRQQL2L",
       "state": "inWar",
       "teamSize": 30,
-      "adversario": "الصدقاء",
-      "prep": "20260902T002425.000Z",
-      "inicio": "20260903T005200.000Z",
-      "fim": "20260904T012100.000Z",
+      "adversario": "* Star Clash *",
+      "prep": "20260903T005234.000Z",
+      "inicio": "20260904T012115.000Z",
+      "fim": "20260905T012115.000Z",
       "membros": [
         {
           "nome": "乂Maciel乂",
@@ -2213,54 +2750,30 @@
           "pos": 1,
           "ataques": [
             {
-              "estrelas": 2,
-              "destr": 94
+              "estrelas": 3,
+              "destr": 100
             }
           ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "SR • THIAGO",
           "tag": "#89G0YGUJY",
           "th": 18,
           "pos": 2,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 86
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "MattosxP",
           "tag": "#LU2PQ0CU8",
           "th": 18,
           "pos": 3,
-          "ataques": [
-            {
-              "estrelas": 2,
-              "destr": 75
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
-        },
-        {
-          "nome": "PaiDeFamilia",
-          "tag": "#2GCJ8QC92",
-          "th": 18,
-          "pos": 4,
-          "ataques": [
-            {
-              "estrelas": 1,
-              "destr": 91
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 58
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "ＬＵＭＩＮＯＵＳ",
@@ -2273,50 +2786,26 @@
               "destr": 100
             }
           ],
-          "def_estrelas": 3,
-          "def_destr": 100
-        },
-        {
-          "nome": "Lider Andre",
-          "tag": "#20UUPGPCV",
-          "th": 18,
-          "pos": 6,
-          "ataques": [
-            {
-              "estrelas": 2,
-              "destr": 68
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 87
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "SR • Balestra",
           "tag": "#8UJY9C8RQ",
           "th": 18,
           "pos": 7,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 88
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "Auki",
           "tag": "#PRLJY29Y0",
           "th": 18,
           "pos": 8,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 85
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "Samuel Soares",
@@ -2326,67 +2815,47 @@
           "ataques": [
             {
               "estrelas": 2,
-              "destr": 87
+              "destr": 86
             }
           ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "nonick",
           "tag": "#G890RJVCR",
           "th": 18,
           "pos": 10,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 77
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "matias?",
           "tag": "#RCQQUGC9",
           "th": 18,
           "pos": 11,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "rei do crime",
           "tag": "#RP8VCCUV",
           "th": 18,
           "pos": 12,
-          "ataques": [
-            {
-              "estrelas": 2,
-              "destr": 99
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "Monesy",
           "tag": "#2YGJQG22G",
           "th": 18,
           "pos": 13,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 93
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "乂 ALIFER 乂",
@@ -2399,8 +2868,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": 2,
-          "def_destr": 77
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "dvnly",
@@ -2413,12 +2882,12 @@
               "destr": 100
             }
           ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
-          "nome": "Duff",
-          "tag": "#QQC298JUC",
+          "nome": "nogz",
+          "tag": "#GV09299QL",
           "th": 18,
           "pos": 16,
           "ataques": [
@@ -2427,12 +2896,12 @@
               "destr": 100
             }
           ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
-          "nome": "nogz",
-          "tag": "#GV09299QL",
+          "nome": "Duff",
+          "tag": "#QQC298JUC",
           "th": 18,
           "pos": 17,
           "ataques": [
@@ -2441,8 +2910,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": 2,
-          "def_destr": 82
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "SR • The off",
@@ -2451,26 +2920,39 @@
           "pos": 18,
           "ataques": [
             {
-              "estrelas": 3,
-              "destr": 100
+              "estrelas": 2,
+              "destr": 98
             }
           ],
-          "def_estrelas": 2,
-          "def_destr": 73
+          "def_estrelas": null,
+          "def_destr": null
+        },
+        {
+          "nome": "♣DnF◆",
+          "tag": "#8UY0889P9",
+          "th": 18,
+          "pos": 19,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
+        },
+        {
+          "nome": "SR•Dos Ovos",
+          "tag": "#LPCCGGGY9",
+          "th": 18,
+          "pos": 20,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "Ligeirinh0xD",
           "tag": "#GRR2G9LP0",
           "th": 18,
           "pos": 21,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "SR • GPM 2",
@@ -2483,63 +2965,53 @@
               "destr": 100
             }
           ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "·Holtser Ω",
           "tag": "#8GG88V2PU",
           "th": 17,
           "pos": 23,
-          "ataques": [],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "SR • One☆",
           "tag": "#Q9PL0CUU",
           "th": 17,
           "pos": 24,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "ayumatsui",
           "tag": "#QPJ209J89",
           "th": 17,
           "pos": 25,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
-        },
-        {
-          "nome": "F4KER",
-          "tag": "#QQQ8VQPL0",
-          "th": 17,
-          "pos": 26,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 99
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "Sra Nunes",
           "tag": "#22JQULR22",
+          "th": 17,
+          "pos": 26,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
+        },
+        {
+          "nome": "F4KER",
+          "tag": "#QQQ8VQPL0",
           "th": 17,
           "pos": 27,
           "ataques": [
@@ -2548,50 +3020,35 @@
               "destr": 100
             }
           ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "Darth Revan",
           "tag": "#8R280VRCQ",
           "th": 17,
           "pos": 28,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "SR • Dennis",
           "tag": "#82R9VYVGY",
           "th": 17,
           "pos": 29,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "Jan™",
           "tag": "#CJV9G22Q",
           "th": 17,
           "pos": 30,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "Nesk'",
@@ -2604,8 +3061,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "GPM Level 1",
@@ -2618,8 +3075,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "def_estrelas": null,
+          "def_destr": null
         }
       ]
     },
@@ -2820,7 +3277,7 @@
     "rodadas": [
       {
         "warTag": "#8QRQJG8YC",
-        "state": "inWar",
+        "state": "warEnded",
         "teamSize": 30,
         "adversario": "TEAM @KÏNG",
         "prep": "20260901T234527.000Z",
@@ -2860,7 +3317,12 @@
             "tag": "#LL9Y0ULUP",
             "th": 17,
             "pos": 3,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -3065,7 +3527,12 @@
             "tag": "#G2QQ2998J",
             "th": 15,
             "pos": 18,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -3236,12 +3703,343 @@
       },
       {
         "warTag": "#8QRRGV0CQ",
-        "state": "preparation",
+        "state": "inWar",
         "teamSize": 30,
         "adversario": "DA GALERA",
         "prep": "20260903T001326.000Z",
         "inicio": "20260904T004210.000Z",
         "fim": "20260905T004210.000Z",
+        "membros": [
+          {
+            "nome": "Lider André 2",
+            "tag": "#L9GRLYGVQ",
+            "th": 17,
+            "pos": 1,
+            "ataques": [],
+            "def_estrelas": 3,
+            "def_destr": 100
+          },
+          {
+            "nome": "Líder André 3",
+            "tag": "#GY0Q0VRL0",
+            "th": 17,
+            "pos": 2,
+            "ataques": [],
+            "def_estrelas": 3,
+            "def_destr": 100
+          },
+          {
+            "nome": "Y4s",
+            "tag": "#LL9Y0ULUP",
+            "th": 17,
+            "pos": 3,
+            "ataques": [],
+            "def_estrelas": 3,
+            "def_destr": 100
+          },
+          {
+            "nome": "Meliodas NNT",
+            "tag": "#2PLQG8UQU",
+            "th": 17,
+            "pos": 4,
+            "ataques": [],
+            "def_estrelas": 3,
+            "def_destr": 100
+          },
+          {
+            "nome": "Gerion",
+            "tag": "#YP9L000LG",
+            "th": 16,
+            "pos": 5,
+            "ataques": [],
+            "def_estrelas": 3,
+            "def_destr": 100
+          },
+          {
+            "nome": "Ghostface",
+            "tag": "#QQUC9JQ9R",
+            "th": 16,
+            "pos": 6,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 3,
+            "def_destr": 100
+          },
+          {
+            "nome": "PaulinhoPH",
+            "tag": "#GVLGQ098",
+            "th": 16,
+            "pos": 7,
+            "ataques": [],
+            "def_estrelas": 3,
+            "def_destr": 100
+          },
+          {
+            "nome": "SR • Eduhh",
+            "tag": "#2Q9RYUCCP",
+            "th": 16,
+            "pos": 8,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "NAUZIN",
+            "tag": "#G9PGYJPYP",
+            "th": 16,
+            "pos": 9,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Kelvy_10",
+            "tag": "#GU0U28JJ8",
+            "th": 16,
+            "pos": 10,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "qvnly",
+            "tag": "#GUCJQPVR9",
+            "th": 17,
+            "pos": 11,
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 78
+              }
+            ],
+            "def_estrelas": 3,
+            "def_destr": 100
+          },
+          {
+            "nome": "Honrado",
+            "tag": "#G9RR0JYUC",
+            "th": 16,
+            "pos": 12,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "nogzrush",
+            "tag": "#GU8GY2GCL",
+            "th": 18,
+            "pos": 13,
+            "ataques": [],
+            "def_estrelas": 3,
+            "def_destr": 100
+          },
+          {
+            "nome": "Wilson z2",
+            "tag": "#2RLG220GY",
+            "th": 15,
+            "pos": 14,
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 97
+              }
+            ],
+            "def_estrelas": 3,
+            "def_destr": 100
+          },
+          {
+            "nome": "psico raid 01",
+            "tag": "#G8C9VLYVC",
+            "th": 17,
+            "pos": 15,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 3,
+            "def_destr": 100
+          },
+          {
+            "nome": "SR • JotaErre",
+            "tag": "#GRUG8UQGV",
+            "th": 15,
+            "pos": 16,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "GHOSTSX",
+            "tag": "#GG99R0YJ0",
+            "th": 16,
+            "pos": 17,
+            "ataques": [],
+            "def_estrelas": 3,
+            "def_destr": 100
+          },
+          {
+            "nome": "SR • Chefex",
+            "tag": "#G2QQ2998J",
+            "th": 15,
+            "pos": 18,
+            "ataques": [],
+            "def_estrelas": 3,
+            "def_destr": 100
+          },
+          {
+            "nome": "☆InTheDark☆",
+            "tag": "#LL8GP2CQP",
+            "th": 15,
+            "pos": 19,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "GSAzevedo30 #2",
+            "tag": "#29882J2L2",
+            "th": 15,
+            "pos": 20,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 1,
+            "def_destr": 53
+          },
+          {
+            "nome": "RAGNAROK",
+            "tag": "#GCLLVYPJ8",
+            "th": 15,
+            "pos": 21,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "JigSaw",
+            "tag": "#LRGU2Q8V0",
+            "th": 15,
+            "pos": 22,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "DO BRONX",
+            "tag": "#QJYRV8UGY",
+            "th": 15,
+            "pos": 23,
+            "ataques": [],
+            "def_estrelas": 2,
+            "def_destr": 73
+          },
+          {
+            "nome": "Ligeirinh2xD",
+            "tag": "#GCC98R22R",
+            "th": 15,
+            "pos": 24,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "scamador'd'calv",
+            "tag": "#QUP0R2CJU",
+            "th": 15,
+            "pos": 25,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "lipe",
+            "tag": "#Q289QJUJC",
+            "th": 14,
+            "pos": 26,
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 96
+              }
+            ],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "DARTH VADER",
+            "tag": "#QJU9CUGP8",
+            "th": 14,
+            "pos": 28,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "Tio Marginal",
+            "tag": "#GUYRGQGYJ",
+            "th": 14,
+            "pos": 29,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
+            "nome": "POSEIDON",
+            "tag": "#89U0JU98J",
+            "th": 14,
+            "pos": 30,
+            "ataques": [],
+            "def_estrelas": 3,
+            "def_destr": 100
+          },
+          {
+            "nome": "unshaken",
+            "tag": "#QL89UQ0Q9",
+            "th": 13,
+            "pos": 31,
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 3,
+            "def_destr": 100
+          }
+        ]
+      },
+      {
+        "warTag": "#8QRU0022Q",
+        "state": "preparation",
+        "teamSize": 30,
+        "adversario": "#Drölf",
+        "prep": "20260904T004348.000Z",
+        "inicio": "20260905T004345.000Z",
+        "fim": "20260906T004345.000Z",
         "membros": [
           {
             "nome": "Lider André 2",
@@ -3517,25 +4315,20 @@
       }
     ],
     "atual": {
-      "warTag": "#8QRQJG8YC",
+      "warTag": "#8QRRGV0CQ",
       "state": "inWar",
       "teamSize": 30,
-      "adversario": "TEAM @KÏNG",
-      "prep": "20260901T234527.000Z",
-      "inicio": "20260903T001211.000Z",
-      "fim": "20260904T004015.000Z",
+      "adversario": "DA GALERA",
+      "prep": "20260903T001326.000Z",
+      "inicio": "20260904T004210.000Z",
+      "fim": "20260905T004210.000Z",
       "membros": [
         {
           "nome": "Lider André 2",
           "tag": "#L9GRLYGVQ",
           "th": 17,
           "pos": 1,
-          "ataques": [
-            {
-              "estrelas": 2,
-              "destr": 70
-            }
-          ],
+          "ataques": [],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3544,12 +4337,7 @@
           "tag": "#GY0Q0VRL0",
           "th": 17,
           "pos": 2,
-          "ataques": [
-            {
-              "estrelas": 2,
-              "destr": 55
-            }
-          ],
+          "ataques": [],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3567,12 +4355,7 @@
           "tag": "#2PLQG8UQU",
           "th": 17,
           "pos": 4,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
+          "ataques": [],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3581,12 +4364,7 @@
           "tag": "#YP9L000LG",
           "th": 16,
           "pos": 5,
-          "ataques": [
-            {
-              "estrelas": 1,
-              "destr": 88
-            }
-          ],
+          "ataques": [],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3609,12 +4387,7 @@
           "tag": "#GVLGQ098",
           "th": 16,
           "pos": 7,
-          "ataques": [
-            {
-              "estrelas": 2,
-              "destr": 77
-            }
-          ],
+          "ataques": [],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3637,54 +4410,48 @@
           "tag": "#G9PGYJPYP",
           "th": 16,
           "pos": 9,
-          "ataques": [
-            {
-              "estrelas": 2,
-              "destr": 89
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
+        },
+        {
+          "nome": "Kelvy_10",
+          "tag": "#GU0U28JJ8",
+          "th": 16,
+          "pos": 10,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "qvnly",
           "tag": "#GUCJQPVR9",
           "th": 17,
-          "pos": 10,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": null,
-          "def_destr": null
-        },
-        {
-          "nome": "Honrado",
-          "tag": "#G9RR0JYUC",
-          "th": 16,
           "pos": 11,
           "ataques": [
             {
-              "estrelas": 3,
-              "destr": 100
+              "estrelas": 2,
+              "destr": 78
             }
           ],
           "def_estrelas": 3,
           "def_destr": 100
         },
         {
+          "nome": "Honrado",
+          "tag": "#G9RR0JYUC",
+          "th": 16,
+          "pos": 12,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
+        },
+        {
           "nome": "nogzrush",
           "tag": "#GU8GY2GCL",
           "th": 18,
-          "pos": 12,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
+          "pos": 13,
+          "ataques": [],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3692,21 +4459,21 @@
           "nome": "Wilson z2",
           "tag": "#2RLG220GY",
           "th": 15,
-          "pos": 13,
+          "pos": 14,
           "ataques": [
             {
-              "estrelas": 3,
-              "destr": 100
+              "estrelas": 2,
+              "destr": 97
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "psico raid 01",
           "tag": "#G8C9VLYVC",
           "th": 17,
-          "pos": 14,
+          "pos": 15,
           "ataques": [
             {
               "estrelas": 3,
@@ -3720,41 +4487,17 @@
           "nome": "SR • JotaErre",
           "tag": "#GRUG8UQGV",
           "th": 15,
-          "pos": 15,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 93
-        },
-        {
-          "nome": "Kelvy_10",
-          "tag": "#GU0U28JJ8",
-          "th": 16,
           "pos": 16,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 1,
-          "def_destr": 96
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "GHOSTSX",
           "tag": "#GG99R0YJ0",
           "th": 16,
           "pos": 17,
-          "ataques": [
-            {
-              "estrelas": 2,
-              "destr": 67
-            }
-          ],
+          "ataques": [],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3764,22 +4507,17 @@
           "th": 15,
           "pos": 18,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "☆InTheDark☆",
           "tag": "#LL8GP2CQP",
           "th": 15,
           "pos": 19,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 68
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "GSAzevedo30 #2",
@@ -3792,34 +4530,15 @@
               "destr": 100
             }
           ],
-          "def_estrelas": 3,
-          "def_destr": 100
+          "def_estrelas": 1,
+          "def_destr": 53
         },
         {
           "nome": "RAGNAROK",
           "tag": "#GCLLVYPJ8",
           "th": 15,
           "pos": 21,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": null,
-          "def_destr": null
-        },
-        {
-          "nome": "DO BRONX",
-          "tag": "#QJYRV8UGY",
-          "th": 15,
-          "pos": 22,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
+          "ataques": [],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -3827,15 +4546,19 @@
           "nome": "JigSaw",
           "tag": "#LRGU2Q8V0",
           "th": 15,
+          "pos": 22,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
+        },
+        {
+          "nome": "DO BRONX",
+          "tag": "#QJYRV8UGY",
+          "th": 15,
           "pos": 23,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 0,
-          "def_destr": 47
+          "ataques": [],
+          "def_estrelas": 2,
+          "def_destr": 73
         },
         {
           "nome": "Ligeirinh2xD",
@@ -3862,8 +4585,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": 1,
-          "def_destr": 47
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "lipe",
@@ -3872,40 +4595,30 @@
           "pos": 26,
           "ataques": [
             {
-              "estrelas": 3,
-              "destr": 100
+              "estrelas": 2,
+              "destr": 96
             }
           ],
-          "def_estrelas": 2,
-          "def_destr": 84
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "DARTH VADER",
           "tag": "#QJU9CUGP8",
           "th": 14,
           "pos": 28,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 2,
-          "def_destr": 76
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "Tio Marginal",
           "tag": "#GUYRGQGYJ",
           "th": 14,
           "pos": 29,
-          "ataques": [
-            {
-              "estrelas": 3,
-              "destr": 100
-            }
-          ],
-          "def_estrelas": 1,
-          "def_destr": 48
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null
         },
         {
           "nome": "POSEIDON",
@@ -3913,8 +4626,8 @@
           "th": 14,
           "pos": 30,
           "ataques": [],
-          "def_estrelas": 1,
-          "def_destr": 52
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "unshaken",
@@ -3927,8 +4640,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": 2,
-          "def_destr": 73
+          "def_estrelas": 3,
+          "def_destr": 100
         }
       ]
     },
