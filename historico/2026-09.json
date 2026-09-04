@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-04T21:29:10.242942Z",
+  "atualizado": "2026-09-04T23:14:25.986417Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -158,6 +158,21 @@
           "zona": "—"
         },
         {
+          "n": "SR • InTheDark☆",
+          "th": 18,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "idx": 78.3,
+          "mvp": 6,
+          "pos": 11,
+          "zona": "—"
+        },
+        {
           "n": "marinaul war",
           "th": 18,
           "atk": 2,
@@ -169,7 +184,22 @@
           "ndef": 2,
           "idx": 74.9,
           "mvp": 6,
-          "pos": 11,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
+          "n": "SR • JON SNOW",
+          "th": 18,
+          "atk": 2,
+          "est": 4,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 62.3,
+          "mvp": 4,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -184,7 +214,7 @@
           "ndef": 2,
           "idx": 62.3,
           "mvp": 4,
-          "pos": 12,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -199,36 +229,6 @@
           "ndef": 1,
           "idx": 62.3,
           "mvp": 4,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "SR • InTheDark☆",
-          "th": 18,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 50,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "idx": 56.4,
-          "mvp": 3,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "SR • JON SNOW",
-          "th": 18,
-          "atk": 1,
-          "est": 1,
-          "spa": 1.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "idx": 31.1,
-          "mvp": 1,
           "pos": 15,
           "zona": "—"
         }
@@ -705,7 +705,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 1,
+          "ndef": 2,
           "idx": 74.4,
           "mvp": 6,
           "pos": 16,
@@ -817,7 +817,7 @@
           "zona": "—"
         },
         {
-          "n": "Jan™",
+          "n": "SR • Dennis",
           "th": 17,
           "atk": 2,
           "est": 5,
@@ -832,6 +832,21 @@
           "zona": "—"
         },
         {
+          "n": "Jan™",
+          "th": 17,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "idx": 65.9,
+          "mvp": 5,
+          "pos": 25,
+          "zona": "—"
+        },
+        {
           "n": "Lider Andre",
           "th": 18,
           "atk": 1,
@@ -842,21 +857,6 @@
           "sof": 2.0,
           "ndef": 1,
           "idx": 63.5,
-          "mvp": 3,
-          "pos": 25,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Dennis",
-          "th": 17,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "idx": 62.8,
           "mvp": 3,
           "pos": 26,
           "zona": "—"
@@ -877,6 +877,21 @@
           "zona": "—"
         },
         {
+          "n": "MattosxP",
+          "th": 18,
+          "atk": 2,
+          "est": 4,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "idx": 60.5,
+          "mvp": 5,
+          "pos": 28,
+          "zona": "—"
+        },
+        {
           "n": "Samuel Soares",
           "th": 18,
           "atk": 2,
@@ -888,7 +903,7 @@
           "ndef": 2,
           "idx": 57.4,
           "mvp": 4,
-          "pos": 28,
+          "pos": 29,
           "zona": "—"
         },
         {
@@ -903,21 +918,6 @@
           "ndef": 1,
           "idx": 57.4,
           "mvp": 2,
-          "pos": 29,
-          "zona": "—"
-        },
-        {
-          "n": "MattosxP",
-          "th": 18,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 50,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "idx": 48.8,
-          "mvp": 3,
           "pos": 30,
           "zona": "—"
         },
@@ -974,21 +974,6 @@
           "zona": "—"
         },
         {
-          "n": "scamador'd'calv",
-          "th": 15,
-          "atk": 2,
-          "est": 6,
-          "spa": 3.0,
-          "conf": 100,
-          "def": 67,
-          "sof": 1.0,
-          "ndef": 1,
-          "idx": 77.5,
-          "mvp": 8,
-          "pos": 2,
-          "zona": "—"
-        },
-        {
           "n": "JigSaw",
           "th": 15,
           "atk": 1,
@@ -1000,7 +985,7 @@
           "ndef": 1,
           "idx": 72.6,
           "mvp": 6,
-          "pos": 3,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -1015,7 +1000,7 @@
           "ndef": 2,
           "idx": 71.9,
           "mvp": 8,
-          "pos": 4,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -1030,7 +1015,7 @@
           "ndef": 1,
           "idx": 71.9,
           "mvp": 7,
-          "pos": 5,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -1045,6 +1030,21 @@
           "ndef": 1,
           "idx": 71.9,
           "mvp": 7,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
+          "n": "scamador'd'calv",
+          "th": 15,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 2,
+          "idx": 71.9,
+          "mvp": 8,
           "pos": 6,
           "zona": "—"
         },
@@ -1064,7 +1064,7 @@
           "zona": "—"
         },
         {
-          "n": "☆InTheDark☆",
+          "n": "SR • JotaErre",
           "th": 15,
           "atk": 2,
           "est": 6,
@@ -1079,6 +1079,21 @@
           "zona": "—"
         },
         {
+          "n": "☆InTheDark☆",
+          "th": 15,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "idx": 69.2,
+          "mvp": 7,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "unshaken",
           "th": 13,
           "atk": 2,
@@ -1090,7 +1105,7 @@
           "ndef": 2,
           "idx": 69.2,
           "mvp": 7,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -1105,7 +1120,7 @@
           "ndef": 2,
           "idx": 66.4,
           "mvp": 6,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -1120,7 +1135,7 @@
           "ndef": 1,
           "idx": 66.4,
           "mvp": 6,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -1135,7 +1150,7 @@
           "ndef": 2,
           "idx": 66.4,
           "mvp": 6,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -1150,7 +1165,7 @@
           "ndef": 2,
           "idx": 66.4,
           "mvp": 6,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -1165,7 +1180,7 @@
           "ndef": 2,
           "idx": 64.3,
           "mvp": 7,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -1180,7 +1195,7 @@
           "ndef": 2,
           "idx": 64.3,
           "mvp": 7,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -1195,21 +1210,6 @@
           "ndef": 2,
           "idx": 64.3,
           "mvp": 6,
-          "pos": 16,
-          "zona": "—"
-        },
-        {
-          "n": "SR • JotaErre",
-          "th": 15,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "idx": 61.6,
-          "mvp": 4,
           "pos": 17,
           "zona": "—"
         },

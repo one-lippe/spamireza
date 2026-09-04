@@ -364,7 +364,12 @@
             "tag": "#LYV2J2LU",
             "th": 18,
             "pos": 3,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -443,7 +448,12 @@
             "tag": "#PQRRG2YCP",
             "th": 18,
             "pos": 9,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -722,7 +732,12 @@
           "tag": "#LYV2J2LU",
           "th": 18,
           "pos": 3,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -801,7 +816,12 @@
           "tag": "#PQRRG2YCP",
           "th": 18,
           "pos": 9,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -2439,7 +2459,12 @@
             "tag": "#LU2PQ0CU8",
             "th": 18,
             "pos": 3,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 68
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 99
           },
@@ -2729,8 +2754,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "F4KER",
@@ -2765,7 +2790,12 @@
             "tag": "#82R9VYVGY",
             "th": 17,
             "pos": 29,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 79
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -2841,6 +2871,15 @@
             "def_destr": null
           },
           {
+            "nome": "PaiDeFamilia",
+            "tag": "#2GCJ8QC92",
+            "th": 18,
+            "pos": 4,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null
+          },
+          {
             "nome": "Lider Andre",
             "tag": "#20UUPGPCV",
             "th": 18,
@@ -2872,15 +2911,6 @@
             "tag": "#PRLJY29Y0",
             "th": 18,
             "pos": 8,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
-          },
-          {
-            "nome": "Samuel Soares",
-            "tag": "#9V2L9J9JP",
-            "th": 18,
-            "pos": 9,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null
@@ -3137,7 +3167,12 @@
           "tag": "#LU2PQ0CU8",
           "th": 18,
           "pos": 3,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 68
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 99
         },
@@ -3427,8 +3462,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "F4KER",
@@ -3463,7 +3498,12 @@
           "tag": "#82R9VYVGY",
           "th": 17,
           "pos": 29,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 79
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -4331,9 +4371,14 @@
             "tag": "#GRUG8UQGV",
             "th": 15,
             "pos": 16,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "GHOSTSX",
@@ -4443,8 +4488,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "lipe",
@@ -4989,9 +5034,14 @@
           "tag": "#GRUG8UQGV",
           "th": 15,
           "pos": 16,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "GHOSTSX",
@@ -5101,8 +5151,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "lipe",
