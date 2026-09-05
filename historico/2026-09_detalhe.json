@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-05T01:05:06.915864Z",
+  "atualizado": "2026-09-05T05:43:33.904623Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -152,7 +152,7 @@
         {
           "g": 2,
           "vs": "لا نتشابهہ 》♡",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
@@ -261,7 +261,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "☆VILA DO PX ツ",
@@ -279,7 +279,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "MAJ0R FiV3",
@@ -288,6 +288,123 @@
               "atk": [
                 3
               ],
+              "def_est": 3
+            }
+          ]
+        },
+        {
+          "g": 3,
+          "vs": "TTT EMPIRE",
+          "state": "inWar",
+          "size": 15,
+          "jogadores": [
+            {
+              "nome": "marinaul war",
+              "tag": "#8GGCQPYP",
+              "th": 18,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "SR • Giovanelli",
+              "tag": "#PJ0YJLGJ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • JON SNOW",
+              "tag": "#LYV2J2LU",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Dog Apollo",
+              "tag": "#YJ9R2GPJG",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Levi_Neiva",
+              "tag": "#C8R989YJ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Jan",
+              "tag": "#2899CRJG",
+              "th": 18,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "tozim",
+              "tag": "#9G22U9U2Y",
+              "th": 18,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "SR • InTheDark☆",
+              "tag": "#PQRRG2YCP",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Henrique Nerath",
+              "tag": "#2U8P0YQ92",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "KingOfBilada™",
+              "tag": "#92PQV82G0",
+              "th": 18,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "Nesk",
+              "tag": "#99220V0Q8",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "MAJ0R FiV3",
+              "tag": "#LCR9YQGYY",
+              "th": 18,
+              "atk": [],
+              "def_est": 2
+            },
+            {
+              "nome": "☆VILA DO PX ツ",
+              "tag": "#8PUL8JPC",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": 3
+            },
+            {
+              "nome": "Neskau",
+              "tag": "#P8GLGPRP",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "MAJ0R FiV3",
+              "tag": "#QRJL0RGQR",
+              "th": 18,
+              "atk": [],
               "def_est": 3
             }
           ]
@@ -593,7 +710,7 @@
               "tag": "#LLLU0VQCL",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR - JON SNOW 2",
@@ -614,14 +731,16 @@
               "tag": "#QPCRCR8VY",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "LSWRTH",
               "tag": "#YVU0L88P",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 3
             },
             {
               "nome": "Sene",
@@ -634,7 +753,9 @@
               "nome": "Psico 2k25",
               "tag": "#Q2UJJ89VG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -676,7 +797,9 @@
               "nome": "SR . Kcatoyo",
               "tag": "#20GJVUJLU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -982,7 +1105,7 @@
         {
           "g": 2,
           "vs": "* Star Clash *",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 30,
           "jogadores": [
             {
@@ -1245,6 +1368,244 @@
                 3
               ],
               "def_est": 3
+            },
+            {
+              "nome": "GPM Level 1",
+              "tag": "#QV2J0YV0V",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": 3
+            }
+          ]
+        },
+        {
+          "g": 3,
+          "vs": "Moose Army",
+          "state": "inWar",
+          "size": 30,
+          "jogadores": [
+            {
+              "nome": "乂Maciel乂",
+              "tag": "#9LCP9VPP",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": 3
+            },
+            {
+              "nome": "MattosxP",
+              "tag": "#LU2PQ0CU8",
+              "th": 18,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "PaiDeFamilia",
+              "tag": "#2GCJ8QC92",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Lider Andre",
+              "tag": "#20UUPGPCV",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "ＬＵＭＩＮＯＵＳ",
+              "tag": "#2LLYCQPG8",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "SR • Balestra",
+              "tag": "#8UJY9C8RQ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Auki",
+              "tag": "#PRLJY29Y0",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "nonick",
+              "tag": "#G890RJVCR",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "matias?",
+              "tag": "#RCQQUGC9",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "rei do crime",
+              "tag": "#RP8VCCUV",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Monesy",
+              "tag": "#2YGJQG22G",
+              "th": 18,
+              "atk": [
+                1
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "乂 ALIFER 乂",
+              "tag": "#2LLJ9JUYJ",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": 3
+            },
+            {
+              "nome": "dvnly",
+              "tag": "#QR2JLQ2RR",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "nogz",
+              "tag": "#GV09299QL",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Duff",
+              "tag": "#QQC298JUC",
+              "th": 18,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "SR • The off",
+              "tag": "#YJ2JLPQGR",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "♣DnF◆",
+              "tag": "#8UY0889P9",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR•Dos Ovos",
+              "tag": "#LPCCGGGY9",
+              "th": 18,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "Ligeirinh0xD",
+              "tag": "#GRR2G9LP0",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • GPM 2",
+              "tag": "#Q22CCP90J",
+              "th": 17,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "·Holtser Ω",
+              "tag": "#8GG88V2PU",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • One☆",
+              "tag": "#Q9PL0CUU",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "ayumatsui",
+              "tag": "#QPJ209J89",
+              "th": 17,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "Sra Nunes",
+              "tag": "#22JQULR22",
+              "th": 17,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "F4KER",
+              "tag": "#QQQ8VQPL0",
+              "th": 17,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "Darth Revan",
+              "tag": "#8R280VRCQ",
+              "th": 17,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "SR • Dennis",
+              "tag": "#82R9VYVGY",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Jan™",
+              "tag": "#CJV9G22Q",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Nesk'",
+              "tag": "#YCRJU229",
+              "th": 17,
+              "atk": [
+                3
+              ],
+              "def_est": null
             },
             {
               "nome": "GPM Level 1",
@@ -1847,7 +2208,9 @@
               "nome": "Ghostface",
               "tag": "#QQUC9JQ9R",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1875,7 +2238,9 @@
               "nome": "Kelvy_10",
               "tag": "#GU0U28JJ8",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -1925,7 +2290,7 @@
               "tag": "#GG99R0YJ0",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Chefex",
@@ -1959,7 +2324,9 @@
               "nome": "JigSaw",
               "tag": "#LRGU2Q8V0",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -2010,8 +2377,10 @@
               "nome": "Tio Marginal",
               "tag": "#GUYRGQGYJ",
               "th": 14,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                2
+              ],
+              "def_est": 2
             },
             {
               "nome": "POSEIDON",
@@ -2024,7 +2393,9 @@
               "nome": "unshaken",
               "tag": "#QL89UQ0Q9",
               "th": 13,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             }
           ]
