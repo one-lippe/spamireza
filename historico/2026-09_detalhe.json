@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-05T18:14:57.144987Z",
+  "atualizado": "2026-09-05T20:28:52.557797Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -339,13 +339,15 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Jan",
               "tag": "#2899CRJG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -804,7 +806,9 @@
               "nome": "Reikan",
               "tag": "#GJYRCJ0PR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1480,7 +1484,9 @@
               "nome": "Auki",
               "tag": "#PRLJY29Y0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -1556,7 +1562,7 @@
               "tag": "#YJ2JLPQGR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "♣DnF◆",
@@ -1583,7 +1589,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • GPM 2",
@@ -1657,8 +1663,10 @@
               "nome": "Jan™",
               "tag": "#CJV9G22Q",
               "th": 17,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 3
             },
             {
               "nome": "Nesk'",
@@ -2377,7 +2385,7 @@
               "tag": "#G2QQ2998J",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "☆InTheDark☆",
