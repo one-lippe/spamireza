@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-05T20:28:52.557797Z",
+  "atualizado": "2026-09-05T22:13:31.886368Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -330,7 +330,7 @@
               "atk": [
                 1
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Levi_Neiva",
@@ -354,7 +354,9 @@
               "nome": "tozim",
               "tag": "#9G22U9U2Y",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -818,7 +820,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "NoBlitzz",
@@ -827,7 +829,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR . Kcatoyo",
@@ -836,7 +838,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "ROBERTHWILLIAMM",
@@ -1555,7 +1557,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • The off",
@@ -1623,7 +1625,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Sra Nunes",
@@ -1641,7 +1643,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Darth Revan",
@@ -2293,7 +2295,9 @@
               "nome": "PaulinhoPH",
               "tag": "#GVLGQ098",
               "th": 16,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
