@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-05T13:00:44.387861Z",
+  "atualizado": "2026-09-05T16:02:16.413128Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -309,7 +309,9 @@
               "nome": "SR • Giovanelli",
               "tag": "#PJ0YJLGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -325,14 +327,18 @@
               "nome": "Dog Apollo",
               "tag": "#YJ9R2GPJG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": null
             },
             {
               "nome": "Levi_Neiva",
               "tag": "#C8R989YJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -733,7 +739,9 @@
               "nome": "SrNunes",
               "tag": "#2LY8G8Y9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -783,7 +791,9 @@
               "nome": "GSAzevedo30",
               "tag": "#CJLVVL9L",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1434,7 +1444,7 @@
               "tag": "#20UUPGPCV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "ＬＵＭＩＮＯＵＳ",
@@ -1443,7 +1453,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Balestra",
@@ -1452,14 +1462,14 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Auki",
               "tag": "#PRLJY29Y0",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "nonick",
@@ -1468,14 +1478,14 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "matias?",
               "tag": "#RCQQUGC9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "rei do crime",
@@ -1556,7 +1566,9 @@
               "nome": "Ligeirinh0xD",
               "tag": "#GRR2G9LP0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1572,8 +1584,10 @@
               "nome": "·Holtser Ω",
               "tag": "#8GG88V2PU",
               "th": 17,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 2
             },
             {
               "nome": "SR • One☆",
@@ -1595,7 +1609,9 @@
               "nome": "Sra Nunes",
               "tag": "#22JQULR22",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1618,7 +1634,9 @@
               "nome": "SR • Dennis",
               "tag": "#82R9VYVGY",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2210,15 +2228,19 @@
               "nome": "Lider André 2",
               "tag": "#L9GRLYGVQ",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
               "nome": "Líder André 3",
               "tag": "#GY0Q0VRL0",
               "th": 17,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                2
+              ],
+              "def_est": 3
             },
             {
               "nome": "Meliodas NNT",
@@ -2231,7 +2253,9 @@
               "nome": "Gerion",
               "tag": "#YP9L000LG",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -2257,7 +2281,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "NAUZIN",
@@ -2273,7 +2297,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "qvnly",
@@ -2289,7 +2313,7 @@
               "tag": "#G9RR0JYUC",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "nogzrush",
@@ -2304,14 +2328,18 @@
               "nome": "Wilson z2",
               "tag": "#2RLG220GY",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
               "nome": "psico raid 01",
               "tag": "#G8C9VLYVC",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2346,7 +2374,9 @@
               "nome": "GSAzevedo30 #2",
               "tag": "#29882J2L2",
               "th": 15,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
@@ -2356,7 +2386,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "JigSaw",
@@ -2380,7 +2410,9 @@
               "nome": "Ligeirinh2xD",
               "tag": "#GCC98R22R",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
