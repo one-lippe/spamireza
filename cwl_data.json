@@ -650,7 +650,12 @@
             "tag": "#PQRRG2YCP",
             "th": 18,
             "pos": 8,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 78
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -1003,7 +1008,12 @@
           "tag": "#PQRRG2YCP",
           "th": 18,
           "pos": 8,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 78
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -1973,10 +1983,10 @@
             "def_destr": null
           },
           {
-            "nome": "SR . Kcatoyo",
-            "tag": "#20GJVUJLU",
+            "nome": "Levi_Neiva 2",
+            "tag": "#90GRYGJVP",
             "th": 18,
-            "pos": 14,
+            "pos": 15,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null
@@ -3390,7 +3400,12 @@
             "tag": "#RP8VCCUV",
             "th": 18,
             "pos": 12,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 98
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -3469,7 +3484,12 @@
             "tag": "#YJ2JLPQGR",
             "th": 18,
             "pos": 18,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 1,
             "def_destr": 70
           },
@@ -3548,7 +3568,12 @@
             "tag": "#Q9PL0CUU",
             "th": 17,
             "pos": 24,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -3599,7 +3624,12 @@
             "tag": "#8R280VRCQ",
             "th": 17,
             "pos": 28,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -4078,7 +4108,12 @@
           "tag": "#RP8VCCUV",
           "th": 18,
           "pos": 12,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 98
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -4157,7 +4192,12 @@
           "tag": "#YJ2JLPQGR",
           "th": 18,
           "pos": 18,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 1,
           "def_destr": 70
         },
@@ -4236,7 +4276,12 @@
           "tag": "#Q9PL0CUU",
           "th": 17,
           "pos": 24,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -4287,7 +4332,12 @@
           "tag": "#8R280VRCQ",
           "th": 17,
           "pos": 28,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -5423,7 +5473,12 @@
             "tag": "#2PLQG8UQU",
             "th": 17,
             "pos": 4,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 92
           },
@@ -5581,7 +5636,12 @@
             "tag": "#GRUG8UQGV",
             "th": 15,
             "pos": 16,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 93
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -5608,7 +5668,12 @@
             "tag": "#LL8GP2CQP",
             "th": 15,
             "pos": 19,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -5715,7 +5780,12 @@
             "tag": "#PR0R0VC9P",
             "th": 14,
             "pos": 27,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 0,
+                "destr": 46
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -5730,8 +5800,8 @@
                 "destr": 76
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Tio Marginal",
@@ -5758,8 +5828,8 @@
                 "destr": 52
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "unshaken",
@@ -5772,8 +5842,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           }
         ]
       },
@@ -6101,7 +6171,12 @@
           "tag": "#2PLQG8UQU",
           "th": 17,
           "pos": 4,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 92
         },
@@ -6259,7 +6334,12 @@
           "tag": "#GRUG8UQGV",
           "th": 15,
           "pos": 16,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 93
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -6286,7 +6366,12 @@
           "tag": "#LL8GP2CQP",
           "th": 15,
           "pos": 19,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -6393,7 +6478,12 @@
           "tag": "#PR0R0VC9P",
           "th": 14,
           "pos": 27,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 0,
+              "destr": 46
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -6408,8 +6498,8 @@
               "destr": 76
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Tio Marginal",
@@ -6436,8 +6526,8 @@
               "destr": 52
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "unshaken",
@@ -6450,8 +6540,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         }
       ]
     },
