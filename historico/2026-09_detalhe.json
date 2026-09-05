@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-05T05:43:33.904623Z",
+  "atualizado": "2026-09-05T09:28:24.740298Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -310,14 +310,14 @@
               "tag": "#PJ0YJLGJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • JON SNOW",
               "tag": "#LYV2J2LU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Dog Apollo",
@@ -352,7 +352,7 @@
               "tag": "#PQRRG2YCP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Henrique Nerath",
@@ -375,7 +375,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "MAJ0R FiV3",
@@ -709,7 +709,9 @@
               "nome": "Agnes",
               "tag": "#LLLU0VQCL",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -730,7 +732,9 @@
               "nome": "LEANDRO",
               "tag": "#QPCRCR8VY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -762,7 +766,9 @@
               "nome": "Sr • Pbalestra",
               "tag": "#2YP8QV8J9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -777,7 +783,7 @@
               "tag": "#GJYRCJ0PR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•GOD kratos",
@@ -807,14 +813,14 @@
               "tag": "#G2V22VQUY",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • DuM∆R",
               "tag": "#YQRJL098P",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
@@ -1407,7 +1413,7 @@
               "tag": "#2GCJ8QC92",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Lider Andre",
@@ -1429,7 +1435,9 @@
               "nome": "SR • Balestra",
               "tag": "#8UJY9C8RQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1458,7 +1466,7 @@
               "tag": "#RP8VCCUV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Monesy",
@@ -1467,7 +1475,7 @@
               "atk": [
                 1
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "乂 ALIFER 乂",
@@ -1513,7 +1521,7 @@
               "tag": "#8UY0889P9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•Dos Ovos",
@@ -1536,7 +1544,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "·Holtser Ω",
@@ -1550,7 +1558,7 @@
               "tag": "#Q9PL0CUU",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "ayumatsui",
@@ -2181,7 +2189,7 @@
               "tag": "#L9GRLYGVQ",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Líder André 3",
@@ -2232,7 +2240,7 @@
               "tag": "#G9PGYJPYP",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Kelvy_10",
@@ -2248,7 +2256,7 @@
               "tag": "#GUCJQPVR9",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Honrado",
@@ -2304,14 +2312,14 @@
               "tag": "#LL8GP2CQP",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30 #2",
               "tag": "#29882J2L2",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "RAGNAROK",
@@ -2327,14 +2335,14 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "DO BRONX",
               "tag": "#QJYRV8UGY",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ligeirinh2xD",
@@ -2350,13 +2358,15 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "lipe",
               "tag": "#Q289QJUJC",
               "th": 14,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {

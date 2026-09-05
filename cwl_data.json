@@ -567,8 +567,8 @@
             "th": 18,
             "pos": 2,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "SR • JON SNOW",
@@ -576,8 +576,8 @@
             "th": 18,
             "pos": 3,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Dog Apollo",
@@ -621,8 +621,8 @@
             "th": 18,
             "pos": 8,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Henrique Nerath",
@@ -653,8 +653,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "MAJ0R FiV3",
@@ -870,8 +870,8 @@
           "th": 18,
           "pos": 2,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "SR • JON SNOW",
@@ -879,8 +879,8 @@
           "th": 18,
           "pos": 3,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Dog Apollo",
@@ -924,8 +924,8 @@
           "th": 18,
           "pos": 8,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Henrique Nerath",
@@ -956,8 +956,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "MAJ0R FiV3",
@@ -1553,7 +1553,12 @@
             "tag": "#LLLU0VQCL",
             "th": 18,
             "pos": 1,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -1580,7 +1585,12 @@
             "tag": "#QPCRCR8VY",
             "th": 18,
             "pos": 4,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -1626,7 +1636,12 @@
             "tag": "#2YP8QV8J9",
             "th": 18,
             "pos": 8,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -1645,8 +1660,8 @@
             "th": 18,
             "pos": 11,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "SR•GOD kratos",
@@ -1686,8 +1701,8 @@
             "th": 18,
             "pos": 17,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 2,
+            "def_destr": 85
           },
           {
             "nome": "SR • DuM∆R",
@@ -1695,8 +1710,8 @@
             "th": 18,
             "pos": 18,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           }
         ]
       },
@@ -1861,7 +1876,12 @@
           "tag": "#LLLU0VQCL",
           "th": 18,
           "pos": 1,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -1888,7 +1908,12 @@
           "tag": "#QPCRCR8VY",
           "th": 18,
           "pos": 4,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -1934,7 +1959,12 @@
           "tag": "#2YP8QV8J9",
           "th": 18,
           "pos": 8,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -1953,8 +1983,8 @@
           "th": 18,
           "pos": 11,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "SR•GOD kratos",
@@ -1994,8 +2024,8 @@
           "th": 18,
           "pos": 17,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 2,
+          "def_destr": 85
         },
         {
           "nome": "SR • DuM∆R",
@@ -2003,8 +2033,8 @@
           "th": 18,
           "pos": 18,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         }
       ]
     },
@@ -3083,8 +3113,8 @@
             "th": 18,
             "pos": 4,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Lider Andre",
@@ -3114,7 +3144,12 @@
             "tag": "#8UJY9C8RQ",
             "th": 18,
             "pos": 7,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -3151,8 +3186,8 @@
             "th": 18,
             "pos": 12,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Monesy",
@@ -3165,8 +3200,8 @@
                 "destr": 76
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "乂 ALIFER 乂",
@@ -3229,8 +3264,8 @@
             "th": 18,
             "pos": 19,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "SR•Dos Ovos",
@@ -3261,8 +3296,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "·Holtser Ω",
@@ -3279,8 +3314,8 @@
             "th": 17,
             "pos": 24,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "ayumatsui",
@@ -3696,8 +3731,8 @@
           "th": 18,
           "pos": 4,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Lider Andre",
@@ -3727,7 +3762,12 @@
           "tag": "#8UJY9C8RQ",
           "th": 18,
           "pos": 7,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -3764,8 +3804,8 @@
           "th": 18,
           "pos": 12,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Monesy",
@@ -3778,8 +3818,8 @@
               "destr": 76
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "乂 ALIFER 乂",
@@ -3842,8 +3882,8 @@
           "th": 18,
           "pos": 19,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "SR•Dos Ovos",
@@ -3874,8 +3914,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "·Holtser Ω",
@@ -3892,8 +3932,8 @@
           "th": 17,
           "pos": 24,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "ayumatsui",
@@ -5036,8 +5076,8 @@
             "th": 17,
             "pos": 1,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 2,
+            "def_destr": 82
           },
           {
             "nome": "Líder André 3",
@@ -5104,8 +5144,8 @@
             "th": 16,
             "pos": 9,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Kelvy_10",
@@ -5127,8 +5167,8 @@
             "th": 17,
             "pos": 11,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 2,
+            "def_destr": 89
           },
           {
             "nome": "Honrado",
@@ -5199,8 +5239,8 @@
             "th": 15,
             "pos": 19,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "GSAzevedo30 #2",
@@ -5208,8 +5248,8 @@
             "th": 15,
             "pos": 20,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "RAGNAROK",
@@ -5231,8 +5271,8 @@
                 "destr": 84
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "DO BRONX",
@@ -5240,8 +5280,8 @@
             "th": 15,
             "pos": 23,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Ligeirinh2xD",
@@ -5263,15 +5303,20 @@
                 "destr": 97
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "lipe",
             "tag": "#Q289QJUJC",
             "th": 14,
             "pos": 26,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 63
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -5629,8 +5674,8 @@
           "th": 17,
           "pos": 1,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 2,
+          "def_destr": 82
         },
         {
           "nome": "Líder André 3",
@@ -5697,8 +5742,8 @@
           "th": 16,
           "pos": 9,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Kelvy_10",
@@ -5720,8 +5765,8 @@
           "th": 17,
           "pos": 11,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 2,
+          "def_destr": 89
         },
         {
           "nome": "Honrado",
@@ -5792,8 +5837,8 @@
           "th": 15,
           "pos": 19,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "GSAzevedo30 #2",
@@ -5801,8 +5846,8 @@
           "th": 15,
           "pos": 20,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "RAGNAROK",
@@ -5824,8 +5869,8 @@
               "destr": 84
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "DO BRONX",
@@ -5833,8 +5878,8 @@
           "th": 15,
           "pos": 23,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Ligeirinh2xD",
@@ -5856,15 +5901,20 @@
               "destr": 97
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "lipe",
           "tag": "#Q289QJUJC",
           "th": 14,
           "pos": 26,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 63
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
