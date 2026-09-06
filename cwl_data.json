@@ -2112,7 +2112,12 @@
             "tag": "#YVU0L88P",
             "th": 18,
             "pos": 4,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -2455,7 +2460,12 @@
           "tag": "#YVU0L88P",
           "th": 18,
           "pos": 4,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -4178,7 +4188,12 @@
             "tag": "#G890RJVCR",
             "th": 18,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -4332,8 +4347,8 @@
             "th": 17,
             "pos": 24,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "ayumatsui",
@@ -4378,8 +4393,8 @@
             "th": 17,
             "pos": 28,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "SR • Dennis",
@@ -4821,7 +4836,12 @@
           "tag": "#G890RJVCR",
           "th": 18,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -4975,8 +4995,8 @@
           "th": 17,
           "pos": 24,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "ayumatsui",
@@ -5021,8 +5041,8 @@
           "th": 17,
           "pos": 28,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "SR • Dennis",
@@ -6720,8 +6740,8 @@
                 "destr": 58
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "☆InTheDark☆",
@@ -6839,7 +6859,12 @@
             "tag": "#PR0R0VC9P",
             "th": 14,
             "pos": 27,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -6871,7 +6896,12 @@
             "tag": "#89U0JU98J",
             "th": 14,
             "pos": 30,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 42
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -7368,8 +7398,8 @@
               "destr": 58
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "☆InTheDark☆",
@@ -7487,7 +7517,12 @@
           "tag": "#PR0R0VC9P",
           "th": 14,
           "pos": 27,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -7519,7 +7554,12 @@
           "tag": "#89U0JU98J",
           "th": 14,
           "pos": 30,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 42
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },

@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-06T17:46:19.638192Z",
+  "atualizado": "2026-09-06T19:37:38.697848Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1036,7 +1036,9 @@
               "nome": "LSWRTH",
               "tag": "#YVU0L88P",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -2053,7 +2055,9 @@
               "nome": "nonick",
               "tag": "#G890RJVCR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -2156,7 +2160,7 @@
               "tag": "#Q9PL0CUU",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "ayumatsui",
@@ -2188,7 +2192,7 @@
               "tag": "#8R280VRCQ",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Dennis",
@@ -3184,7 +3188,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "☆InTheDark☆",
@@ -3265,7 +3269,9 @@
               "nome": "°D∆×iLh∆°",
               "tag": "#PR0R0VC9P",
               "th": 14,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3288,7 +3294,9 @@
               "nome": "POSEIDON",
               "tag": "#89U0JU98J",
               "th": 14,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
