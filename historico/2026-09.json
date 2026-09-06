@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-06T21:43:47.772823Z",
+  "atualizado": "2026-09-06T23:16:52.821502Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -145,16 +145,31 @@
         {
           "n": "KingOfBilada™",
           "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
           "def": 33,
           "sof": 2.0,
           "ndef": 2,
-          "idx": 74.9,
-          "mvp": 5,
+          "idx": 78.3,
+          "mvp": 7,
           "pos": 10,
+          "zona": "—"
+        },
+        {
+          "n": "marinaul war",
+          "th": 18,
+          "atk": 4,
+          "est": 11,
+          "spa": 2.75,
+          "conf": 100,
+          "def": 8,
+          "sof": 2.8,
+          "ndef": 4,
+          "idx": 77.9,
+          "mvp": 12,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -169,7 +184,7 @@
           "ndef": 4,
           "idx": 73.2,
           "mvp": 11,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -184,7 +199,7 @@
           "ndef": 4,
           "idx": 71.5,
           "mvp": 10,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -199,41 +214,26 @@
           "ndef": 3,
           "idx": 70.7,
           "mvp": 8,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "marinaul war",
-          "th": 18,
-          "atk": 3,
-          "est": 8,
-          "spa": 2.67,
-          "conf": 75,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "idx": 70.0,
-          "mvp": 9,
           "pos": 14,
           "zona": "—"
         },
         {
-          "n": "Henrique Nerath",
+          "n": "SR • InTheDark☆",
           "th": 18,
-          "atk": 3,
-          "est": 7,
-          "spa": 2.33,
-          "conf": 75,
+          "atk": 4,
+          "est": 9,
+          "spa": 2.25,
+          "conf": 100,
           "def": 8,
           "sof": 2.8,
           "ndef": 4,
-          "idx": 63.8,
-          "mvp": 8,
+          "idx": 68.6,
+          "mvp": 10,
           "pos": 15,
           "zona": "—"
         },
         {
-          "n": "SR • InTheDark☆",
+          "n": "Henrique Nerath",
           "th": 18,
           "atk": 3,
           "est": 7,
@@ -697,7 +697,7 @@
           "zona": "—"
         },
         {
-          "n": "Sra Nunes",
+          "n": "SR • One☆",
           "th": 17,
           "atk": 4,
           "est": 12,
@@ -712,6 +712,21 @@
           "zona": "—"
         },
         {
+          "n": "Sra Nunes",
+          "th": 17,
+          "atk": 4,
+          "est": 12,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 4,
+          "idx": 74.4,
+          "mvp": 12,
+          "pos": 13,
+          "zona": "—"
+        },
+        {
           "n": "Nesk'",
           "th": 17,
           "atk": 4,
@@ -723,7 +738,7 @@
           "ndef": 3,
           "idx": 74.4,
           "mvp": 12,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -738,7 +753,7 @@
           "ndef": 4,
           "idx": 71.7,
           "mvp": 11,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -753,7 +768,7 @@
           "ndef": 4,
           "idx": 71.7,
           "mvp": 12,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -768,7 +783,7 @@
           "ndef": 4,
           "idx": 71.7,
           "mvp": 12,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -783,7 +798,7 @@
           "ndef": 4,
           "idx": 70.1,
           "mvp": 11,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -798,7 +813,7 @@
           "ndef": 4,
           "idx": 70.1,
           "mvp": 11,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -813,26 +828,11 @@
           "ndef": 3,
           "idx": 68.7,
           "mvp": 8,
-          "pos": 19,
-          "zona": "—"
-        },
-        {
-          "n": "SR • GPM 2",
-          "th": 17,
-          "atk": 3,
-          "est": 9,
-          "spa": 3.0,
-          "conf": 75,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
-          "idx": 68.6,
-          "mvp": 9,
           "pos": 20,
           "zona": "—"
         },
         {
-          "n": "SR • One☆",
+          "n": "SR • GPM 2",
           "th": 17,
           "atk": 3,
           "est": 9,
@@ -1199,18 +1199,33 @@
           "zona": "—"
         },
         {
-          "n": "SR • Eduhh",
-          "th": 16,
+          "n": "DARTH VADER",
+          "th": 14,
           "atk": 4,
           "est": 10,
           "spa": 2.5,
           "conf": 100,
           "def": 17,
           "sof": 2.5,
-          "ndef": 2,
+          "ndef": 4,
           "idx": 61.6,
-          "mvp": 11,
+          "mvp": 12,
           "pos": 13,
+          "zona": "—"
+        },
+        {
+          "n": "SR • Eduhh",
+          "th": 16,
+          "atk": 4,
+          "est": 10,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "idx": 60.6,
+          "mvp": 11,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -1225,21 +1240,6 @@
           "ndef": 4,
           "idx": 59.1,
           "mvp": 12,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "DARTH VADER",
-          "th": 14,
-          "atk": 3,
-          "est": 8,
-          "spa": 2.67,
-          "conf": 75,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 4,
-          "idx": 58.9,
-          "mvp": 10,
           "pos": 15,
           "zona": "—"
         },
@@ -1306,15 +1306,15 @@
         {
           "n": "nogzrush",
           "th": 18,
-          "atk": 2,
-          "est": 6,
-          "spa": 3.0,
-          "conf": 50,
+          "atk": 3,
+          "est": 8,
+          "spa": 2.67,
+          "conf": 75,
           "def": 8,
           "sof": 2.8,
           "ndef": 4,
-          "idx": 57.4,
-          "mvp": 7,
+          "idx": 57.5,
+          "mvp": 9,
           "pos": 20,
           "zona": "—"
         },
@@ -1409,6 +1409,21 @@
           "zona": "—"
         },
         {
+          "n": "PaulinhoPH",
+          "th": 16,
+          "atk": 4,
+          "est": 7,
+          "spa": 1.75,
+          "conf": 100,
+          "def": 8,
+          "sof": 2.8,
+          "ndef": 4,
+          "idx": 48.8,
+          "mvp": 8,
+          "pos": 27,
+          "zona": "—"
+        },
+        {
           "n": "°D∆×iLh∆°",
           "th": 14,
           "atk": 2,
@@ -1420,21 +1435,6 @@
           "ndef": 1,
           "idx": 43.6,
           "mvp": 3,
-          "pos": 27,
-          "zona": "—"
-        },
-        {
-          "n": "PaulinhoPH",
-          "th": 16,
-          "atk": 3,
-          "est": 5,
-          "spa": 1.67,
-          "conf": 75,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "idx": 42.3,
-          "mvp": 6,
           "pos": 28,
           "zona": "—"
         },

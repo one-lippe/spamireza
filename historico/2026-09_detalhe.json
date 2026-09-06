@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-06T21:43:47.775267Z",
+  "atualizado": "2026-09-06T23:16:52.823838Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -445,7 +445,9 @@
               "nome": "marinaul war",
               "tag": "#8GGCQPYP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -504,14 +506,18 @@
               "nome": "SR • InTheDark☆",
               "tag": "#PQRRG2YCP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
               "nome": "KingOfBilada™",
               "tag": "#92PQV82G0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 1
             },
             {
@@ -2171,7 +2177,9 @@
               "nome": "SR • One☆",
               "tag": "#Q9PL0CUU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3128,13 +3136,15 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "PaulinhoPH",
               "tag": "#GVLGQ098",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
@@ -3175,7 +3185,9 @@
               "nome": "nogzrush",
               "tag": "#GU8GY2GCL",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
@@ -3304,7 +3316,9 @@
               "nome": "DARTH VADER",
               "tag": "#QJU9CUGP8",
               "th": 14,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
