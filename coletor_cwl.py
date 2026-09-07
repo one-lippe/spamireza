@@ -131,7 +131,28 @@ def agregar(out):
                      "spa": round(spa, 2), "conf": round(conf * 100),
                      "def": (round(notaDef) if notaDef is not None else None),
                      "sof": sof, "ndef": a["defcnt"], "idx": round(idx, 1),
+                     "idxb": round(idx, 1), "amostra": 100,
                      "mvp": a["est"] + a["defneg"]})
+
+    # --- Peso por amostra (shrinkage) ---------------------------------------
+    # Quem atacou em poucas guerras tem amostra pequena: 2 ataques perfeitos não
+    # provam o mesmo que 7. O índice desses jogadores é puxado na direção da
+    # média do clã, proporcional à fração de guerras que ele jogou.
+    #   w = ataques / guerras de batalha da temporada
+    #   idx = idx_bruto * w + media * (1 - w)
+    # Só puxa PARA BAIXO: quem está abaixo da média não ganha nota por ter
+    # jogado pouco (senão bastaria atacar pouco para herdar a média do clã).
+    guerras = sum(1 for rd in out["rodadas"] if rd.get("state") in ("inWar", "warEnded"))
+    if guerras:
+        base = [x["idx"] for x in rank if x["atk"] >= PISO] or [x["idx"] for x in rank if x["atk"] > 0]
+        if base:
+            media = sum(base) / len(base)
+            for x in rank:
+                w = min(1.0, x["atk"] / guerras)
+                x["amostra"] = round(w * 100)
+                if w < 1 and x["idxb"] > media:
+                    x["idx"] = round(x["idxb"] * w + media * (1 - w), 1)
+
     rank.sort(key=lambda x: -x["idx"])
     total_atk = sum(x["atk"] for x in rank); n = len(rank); c = out["num"]
     for i, x in enumerate(rank):
