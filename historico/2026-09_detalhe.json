@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-07T15:49:36.521876Z",
+  "atualizado": "2026-09-07T16:00:26.762611Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1381,7 +1381,9 @@
               "nome": "NoBlitzz",
               "tag": "#9RJGGUY9R",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
@@ -2764,7 +2766,9 @@
               "nome": "SR • Dennis",
               "tag": "#82R9VYVGY",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
