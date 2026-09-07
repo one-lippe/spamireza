@@ -5317,8 +5317,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 2,
+            "def_destr": 84
           }
         ]
       },
@@ -5975,8 +5975,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 2,
+          "def_destr": 84
         }
       ]
     },
@@ -8021,8 +8021,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "SR • JotaErre",
@@ -8664,8 +8664,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "SR • JotaErre",

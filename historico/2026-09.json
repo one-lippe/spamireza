@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-07T15:32:06.603447Z",
+  "atualizado": "2026-09-07T15:41:27.158457Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -652,6 +652,21 @@
           "zona": "—"
         },
         {
+          "n": "GPM Level 1",
+          "th": 18,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "idx": 75.6,
+          "mvp": 16,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "matias?",
           "th": 18,
           "atk": 4,
@@ -663,27 +678,12 @@
           "ndef": 5,
           "idx": 74.7,
           "mvp": 16,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
           "n": "Nesk'",
           "th": 17,
-          "atk": 5,
-          "est": 15,
-          "spa": 3.0,
-          "conf": 100,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
-          "idx": 74.4,
-          "mvp": 15,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "GPM Level 1",
-          "th": 18,
           "atk": 5,
           "est": 15,
           "spa": 3.0,
@@ -1072,7 +1072,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 4,
+          "ndef": 5,
           "idx": 66.4,
           "mvp": 15,
           "pos": 4,
