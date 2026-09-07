@@ -105,8 +105,9 @@ def agregar(out):
         if rd.get("state") not in ("inWar", "warEnded"):
             continue  # rodada em preparação ainda não é oportunidade (ninguém pôde atacar)
         for m in rd["membros"]:
-            a = agg.setdefault(m["tag"], {"nome": m["nome"], "th": m["th"], "rounds": 0, "atk": 0,
-                                          "est": 0, "destr": 0.0, "defsof": 0, "defcnt": 0, "defneg": 0})
+            a = agg.setdefault(m["tag"], {"nome": m["nome"], "tag": m["tag"], "th": m["th"],
+                                          "rounds": 0, "atk": 0, "est": 0, "destr": 0.0,
+                                          "defsof": 0, "defcnt": 0, "defneg": 0})
             a["nome"], a["th"] = m["nome"], m["th"]; a["rounds"] += 1
             for at in m["ataques"]:
                 a["atk"] += 1; a["est"] += at["estrelas"] or 0; a["destr"] += at["destr"] or 0
@@ -127,7 +128,7 @@ def agregar(out):
         wsum = sum(p for p, _ in comps) or 1
         idx = (sum(p * v for p, v in comps) / wsum) * mult
         sof = round(a["defsof"] / a["defcnt"], 1) if a["defcnt"] else None  # estrelas sofridas/defesa
-        rank.append({"n": a["nome"], "th": a["th"], "atk": atk, "est": a["est"],
+        rank.append({"n": a["nome"], "tag": a["tag"], "th": a["th"], "atk": atk, "est": a["est"],
                      "spa": round(spa, 2), "conf": round(conf * 100),
                      "def": (round(notaDef) if notaDef is not None else None),
                      "sof": sof, "ndef": a["defcnt"], "idx": round(idx, 1),
@@ -163,6 +164,26 @@ def agregar(out):
         else: x["zona"] = "—"
     return rank, ("rank" if total_atk > 0 else "esc")
 
+def detalhe_jogadores(out):
+    """Histórico guerra a guerra por jogador (tag -> lista de guerras), para o popup
+    de auditoria do site: em cada guerra, o que atacou e quanto sofreu na defesa."""
+    rods = [rd for rd in out["rodadas"] if rd.get("state") in ("inWar", "warEnded")]
+    tags = {m["tag"] for rd in rods for m in rd["membros"]}
+    det = {t: [] for t in tags}
+    for i, rd in enumerate(rods, 1):
+        porTag = {m["tag"]: m for m in rd["membros"]}
+        for t in tags:
+            m = porTag.get(t)
+            if m is None:  # não escalado nessa guerra: neutro, não é oportunidade
+                det[t].append({"g": i, "vs": rd.get("adversario"), "st": rd.get("state"), "fora": True})
+            else:
+                det[t].append({"g": i, "vs": rd.get("adversario"), "st": rd.get("state"),
+                               "pos": m.get("pos"),
+                               "a": [{"e": a["estrelas"], "d": a["destr"]} for a in m["ataques"]],
+                               "d": m.get("def_estrelas"), "dd": m.get("def_destr")})
+    return det
+
+
 def build_clans_js(dados):
     j = lambda v: json.dumps(v, ensure_ascii=False)
     linhas = []
@@ -182,7 +203,7 @@ def build_clans_js(dados):
         linhas.append(
             f' {d["num"]}:{{nome:{j(d["nome"])},vs:{j(vs)},tam:{j(tam)},liga:{j(d["liga"])},'
             f'state:{j(state)},inicio:{j(inicio)},fim:{j(fim)},mode:{j(mode)},ligaFim:{j(liga_fim)},'
-            f'esc:{j(esc)},res:{j(res)},rank:{j(rank)}}}')
+            f'esc:{j(esc)},res:{j(res)},rank:{j(rank)},det:{j(detalhe_jogadores(d))}}}')
     return "const CLANS={\n" + ",\n".join(linhas) + "\n};\n"
 
 def salvar_historico(dados):
@@ -266,7 +287,52 @@ def injetar_no_html(clans_js):
     idx.write_text(html, encoding="utf-8")
     (ROOT / "Dashboard_Spamireza.html").write_text(html, encoding="utf-8")
 
+MARCADOR = ROOT / "historico" / "temporada_fechada.json"
+
+
+def season_atual():
+    import datetime
+    return datetime.datetime.utcnow().strftime("%Y-%m")
+
+
+def congelado():
+    """True se a temporada corrente já terminou e foi congelada.
+    Se o marcador for de uma temporada anterior (virou o mês), ele é apagado aqui
+    mesmo — a liga nova volta a coletar sozinha, sem religar nada na mão."""
+    try:
+        marca = json.loads(MARCADOR.read_text(encoding="utf-8"))
+    except Exception:
+        return False
+    if marca.get("season") == season_atual():
+        return True
+    MARCADOR.unlink(missing_ok=True)
+    print("temporada nova detectada — descongelando o coletor")
+    return False
+
+
+def temporada_encerrada(dados):
+    """Todo clã que jogou tem as 7 rodadas e todas já acabaram."""
+    comdados = [d for d in dados if d.get("rodadas")]
+    return bool(comdados) and all(
+        len(d["rodadas"]) >= 7 and all(r.get("state") == "warEnded" for r in d["rodadas"])
+        for d in comdados)
+
+
+def congelar(dados):
+    import datetime
+    MARCADOR.parent.mkdir(exist_ok=True)
+    MARCADOR.write_text(json.dumps({
+        "season": season_atual(),
+        "congelado_em": datetime.datetime.utcnow().isoformat() + "Z",
+        "clas": {str(d["num"]): d.get("liga") for d in dados if d.get("rodadas")},
+    }, ensure_ascii=False, indent=2), encoding="utf-8")
+    print("TEMPORADA ENCERRADA -> resultado congelado; o coletor para até a próxima liga")
+
+
 def main():
+    if congelado():
+        print("temporada congelada — nada a fazer (o site mantém o resultado final)")
+        return
     dados = []
     print("Coletando CWL dos 5 clãs...")
     for num, nome, tag in CLANS:
@@ -283,6 +349,8 @@ def main():
     injetar_no_html(build_clans_js(dados))
     salvar_historico(dados)
     salvar_detalhe(dados)
+    if temporada_encerrada(dados):
+        congelar(dados)
     print("OK -> index.html + historico + detalhe atualizados")
 
 if __name__ == "__main__":
