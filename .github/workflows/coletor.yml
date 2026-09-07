@@ -64,7 +64,12 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # ref: main é OBRIGATÓRIO — sem isso o checkout pega o SHA do disparo do
+      # workflow (commit anterior) e o site publicado fica sempre uma coleta
+      # atrasado, ignorando o commit que o job "coletar" acabou de fazer.
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - name: Montar site (só index.html + artes usadas)
         run: |
           rm -rf _site && mkdir _site
