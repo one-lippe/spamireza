@@ -1229,7 +1229,12 @@
             "tag": "#LYV2J2LU",
             "th": 18,
             "pos": 2,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -1301,7 +1306,12 @@
             "tag": "#GL0PRCU9L",
             "th": 18,
             "pos": 11,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 95
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 70
           },
@@ -1310,7 +1320,12 @@
             "tag": "#22YJPYPCJ",
             "th": 18,
             "pos": 12,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 76
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -1328,7 +1343,12 @@
             "tag": "#8PUL8JPC",
             "th": 18,
             "pos": 14,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 91
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -1527,7 +1547,12 @@
           "tag": "#LYV2J2LU",
           "th": 18,
           "pos": 2,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -1599,7 +1624,12 @@
           "tag": "#GL0PRCU9L",
           "th": 18,
           "pos": 11,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 95
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 70
         },
@@ -1608,7 +1638,12 @@
           "tag": "#22YJPYPCJ",
           "th": 18,
           "pos": 12,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 76
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -1626,7 +1661,12 @@
           "tag": "#8PUL8JPC",
           "th": 18,
           "pos": 14,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 91
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -2878,7 +2918,12 @@
             "tag": "#9VV909C89",
             "th": 18,
             "pos": 2,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 91
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -3211,7 +3256,12 @@
           "tag": "#9VV909C89",
           "th": 18,
           "pos": 2,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 91
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -5884,8 +5934,8 @@
             "th": 18,
             "pos": 18,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "SR • The off",
@@ -6512,8 +6562,8 @@
           "th": 18,
           "pos": 18,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "SR • The off",
@@ -9049,7 +9099,12 @@
             "tag": "#GU0U28JJ8",
             "th": 16,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 78
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -9193,8 +9248,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 2,
+            "def_destr": 97
           },
           {
             "nome": "Ligeirinh2xD",
@@ -9253,8 +9308,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Tio Marginal",
@@ -9677,7 +9732,12 @@
           "tag": "#GU0U28JJ8",
           "th": 16,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 78
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -9821,8 +9881,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 2,
+          "def_destr": 97
         },
         {
           "nome": "Ligeirinh2xD",
@@ -9881,8 +9941,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Tio Marginal",
