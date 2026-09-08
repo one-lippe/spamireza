@@ -358,7 +358,7 @@ function openPlayer(tag){
     const atk = a ? stars(a.e,'atk') : stars(0,'atk');
     const atkp = a ? `<b>${a.e}</b>\u2605 \u00b7 ${a.d}%` : 'sem ataque';
     const def = (g.d==null) ? stars(0,'def') : stars(g.d,'def');
-    const defp = (g.d==null) ? 'nao atacada' : `<b>${g.d}</b>\u2605${g.dd!=null? ' \u00b7 '+g.dd+'%' : ''}`;
+    const defp = (g.d==null) ? 'n\u00e3o atacada' : `<b>${g.d}</b>\u2605${g.dd!=null? ' \u00b7 '+g.dd+'%' : ''}`;
     return `<div class="grow"><div class="gnum">G${g.g}</div>
       <div class="gwho"><div class="lb">${g.st==='inWar'?'EM ANDAMENTO':'GUERRA '+g.g}</div>
         <div class="vsx">vs ${g.vs||'\u2014'}</div></div>
