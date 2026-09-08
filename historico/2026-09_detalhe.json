@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-08T06:30:44.032145Z",
+  "atualizado": "2026-09-08T11:42:13.278997Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -732,7 +732,7 @@
               "tag": "#8GGCQPYP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • JON SNOW",
@@ -767,21 +767,21 @@
               "tag": "#2899CRJG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • InTheDark☆",
               "tag": "#PQRRG2YCP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Henrique Nerath",
               "tag": "#2U8P0YQ92",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "KingOfBilada™",
@@ -795,7 +795,7 @@
               "tag": "#GL0PRCU9L",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "KingMpg",
@@ -1589,21 +1589,21 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "LSWRTH",
               "tag": "#YVU0L88P",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Sene",
               "tag": "#8JQJYQC",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Psico 2k25",
@@ -1612,7 +1612,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Sr • Pbalestra",
@@ -1630,7 +1630,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Reikan",
@@ -1662,14 +1662,16 @@
               "tag": "#90GRYGJVP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "ROBERTHWILLIAMM",
               "tag": "#G2V22VQUY",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 3
             },
             {
               "nome": "SR • DuM∆R",
@@ -1678,7 +1680,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
@@ -3149,7 +3151,7 @@
               "tag": "#G890RJVCR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Monesy",
@@ -3220,13 +3222,15 @@
               "tag": "#LPCCGGGY9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ligeirinh0xD",
               "tag": "#GRR2G9LP0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3234,7 +3238,7 @@
               "tag": "#8GG88V2PU",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • GPM 2",
@@ -3259,21 +3263,21 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Sra Nunes",
               "tag": "#22JQULR22",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "F4KER",
               "tag": "#QQQ8VQPL0",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Darth Revan",
@@ -3296,7 +3300,7 @@
               "tag": "#CJV9G22Q",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Nesk'",
@@ -3305,7 +3309,7 @@
               "atk": [
                 0
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GPM Level 1",
@@ -4706,7 +4710,7 @@
               "tag": "#GY0Q0VRL0",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Meliodas NNT",
@@ -4720,7 +4724,7 @@
               "tag": "#YP9L000LG",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ghostface",
@@ -4733,7 +4737,9 @@
               "nome": "SR • Eduhh",
               "tag": "#2Q9RYUCCP",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -4741,7 +4747,7 @@
               "tag": "#GVLGQ098",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "NAUZIN",
@@ -4755,7 +4761,7 @@
               "tag": "#GU0U28JJ8",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "qvnly",
@@ -4834,7 +4840,9 @@
               "nome": "RAGNAROK",
               "tag": "#GCLLVYPJ8",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -4848,7 +4856,9 @@
               "nome": "DO BRONX",
               "tag": "#QJYRV8UGY",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -4915,7 +4925,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Borges",
