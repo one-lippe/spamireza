@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-08T15:24:24.676701Z",
+  "atualizado": "2026-09-08T18:55:06.372344Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -756,7 +756,9 @@
               "nome": "Dog Apollo",
               "tag": "#YJ9R2GPJG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -821,7 +823,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "☆VILA DO PX ツ",
@@ -1622,7 +1624,9 @@
               "nome": "Sene",
               "tag": "#8JQJYQC",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1659,7 +1663,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•GOD kratos",
@@ -3144,7 +3148,9 @@
               "nome": "Lider Andre",
               "tag": "#20UUPGPCV",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -3185,7 +3191,9 @@
               "nome": "Monesy",
               "tag": "#2YGJQG22G",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 1
             },
             {
@@ -3195,7 +3203,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "dvnly",
@@ -3267,7 +3275,9 @@
               "nome": "·Holtser Ω",
               "tag": "#8GG88V2PU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
@@ -4734,8 +4744,10 @@
               "nome": "Lider André 2",
               "tag": "#L9GRLYGVQ",
               "th": 17,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                2
+              ],
+              "def_est": 3
             },
             {
               "nome": "Líder André 3",
@@ -4808,7 +4820,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Honrado",
@@ -4857,7 +4869,9 @@
               "nome": "☆InTheDark☆",
               "tag": "#LL8GP2CQP",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -4925,7 +4939,9 @@
               "nome": "lipe",
               "tag": "#Q289QJUJC",
               "th": 14,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -4950,7 +4966,9 @@
               "nome": "Tio Marginal",
               "tag": "#GUYRGQGYJ",
               "th": 14,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {

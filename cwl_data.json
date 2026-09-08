@@ -1257,7 +1257,12 @@
             "tag": "#YJ9R2GPJG",
             "th": 18,
             "pos": 4,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 99
           },
@@ -1350,8 +1355,8 @@
                 "destr": 82
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "☆VILA DO PX ツ",
@@ -1595,7 +1600,12 @@
           "tag": "#YJ9R2GPJG",
           "th": 18,
           "pos": 4,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 99
         },
@@ -1688,8 +1698,8 @@
               "destr": 82
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "☆VILA DO PX ツ",
@@ -3009,7 +3019,12 @@
             "tag": "#8JQJYQC",
             "th": 18,
             "pos": 6,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -3066,8 +3081,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "SR•GOD kratos",
@@ -3362,7 +3377,12 @@
           "tag": "#8JQJYQC",
           "th": 18,
           "pos": 6,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -3419,8 +3439,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "SR•GOD kratos",
@@ -5879,7 +5899,12 @@
             "tag": "#20UUPGPCV",
             "th": 18,
             "pos": 6,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 76
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -5939,7 +5964,12 @@
             "tag": "#2YGJQG22G",
             "th": 18,
             "pos": 12,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 73
+              }
+            ],
             "def_estrelas": 1,
             "def_destr": 93
           },
@@ -5954,8 +5984,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "dvnly",
@@ -6059,7 +6089,12 @@
             "tag": "#8GG88V2PU",
             "th": 17,
             "pos": 22,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 90
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -6527,7 +6562,12 @@
           "tag": "#20UUPGPCV",
           "th": 18,
           "pos": 6,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 76
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -6587,7 +6627,12 @@
           "tag": "#2YGJQG22G",
           "th": 18,
           "pos": 12,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 73
+            }
+          ],
           "def_estrelas": 1,
           "def_destr": 93
         },
@@ -6602,8 +6647,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "dvnly",
@@ -6707,7 +6752,12 @@
           "tag": "#8GG88V2PU",
           "th": 17,
           "pos": 22,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 90
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -9132,9 +9182,14 @@
             "tag": "#L9GRLYGVQ",
             "th": 17,
             "pos": 1,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 70
+              }
+            ],
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Líder André 3",
@@ -9239,8 +9294,8 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null
+            "def_estrelas": 3,
+            "def_destr": 100
           },
           {
             "nome": "Honrado",
@@ -9312,7 +9367,12 @@
             "tag": "#LL8GP2CQP",
             "th": 15,
             "pos": 18,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 87
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -9414,7 +9474,12 @@
             "tag": "#Q289QJUJC",
             "th": 14,
             "pos": 26,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 86
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null
           },
@@ -9451,7 +9516,12 @@
             "tag": "#GUYRGQGYJ",
             "th": 14,
             "pos": 29,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 84
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100
           },
@@ -9790,9 +9860,14 @@
           "tag": "#L9GRLYGVQ",
           "th": 17,
           "pos": 1,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 70
+            }
+          ],
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Líder André 3",
@@ -9897,8 +9972,8 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null
+          "def_estrelas": 3,
+          "def_destr": 100
         },
         {
           "nome": "Honrado",
@@ -9970,7 +10045,12 @@
           "tag": "#LL8GP2CQP",
           "th": 15,
           "pos": 18,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 87
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
@@ -10072,7 +10152,12 @@
           "tag": "#Q289QJUJC",
           "th": 14,
           "pos": 26,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 86
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null
         },
@@ -10109,7 +10194,12 @@
           "tag": "#GUYRGQGYJ",
           "th": 14,
           "pos": 29,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 84
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100
         },
