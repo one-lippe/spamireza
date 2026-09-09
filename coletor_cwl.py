@@ -74,22 +74,26 @@ def icones_ligas():
 
 
 def ligas_dos_jogadores():
-    """Liga de troféus ATUAL de cada jogador (a rankeada dele, não a do clã).
-    Vem de /clans/{tag}/members, que já traz league + iconUrls + troféus — sobe e
-    desce sozinho a cada coleta, conforme o jogador muda de liga."""
+    """Rankeada ATUAL de cada jogador — o `leagueTier` (Legend I, Titan II, Elétrica...),
+    que é a liga da TEMPORADA corrente, com a arte nova (/leaguetiers/).
+    O campo antigo `league` virou legado e devolve "Unranked" para quase todo mundo —
+    NÃO usar. Vem de /clans/{tag}/members, então são só 5 chamadas por ciclo e o badge
+    sobe/desce sozinho conforme o jogador muda de liga."""
     mapa = {}
     for _, _, ctag in CLANS:
         st, dados = get(f"/clans/{urllib.parse.quote(ctag)}/members?limit=60")
         if st != 200 or not isinstance(dados, dict):
             continue
         for m in dados.get("items", []):
-            lg = m.get("league") or {}
-            ic = lg.get("iconUrls") or {}
-            if m.get("tag"):
-                mapa[m["tag"]] = {"lg": lg.get("name"),
-                                  "lgi": ic.get("small") or ic.get("tiny") or ic.get("medium"),
+            tier = m.get("leagueTier") or {}
+            if not tier.get("name"):                      # fallback só se a API não mandar
+                tier = m.get("league") or {}
+            ic = tier.get("iconUrls") or {}
+            if m.get("tag") and tier.get("name") and tier.get("name") != "Unranked":
+                mapa[m["tag"]] = {"lg": tier.get("name"),
+                                  "lgi": ic.get("small") or ic.get("large") or ic.get("tiny"),
                                   "tr": m.get("trophies")}
-    print(f"  ligas de jogador: {len(mapa)}")
+    print(f"  rankeada dos jogadores: {len(mapa)}")
     return mapa
 
 
