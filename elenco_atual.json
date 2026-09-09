@@ -1,19 +1,12 @@
 {
-  "atualizado": "2026-08-27T23:19:37.399322Z",
+  "atualizado": "2026-09-09T00:55:56.891013Z",
   "membros": {
-    "#8GGCQPYP": {
-      "nome": "marinaul war",
+    "#C8R989YJ": {
+      "nome": "Levi_Neiva",
       "cla": 1,
       "cla_nome": "SpamiReza",
       "th": 18,
       "cargo": "admin"
-    },
-    "#P8GLGPRP": {
-      "nome": "Neskau",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "coLeader"
     },
     "#99220V0Q8": {
       "nome": "Nesk",
@@ -22,13 +15,6 @@
       "th": 18,
       "cargo": "admin"
     },
-    "#LYV2J2LU": {
-      "nome": "SR • JON SNOW",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "coLeader"
-    },
     "#2899CRJG": {
       "nome": "Jan",
       "cla": 1,
@@ -36,15 +22,8 @@
       "th": 18,
       "cargo": "admin"
     },
-    "#PJ0YJLGJ": {
-      "nome": "SR • Giovanelli",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#22YJPYPCJ": {
-      "nome": "KingMpg",
+    "#LYV2J2LU": {
+      "nome": "SR • JON SNOW",
       "cla": 1,
       "cla_nome": "SpamiReza",
       "th": 18,
@@ -57,8 +36,22 @@
       "th": 18,
       "cargo": "admin"
     },
-    "#C8R989YJ": {
-      "nome": "Levi_Neiva",
+    "#P8GLGPRP": {
+      "nome": "Neskau",
+      "cla": 1,
+      "cla_nome": "SpamiReza",
+      "th": 18,
+      "cargo": "coLeader"
+    },
+    "#PJ0YJLGJ": {
+      "nome": "SR • Giovanelli",
+      "cla": 1,
+      "cla_nome": "SpamiReza",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#22YJPYPCJ": {
+      "nome": "KingMpg",
       "cla": 1,
       "cla_nome": "SpamiReza",
       "th": 18,
@@ -99,47 +92,12 @@
       "th": 18,
       "cargo": "admin"
     },
-    "#Q2UJJ89VG": {
-      "nome": "Psico 2k25",
+    "#PQRRG2YCP": {
+      "nome": "SR • InTheDark☆",
       "cla": 1,
       "cla_nome": "SpamiReza",
       "th": 18,
-      "cargo": "admin"
-    },
-    "#G2V22VQUY": {
-      "nome": "ROBERTHWILLIAMM",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#QR2JLQ2RR": {
-      "nome": "dvnly",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#CJLVVL9L": {
-      "nome": "GSAzevedo30",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#9VV909C89": {
-      "nome": "SR - JON SNOW 2",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#90GRYGJVP": {
-      "nome": "Levi_Neiva 2",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
+      "cargo": "coLeader"
     },
     "#GL0PRCU9L": {
       "nome": "SR • C∆iç∆r∆",
@@ -148,20 +106,6 @@
       "th": 18,
       "cargo": "leader"
     },
-    "#9RJGGUY9R": {
-      "nome": "NoBlitzz",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#20GJVUJLU": {
-      "nome": "SR . Kcatoyo",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
     "#92PQV82G0": {
       "nome": "KingOfBilada™",
       "cla": 1,
@@ -169,165 +113,11 @@
       "th": 18,
       "cargo": "admin"
     },
-    "#2YP8QV8J9": {
-      "nome": "Sr • Pbalestra",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "coLeader"
-    },
-    "#GJYRCJ0PR": {
-      "nome": "Reikan",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#PQRRG2YCP": {
-      "nome": "SR • InTheDark☆",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "coLeader"
-    },
-    "#LUJ9CRJQG": {
-      "nome": "SR•GOD kratos",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#8UJY9C8RQ": {
-      "nome": "SR • Balestra",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "coLeader"
-    },
-    "#RCQQUGC9": {
-      "nome": "matias?",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#9LCP9VPP": {
-      "nome": "乂Maciel乂",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#QLRGC8GQ": {
-      "nome": "Renan",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "member"
-    },
-    "#2GCJ8QC92": {
-      "nome": "PaiDeFamilia",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#QPCRCR8VY": {
-      "nome": "LEANDRO",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "coLeader"
-    },
     "#QP9GY9G": {
       "nome": "SR . João V.",
       "cla": 1,
       "cla_nome": "SpamiReza",
       "th": 18,
-      "cargo": "admin"
-    },
-    "#89G0YGUJY": {
-      "nome": "SR • THIAGO",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#8R280VRCQ": {
-      "nome": "Darth Revan",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 17,
-      "cargo": "member"
-    },
-    "#2LLYCQPG8": {
-      "nome": "ＬＵＭＩＮＯＵＳ",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#LU2PQ0CU8": {
-      "nome": "MattosxP",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#YJ2JLPQGR": {
-      "nome": "SR • The off",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#CJV9G22Q": {
-      "nome": "Jan™",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 17,
-      "cargo": "admin"
-    },
-    "#YCRJU229": {
-      "nome": "Nesk'",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 17,
-      "cargo": "admin"
-    },
-    "#9V2L9J9JP": {
-      "nome": "Samuel Soares",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "member"
-    },
-    "#PRLJY29Y0": {
-      "nome": "Auki",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "member"
-    },
-    "#8UY0889P9": {
-      "nome": "♣DnF◆",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#Y22C09J8Q": {
-      "nome": "R A K A N ☦️",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#98VLU2YLP": {
-      "nome": "vitor menezes",
-      "cla": 1,
-      "cla_nome": "SpamiReza",
-      "th": 17,
       "cargo": "admin"
     },
     "#20CJ9Y8LQ": {
@@ -344,6 +134,48 @@
       "th": 18,
       "cargo": "admin"
     },
+    "#G2V22VQUY": {
+      "nome": "ROBERTHWILLIAMM",
+      "cla": 2,
+      "cla_nome": "RezaSpamandu",
+      "th": 18,
+      "cargo": "member"
+    },
+    "#Q2UJJ89VG": {
+      "nome": "Psico 2k25",
+      "cla": 2,
+      "cla_nome": "RezaSpamandu",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#QPCRCR8VY": {
+      "nome": "LEANDRO",
+      "cla": 2,
+      "cla_nome": "RezaSpamandu",
+      "th": 18,
+      "cargo": "coLeader"
+    },
+    "#CJLVVL9L": {
+      "nome": "GSAzevedo30",
+      "cla": 2,
+      "cla_nome": "RezaSpamandu",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#9VV909C89": {
+      "nome": "SR - JON SNOW 2",
+      "cla": 2,
+      "cla_nome": "RezaSpamandu",
+      "th": 18,
+      "cargo": "coLeader"
+    },
+    "#2YP8QV8J9": {
+      "nome": "Sr • Pbalestra",
+      "cla": 2,
+      "cla_nome": "RezaSpamandu",
+      "th": 18,
+      "cargo": "coLeader"
+    },
     "#2LY8G8Y9": {
       "nome": "SrNunes",
       "cla": 2,
@@ -351,8 +183,15 @@
       "th": 18,
       "cargo": "admin"
     },
-    "#LLLU0VQCL": {
-      "nome": "Agnes",
+    "#YVU0L88P": {
+      "nome": "LSWRTH",
+      "cla": 2,
+      "cla_nome": "RezaSpamandu",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#20GJVUJLU": {
+      "nome": "SR . Kcatoyo",
       "cla": 2,
       "cla_nome": "RezaSpamandu",
       "th": 18,
@@ -365,186 +204,46 @@
       "th": 18,
       "cargo": "admin"
     },
+    "#90GRYGJVP": {
+      "nome": "Levi_Neiva 2",
+      "cla": 2,
+      "cla_nome": "RezaSpamandu",
+      "th": 18,
+      "cargo": "member"
+    },
+    "#LUJ9CRJQG": {
+      "nome": "SR•GOD kratos",
+      "cla": 2,
+      "cla_nome": "RezaSpamandu",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#LLLU0VQCL": {
+      "nome": "Agnes",
+      "cla": 2,
+      "cla_nome": "RezaSpamandu",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#9RJGGUY9R": {
+      "nome": "NoBlitzz",
+      "cla": 2,
+      "cla_nome": "RezaSpamandu",
+      "th": 18,
+      "cargo": "admin"
+    },
     "#YQRJL098P": {
       "nome": "SR • DuM∆R",
       "cla": 2,
       "cla_nome": "RezaSpamandu",
       "th": 18,
-      "cargo": "coLeader"
-    },
-    "#QQC298JUC": {
-      "nome": "Duff",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 18,
-      "cargo": "coLeader"
-    },
-    "#YVU0L88P": {
-      "nome": "LSWRTH",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#GV09299QL": {
-      "nome": "nogz",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#QQQ8VQPL0": {
-      "nome": "F4KER",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 17,
-      "cargo": "coLeader"
-    },
-    "#GRR2G9LP0": {
-      "nome": "Ligeirinh0xD",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#22JQULR22": {
-      "nome": "Sra Nunes",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 17,
-      "cargo": "admin"
-    },
-    "#G890RJVCR": {
-      "nome": "nonick",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#RP8VCCUV": {
-      "nome": "rei do crime",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#QPJ209J89": {
-      "nome": "ayumatsui",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 17,
-      "cargo": "admin"
-    },
-    "#2RLG220GY": {
-      "nome": "Wilson z2",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 15,
-      "cargo": "member"
-    },
-    "#20UUPGPCV": {
-      "nome": "Lider Andre",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#8GG88V2PU": {
-      "nome": "·Holtser Ω",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 17,
-      "cargo": "admin"
-    },
-    "#2LLJ9JUYJ": {
-      "nome": "乂 ALIFER 乂",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#Q9PL0CUU": {
-      "nome": "SR • One☆",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 17,
-      "cargo": "coLeader"
-    },
-    "#Q22CCP90J": {
-      "nome": "SR • GPM 2",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 17,
-      "cargo": "admin"
-    },
-    "#82R9VYVGY": {
-      "nome": "SR • Dennis",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 17,
-      "cargo": "admin"
-    },
-    "#2Q9RYUCCP": {
-      "nome": "SR • Eduhh",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 16,
-      "cargo": "coLeader"
-    },
-    "#QQUC9JQ9R": {
-      "nome": "Ghostface",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 16,
-      "cargo": "coLeader"
-    },
-    "#P2JCQRPGJ": {
-      "nome": "irmão do jorel",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#QV2J0YV0V": {
-      "nome": "GPM Level 1",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#GCC98R22R": {
-      "nome": "Ligeirinh2xD",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 15,
-      "cargo": "admin"
-    },
-    "#L9GRLYGVQ": {
-      "nome": "Lider André 2",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 17,
-      "cargo": "admin"
-    },
-    "#GVLGQ098": {
-      "nome": "PaulinhoPH",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 16,
-      "cargo": "admin"
-    },
-    "#GRUG8UQGV": {
-      "nome": "SR • JotaErre",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 15,
       "cargo": "leader"
     },
-    "#GY0Q0VRL0": {
-      "nome": "Líder André 3",
+    "#GJYRCJ0PR": {
+      "nome": "Reikan",
       "cla": 2,
       "cla_nome": "RezaSpamandu",
-      "th": 17,
+      "th": 18,
       "cargo": "admin"
     },
     "#2J2QL8JRP": {
@@ -554,97 +253,6 @@
       "th": 18,
       "cargo": "admin"
     },
-    "#LPCCGGGY9": {
-      "nome": "SR•Dos Ovos",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#9CU9VLY2": {
-      "nome": "Santa",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 18,
-      "cargo": "admin"
-    },
-    "#GJ9L0YPRU": {
-      "nome": "JRx3",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 17,
-      "cargo": "admin"
-    },
-    "#29LG09JGY": {
-      "nome": "Trainer Ronald",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 16,
-      "cargo": "admin"
-    },
-    "#LL8GP2CQP": {
-      "nome": "☆InTheDark☆",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 15,
-      "cargo": "coLeader"
-    },
-    "#QJU9CUGP8": {
-      "nome": "DARTH VADER",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 14,
-      "cargo": "admin"
-    },
-    "#29882J2L2": {
-      "nome": "GSAzevedo30 #2",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 15,
-      "cargo": "admin"
-    },
-    "#LRGU2Q8V0": {
-      "nome": "JigSaw",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 15,
-      "cargo": "member"
-    },
-    "#GU8GY2GCL": {
-      "nome": "nogzrush",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 17,
-      "cargo": "admin"
-    },
-    "#YP9L000LG": {
-      "nome": "Gerion",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 16,
-      "cargo": "admin"
-    },
-    "#Q289QJUJC": {
-      "nome": "lipe",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 14,
-      "cargo": "admin"
-    },
-    "#QJY8RRYR": {
-      "nome": "LSWRTHN",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 16,
-      "cargo": "admin"
-    },
-    "#LRLRQ00VQ": {
-      "nome": "ANM ×͜× Darkon2",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 16,
-      "cargo": "admin"
-    },
     "#PPQCRYC8U": {
       "nome": "Luanzin OKD ✌️",
       "cla": 2,
@@ -652,33 +260,12 @@
       "th": 16,
       "cargo": "member"
     },
-    "#GUYRGQGYJ": {
-      "nome": "Tio Marginal",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 14,
-      "cargo": "admin"
-    },
-    "#QL89UQ0Q9": {
-      "nome": "unshaken",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 13,
-      "cargo": "member"
-    },
-    "#GU0U28JJ8": {
-      "nome": "Kelvy_10",
-      "cla": 2,
-      "cla_nome": "RezaSpamandu",
-      "th": 15,
-      "cargo": "member"
-    },
     "#QLRJLCY0Y": {
       "nome": "Crypt Myers",
       "cla": 2,
       "cla_nome": "RezaSpamandu",
       "th": 13,
-      "cargo": "coLeader"
+      "cargo": "admin"
     },
     "#9YQC99RPY": {
       "nome": "•JARLINHO♾2⏫",
@@ -687,47 +274,250 @@
       "th": 18,
       "cargo": "admin"
     },
-    "#QUP0R2CJU": {
-      "nome": "scamador'd'calv",
+    "#GRR2G9LP0": {
+      "nome": "Ligeirinh0xD",
       "cla": 3,
       "cla_nome": "ScamiReza",
-      "th": 15,
-      "cargo": "admin"
-    },
-    "#GG99R0YJ0": {
-      "nome": "GHOSTSX",
-      "cla": 3,
-      "cla_nome": "ScamiReza",
-      "th": 16,
-      "cargo": "admin"
-    },
-    "#GCLLVYPJ8": {
-      "nome": "RAGNAROK",
-      "cla": 3,
-      "cla_nome": "ScamiReza",
-      "th": 15,
+      "th": 18,
       "cargo": "member"
     },
-    "#YYGC00LJC": {
-      "nome": "yeTz",
+    "#QR2JLQ2RR": {
+      "nome": "dvnly",
       "cla": 3,
       "cla_nome": "ScamiReza",
-      "th": 16,
+      "th": 18,
       "cargo": "member"
     },
-    "#R0GLQC0GV": {
-      "nome": "SR • InTheDark☆",
+    "#RCQQUGC9": {
+      "nome": "matias?",
       "cla": 3,
       "cla_nome": "ScamiReza",
-      "th": 12,
+      "th": 18,
+      "cargo": "member"
+    },
+    "#8UJY9C8RQ": {
+      "nome": "SR • Balestra",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
       "cargo": "coLeader"
     },
-    "#PR0R0VC9P": {
-      "nome": "°D∆×iLh∆°",
+    "#2LLYCQPG8": {
+      "nome": "ＬＵＭＩＮＯＵＳ",
       "cla": 3,
       "cla_nome": "ScamiReza",
-      "th": 14,
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#9LCP9VPP": {
+      "nome": "乂Maciel乂",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#QQC298JUC": {
+      "nome": "Duff",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "coLeader"
+    },
+    "#GV09299QL": {
+      "nome": "nogz",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#2YGJQG22G": {
+      "nome": "Monesy",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "member"
+    },
+    "#2GCJ8QC92": {
+      "nome": "PaiDeFamilia",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "member"
+    },
+    "#QQQ8VQPL0": {
+      "nome": "F4KER",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 17,
+      "cargo": "admin"
+    },
+    "#LU2PQ0CU8": {
+      "nome": "MattosxP",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#22JQULR22": {
+      "nome": "Sra Nunes",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 17,
+      "cargo": "member"
+    },
+    "#8GG88V2PU": {
+      "nome": "·Holtser Ω",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 17,
+      "cargo": "admin"
+    },
+    "#82R9VYVGY": {
+      "nome": "SR • Dennis",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 17,
+      "cargo": "member"
+    },
+    "#G890RJVCR": {
+      "nome": "nonick",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#8R280VRCQ": {
+      "nome": "Darth Revan",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 17,
+      "cargo": "member"
+    },
+    "#CJV9G22Q": {
+      "nome": "Jan™",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 17,
+      "cargo": "member"
+    },
+    "#YCRJU229": {
+      "nome": "Nesk'",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 17,
+      "cargo": "coLeader"
+    },
+    "#YJ2JLPQGR": {
+      "nome": "SR • The off",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#RP8VCCUV": {
+      "nome": "rei do crime",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#89G0YGUJY": {
+      "nome": "SR • THIAGO",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#2LLJ9JUYJ": {
+      "nome": "乂 ALIFER 乂",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#QPJ209J89": {
+      "nome": "ayumatsui",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 17,
+      "cargo": "admin"
+    },
+    "#20UUPGPCV": {
+      "nome": "Lider Andre",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "member"
+    },
+    "#Q9PL0CUU": {
+      "nome": "SR • One☆",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 17,
       "cargo": "leader"
+    },
+    "#Q22CCP90J": {
+      "nome": "SR • GPM 2",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 17,
+      "cargo": "admin"
+    },
+    "#8UY0889P9": {
+      "nome": "♣DnF◆",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "member"
+    },
+    "#P2JCQRPGJ": {
+      "nome": "irmão do jorel",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "member"
+    },
+    "#QV2J0YV0V": {
+      "nome": "GPM Level 1",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#PRLJY29Y0": {
+      "nome": "Auki",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "member"
+    },
+    "#GJ9L0YPRU": {
+      "nome": "JRx3",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 17,
+      "cargo": "member"
+    },
+    "#9V2L9J9JP": {
+      "nome": "Samuel Soares",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "member"
+    },
+    "#LPCCGGGY9": {
+      "nome": "SR•Dos Ovos",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 18,
+      "cargo": "member"
+    },
+    "#PRY0G98PG": {
+      "nome": "MonesyㅤNTJ",
+      "cla": 3,
+      "cla_nome": "ScamiReza",
+      "th": 16,
+      "cargo": "member"
     },
     "#LJYPR9Q9L": {
       "nome": "O Homem Louco",
@@ -735,6 +525,188 @@
       "cla_nome": "ScamiReza",
       "th": 13,
       "cargo": "member"
+    },
+    "#2Q9RYUCCP": {
+      "nome": "SR • Eduhh",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 16,
+      "cargo": "coLeader"
+    },
+    "#2RLG220GY": {
+      "nome": "Wilson z2",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 15,
+      "cargo": "admin"
+    },
+    "#GUCJQPVR9": {
+      "nome": "qvnly",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 17,
+      "cargo": "member"
+    },
+    "#GRUG8UQGV": {
+      "nome": "SR • JotaErre",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 15,
+      "cargo": "coLeader"
+    },
+    "#QQUC9JQ9R": {
+      "nome": "Ghostface",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 16,
+      "cargo": "admin"
+    },
+    "#L9GRLYGVQ": {
+      "nome": "Lider André 2",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 17,
+      "cargo": "admin"
+    },
+    "#LL8GP2CQP": {
+      "nome": "☆InTheDark☆",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 15,
+      "cargo": "coLeader"
+    },
+    "#GVLGQ098": {
+      "nome": "PaulinhoPH",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 16,
+      "cargo": "member"
+    },
+    "#GY0Q0VRL0": {
+      "nome": "Líder André 3",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 17,
+      "cargo": "admin"
+    },
+    "#29882J2L2": {
+      "nome": "GSAzevedo30 #2",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 15,
+      "cargo": "member"
+    },
+    "#QUP0R2CJU": {
+      "nome": "scamador'd'calv",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 15,
+      "cargo": "member"
+    },
+    "#QJU9CUGP8": {
+      "nome": "DARTH VADER",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 14,
+      "cargo": "member"
+    },
+    "#LRGU2Q8V0": {
+      "nome": "JigSaw",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 15,
+      "cargo": "admin"
+    },
+    "#YP9L000LG": {
+      "nome": "Gerion",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 16,
+      "cargo": "admin"
+    },
+    "#2PLQG8UQU": {
+      "nome": "Meliodas NNT",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 17,
+      "cargo": "admin"
+    },
+    "#GU8GY2GCL": {
+      "nome": "nogzrush",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 18,
+      "cargo": "admin"
+    },
+    "#G8C9VLYVC": {
+      "nome": "psico raid 01",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 17,
+      "cargo": "member"
+    },
+    "#R0909YJ0Q": {
+      "nome": "s1mple",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 15,
+      "cargo": "admin"
+    },
+    "#Q289QJUJC": {
+      "nome": "lipe",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 14,
+      "cargo": "member"
+    },
+    "#GUYRGQGYJ": {
+      "nome": "Tio Marginal",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 14,
+      "cargo": "admin"
+    },
+    "#G9RR0JYUC": {
+      "nome": "Honrado",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 16,
+      "cargo": "member"
+    },
+    "#QL89UQ0Q9": {
+      "nome": "unshaken",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 13,
+      "cargo": "member"
+    },
+    "#QJYRV8UGY": {
+      "nome": "DO BRONX",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 15,
+      "cargo": "member"
+    },
+    "#GG99R0YJ0": {
+      "nome": "GHOSTSX",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 16,
+      "cargo": "admin"
+    },
+    "#GCLLVYPJ8": {
+      "nome": "RAGNAROK",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 15,
+      "cargo": "admin"
+    },
+    "#GU0U28JJ8": {
+      "nome": "Kelvy_10",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 16,
+      "cargo": "admin"
     },
     "#G9PGYJPYP": {
       "nome": "NAUZIN",
@@ -750,11 +722,53 @@
       "th": 15,
       "cargo": "admin"
     },
+    "#R0GLQC0GV": {
+      "nome": "SR • InTheDark☆",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 12,
+      "cargo": "coLeader"
+    },
     "#89U0JU98J": {
       "nome": "POSEIDON",
       "cla": 4,
       "cla_nome": "RezaScamandu",
       "th": 14,
+      "cargo": "admin"
+    },
+    "#YJPLJ8GP": {
+      "nome": "SR • Borges",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 13,
+      "cargo": "coLeader"
+    },
+    "#PR0R0VC9P": {
+      "nome": "°D∆×iLh∆°",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 14,
+      "cargo": "admin"
+    },
+    "#QPC2UGCCR": {
+      "nome": "matias!",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 12,
+      "cargo": "admin"
+    },
+    "#L0Y2VJQJQ": {
+      "nome": "ZEUS",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 12,
+      "cargo": "admin"
+    },
+    "#9UU89Q2QY": {
+      "nome": "Paulinho_PH",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 10,
       "cargo": "member"
     },
     "#QVCJGJU8G": {
@@ -764,25 +778,95 @@
       "th": 14,
       "cargo": "leader"
     },
-    "#YJPLJ8GP": {
-      "nome": "SR • Borges",
+    "#GYRRPY9PC": {
+      "nome": "KylanOrion",
       "cla": 4,
       "cla_nome": "RezaScamandu",
-      "th": 13,
-      "cargo": "coLeader"
-    },
-    "#L0Y2VJQJQ": {
-      "nome": "ZEUS",
-      "cla": 4,
-      "cla_nome": "RezaScamandu",
-      "th": 12,
+      "th": 6,
       "cargo": "member"
     },
-    "#9UU89Q2QY": {
-      "nome": "Paulinho_PH",
+    "#GC0PJU8PV": {
+      "nome": "BryceJohnson",
       "cla": 4,
       "cla_nome": "RezaScamandu",
-      "th": 10,
+      "th": 6,
+      "cargo": "member"
+    },
+    "#GC20Q90V2": {
+      "nome": "AidenMax",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 6,
+      "cargo": "member"
+    },
+    "#GJ8QUL2CG": {
+      "nome": "ArianaOphelia",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 6,
+      "cargo": "member"
+    },
+    "#GJL8CU9PV": {
+      "nome": "ColtonMillie",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 6,
+      "cargo": "member"
+    },
+    "#GC0U2YYUY": {
+      "nome": "AlexisTiffany",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 6,
+      "cargo": "member"
+    },
+    "#GC2QLPLGL": {
+      "nome": "LeviSara",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 6,
+      "cargo": "member"
+    },
+    "#GVG8U2VC9": {
+      "nome": "AmeliaMicah",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 6,
+      "cargo": "member"
+    },
+    "#GGJQYLQUJ": {
+      "nome": "CruzMurphy",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 6,
+      "cargo": "member"
+    },
+    "#GGCJLG88V": {
+      "nome": "IanYvette",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 6,
+      "cargo": "member"
+    },
+    "#GRQCVP0VC": {
+      "nome": "AddisonZander",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 6,
+      "cargo": "member"
+    },
+    "#GRQCG9L9R": {
+      "nome": "HarmonyNelson",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 6,
+      "cargo": "member"
+    },
+    "#GGRCGPP0C": {
+      "nome": "AmberVanessa",
+      "cla": 4,
+      "cla_nome": "RezaScamandu",
+      "th": 6,
       "cargo": "member"
     },
     "#QRGRY0GYG": {
