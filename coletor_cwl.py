@@ -73,6 +73,26 @@ def icones_ligas():
     return mapa
 
 
+def ligas_dos_jogadores():
+    """Liga de troféus ATUAL de cada jogador (a rankeada dele, não a do clã).
+    Vem de /clans/{tag}/members, que já traz league + iconUrls + troféus — sobe e
+    desce sozinho a cada coleta, conforme o jogador muda de liga."""
+    mapa = {}
+    for _, _, ctag in CLANS:
+        st, dados = get(f"/clans/{urllib.parse.quote(ctag)}/members?limit=60")
+        if st != 200 or not isinstance(dados, dict):
+            continue
+        for m in dados.get("items", []):
+            lg = m.get("league") or {}
+            ic = lg.get("iconUrls") or {}
+            if m.get("tag"):
+                mapa[m["tag"]] = {"lg": lg.get("name"),
+                                  "lgi": ic.get("small") or ic.get("tiny") or ic.get("medium"),
+                                  "tr": m.get("trophies")}
+    print(f"  ligas de jogador: {len(mapa)}")
+    return mapa
+
+
 def coletar_cla(num, nome, tag):
     q = urllib.parse.quote(tag)
     out = {"num": num, "nome": nome, "tag": tag, "elenco": [], "rodadas": [],
@@ -226,12 +246,17 @@ def detalhe_jogadores(out):
     return det
 
 
-def build_clans_js(dados):
+def build_clans_js(dados, ligas_jog=None):
     j = lambda v: json.dumps(v, ensure_ascii=False)
+    ligas_jog = ligas_jog or {}
     linhas = []
     for d in dados:
         atual = d.get("atual")
         rank, mode = agregar(d)
+        for p in rank:            # badge da rankeada do jogador, ao lado do nick
+            info = ligas_jog.get(p.get("tag"))
+            if info:
+                p["lg"], p["lgi"], p["tr"] = info["lg"], info["lgi"], info["tr"]
         placar = {"nos": None, "eles": None}
         falta = []
         if atual:
@@ -454,7 +479,7 @@ def main():
     salvar_historico(dados)
     salvar_detalhe(dados)
     ligas_js = "const LIGAS=" + json.dumps(icones_ligas(), ensure_ascii=False) + ";\n"
-    injetar_no_html(build_clans_js(dados), build_hist_js(dados), ligas_js)
+    injetar_no_html(build_clans_js(dados, ligas_dos_jogadores()), build_hist_js(dados), ligas_js)
     if temporada_encerrada(dados):
         congelar(dados)
     print("OK -> index.html + historico + detalhe atualizados")
