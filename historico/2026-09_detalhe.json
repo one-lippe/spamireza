@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-08T23:42:52.738427Z",
+  "atualizado": "2026-09-09T00:31:56.820369Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -774,7 +774,9 @@
               "nome": "Jan",
               "tag": "#2899CRJG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3257,7 +3259,9 @@
               "nome": "♣DnF◆",
               "tag": "#8UY0889P9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
@@ -3308,7 +3312,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "ayumatsui",
@@ -3344,7 +3348,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Dennis",
@@ -3359,7 +3363,9 @@
               "nome": "Jan™",
               "tag": "#CJV9G22Q",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -4789,7 +4795,9 @@
               "nome": "Gerion",
               "tag": "#YP9L000LG",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -4848,7 +4856,9 @@
               "nome": "Honrado",
               "tag": "#G9RR0JYUC",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
