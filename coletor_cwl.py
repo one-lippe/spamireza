@@ -55,6 +55,24 @@ def mult_liga(nome):
     roman = {"i": 0, "ii": 1, "iii": 2}.get(m.group(1), 0) if m else 0
     return round(tier + passo[roman], 3)
 
+def icones_ligas():
+    """Ícones OFICIAIS das ligas, direto do CDN da Supercell (api-assets.clashofclans.com).
+    O endpoint /leagues devolve nome + iconUrls; os nomes batem com o warLeague do clã
+    ('Titan League III', 'Champion League I'...). Se falhar, o site cai no badge desenhado."""
+    st, dados = get("/leagues?limit=200")
+    if st != 200 or not isinstance(dados, dict):
+        print("  ! ícones de liga indisponíveis (status", st, ")")
+        return {}
+    mapa = {}
+    for l in dados.get("items", []):
+        ic = l.get("iconUrls") or {}
+        url = ic.get("medium") or ic.get("small") or ic.get("tiny")
+        if l.get("name") and url:
+            mapa[l["name"]] = url
+    print(f"  ícones de liga: {len(mapa)}")
+    return mapa
+
+
 def coletar_cla(num, nome, tag):
     q = urllib.parse.quote(tag)
     out = {"num": num, "nome": nome, "tag": tag, "elenco": [], "rodadas": [],
@@ -354,21 +372,25 @@ def salvar_detalhe(dados):
         ensure_ascii=False, indent=2), encoding="utf-8")
     print("detalhe:", season, "salvo (guerra a guerra)")
 
-def injetar_no_html(clans_js, hist_js=None):
+def injetar_no_html(clans_js, hist_js=None, ligas_js=None):
     idx = ROOT / "index.html"
     html = idx.read_text(encoding="utf-8")
     html = re.sub(r"const CLANS=\{.*?\n\};\s*", clans_js, html, count=1, flags=re.DOTALL)
     if hist_js:
         # HIST é sempre UMA linha (json sem quebras) — casar só até o fim da linha
         html = re.sub(r"const HIST=.*\n", hist_js, html, count=1)
+    if ligas_js:
+        html = re.sub(r"const LIGAS=.*\n", ligas_js, html, count=1)
     html = html.replace("const locked=c===5;", "const locked=CLANS[c].vs===null;")
     idx.write_text(html, encoding="utf-8")
     (ROOT / "Dashboard_Spamireza.html").write_text(html, encoding="utf-8")
     # o Hall da Fama é página própria e só precisa do HIST
     hall = ROOT / "hall.html"
-    if hist_js and hall.exists():
+    if hall.exists():
         h = hall.read_text(encoding="utf-8")
-        hall.write_text(re.sub(r"const HIST=.*\n", hist_js, h, count=1), encoding="utf-8")
+        if hist_js:  h = re.sub(r"const HIST=.*\n", hist_js, h, count=1)
+        if ligas_js: h = re.sub(r"const LIGAS=.*\n", ligas_js, h, count=1)
+        hall.write_text(h, encoding="utf-8")
 
 MARCADOR = ROOT / "historico" / "temporada_fechada.json"
 
@@ -431,7 +453,8 @@ def main():
     (ROOT / "cwl_data.json").write_text(json.dumps(dados, ensure_ascii=False, indent=2), encoding="utf-8")
     salvar_historico(dados)
     salvar_detalhe(dados)
-    injetar_no_html(build_clans_js(dados), build_hist_js(dados))
+    ligas_js = "const LIGAS=" + json.dumps(icones_ligas(), ensure_ascii=False) + ";\n"
+    injetar_no_html(build_clans_js(dados), build_hist_js(dados), ligas_js)
     if temporada_encerrada(dados):
         congelar(dados)
     print("OK -> index.html + historico + detalhe atualizados")
