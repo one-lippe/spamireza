@@ -13551,9 +13551,9 @@
           "atk": 1
         },
         "eles": {
-          "est": 0,
-          "destr": 0.0,
-          "atk": 0
+          "est": 3,
+          "destr": 3.3333333333333335,
+          "atk": 1
         },
         "membros": [
           {
@@ -13777,9 +13777,14 @@
             "th": 15,
             "pos": 24,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "scamador'd'calv",
@@ -13878,9 +13883,9 @@
         "atk": 1
       },
       "eles": {
-        "est": 0,
-        "destr": 0.0,
-        "atk": 0
+        "est": 3,
+        "destr": 3.3333333333333335,
+        "atk": 1
       },
       "membros": [
         {
@@ -14104,9 +14109,14 @@
           "th": 15,
           "pos": 24,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "scamador'd'calv",

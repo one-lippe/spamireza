@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-09T01:22:45.834288Z",
+  "atualizado": "2026-09-09T01:31:13.701420Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1283,25 +1283,6 @@
       "mode": "rank",
       "rank": [
         {
-          "n": "Ligeirinh2xD",
-          "tag": "#GCC98R22R",
-          "th": 15,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 25,
-          "sof": 2.2,
-          "ndef": 4,
-          "seg": 2,
-          "idx": 65.9,
-          "idxb": 67.6,
-          "amostra": 86,
-          "mvp": 21,
-          "pos": 1,
-          "zona": "promo"
-        },
-        {
           "n": "GSAzevedo30 #2",
           "tag": "#29882J2L2",
           "th": 15,
@@ -1317,6 +1298,25 @@
           "idxb": 65.4,
           "amostra": 100,
           "mvp": 24,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
+          "n": "Ligeirinh2xD",
+          "tag": "#GCC98R22R",
+          "th": 15,
+          "atk": 6,
+          "est": 18,
+          "spa": 3.0,
+          "conf": 86,
+          "def": 20,
+          "sof": 2.4,
+          "ndef": 5,
+          "seg": 2,
+          "idx": 65.2,
+          "idxb": 66.8,
+          "amostra": 86,
+          "mvp": 21,
           "pos": 2,
           "zona": "promo"
         },
@@ -1579,7 +1579,7 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 56.8,
+          "idx": 56.7,
           "idxb": 58.8,
           "amostra": 29,
           "mvp": 5,
