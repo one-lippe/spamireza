@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-09T01:18:09.693854Z",
+  "atualizado": "2026-09-09T01:22:45.834288Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1302,6 +1302,25 @@
           "zona": "promo"
         },
         {
+          "n": "GSAzevedo30 #2",
+          "tag": "#29882J2L2",
+          "th": 15,
+          "atk": 7,
+          "est": 18,
+          "spa": 2.57,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 6,
+          "seg": 4,
+          "idx": 65.4,
+          "idxb": 65.4,
+          "amostra": 100,
+          "mvp": 24,
+          "pos": 2,
+          "zona": "promo"
+        },
+        {
           "n": "DO BRONX",
           "tag": "#QJYRV8UGY",
           "th": 15,
@@ -1317,8 +1336,8 @@
           "idxb": 65.6,
           "amostra": 86,
           "mvp": 20,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "unshaken",
@@ -1336,7 +1355,7 @@
           "idxb": 63.7,
           "amostra": 86,
           "mvp": 20,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -1355,7 +1374,7 @@
           "idxb": 63.4,
           "amostra": 86,
           "mvp": 18,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -1374,7 +1393,7 @@
           "idxb": 63.4,
           "amostra": 86,
           "mvp": 18,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -1393,7 +1412,7 @@
           "idxb": 63.1,
           "amostra": 86,
           "mvp": 19,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -1412,7 +1431,7 @@
           "idxb": 63.1,
           "amostra": 86,
           "mvp": 19,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -1431,7 +1450,7 @@
           "idxb": 62.2,
           "amostra": 86,
           "mvp": 23,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -1450,7 +1469,7 @@
           "idxb": 62.0,
           "amostra": 86,
           "mvp": 18,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -1465,30 +1484,30 @@
           "sof": 2.8,
           "ndef": 6,
           "seg": 1,
-          "idx": 60.9,
+          "idx": 61.0,
           "idxb": 61.8,
           "amostra": 86,
           "mvp": 18,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
-          "n": "GSAzevedo30 #2",
-          "tag": "#29882J2L2",
+          "n": "JigSaw",
+          "tag": "#LRGU2Q8V0",
           "th": 15,
-          "atk": 6,
-          "est": 15,
-          "spa": 2.5,
-          "conf": 86,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 6,
-          "seg": 4,
-          "idx": 60.6,
-          "idxb": 61.4,
-          "amostra": 86,
-          "mvp": 21,
-          "pos": 11,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 71,
+          "def": 25,
+          "sof": 2.2,
+          "ndef": 4,
+          "seg": 1,
+          "idx": 60.0,
+          "idxb": 61.6,
+          "amostra": 71,
+          "mvp": 17,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -1507,25 +1526,6 @@
           "idxb": 60.6,
           "amostra": 86,
           "mvp": 18,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "JigSaw",
-          "tag": "#LRGU2Q8V0",
-          "th": 15,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 71,
-          "def": 25,
-          "sof": 2.2,
-          "ndef": 4,
-          "seg": 1,
-          "idx": 59.9,
-          "idxb": 61.6,
-          "amostra": 71,
-          "mvp": 17,
           "pos": 13,
           "zona": "—"
         },
@@ -1579,7 +1579,7 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 56.7,
+          "idx": 56.8,
           "idxb": 58.8,
           "amostra": 29,
           "mvp": 5,
