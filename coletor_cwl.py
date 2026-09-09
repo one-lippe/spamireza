@@ -73,7 +73,7 @@ def icones_ligas():
     return mapa
 
 
-def ligas_dos_jogadores():
+def ligas_dos_jogadores(tags_necessarias=None):
     """Rankeada ATUAL de cada jogador — o `leagueTier` (Legend I, Titan II, Elétrica...),
     que é a liga da TEMPORADA corrente, com a arte nova (/leaguetiers/).
     O campo antigo `league` virou legado e devolve "Unranked" para quase todo mundo —
@@ -93,7 +93,20 @@ def ligas_dos_jogadores():
                 mapa[m["tag"]] = {"lg": tier.get("name"),
                                   "lgi": ic.get("small") or ic.get("large") or ic.get("tiny"),
                                   "tr": m.get("trophies")}
-    print(f"  rankeada dos jogadores: {len(mapa)}")
+    # Quem jogou a CWL mas não está mais no elenco de nenhum dos 5 clãs (saiu, foi
+    # emprestado, trocou de clã) não aparece na listagem acima — busca individual.
+    faltando = [t for t in (tags_necessarias or []) if t and t not in mapa]
+    for t in faltando[:60]:
+        st, p = get(f"/players/{urllib.parse.quote(t)}")
+        if st != 200 or not isinstance(p, dict):
+            continue
+        tier = p.get("leagueTier") or p.get("league") or {}
+        ic = tier.get("iconUrls") or {}
+        if tier.get("name") and tier.get("name") != "Unranked":
+            mapa[t] = {"lg": tier.get("name"),
+                       "lgi": ic.get("small") or ic.get("large") or ic.get("tiny"),
+                       "tr": p.get("trophies")}
+    print(f"  rankeada dos jogadores: {len(mapa)} (busca individual: {len(faltando)})")
     return mapa
 
 
@@ -483,7 +496,8 @@ def main():
     salvar_historico(dados)
     salvar_detalhe(dados)
     ligas_js = "const LIGAS=" + json.dumps(icones_ligas(), ensure_ascii=False) + ";\n"
-    injetar_no_html(build_clans_js(dados, ligas_dos_jogadores()), build_hist_js(dados), ligas_js)
+    precisa = {m["tag"] for d in dados for rd in d.get("rodadas", []) for m in rd["membros"]}
+    injetar_no_html(build_clans_js(dados, ligas_dos_jogadores(precisa)), build_hist_js(dados), ligas_js)
     if temporada_encerrada(dados):
         congelar(dados)
     print("OK -> index.html + historico + detalhe atualizados")
