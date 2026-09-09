@@ -1,0 +1,22 @@
+name: DEBUG API (temporario)
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  dbg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - env:
+          COC_TOKEN: ${{ secrets.COC_TOKEN }}
+        run: python3 debug_api.py
+      - run: |
+          git config user.name "coletor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          cp debug_api.json /tmp/d.json
+          git fetch --quiet origin main && git reset --hard --quiet origin/main
+          cp /tmp/d.json debug_api.json
+          git add debug_api.json && git commit --quiet -m "debug: dump da API" && git push --quiet origin HEAD:main
