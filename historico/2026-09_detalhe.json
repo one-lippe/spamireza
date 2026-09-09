@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-09T00:50:09.859697Z",
+  "atualizado": "2026-09-09T00:58:03.617543Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -4833,7 +4833,9 @@
               "nome": "NAUZIN",
               "tag": "#G9PGYJPYP",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
