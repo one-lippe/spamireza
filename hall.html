@@ -229,6 +229,12 @@
     .sc{min-width:66px}
     .duo{gap:10px}
   }
+  .lgb{flex:0 0 auto;vertical-align:-6px;filter:drop-shadow(0 3px 6px rgba(0,0,0,.45))}
+  .tabin{display:inline-flex;align-items:center;gap:8px}
+  .ligachip{display:inline-flex;align-items:center;gap:11px;margin:2px 0 4px;padding:8px 16px 8px 10px;
+    border:2px solid var(--line);border-radius:26px;background:rgba(5,15,29,.45)}
+  .ligachip span{font-size:13px;font-weight:900;letter-spacing:1.2px;color:var(--gold-soft)}
+  .meta .lgb{vertical-align:-5px;margin-right:3px}
 </style>
 </head>
 <body>
@@ -255,6 +261,42 @@ const HIST={"2026-07": [{"k": "marinaul war", "n": "marinaul war", "c": 1, "cn":
 const esc=t=>String(t==null?'':t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 const mesLabel=s=>{const M=['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'];
   const p=String(s).split('-'); return p.length===2?`${M[+p[1]-1]}/${p[0].slice(2)}`:s;};
+
+
+/* ---------- badge de liga (SVG próprio, sem asset externo) ---------- */
+const LIGA_CORES={
+  legend:['#fff0c2','#e8b94a','#8a5a12'],
+  titan:['#dff0ff','#8ec3ea','#2f5f92'],
+  champion:['#ecd6ff','#a97ce4','#5a2f92'],
+  master:['#c8efdc','#4fae86','#1d5c45'],
+  crystal:['#d6f2ff','#5fc6ea','#236e8d'],
+  gold:['#ffeab3','#e8b94a','#a3741d'],
+  silver:['#f2f6fb','#b8c6d6','#68788b'],
+  bronze:['#f2d3b2','#c08344','#714320']
+};
+function ligaTier(nome){
+  const n=String(nome||'').toLowerCase();
+  return Object.keys(LIGA_CORES).find(k=>n.includes(k))||null;
+}
+function ligaBadge(nome,size){
+  const tier=ligaTier(nome); if(!tier) return '';
+  const n=String(nome).toLowerCase();
+  const m=n.match(/\b(iii|ii|i)\b/), rn=m?m[1].toUpperCase():'';
+  const c=LIGA_CORES[tier], s=size||36, id='lg-'+tier+'-'+(rn||'x');
+  return `<svg class="lgb" width="${s}" height="${s}" viewBox="0 0 40 44" role="img" aria-label="${esc(nome)}">
+    <defs>
+      <linearGradient id="${id}" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="${c[0]}"/><stop offset=".55" stop-color="${c[1]}"/><stop offset="1" stop-color="${c[2]}"/>
+      </linearGradient>
+    </defs>
+    <path d="M20 1.5 36.5 7.5v13.8c0 9.4-6.9 16.4-16.5 21.2C10.4 37.7 3.5 30.7 3.5 21.3V7.5z"
+      fill="url(#${id})" stroke="rgba(6,14,26,.55)" stroke-width="2"/>
+    <path d="M20 6 32 10.4v10.9c0 7.4-5.3 12.9-12 16.7-6.7-3.8-12-9.3-12-16.7V10.4z"
+      fill="rgba(255,255,255,.18)"/>
+    <text x="20" y="27" text-anchor="middle" font-size="14" font-weight="900"
+      fill="rgba(14,10,4,.78)" font-family="'Segoe UI',system-ui,sans-serif">${rn}</text>
+  </svg>`;
+}
 
 function rec(ic,k,v,s,big){
   return `<div class="rec"><div class="ic">${ic}</div>
@@ -326,7 +368,7 @@ function render(){
         <div class="pbody"><div class="prow1">
           <div class="pname">${esc(p.n)}</div><div class="idxnum">${(p.idx||0).toFixed(1)}</div></div>
         <div class="bar"><i style="width:${Math.max(0,Math.min(100,p.idx))}%"></i></div>
-        <div class="meta"><span>${esc(p.cn||'')}</span><span>⚔️ ${p.atk} atq</span>
+        <div class="meta"><span>${ligaBadge(p.liga,20)} ${esc(p.cn||'')}</span><span>⚔️ ${p.atk} atq</span>
           <span>★ ${(p.spa||0).toFixed(2)}/atk</span><span>🏅 ${p.mvp}</span></div>
         </div></div>`;
     });
