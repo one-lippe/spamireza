@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-09T19:29:00.870009Z",
+  "atualizado": "2026-09-09T21:55:04.475528Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -927,7 +927,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • InTheDark☆",
@@ -941,7 +941,7 @@
               "tag": "#2U8P0YQ92",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "KingOfBilada™",
@@ -964,7 +964,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "MAJ0R FiV3",
@@ -991,7 +991,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
@@ -1885,7 +1885,9 @@
               "nome": "SrNunes",
               "tag": "#2LY8G8Y9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -1937,7 +1939,9 @@
               "nome": "GSAzevedo30",
               "tag": "#CJLVVL9L",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3875,7 +3879,9 @@
               "nome": "Sra Nunes",
               "tag": "#22JQULR22",
               "th": 17,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": null
             },
             {
@@ -5664,7 +5670,9 @@
               "nome": "Honrado",
               "tag": "#G9RR0JYUC",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -5762,7 +5770,9 @@
               "nome": "scamador'd'calv",
               "tag": "#QUP0R2CJU",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -5799,7 +5809,9 @@
               "nome": "POSEIDON",
               "tag": "#89U0JU98J",
               "th": 14,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
