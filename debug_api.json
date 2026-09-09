@@ -1,0 +1,409 @@
+{
+  "player_Nesk": {
+    "status": 200,
+    "chaves": [
+      "achievements",
+      "attackWins",
+      "bestBuilderBaseTrophies",
+      "bestTrophies",
+      "builderBaseLeague",
+      "builderBaseTrophies",
+      "builderHallLevel",
+      "clan",
+      "clanCapitalContributions",
+      "currentLeagueGroupTag",
+      "currentLeagueSeasonId",
+      "defenseWins",
+      "donations",
+      "donationsReceived",
+      "expLevel",
+      "heroEquipment",
+      "heroes",
+      "labels",
+      "league",
+      "leagueTier",
+      "name",
+      "playerHouse",
+      "previousLeagueGroupTag",
+      "previousLeagueSeasonId",
+      "role",
+      "spells",
+      "tag",
+      "townHallLevel",
+      "troops",
+      "trophies",
+      "warPreference",
+      "warStars"
+    ],
+    "amostra": {
+      "tag": "#99220V0Q8",
+      "name": "Nesk",
+      "townHallLevel": 18,
+      "expLevel": 219,
+      "trophies": 244,
+      "bestTrophies": 5365,
+      "warStars": 1121,
+      "attackWins": 5,
+      "defenseWins": 0,
+      "builderHallLevel": 10,
+      "builderBaseTrophies": 2780,
+      "bestBuilderBaseTrophies": 3002,
+      "role": "admin",
+      "warPreference": "in",
+      "donations": 116,
+      "donationsReceived": 354,
+      "clanCapitalContributions": 2286046,
+      "clan": {
+        "tag": "#2J90U9GYP",
+        "name": "SpamiReza",
+        "clanLevel": 19,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/-Bv0BiNeDSVhG28tD4z-QzzDGW5U_XVjtnO9QpculRw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/-Bv0BiNeDSVhG28tD4z-QzzDGW5U_XVjtnO9QpculRw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/-Bv0BiNeDSVhG28tD4z-QzzDGW5U_XVjtnO9QpculRw.png"
+        }
+      },
+      "league": {
+        "id": 29000022,
+        "name": "Legend League",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000035,
+        "name": "Legend II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leaguetiers/125/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
+          "large": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000023,
+        "name": "Iron League III"
+      },
+      "currentLeagueGroupTag": "#8RYQC9U",
+      "currentLeagueSeasonId": 1788757200,
+      "previousLeagueGroupTag": "#8GR00YP",
+      "previousLeagueSeasonId": 1788152400,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000086
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000032
+          },
+          {
+            "type": "decoration",
+            "id": 82000064
+          }
+        ]
+      }
+    }
+  },
+  "clan_members": {
+    "status": 200,
+    "items": [
+      {
+        "tag": "#C8R989YJ",
+        "name": "Levi_Neiva",
+        "role": "admin",
+        "townHallLevel": 18,
+        "expLevel": 241,
+        "league": {
+          "id": 29000000,
+          "name": "Unranked",
+          "iconUrls": {
+            "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+            "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+          }
+        },
+        "leagueTier": {
+          "id": 105000036,
+          "name": "Legend I",
+          "iconUrls": {
+            "small": "https://api-assets.clashofclans.com/leaguetiers/125/s5Y12RDRg7tgznd2RwU9kgLbedC5Not4peiHfOaWfJo.png",
+            "large": "https://api-assets.clashofclans.com/leaguetiers/326/s5Y12RDRg7tgznd2RwU9kgLbedC5Not4peiHfOaWfJo.png"
+          }
+        },
+        "trophies": 4765,
+        "builderBaseTrophies": 3489,
+        "clanRank": 1,
+        "previousClanRank": 0,
+        "donations": 0,
+        "donationsReceived": 0,
+        "playerHouse": {
+          "elements": [
+            {
+              "type": "ground",
+              "id": 82000004
+            },
+            {
+              "type": "walls",
+              "id": 82000079
+            },
+            {
+              "type": "roof",
+              "id": 82000126
+            },
+            {
+              "type": "decoration",
+              "id": 82000071
+            }
+          ]
+        },
+        "builderBaseLeague": {
+          "id": 44000027,
+          "name": "Steel League II"
+        }
+      },
+      {
+        "tag": "#99220V0Q8",
+        "name": "Nesk",
+        "role": "admin",
+        "townHallLevel": 18,
+        "expLevel": 219,
+        "league": {
+          "id": 29000022,
+          "name": "Legend League",
+          "iconUrls": {
+            "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+            "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+            "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+          }
+        },
+        "leagueTier": {
+          "id": 105000035,
+          "name": "Legend II",
+          "iconUrls": {
+            "small": "https://api-assets.clashofclans.com/leaguetiers/125/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
+            "large": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png"
+          }
+        },
+        "trophies": 244,
+        "builderBaseTrophies": 2780,
+        "clanRank": 2,
+        "previousClanRank": 3,
+        "donations": 116,
+        "donationsReceived": 354,
+        "playerHouse": {
+          "elements": [
+            {
+              "type": "ground",
+              "id": 82000086
+            },
+            {
+              "type": "walls",
+              "id": 82000049
+            },
+            {
+              "type": "roof",
+              "id": 82000032
+            },
+            {
+              "type": "decoration",
+              "id": 82000064
+            }
+          ]
+        },
+        "builderBaseLeague": {
+          "id": 44000023,
+          "name": "Iron League III"
+        }
+      },
+      {
+        "tag": "#2899CRJG",
+        "name": "Jan",
+        "role": "admin",
+        "townHallLevel": 18,
+        "expLevel": 235,
+        "league": {
+          "id": 29000000,
+          "name": "Unranked",
+          "iconUrls": {
+            "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+            "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+          }
+        },
+        "leagueTier": {
+          "id": 105000035,
+          "name": "Legend II",
+          "iconUrls": {
+            "small": "https://api-assets.clashofclans.com/leaguetiers/125/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png",
+            "large": "https://api-assets.clashofclans.com/leaguetiers/326/2fQPjjBJCXzHdYY8Eul4DQUBB232Bhiw5KPv6TOLMgQ.png"
+          }
+        },
+        "trophies": 115,
+        "builderBaseTrophies": 3650,
+        "clanRank": 3,
+        "previousClanRank": 4,
+        "donations": 0,
+        "donationsReceived": 263,
+        "playerHouse": {
+          "elements": [
+            {
+              "type": "ground",
+              "id": 82000002
+            },
+            {
+              "type": "walls",
+              "id": 82000052
+            },
+            {
+              "type": "roof",
+              "id": 82000032
+            },
+            {
+              "type": "decoration",
+              "id": 82000066
+            }
+          ]
+        },
+        "builderBaseLeague": {
+          "id": 44000028,
+          "name": "Steel League I"
+        }
+      }
+    ]
+  },
+  "leagues": {
+    "status": 200,
+    "nomes": [
+      "Unranked",
+      "Bronze League III",
+      "Bronze League II",
+      "Bronze League I",
+      "Silver League III",
+      "Silver League II",
+      "Silver League I",
+      "Gold League III",
+      "Gold League II",
+      "Gold League I",
+      "Crystal League III",
+      "Crystal League II",
+      "Crystal League I",
+      "Master League III",
+      "Master League II",
+      "Master League I",
+      "Champion League III",
+      "Champion League II",
+      "Champion League I",
+      "Titan League III",
+      "Titan League II",
+      "Titan League I",
+      "Legend League"
+    ]
+  },
+  "/warleagues?limit=200": {
+    "status": 200,
+    "nomes": [
+      "Unranked",
+      "Bronze League III",
+      "Bronze League II",
+      "Bronze League I",
+      "Silver League III",
+      "Silver League II",
+      "Silver League I",
+      "Gold League III",
+      "Gold League II",
+      "Gold League I",
+      "Crystal League III",
+      "Crystal League II",
+      "Crystal League I",
+      "Master League III",
+      "Master League II",
+      "Master League I",
+      "Champion League III",
+      "Champion League II",
+      "Champion League I",
+      "Titan League III",
+      "Titan League II",
+      "Titan League I",
+      "Legend League"
+    ]
+  },
+  "/capitalleagues?limit=50": {
+    "status": 200,
+    "nomes": [
+      "Unranked",
+      "Bronze League III",
+      "Bronze League II",
+      "Bronze League I",
+      "Silver League III",
+      "Silver League II",
+      "Silver League I",
+      "Gold League III",
+      "Gold League II",
+      "Gold League I",
+      "Crystal League III",
+      "Crystal League II",
+      "Crystal League I",
+      "Master League III",
+      "Master League II",
+      "Master League I",
+      "Champion League III",
+      "Champion League II",
+      "Champion League I",
+      "Titan League III",
+      "Titan League II",
+      "Titan League I",
+      "Legend League"
+    ]
+  },
+  "/builderbaseleagues?limit=50": {
+    "status": 200,
+    "nomes": [
+      "Wood League V",
+      "Wood League IV",
+      "Wood League III",
+      "Wood League II",
+      "Wood League I",
+      "Clay League V",
+      "Clay League IV",
+      "Clay League III",
+      "Clay League II",
+      "Clay League I",
+      "Stone League V",
+      "Stone League IV",
+      "Stone League III",
+      "Stone League II",
+      "Stone League I",
+      "Copper League V",
+      "Copper League IV",
+      "Copper League III",
+      "Copper League II",
+      "Copper League I",
+      "Brass League III",
+      "Brass League II",
+      "Brass League I",
+      "Iron League III",
+      "Iron League II",
+      "Iron League I",
+      "Steel League III",
+      "Steel League II",
+      "Steel League I",
+      "Titanium League III",
+      "Titanium League II",
+      "Titanium League I",
+      "Platinum League III",
+      "Platinum League II",
+      "Platinum League I",
+      "Emerald League III",
+      "Emerald League II",
+      "Emerald League I",
+      "Ruby League III",
+      "Ruby League II",
+      "Ruby League I",
+      "Diamond League"
+    ]
+  }
+}
