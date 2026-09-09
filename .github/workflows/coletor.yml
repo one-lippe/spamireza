@@ -39,15 +39,17 @@ jobs:
           git config user.name "coletor-bot"
           git config user.email "actions@users.noreply.github.com"
           cp index.html /tmp/index.html
+          [ -f hall.html ] && cp hall.html /tmp/hall.html || true
           [ -f cwl_data.json ] && cp cwl_data.json /tmp/cwl_data.json || true
           rm -rf /tmp/historico; [ -d historico ] && cp -r historico /tmp/historico || true
           for i in 1 2 3 4 5; do
             git fetch --quiet origin main
             git reset --hard --quiet origin/main
             cp /tmp/index.html index.html
+            [ -f /tmp/hall.html ] && cp /tmp/hall.html hall.html || true
             [ -f /tmp/cwl_data.json ] && cp /tmp/cwl_data.json cwl_data.json || true
             [ -d /tmp/historico ] && { mkdir -p historico && cp -r /tmp/historico/. historico/; } || true
-            git add index.html historico cwl_data.json 2>/dev/null || git add index.html
+            git add index.html hall.html historico cwl_data.json 2>/dev/null || git add index.html
             if git diff --cached --quiet; then echo "nada mudou"; break; fi
             git commit --quiet -m "auto: atualiza CWL"
             if git push --quiet origin HEAD:main; then echo "push ok"; break; fi
@@ -74,6 +76,7 @@ jobs:
         run: |
           rm -rf _site && mkdir _site
           cp index.html _site/index.html
+          [ -f hall.html ] && cp hall.html _site/hall.html || true
           mkdir -p _site/ARTES
           for f in bg.jpg FAISCAS.png; do [ -f "ARTES/$f" ] && cp "ARTES/$f" "_site/ARTES/$f" || true; done
           touch _site/.nojekyll

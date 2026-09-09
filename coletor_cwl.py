@@ -364,6 +364,11 @@ def injetar_no_html(clans_js, hist_js=None):
     html = html.replace("const locked=c===5;", "const locked=CLANS[c].vs===null;")
     idx.write_text(html, encoding="utf-8")
     (ROOT / "Dashboard_Spamireza.html").write_text(html, encoding="utf-8")
+    # o Hall da Fama é página própria e só precisa do HIST
+    hall = ROOT / "hall.html"
+    if hist_js and hall.exists():
+        h = hall.read_text(encoding="utf-8")
+        hall.write_text(re.sub(r"const HIST=.*\n", hist_js, h, count=1), encoding="utf-8")
 
 MARCADOR = ROOT / "historico" / "temporada_fechada.json"
 
