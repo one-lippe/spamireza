@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-09T06:42:14.610514Z",
+  "atualizado": "2026-09-09T11:58:30.007461Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -882,13 +882,15 @@
               "tag": "#LYV2J2LU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Giovanelli",
               "tag": "#PJ0YJLGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -896,7 +898,7 @@
               "tag": "#YJ9R2GPJG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Jan",
@@ -910,7 +912,7 @@
               "tag": "#C8R989YJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "tozim",
@@ -967,8 +969,10 @@
               "nome": "Neskau",
               "tag": "#P8GLGPRP",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 3
             },
             {
               "nome": "MAJ0R FiV3",
@@ -1859,7 +1863,7 @@
               "tag": "#9VV909C89",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SrNunes",
@@ -1904,7 +1908,9 @@
               "nome": "TomorrowBr",
               "tag": "#YPJLVPL9U",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1918,14 +1924,18 @@
               "nome": "Reikan",
               "tag": "#GJYRCJ0PR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
               "nome": "SR•GOD kratos",
               "tag": "#LUJ9CRJQG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1948,7 +1958,9 @@
               "nome": "ROBERTHWILLIAMM",
               "tag": "#G2V22VQUY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -3650,13 +3662,15 @@
               "tag": "#89G0YGUJY",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "MattosxP",
               "tag": "#LU2PQ0CU8",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": null
             },
             {
@@ -3718,7 +3732,9 @@
               "nome": "Monesy",
               "tag": "#2YGJQG22G",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -3760,7 +3776,7 @@
               "tag": "#GV09299QL",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • The off",
@@ -3769,14 +3785,14 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•Dos Ovos",
               "tag": "#LPCCGGGY9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ligeirinh0xD",
@@ -3792,7 +3808,7 @@
               "tag": "#8GG88V2PU",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "SR • GPM 2",
@@ -3831,7 +3847,7 @@
               "tag": "#QQQ8VQPL0",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Darth Revan",
@@ -3868,7 +3884,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             }
           ]
         }
@@ -5580,7 +5596,7 @@
               "tag": "#G9PGYJPYP",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Kelvy_10",
@@ -5656,13 +5672,15 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "RAGNAROK",
               "tag": "#GCLLVYPJ8",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -5676,7 +5694,9 @@
               "nome": "DO BRONX",
               "tag": "#QJYRV8UGY",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
