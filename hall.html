@@ -36,9 +36,10 @@
   .prep.live{color:#ffd9dc;border-color:rgba(232,90,104,.6);background:rgba(232,90,104,.16)}
   .prep.ended{color:var(--muted);border-color:var(--line);background:rgba(36,86,140,.22)}
 
-  .tabs{display:flex;gap:10px;overflow-x:auto;padding:4px 2px 10px;scrollbar-width:none;margin-top:20px}
+  .tabs{display:flex;gap:10px;flex-wrap:wrap;padding:4px 2px 10px;margin-top:20px}
   .tabs::-webkit-scrollbar{display:none}
-  .tab{flex:0 0 auto;padding:11px 18px;border-radius:14px;border:2px solid var(--line);
+  .tabs::-webkit-scrollbar{display:none}
+  .tab{flex:1 1 132px;min-width:0;padding:11px 16px;border-radius:14px;border:2px solid var(--line);
     background:var(--card);color:var(--muted);font-size:15px;font-weight:700;cursor:pointer;
     white-space:nowrap;transition:.18s}
   .tab .n{font-size:11px;color:var(--muted2);display:block;font-weight:800;letter-spacing:1.4px;margin-bottom:3px}
@@ -231,7 +232,8 @@
     .duo{gap:10px}
   }
   .lgb{flex:0 0 auto;vertical-align:-6px;filter:drop-shadow(0 3px 6px rgba(0,0,0,.45));object-fit:contain}
-  .tabin{display:inline-flex;align-items:center;gap:8px}
+  .tabin{display:flex;align-items:center;gap:8px;min-width:0}
+  .tabin span{min-width:0;overflow:hidden;text-overflow:ellipsis}
   .ligachip{display:inline-flex;align-items:center;gap:11px;margin:2px 0 4px;padding:8px 16px 8px 10px;
     border:2px solid var(--line);border-radius:26px;background:rgba(5,15,29,.45)}
   .ligachip span{font-size:13px;font-weight:900;letter-spacing:1.2px;color:var(--gold-soft)}
