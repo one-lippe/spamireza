@@ -77,6 +77,14 @@ def coletar_cla(num, nome, tag):
         c, o = w.get("clan") or {}, w.get("opponent") or {}
         if tag not in (c.get("tag"), o.get("tag")): continue
         eu, adv = (c, o) if c.get("tag") == tag else (o, c)
+        # TODAS as defesas: o bestOpponentAttack só mostra o pior tombo. Os ataques do
+        # adversário trazem o defenderTag, então dá para contar cada defesa de verdade —
+        # quem apanhou 3 vezes e segurou 2 não pode valer o mesmo que quem apanhou uma.
+        sofridos = {}
+        for am in adv.get("members", []):
+            for a in am.get("attacks") or []:
+                sofridos.setdefault(a.get("defenderTag"), []).append(
+                    {"estrelas": a.get("stars"), "destr": a.get("destructionPercentage")})
         membros = []
         for m in eu.get("members", []):
             atks = m.get("attacks") or []
@@ -85,11 +93,16 @@ def coletar_cla(num, nome, tag):
                 "nome": m.get("name"), "tag": m.get("tag"), "th": m.get("townhallLevel"),
                 "pos": m.get("mapPosition"),
                 "ataques": [{"estrelas": a.get("stars"), "destr": a.get("destructionPercentage")} for a in atks],
-                "def_estrelas": bo.get("stars"), "def_destr": bo.get("destructionPercentage")})
+                "def_estrelas": bo.get("stars"), "def_destr": bo.get("destructionPercentage"),
+                "defesas": sorted(sofridos.get(m.get("tag"), []),
+                                  key=lambda x: -(x["estrelas"] or 0))})
         membros.sort(key=lambda x: x.get("pos") or 99)
+        placar = lambda lado: {"est": lado.get("stars"), "destr": lado.get("destructionPercentage"),
+                               "atk": lado.get("attacks")}
         out["rodadas"].append({"warTag": wt, "state": w.get("state"), "teamSize": w.get("teamSize"),
                                "adversario": adv.get("name"), "prep": w.get("preparationStartTime"),
-                               "inicio": w.get("startTime"), "fim": w.get("endTime"), "membros": membros})
+                               "inicio": w.get("startTime"), "fim": w.get("endTime"),
+                               "nos": placar(eu), "eles": placar(adv), "membros": membros})
     if out["rodadas"]:
         # prioriza guerra ATIVA (inWar) > preparação > encerrada; desempate pelo horário
         ordem = {"inWar": 3, "preparation": 2, "warEnded": 1, "notInWar": 0}
@@ -107,13 +120,20 @@ def agregar(out):
         for m in rd["membros"]:
             a = agg.setdefault(m["tag"], {"nome": m["nome"], "tag": m["tag"], "th": m["th"],
                                           "rounds": 0, "atk": 0, "est": 0, "destr": 0.0,
-                                          "defsof": 0, "defcnt": 0, "defneg": 0})
+                                          "defsof": 0, "defcnt": 0, "defneg": 0, "defseg": 0})
             a["nome"], a["th"] = m["nome"], m["th"]; a["rounds"] += 1
             for at in m["ataques"]:
                 a["atk"] += 1; a["est"] += at["estrelas"] or 0; a["destr"] += at["destr"] or 0
-            ds = m.get("def_estrelas")
-            if ds is not None:
+            defesas = m.get("defesas")
+            if defesas:   # cada ataque sofrido conta como uma defesa
+                for d in defesas:
+                    e = d["estrelas"] or 0
+                    a["defsof"] += e; a["defcnt"] += 1; a["defneg"] += (3 - e)
+                    if e < 3: a["defseg"] += 1
+            elif m.get("def_estrelas") is not None:   # dado antigo, sem a lista de defesas
+                ds = m["def_estrelas"]
                 a["defsof"] += ds; a["defcnt"] += 1; a["defneg"] += (3 - ds)
+                if ds < 3: a["defseg"] += 1
     rank = []
     for a in agg.values():
         atk = a["atk"]; spa = a["est"] / atk if atk else 0
@@ -131,7 +151,7 @@ def agregar(out):
         rank.append({"n": a["nome"], "tag": a["tag"], "th": a["th"], "atk": atk, "est": a["est"],
                      "spa": round(spa, 2), "conf": round(conf * 100),
                      "def": (round(notaDef) if notaDef is not None else None),
-                     "sof": sof, "ndef": a["defcnt"], "idx": round(idx, 1),
+                     "sof": sof, "ndef": a["defcnt"], "seg": a["defseg"], "idx": round(idx, 1),
                      "idxb": round(idx, 1), "amostra": 100,
                      "mvp": a["est"] + a["defneg"]})
 
@@ -177,9 +197,13 @@ def detalhe_jogadores(out):
             if m is None:  # não escalado nessa guerra: neutro, não é oportunidade
                 det[t].append({"g": i, "vs": rd.get("adversario"), "st": rd.get("state"), "fora": True})
             else:
+                defs = m.get("defesas")
+                if not defs and m.get("def_estrelas") is not None:
+                    defs = [{"estrelas": m["def_estrelas"], "destr": m.get("def_destr")}]
                 det[t].append({"g": i, "vs": rd.get("adversario"), "st": rd.get("state"),
                                "pos": m.get("pos"),
                                "a": [{"e": a["estrelas"], "d": a["destr"]} for a in m["ataques"]],
+                               "df": [{"e": x["estrelas"], "d": x["destr"]} for x in (defs or [])],
                                "d": m.get("def_estrelas"), "dd": m.get("def_destr")})
     return det
 
@@ -190,12 +214,19 @@ def build_clans_js(dados):
     for d in dados:
         atual = d.get("atual")
         rank, mode = agregar(d)
+        placar = {"nos": None, "eles": None}
+        falta = []
         if atual:
             esc = [m["nome"] for m in atual["membros"]]
             esc_tags = {m["tag"] for m in atual["membros"]}
             res = [e["nome"] for e in d["elenco"] if e["tag"] not in esc_tags]
             vs = atual["adversario"]; tam = f'{atual["teamSize"]} x {atual["teamSize"]}'
             state, inicio, fim = atual["state"], atual["inicio"], atual["fim"]
+            placar = {"nos": atual.get("nos"), "eles": atual.get("eles")}
+            if state == "inWar":   # quem ainda não usou o ataque na guerra que está rolando
+                falta = [{"n": m["nome"], "th": m.get("th"), "pos": m.get("pos")}
+                         for m in atual["membros"] if not m["ataques"]]
+                falta.sort(key=lambda x: x.get("pos") or 99)
         else:
             esc, res, vs, tam, state, inicio, fim = [], [e["nome"] for e in d["elenco"]], None, None, None, None, None
         rodadas = d.get("rodadas") or []
@@ -203,8 +234,52 @@ def build_clans_js(dados):
         linhas.append(
             f' {d["num"]}:{{nome:{j(d["nome"])},vs:{j(vs)},tam:{j(tam)},liga:{j(d["liga"])},'
             f'state:{j(state)},inicio:{j(inicio)},fim:{j(fim)},mode:{j(mode)},ligaFim:{j(liga_fim)},'
+            f'placar:{j(placar)},falta:{j(falta)},'
             f'esc:{j(esc)},res:{j(res)},rank:{j(rank)},det:{j(detalhe_jogadores(d))}}}')
     return "const CLANS={\n" + ",\n".join(linhas) + "\n};\n"
+
+
+def build_hist_js(dados):
+    """Bloco HIST: resultado de cada temporada arquivada + a corrente, por jogador,
+    para o popup mostrar a evolução liga a liga e para o Hall da Fama.
+    Temporadas antigas não têm tag (o coletor só passou a gravar depois), então a
+    chave cai para o nome quando a tag não existe."""
+    hd = ROOT / "historico"
+    temporadas = {}
+    if hd.exists():
+        for fp in sorted(hd.glob("*.json")):
+            if fp.stem.endswith("_detalhe") or fp.stem == "temporada_fechada":
+                continue
+            try:
+                arq = json.loads(fp.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+            clas = arq.get("clas") or arq          # 2026-07.json antigo não tem "clas"
+            season, jog = fp.stem, []
+            for cnum, c in clas.items():
+                for p in c.get("rank", []):
+                    if not p.get("atk"):
+                        continue
+                    jog.append({"k": p.get("tag") or p.get("n"), "n": p.get("n"),
+                                "c": int(cnum), "cn": c.get("nome"), "liga": c.get("liga"),
+                                "idx": p.get("idx"), "pos": p.get("pos"), "atk": p.get("atk"),
+                                "spa": p.get("spa"), "mvp": p.get("mvp")})
+            if jog:
+                temporadas[season] = jog
+    # a temporada corrente vem do que acabou de ser coletado (o arquivo pode estar atrás)
+    import datetime
+    atualss = datetime.datetime.utcnow().strftime("%Y-%m")
+    corrente = []
+    for d in dados:
+        rank, _ = agregar(d)
+        for p in rank:
+            if p["atk"]:
+                corrente.append({"k": p.get("tag") or p["n"], "n": p["n"], "c": d["num"],
+                                 "cn": d["nome"], "liga": d.get("liga"), "idx": p["idx"],
+                                 "pos": p["pos"], "atk": p["atk"], "spa": p["spa"], "mvp": p["mvp"]})
+    if corrente:
+        temporadas[atualss] = corrente
+    return "const HIST=" + json.dumps(temporadas, ensure_ascii=False) + ";\n"
 
 def salvar_historico(dados):
     """Arquiva o resultado da temporada atual (YYYY-MM) para preservar histórico
@@ -279,10 +354,13 @@ def salvar_detalhe(dados):
         ensure_ascii=False, indent=2), encoding="utf-8")
     print("detalhe:", season, "salvo (guerra a guerra)")
 
-def injetar_no_html(clans_js):
+def injetar_no_html(clans_js, hist_js=None):
     idx = ROOT / "index.html"
     html = idx.read_text(encoding="utf-8")
-    html = re.sub(r"const CLANS=\{.*?\};\s*", clans_js, html, count=1, flags=re.DOTALL)
+    html = re.sub(r"const CLANS=\{.*?\n\};\s*", clans_js, html, count=1, flags=re.DOTALL)
+    if hist_js:
+        # HIST é sempre UMA linha (json sem quebras) — casar só até o fim da linha
+        html = re.sub(r"const HIST=.*\n", hist_js, html, count=1)
     html = html.replace("const locked=c===5;", "const locked=CLANS[c].vs===null;")
     idx.write_text(html, encoding="utf-8")
     (ROOT / "Dashboard_Spamireza.html").write_text(html, encoding="utf-8")
@@ -346,9 +424,9 @@ def main():
         else:
             print(f"  Clã {num} {nome:14} — sem guerra ativa  {d.get('erro','')}")
     (ROOT / "cwl_data.json").write_text(json.dumps(dados, ensure_ascii=False, indent=2), encoding="utf-8")
-    injetar_no_html(build_clans_js(dados))
     salvar_historico(dados)
     salvar_detalhe(dados)
+    injetar_no_html(build_clans_js(dados), build_hist_js(dados))
     if temporada_encerrada(dados):
         congelar(dados)
     print("OK -> index.html + historico + detalhe atualizados")
