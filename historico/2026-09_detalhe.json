@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-09T01:35:43.024602Z",
+  "atualizado": "2026-09-09T01:37:50.439750Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -5209,7 +5209,9 @@
               "nome": "lipe",
               "tag": "#Q289QJUJC",
               "th": 14,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -5244,7 +5246,9 @@
               "nome": "unshaken",
               "tag": "#QL89UQ0Q9",
               "th": 13,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
