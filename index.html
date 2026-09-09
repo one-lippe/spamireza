@@ -277,6 +277,16 @@
     filter:drop-shadow(0 2px 4px rgba(0,0,0,.5))}
   .shead .plg{vertical-align:-6px;margin-right:9px}
   .chip .plg{margin-right:4px;vertical-align:-4px}
+  .plgw{position:relative;display:inline-flex;align-items:center;justify-content:center;
+    width:var(--s);height:var(--s);margin-right:9px;vertical-align:-5px;flex:0 0 auto}
+  .plgw .plg{margin:0;width:100%;height:100%}
+  .plgn{position:absolute;right:-6px;bottom:-5px;font-style:normal;
+    font-size:calc(var(--s) * .46);font-weight:900;line-height:1;letter-spacing:.2px;
+    padding:2px 4px;border-radius:6px;color:#0d1a2b;
+    background:linear-gradient(160deg,var(--gold-soft),var(--gold));
+    border:1.5px solid rgba(8,18,32,.75);box-shadow:0 2px 5px rgba(0,0,0,.5)}
+  .shead .plgw{margin-right:11px;vertical-align:-6px}
+  .chip .plgw{margin-right:7px;vertical-align:-4px}
 </style>
 </head>
 <body>
@@ -459,7 +469,13 @@ function copiarFalta(){
 function plgBadge(p,size){
   if(!p||!p.lgi) return '';
   const s=size||22, tt=`${p.lg||''}${p.tr!=null?' · '+p.tr+' troféus':''}`;
-  return `<img class="plg" src="${p.lgi}" width="${s}" height="${s}" alt="${esc(p.lg||'')}" title="${esc(tt)}" loading="lazy">`;
+  // Legend I/II/III (e Electro 31/32/33...) usam artes quase iguais no tamanho pequeno,
+  // então o nível vai carimbado no canto do badge.
+  const m=String(p.lg||'').match(/\s([IVX]+|\d{1,2})$/);
+  const nivel=m?m[1]:'';
+  return `<span class="plgw" style="--s:${s}px" title="${esc(tt)}">
+    <img class="plg" src="${p.lgi}" width="${s}" height="${s}" alt="${esc(p.lg||'')}" loading="lazy">
+    ${nivel?`<i class="plgn">${nivel}</i>`:''}</span>`;
 }
 
 /* ---------- ranking ---------- */
