@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-09T00:44:42.968853Z",
+  "atualizado": "2026-09-09T00:48:03.069370Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3275,7 +3275,9 @@
               "nome": "SR•Dos Ovos",
               "tag": "#LPCCGGGY9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -5025,7 +5027,9 @@
               "nome": "SR • Borges",
               "tag": "#YJPLJ8GP",
               "th": 13,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             }
           ]

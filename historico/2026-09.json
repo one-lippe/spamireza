@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-09T00:44:42.965286Z",
+  "atualizado": "2026-09-09T00:48:03.066854Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -964,7 +964,7 @@
           "sof": 2.4,
           "ndef": 5,
           "seg": 3,
-          "idx": 71.1,
+          "idx": 71.0,
           "idxb": 71.3,
           "amostra": 83,
           "mvp": 16,
@@ -983,7 +983,7 @@
           "sof": 2.6,
           "ndef": 5,
           "seg": 2,
-          "idx": 70.1,
+          "idx": 70.0,
           "idxb": 70.1,
           "amostra": 83,
           "mvp": 15,
@@ -1260,20 +1260,20 @@
           "n": "SR•Dos Ovos",
           "tag": "#LPCCGGGY9",
           "th": 18,
-          "atk": 2,
-          "est": 3,
-          "spa": 1.5,
-          "conf": 67,
+          "atk": 3,
+          "est": 5,
+          "spa": 1.67,
+          "conf": 100,
           "def": 0,
           "sof": 3.0,
           "ndef": 3,
           "seg": 0,
-          "idx": 41.1,
-          "idxb": 41.1,
-          "amostra": 33,
-          "mvp": 3,
+          "idx": 51.7,
+          "idxb": 51.7,
+          "amostra": 50,
+          "mvp": 5,
           "pos": 32,
-          "zona": "—"
+          "zona": "rebx"
         }
       ]
     },
@@ -1777,6 +1777,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • Borges",
+          "tag": "#YJPLJ8GP",
+          "th": 13,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 51.2,
+          "idxb": 51.2,
+          "amostra": 17,
+          "mvp": 2,
+          "pos": 27,
+          "zona": "—"
+        },
+        {
           "n": "SR • Chefex",
           "tag": "#G2QQ2998J",
           "th": 15,
@@ -1792,7 +1811,7 @@
           "idxb": 51.0,
           "amostra": 50,
           "mvp": 8,
-          "pos": 27,
+          "pos": 28,
           "zona": "—"
         },
         {
@@ -1811,7 +1830,7 @@
           "idxb": 49.6,
           "amostra": 100,
           "mvp": 12,
-          "pos": 28,
+          "pos": 29,
           "zona": "—"
         },
         {
@@ -1830,7 +1849,7 @@
           "idxb": 48.8,
           "amostra": 83,
           "mvp": 11,
-          "pos": 29,
+          "pos": 30,
           "zona": "—"
         },
         {
@@ -1849,8 +1868,8 @@
           "idxb": 40.5,
           "amostra": 67,
           "mvp": 7,
-          "pos": 30,
-          "zona": "—"
+          "pos": 31,
+          "zona": "rebx"
         },
         {
           "n": "POSEIDON",
@@ -1868,27 +1887,8 @@
           "idxb": 32.9,
           "amostra": 50,
           "mvp": 6,
-          "pos": 31,
-          "zona": "rebx"
-        },
-        {
-          "n": "SR • Borges",
-          "tag": "#YJPLJ8GP",
-          "th": 13,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
           "pos": 32,
-          "zona": "—"
+          "zona": "rebx"
         }
       ]
     },
