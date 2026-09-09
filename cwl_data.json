@@ -8288,9 +8288,9 @@
           "atk": 29
         },
         "eles": {
-          "est": 75,
-          "destr": 87.33333333333333,
-          "atk": 27
+          "est": 76,
+          "destr": 90.16666666666667,
+          "atk": 28
         },
         "membros": [
           {
@@ -8614,9 +8614,14 @@
             "th": 18,
             "pos": 19,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 85,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 85
+              }
+            ]
           },
           {
             "nome": "SR•Dos Ovos",
@@ -9211,9 +9216,9 @@
         "atk": 29
       },
       "eles": {
-        "est": 75,
-        "destr": 87.33333333333333,
-        "atk": 27
+        "est": 76,
+        "destr": 90.16666666666667,
+        "atk": 28
       },
       "membros": [
         {
@@ -9537,9 +9542,14 @@
           "th": 18,
           "pos": 19,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 85,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 85
+            }
+          ]
         },
         {
           "nome": "SR•Dos Ovos",
