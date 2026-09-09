@@ -536,10 +536,14 @@ function render(){
 }
 
 /* ---------- histórico entre temporadas ---------- */
-function historicoDe(tag,nome){
+function historicoDe(tag,nome,clan){
   const out=[];
   Object.keys(HIST||{}).sort().forEach(season=>{
-    const achou=(HIST[season]||[]).find(x=>x.k===tag) || (HIST[season]||[]).find(x=>x.n===nome);
+    const lista=HIST[season]||[];
+    // tag é a identidade real; sem tag (temporadas antigas) cai no nome, e havendo
+    // nick repetido em contas diferentes prefere o do mesmo clã.
+    const achou = lista.find(x=>x.k===tag)
+      || lista.filter(x=>x.n===nome).sort((a,b)=>(b.c===clan)-(a.c===clan)||(b.atk||0)-(a.atk||0))[0];
     if(achou) out.push(Object.assign({season},achou));
   });
   return out;
@@ -583,7 +587,7 @@ function openPlayer(tag){
       </div></div>`;
   }).join('');
 
-  const h=historicoDe(tag,p.n);
+  const h=historicoDe(tag,p.n,active);
   let temporadas='';
   if(h.length){
     temporadas='<div class="slabel">TEMPORADAS</div>'+h.map((s,i)=>{

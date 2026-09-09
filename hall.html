@@ -367,10 +367,32 @@ function render(){
   const maisAtk=[...todos].sort((a,b)=>b.atk-a.atk)[0];
   const perfeitos=todos.filter(x=>x.spa===3&&x.atk>=5).sort((a,b)=>b.atk-a.atk||b.idx-a.idx);
 
-  const conta={};
-  todos.forEach(x=>{const k=x.n;(conta[k]=conta[k]||{n:x.n,q:0,idx:0,mvp:0,atk:0});
-    conta[k].q++; conta[k].idx+=x.idx; conta[k].mvp+=x.mvp||0; conta[k].atk+=x.atk||0;});
-  const gente=Object.values(conta);
+  /* Identidade: tag quando existe (temporadas novas). Temporadas antigas só têm nome,
+     então o nome vira tag SE aquele nome apontar para uma única conta. Nick repetido em
+     duas contas (ex.: as duas 'MAJ0R FiV3') fica separado por nome — e, mesmo assim,
+     contamos TEMPORADAS DISTINTAS, nunca linhas, senão o mesmo mês conta duas vezes. */
+  const nomeTags={};
+  todos.forEach(x=>{ if(String(x.k||'').startsWith('#')){ (nomeTags[x.n]=nomeTags[x.n]||new Set()).add(x.k); } });
+  const idDe=x=>{
+    if(String(x.k||'').startsWith('#')) return x.k;
+    const s=nomeTags[x.n];
+    return (s&&s.size===1)?[...s][0]:('nome:'+x.n);
+  };
+  const porPessoa={};
+  todos.forEach(x=>{
+    const id=idDe(x);
+    const p=(porPessoa[id]=porPessoa[id]||{n:x.n,temporadas:{}});
+    p.n=x.n;
+    const ant=p.temporadas[x.season];
+    if(!ant||(x.atk||0)>(ant.atk||0)) p.temporadas[x.season]=x;   // 1 linha por temporada
+  });
+  const gente=Object.values(porPessoa).map(p=>{
+    const ls=Object.values(p.temporadas);
+    return {n:p.n, q:ls.length,
+            idx:ls.reduce((a,b)=>a+(b.idx||0),0),
+            mvp:ls.reduce((a,b)=>a+(b.mvp||0),0),
+            atk:ls.reduce((a,b)=>a+(b.atk||0),0)};
+  });
   const completos=gente.filter(x=>x.q===seasons.length).sort((a,b)=>b.idx/b.q-a.idx/a.q);
   const veteranos=[...gente].sort((a,b)=>b.q-a.q||b.idx/b.q-a.idx/a.q).slice(0,5);
   const mvpTotal=[...gente].sort((a,b)=>b.mvp-a.mvp)[0];
