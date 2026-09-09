@@ -236,6 +236,39 @@
     border:2px solid var(--line);border-radius:26px;background:rgba(5,15,29,.45)}
   .ligachip span{font-size:13px;font-weight:900;letter-spacing:1.2px;color:var(--gold-soft)}
   .meta .lgb{vertical-align:-5px;margin-right:3px}
+
+  /* ---------- textura das caixas ---------- */
+  :root{
+    --tex:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)' opacity='.5'/%3E%3C/svg%3E");
+  }
+  .hero,.p,.grow,.rec,.temp,.falta,.sheet,.tab,.mvp,.ligachip{position:relative}
+  .hero::after,.p::after,.grow::after,.rec::after,.temp::after,.falta::after,
+  .sheet::after,.tab::after,.mvp::after,.ligachip::after{
+    content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;
+    background-image:var(--tex);background-size:140px 140px;
+    opacity:.055;mix-blend-mode:overlay}
+  .tab.active::after{opacity:.09}
+
+  /* ---------- MVP com a borda pegando fogo ---------- */
+  .mvpwrap{position:relative;padding:3px;border-radius:21px;margin-bottom:18px;
+    background:linear-gradient(115deg,#ff4d17,#ffc247,#ff2f00,#ffdf8a,#ff7a12,#ff3d05);
+    background-size:320% 320%;animation:chama 5.5s ease-in-out infinite;
+    box-shadow:0 0 26px rgba(255,120,20,.28),0 12px 30px rgba(0,0,0,.4)}
+  .mvpwrap::before{content:"";position:absolute;inset:-6px;border-radius:26px;z-index:-1;
+    background:linear-gradient(115deg,rgba(255,90,20,.55),rgba(255,200,70,.35),rgba(255,60,0,.5));
+    filter:blur(13px);background-size:320% 320%;
+    animation:chama 5.5s ease-in-out infinite,brasa 2.6s ease-in-out infinite}
+  .mvpwrap .mvp{margin-bottom:0;border:0;border-radius:18px}
+  @keyframes chama{
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}}
+  @keyframes brasa{
+    0%,100%{opacity:.75}
+    45%{opacity:1}
+    70%{opacity:.6}}
+  @media(prefers-reduced-motion:reduce){
+    .mvpwrap,.mvpwrap::before{animation:none}}
 </style>
 </head>
 <body>
