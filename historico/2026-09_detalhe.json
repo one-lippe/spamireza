@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-10T04:14:46.519653Z",
+  "atualizado": "2026-09-10T09:00:46.051174Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -867,7 +867,7 @@
         {
           "g": 7,
           "vs": "Phönix",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {

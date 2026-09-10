@@ -2029,7 +2029,7 @@
       },
       {
         "warTag": "#8RC88C8UR",
-        "state": "inWar",
+        "state": "warEnded",
         "teamSize": 15,
         "adversario": "Phönix",
         "prep": "20260908T042633.000Z",
@@ -2351,7 +2351,7 @@
     ],
     "atual": {
       "warTag": "#8RC88C8UR",
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 15,
       "adversario": "Phönix",
       "prep": "20260908T042633.000Z",
