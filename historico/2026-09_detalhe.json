@@ -1,6 +1,6 @@
 {
   "season": "2026-09",
-  "atualizado": "2026-09-09T23:56:31.925982Z",
+  "atualizado": "2026-09-10T04:14:46.519653Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -874,7 +874,9 @@
               "nome": "marinaul war",
               "tag": "#8GGCQPYP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -908,7 +910,9 @@
               "nome": "Jan",
               "tag": "#2899CRJG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -933,28 +937,36 @@
               "nome": "SR • InTheDark☆",
               "tag": "#PQRRG2YCP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
               "nome": "Henrique Nerath",
               "tag": "#2U8P0YQ92",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
               "nome": "KingOfBilada™",
               "tag": "#92PQV82G0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
               "nome": "SR • C∆iç∆r∆",
               "tag": "#GL0PRCU9L",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
@@ -1860,7 +1872,7 @@
         {
           "g": 7,
           "vs": "sabby panda",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
@@ -3673,7 +3685,7 @@
         {
           "g": 7,
           "vs": "黑溜BLUE",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 30,
           "jogadores": [
             {
@@ -3689,7 +3701,9 @@
               "nome": "SR • THIAGO",
               "tag": "#89G0YGUJY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -3847,7 +3861,9 @@
               "nome": "·Holtser Ω",
               "tag": "#8GG88V2PU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 1
             },
             {
@@ -3899,7 +3915,9 @@
               "nome": "Darth Revan",
               "tag": "#8R280VRCQ",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3924,7 +3942,9 @@
               "nome": "JRx3",
               "tag": "#GJ9L0YPRU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -5587,7 +5607,7 @@
         {
           "g": 7,
           "vs": "Fireforce Burn2",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 30,
           "jogadores": [
             {
@@ -5811,14 +5831,18 @@
               "nome": "DARTH VADER",
               "tag": "#QJU9CUGP8",
               "th": 14,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
               "nome": "Tio Marginal",
               "tag": "#GUYRGQGYJ",
               "th": 14,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
