@@ -117,7 +117,7 @@ def coletar_cla(num, nome, tag):
     st, lg = get(f"/clans/{q}/currentwar/leaguegroup")
     if st != 200 or not isinstance(lg, dict):
         out["erro"] = f"leaguegroup status {st}"; return out
-    out["season"] = lg.get("season")
+    out["season"] = (lg.get("season") or "")[:7] or None   # API manda "2026-10-01"
     if out["season"] and out["season"] < season_atual():
         # a API ainda mostra a liga do mês passado (já encerrada): não é dado da liga nova
         out["erro"] = f"liga anterior ({out['season']}) ainda na API"; return out
