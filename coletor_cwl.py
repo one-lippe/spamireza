@@ -117,6 +117,10 @@ def coletar_cla(num, nome, tag):
     st, lg = get(f"/clans/{q}/currentwar/leaguegroup")
     if st != 200 or not isinstance(lg, dict):
         out["erro"] = f"leaguegroup status {st}"; return out
+    out["season"] = lg.get("season")
+    if out["season"] and out["season"] < season_atual():
+        # a API ainda mostra a liga do mês passado (já encerrada): não é dado da liga nova
+        out["erro"] = f"liga anterior ({out['season']}) ainda na API"; return out
     sc, ci = get(f"/clans/{q}")
     if isinstance(ci, dict):
         out["liga"] = (ci.get("warLeague") or {}).get("name")
@@ -414,6 +418,20 @@ def salvar_detalhe(dados):
         ensure_ascii=False, indent=2), encoding="utf-8")
     print("detalhe:", season, "salvo (guerra a guerra)")
 
+MESES = ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho",
+         "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"]
+
+
+def trocar_mes(html):
+    """Título, subtítulo e o fallback do render() trazem o mês da liga
+    ('Liga de Setembro/26'). Antes eram trocados à mão a cada liga; agora seguem a season."""
+    ano, mes = season_atual().split("-")
+    nome = MESES[int(mes) - 1]
+    html = re.sub(r"Liga de [^\s/<'\"]+/\d{2}", f"Liga de {nome}/{ano[2:]}", html)
+    html = re.sub(r"LIGA DE [^\s/<'\"]+/\d{2}", f"LIGA DE {nome.upper()}/{ano[2:]}", html)
+    return html
+
+
 def injetar_no_html(clans_js, hist_js=None, ligas_js=None):
     idx = ROOT / "index.html"
     html = idx.read_text(encoding="utf-8")
@@ -424,6 +442,7 @@ def injetar_no_html(clans_js, hist_js=None, ligas_js=None):
     if ligas_js:
         html = re.sub(r"const LIGAS=.*\n", ligas_js, html, count=1)
     html = html.replace("const locked=c===5;", "const locked=CLANS[c].vs===null;")
+    html = trocar_mes(html)
     idx.write_text(html, encoding="utf-8")
     (ROOT / "Dashboard_Spamireza.html").write_text(html, encoding="utf-8")
     # o Hall da Fama é página própria e só precisa do HIST
@@ -492,6 +511,11 @@ def main():
                   f"| {esc} esc + {res} res | {d['liga']} (x{d['mult']}) | modo={mode} | {at['state']}")
         else:
             print(f"  Clã {num} {nome:14} — sem guerra ativa  {d.get('erro','')}")
+    if not any(d.get("season") == season_atual() for d in dados):
+        # virou o mês mas a liga nova ainda não começou: não toca em nada, o site
+        # segue mostrando o resultado final da liga anterior até a nova aparecer
+        print("liga nova ainda não começou — aguardando (nada foi alterado)")
+        return
     (ROOT / "cwl_data.json").write_text(json.dumps(dados, ensure_ascii=False, indent=2), encoding="utf-8")
     salvar_historico(dados)
     salvar_detalhe(dados)

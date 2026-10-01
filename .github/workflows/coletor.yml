@@ -1,8 +1,8 @@
 name: Coletor CWL Spamireza
 
 on:
-  # ATIVO — nova liga (set/26) iniciada em 03/09/2026. Coleta a cada 10 min.
-  # Para pausar entre ligas: comente o bloco schedule abaixo.
+  # SEMPRE ATIVO. O coletor congela sozinho no fim da liga e, quando vira o mês,
+  # só volta a gravar quando a API mostra a liga do mês corrente (season).
   schedule:
     - cron: '*/10 * * * *'      # a cada 10 minutos
   workflow_dispatch:
