@@ -3,12 +3,440 @@
     "num": 1,
     "nome": "SpamiReza",
     "tag": "#2J90U9GYP",
-    "elenco": [],
-    "rodadas": [],
-    "atual": null,
+    "elenco": [
+      {
+        "nome": "Psico 2k25",
+        "tag": "#Q2UJJ89VG",
+        "th": 18
+      },
+      {
+        "nome": "tozim",
+        "tag": "#9G22U9U2Y",
+        "th": 18
+      },
+      {
+        "nome": "Neskau",
+        "tag": "#P8GLGPRP",
+        "th": 18
+      },
+      {
+        "nome": "Nesk",
+        "tag": "#99220V0Q8",
+        "th": 18
+      },
+      {
+        "nome": "SR • InTheDark☆",
+        "tag": "#PQRRG2YCP",
+        "th": 18
+      },
+      {
+        "nome": "Levi_Neiva",
+        "tag": "#C8R989YJ",
+        "th": 18
+      },
+      {
+        "nome": "SR • Giovanelli",
+        "tag": "#PJ0YJLGJ",
+        "th": 18
+      },
+      {
+        "nome": "Dog Apollo",
+        "tag": "#YJ9R2GPJG",
+        "th": 18
+      },
+      {
+        "nome": "Henrique Nerath",
+        "tag": "#2U8P0YQ92",
+        "th": 18
+      },
+      {
+        "nome": "LEANDRO",
+        "tag": "#QPCRCR8VY",
+        "th": 18
+      },
+      {
+        "nome": "matias?",
+        "tag": "#RCQQUGC9",
+        "th": 18
+      },
+      {
+        "nome": "SR • JON SNOW",
+        "tag": "#LYV2J2LU",
+        "th": 18
+      },
+      {
+        "nome": "MAJ0R FiV3",
+        "tag": "#LCR9YQGYY",
+        "th": 18
+      },
+      {
+        "nome": "marinaul war",
+        "tag": "#8GGCQPYP",
+        "th": 18
+      },
+      {
+        "nome": "☆VILA DO PX ツ",
+        "tag": "#8PUL8JPC",
+        "th": 18
+      },
+      {
+        "nome": "SR • C∆iç∆r∆",
+        "tag": "#GL0PRCU9L",
+        "th": 18
+      },
+      {
+        "nome": "Jan",
+        "tag": "#2899CRJG",
+        "th": 18
+      }
+    ],
+    "rodadas": [
+      {
+        "warTag": "#8J0GGRJUR",
+        "state": "preparation",
+        "teamSize": 15,
+        "adversario": "Just Savages",
+        "prep": "20261002T055040.000Z",
+        "inicio": "20261003T055037.000Z",
+        "fim": "20261004T055037.000Z",
+        "nos": {
+          "est": 0,
+          "destr": 0.0,
+          "atk": 0
+        },
+        "eles": {
+          "est": 0,
+          "destr": 0.0,
+          "atk": 0
+        },
+        "membros": [
+          {
+            "nome": "marinaul war",
+            "tag": "#8GGCQPYP",
+            "th": 18,
+            "pos": 1,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Levi_Neiva",
+            "tag": "#C8R989YJ",
+            "th": 18,
+            "pos": 2,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Jan",
+            "tag": "#2899CRJG",
+            "th": 18,
+            "pos": 3,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Dog Apollo",
+            "tag": "#YJ9R2GPJG",
+            "th": 18,
+            "pos": 4,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR • JON SNOW",
+            "tag": "#LYV2J2LU",
+            "th": 18,
+            "pos": 6,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR • InTheDark☆",
+            "tag": "#PQRRG2YCP",
+            "th": 18,
+            "pos": 7,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Henrique Nerath",
+            "tag": "#2U8P0YQ92",
+            "th": 18,
+            "pos": 8,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "tozim",
+            "tag": "#9G22U9U2Y",
+            "th": 18,
+            "pos": 9,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR • C∆iç∆r∆",
+            "tag": "#GL0PRCU9L",
+            "th": 18,
+            "pos": 10,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Nesk",
+            "tag": "#99220V0Q8",
+            "th": 18,
+            "pos": 11,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "LEANDRO",
+            "tag": "#QPCRCR8VY",
+            "th": 18,
+            "pos": 12,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "MAJ0R FiV3",
+            "tag": "#LCR9YQGYY",
+            "th": 18,
+            "pos": 14,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Neskau",
+            "tag": "#P8GLGPRP",
+            "th": 18,
+            "pos": 15,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Psico 2k25",
+            "tag": "#Q2UJJ89VG",
+            "th": 18,
+            "pos": 16,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "matias?",
+            "tag": "#RCQQUGC9",
+            "th": 18,
+            "pos": 17,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          }
+        ]
+      }
+    ],
+    "atual": {
+      "warTag": "#8J0GGRJUR",
+      "state": "preparation",
+      "teamSize": 15,
+      "adversario": "Just Savages",
+      "prep": "20261002T055040.000Z",
+      "inicio": "20261003T055037.000Z",
+      "fim": "20261004T055037.000Z",
+      "nos": {
+        "est": 0,
+        "destr": 0.0,
+        "atk": 0
+      },
+      "eles": {
+        "est": 0,
+        "destr": 0.0,
+        "atk": 0
+      },
+      "membros": [
+        {
+          "nome": "marinaul war",
+          "tag": "#8GGCQPYP",
+          "th": 18,
+          "pos": 1,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "Levi_Neiva",
+          "tag": "#C8R989YJ",
+          "th": 18,
+          "pos": 2,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "Jan",
+          "tag": "#2899CRJG",
+          "th": 18,
+          "pos": 3,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "Dog Apollo",
+          "tag": "#YJ9R2GPJG",
+          "th": 18,
+          "pos": 4,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "SR • JON SNOW",
+          "tag": "#LYV2J2LU",
+          "th": 18,
+          "pos": 6,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "SR • InTheDark☆",
+          "tag": "#PQRRG2YCP",
+          "th": 18,
+          "pos": 7,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "Henrique Nerath",
+          "tag": "#2U8P0YQ92",
+          "th": 18,
+          "pos": 8,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "tozim",
+          "tag": "#9G22U9U2Y",
+          "th": 18,
+          "pos": 9,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "SR • C∆iç∆r∆",
+          "tag": "#GL0PRCU9L",
+          "th": 18,
+          "pos": 10,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "Nesk",
+          "tag": "#99220V0Q8",
+          "th": 18,
+          "pos": 11,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "LEANDRO",
+          "tag": "#QPCRCR8VY",
+          "th": 18,
+          "pos": 12,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "MAJ0R FiV3",
+          "tag": "#LCR9YQGYY",
+          "th": 18,
+          "pos": 14,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "Neskau",
+          "tag": "#P8GLGPRP",
+          "th": 18,
+          "pos": 15,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "Psico 2k25",
+          "tag": "#Q2UJJ89VG",
+          "th": 18,
+          "pos": 16,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "matias?",
+          "tag": "#RCQQUGC9",
+          "th": 18,
+          "pos": 17,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        }
+      ]
+    },
     "liga": "Titan League III",
     "mult": 1.01,
-    "season": null
+    "season": "2026-10"
   },
   {
     "num": 2,
