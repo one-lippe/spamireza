@@ -151,6 +151,16 @@
             "defesas": []
           },
           {
+            "nome": "SR • Giovanelli",
+            "tag": "#PJ0YJLGJ",
+            "th": 18,
+            "pos": 5,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
             "nome": "SR • JON SNOW",
             "tag": "#LYV2J2LU",
             "th": 18,
@@ -185,16 +195,6 @@
             "tag": "#9G22U9U2Y",
             "th": 18,
             "pos": 9,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
-            "nome": "SR • C∆iç∆r∆",
-            "tag": "#GL0PRCU9L",
-            "th": 18,
-            "pos": 10,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -323,6 +323,16 @@
           "defesas": []
         },
         {
+          "nome": "SR • Giovanelli",
+          "tag": "#PJ0YJLGJ",
+          "th": 18,
+          "pos": 5,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
           "nome": "SR • JON SNOW",
           "tag": "#LYV2J2LU",
           "th": 18,
@@ -357,16 +367,6 @@
           "tag": "#9G22U9U2Y",
           "th": 18,
           "pos": 9,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
-        },
-        {
-          "nome": "SR • C∆iç∆r∆",
-          "tag": "#GL0PRCU9L",
-          "th": 18,
-          "pos": 10,
           "ataques": [],
           "def_estrelas": null,
           "def_destr": null,
@@ -1224,16 +1224,6 @@
             "defesas": []
           },
           {
-            "nome": "SR • The off",
-            "tag": "#YJ2JLPQGR",
-            "th": 18,
-            "pos": 17,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
             "nome": "SR•InTheDark II",
             "tag": "#Q9PL0CUU",
             "th": 18,
@@ -1348,6 +1338,16 @@
             "tag": "#Q2U92YRQ9",
             "th": 17,
             "pos": 29,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "LSWRTHN",
+            "tag": "#QJY8RRYR",
+            "th": 16,
+            "pos": 30,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -1546,16 +1546,6 @@
           "defesas": []
         },
         {
-          "nome": "SR • The off",
-          "tag": "#YJ2JLPQGR",
-          "th": 18,
-          "pos": 17,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
-        },
-        {
           "nome": "SR•InTheDark II",
           "tag": "#Q9PL0CUU",
           "th": 18,
@@ -1670,6 +1660,16 @@
           "tag": "#Q2U92YRQ9",
           "th": 17,
           "pos": 29,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "LSWRTHN",
+          "tag": "#QJY8RRYR",
+          "th": 16,
+          "pos": 30,
           "ataques": [],
           "def_estrelas": null,
           "def_destr": null,
