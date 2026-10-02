@@ -1,0 +1,36 @@
+{
+  "season": "2026-10",
+  "atualizado": "2026-10-02T01:36:02.376514Z",
+  "clas": {
+    "1": {
+      "nome": "SpamiReza",
+      "liga": "Titan League III",
+      "mode": "esc",
+      "rank": []
+    },
+    "2": {
+      "nome": "RezaSpamandu",
+      "liga": "Champion League III",
+      "mode": "esc",
+      "rank": []
+    },
+    "3": {
+      "nome": "ScamiReza",
+      "liga": "Master League I",
+      "mode": "esc",
+      "rank": []
+    },
+    "4": {
+      "nome": "RezaScamandu",
+      "liga": "Crystal League I",
+      "mode": "esc",
+      "rank": []
+    },
+    "5": {
+      "nome": "e-SpamiReza",
+      "liga": null,
+      "mode": "esc",
+      "rank": []
+    }
+  }
+}
