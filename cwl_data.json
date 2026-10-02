@@ -1870,7 +1870,7 @@
     "rodadas": [
       {
         "warTag": "#8RLCGPLV0",
-        "state": "preparation",
+        "state": "inWar",
         "teamSize": 30,
         "adversario": "Burnstein",
         "prep": "20261001T230340.000Z",
@@ -2192,7 +2192,7 @@
     ],
     "atual": {
       "warTag": "#8RLCGPLV0",
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 30,
       "adversario": "Burnstein",
       "prep": "20261001T230340.000Z",
