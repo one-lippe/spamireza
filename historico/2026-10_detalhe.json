@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-03T12:49:24.994030Z",
+  "atualizado": "2026-10-03T16:49:55.187629Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -50,7 +50,9 @@
               "nome": "SR • Giovanelli",
               "tag": "#PJ0YJLGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -60,13 +62,15 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • InTheDark☆",
               "tag": "#PQRRG2YCP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -76,7 +80,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "tozim",
@@ -124,13 +128,15 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "matias?",
               "tag": "#RCQQUGC9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             }
           ]
@@ -197,7 +203,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "ＬＵＭＩＮＯＵＳ",
@@ -296,7 +302,9 @@
               "nome": "Agnes",
               "tag": "#LLLU0VQCL",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -333,7 +341,9 @@
               "nome": "LSWRTH",
               "tag": "#YVU0L88P",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -352,7 +362,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "100%War_⚡Slash⚡",
@@ -365,8 +375,10 @@
               "nome": "Lider Andre",
               "tag": "#20UUPGPCV",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                2
+              ],
+              "def_est": 3
             },
             {
               "nome": "♣️Dorindo Sena♣",
@@ -418,8 +430,10 @@
               "nome": "SR•InTheDark II",
               "tag": "#Q9PL0CUU",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 1
             },
             {
               "nome": "ayumatsui",
@@ -459,7 +473,9 @@
               "nome": "Darth Revan",
               "tag": "#8R280VRCQ",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -514,7 +530,9 @@
               "nome": "LSWRTHN",
               "tag": "#QJY8RRYR",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -565,7 +583,9 @@
               "nome": "Lider André 2",
               "tag": "#L9GRLYGVQ",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
@@ -581,8 +601,10 @@
               "nome": "Líder André 3",
               "tag": "#GY0Q0VRL0",
               "th": 17,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                2
+              ],
+              "def_est": 3
             },
             {
               "nome": "qvnly",
@@ -645,7 +667,9 @@
               "nome": "psico raid 01",
               "tag": "#G8C9VLYVC",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -679,14 +703,18 @@
               "nome": "Trainer Ronald",
               "tag": "#29LG09JGY",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
               "nome": "SR•InTheDarkIII",
               "tag": "#LL8GP2CQP",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
