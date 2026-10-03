@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-03T16:49:55.186075Z",
+  "atualizado": "2026-10-03T19:35:33.903769Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -8,8 +8,8 @@
       "mode": "rank",
       "rank": [
         {
-          "n": "Jan",
-          "tag": "#2899CRJG",
+          "n": "tozim",
+          "tag": "#9G22U9U2Y",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -65,6 +65,25 @@
           "zona": "—"
         },
         {
+          "n": "Jan",
+          "tag": "#2899CRJG",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 80.8,
+          "idxb": 80.8,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
           "n": "Dog Apollo",
           "tag": "#YJ9R2GPJG",
           "th": 18,
@@ -80,7 +99,7 @@
           "idxb": 80.8,
           "amostra": 100,
           "mvp": 3,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -99,7 +118,7 @@
           "idxb": 80.8,
           "amostra": 100,
           "mvp": 3,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -118,7 +137,7 @@
           "idxb": 80.8,
           "amostra": 100,
           "mvp": 3,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -137,7 +156,7 @@
           "idxb": 80.8,
           "amostra": 100,
           "mvp": 3,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -156,7 +175,7 @@
           "idxb": 80.8,
           "amostra": 100,
           "mvp": 3,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -175,7 +194,7 @@
           "idxb": 80.8,
           "amostra": 100,
           "mvp": 3,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -194,7 +213,7 @@
           "idxb": 62.3,
           "amostra": 100,
           "mvp": 2,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -213,7 +232,7 @@
           "idxb": 62.3,
           "amostra": 100,
           "mvp": 2,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -232,7 +251,7 @@
           "idxb": 13.5,
           "amostra": 0,
           "mvp": 2,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -251,25 +270,6 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "tozim",
-          "tag": "#9G22U9U2Y",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
           "pos": 14,
           "zona": "—"
         },
@@ -281,9 +281,9 @@
           "est": 0,
           "spa": 0,
           "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
@@ -395,6 +395,25 @@
           "zona": "—"
         },
         {
+          "n": "TomorrowBr",
+          "tag": "#YPJLVPL9U",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 75.2,
+          "idxb": 75.2,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
           "n": "SR • Balestra",
           "tag": "#8UJY9C8RQ",
           "th": 18,
@@ -410,7 +429,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -429,7 +448,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -448,7 +467,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -467,7 +486,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -486,7 +505,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -505,7 +524,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -524,7 +543,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -543,7 +562,7 @@
           "idxb": 40.7,
           "amostra": 100,
           "mvp": 1,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -562,25 +581,6 @@
           "idxb": 6.3,
           "amostra": 0,
           "mvp": 1,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "TomorrowBr",
-          "tag": "#YPJLVPL9U",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
           "pos": 15,
           "zona": "—"
         }
@@ -611,44 +611,6 @@
           "zona": "—"
         },
         {
-          "n": "Darth Revan",
-          "tag": "#8R280VRCQ",
-          "th": 17,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 93.0,
-          "idxb": 93.0,
-          "amostra": 100,
-          "mvp": 3,
-          "pos": 2,
-          "zona": "—"
-        },
-        {
-          "n": "Jan™",
-          "tag": "#CJV9G22Q",
-          "th": 17,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 93.0,
-          "idxb": 93.0,
-          "amostra": 100,
-          "mvp": 3,
-          "pos": 3,
-          "zona": "—"
-        },
-        {
           "n": "SR • JotaErre",
           "tag": "#GRUG8UQGV",
           "th": 16,
@@ -664,7 +626,7 @@
           "idxb": 93.0,
           "amostra": 100,
           "mvp": 3,
-          "pos": 4,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -683,7 +645,7 @@
           "idxb": 86.8,
           "amostra": 100,
           "mvp": 5,
-          "pos": 5,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -702,6 +664,44 @@
           "idxb": 86.8,
           "amostra": 100,
           "mvp": 5,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
+          "n": "♣️Dorindo Sena♣",
+          "tag": "#8Y9V2QQ82",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "seg": 1,
+          "idx": 80.6,
+          "idxb": 80.6,
+          "amostra": 100,
+          "mvp": 4,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
+          "n": "Jan™",
+          "tag": "#CJV9G22Q",
+          "th": 17,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "seg": 1,
+          "idx": 80.6,
+          "idxb": 80.6,
+          "amostra": 100,
+          "mvp": 4,
           "pos": 6,
           "zona": "—"
         },
@@ -744,6 +744,44 @@
           "zona": "—"
         },
         {
+          "n": "Sene",
+          "tag": "#8JQJYQC",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 74.4,
+          "idxb": 74.4,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
+          "n": "100%War_⚡Slash⚡",
+          "tag": "#8PURGU2YG",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 74.4,
+          "idxb": 74.4,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
           "n": "F4KER",
           "tag": "#QQQ8VQPL0",
           "th": 18,
@@ -759,7 +797,26 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 9,
+          "pos": 11,
+          "zona": "—"
+        },
+        {
+          "n": "Darth Revan",
+          "tag": "#8R280VRCQ",
+          "th": 17,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 74.4,
+          "idxb": 74.4,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -778,7 +835,26 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 10,
+          "pos": 13,
+          "zona": "—"
+        },
+        {
+          "n": ";-;REI DELAS;-;",
+          "tag": "#Q2U92YRQ9",
+          "th": 17,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 74.4,
+          "idxb": 74.4,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -797,7 +873,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 11,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -816,7 +892,7 @@
           "idxb": 71.7,
           "amostra": 100,
           "mvp": 2,
-          "pos": 12,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -835,7 +911,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 13,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -854,7 +930,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 14,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -873,7 +949,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 15,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -892,7 +968,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 16,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -911,7 +987,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 17,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -930,7 +1006,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 18,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -949,26 +1025,7 @@
           "idxb": 12.4,
           "amostra": 0,
           "mvp": 2,
-          "pos": 19,
-          "zona": "—"
-        },
-        {
-          "n": "♣️Dorindo Sena♣",
-          "tag": "#8Y9V2QQ82",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "seg": 1,
-          "idx": 6.2,
-          "idxb": 6.2,
-          "amostra": 0,
-          "mvp": 1,
-          "pos": 20,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -987,12 +1044,12 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 21,
+          "pos": 24,
           "zona": "—"
         },
         {
-          "n": "Sene",
-          "tag": "#8JQJYQC",
+          "n": "Coyote 157 × 戦備",
+          "tag": "#G0GGQRP9V",
           "th": 18,
           "atk": 0,
           "est": 0,
@@ -1006,45 +1063,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 22,
-          "zona": "—"
-        },
-        {
-          "n": "Coyote 157 × 戦備",
-          "tag": "#G0GGQRP9V",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 23,
-          "zona": "—"
-        },
-        {
-          "n": "100%War_⚡Slash⚡",
-          "tag": "#8PURGU2YG",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 24,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -1063,7 +1082,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 25,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -1082,7 +1101,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 26,
+          "pos": 27,
           "zona": "—"
         },
         {
@@ -1101,7 +1120,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 27,
+          "pos": 28,
           "zona": "—"
         },
         {
@@ -1120,31 +1139,12 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 28,
+          "pos": 29,
           "zona": "—"
         },
         {
           "n": "bebun lendário",
           "tag": "#L90PCJGPC",
-          "th": 17,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 29,
-          "zona": "—"
-        },
-        {
-          "n": ";-;REI DELAS;-;",
-          "tag": "#Q2U92YRQ9",
           "th": 17,
           "atk": 0,
           "est": 0,
@@ -1207,9 +1207,9 @@
           "zona": "—"
         },
         {
-          "n": "psico raid 01",
-          "tag": "#G8C9VLYVC",
-          "th": 17,
+          "n": "Tio Marginal",
+          "tag": "#GUYRGQGYJ",
+          "th": 15,
           "atk": 1,
           "est": 3,
           "spa": 3.0,
@@ -1223,6 +1223,25 @@
           "amostra": 100,
           "mvp": 3,
           "pos": 3,
+          "zona": "—"
+        },
+        {
+          "n": "JRx3",
+          "tag": "#GJ9L0YPRU",
+          "th": 17,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "seg": 1,
+          "idx": 71.9,
+          "idxb": 71.9,
+          "amostra": 100,
+          "mvp": 4,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -1241,7 +1260,7 @@
           "idxb": 71.9,
           "amostra": 100,
           "mvp": 4,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -1260,7 +1279,26 @@
           "idxb": 71.9,
           "amostra": 100,
           "mvp": 4,
-          "pos": 5,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
+          "n": "psico raid 01",
+          "tag": "#G8C9VLYVC",
+          "th": 17,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 66.4,
+          "idxb": 66.4,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -1279,7 +1317,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 6,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -1298,7 +1336,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 7,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -1317,7 +1355,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 8,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -1336,7 +1374,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 9,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -1355,7 +1393,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 10,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -1374,7 +1412,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 11,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -1393,26 +1431,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "digon",
-          "tag": "#GRRYUUGJ2",
-          "th": 17,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 64.0,
-          "idxb": 64.0,
-          "amostra": 100,
-          "mvp": 2,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -1431,7 +1450,7 @@
           "idxb": 64.0,
           "amostra": 100,
           "mvp": 2,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -1450,7 +1469,26 @@
           "idxb": 56.7,
           "amostra": 100,
           "mvp": 3,
-          "pos": 15,
+          "pos": 16,
+          "zona": "—"
+        },
+        {
+          "n": "digon",
+          "tag": "#GRRYUUGJ2",
+          "th": 17,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 51.2,
+          "idxb": 51.2,
+          "amostra": 100,
+          "mvp": 2,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -1469,7 +1507,7 @@
           "idxb": 51.2,
           "amostra": 100,
           "mvp": 2,
-          "pos": 16,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1488,7 +1526,26 @@
           "idxb": 51.2,
           "amostra": 100,
           "mvp": 2,
-          "pos": 17,
+          "pos": 19,
+          "zona": "—"
+        },
+        {
+          "n": "bobzin 2k26",
+          "tag": "#G89GCYLGQ",
+          "th": 15,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 51.2,
+          "idxb": 51.2,
+          "amostra": 100,
+          "mvp": 2,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1507,7 +1564,7 @@
           "idxb": 51.2,
           "amostra": 100,
           "mvp": 2,
-          "pos": 18,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1526,7 +1583,7 @@
           "idxb": 41.5,
           "amostra": 100,
           "mvp": 2,
-          "pos": 19,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -1545,26 +1602,7 @@
           "idxb": 36.0,
           "amostra": 100,
           "mvp": 1,
-          "pos": 20,
-          "zona": "—"
-        },
-        {
-          "n": "JRx3",
-          "tag": "#GJ9L0YPRU",
-          "th": 17,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "seg": 1,
-          "idx": 5.5,
-          "idxb": 5.5,
-          "amostra": 0,
-          "mvp": 1,
-          "pos": 21,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -1583,7 +1621,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 22,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -1602,7 +1640,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 23,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -1621,7 +1659,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 24,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -1640,7 +1678,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 25,
+          "pos": 27,
           "zona": "—"
         },
         {
@@ -1659,7 +1697,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 26,
+          "pos": 28,
           "zona": "—"
         },
         {
@@ -1678,26 +1716,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 27,
-          "zona": "—"
-        },
-        {
-          "n": "bobzin 2k26",
-          "tag": "#G89GCYLGQ",
-          "th": 15,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 28,
+          "pos": 29,
           "zona": "—"
         },
         {
@@ -1708,28 +1727,9 @@
           "est": 0,
           "spa": 0,
           "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 29,
-          "zona": "—"
-        },
-        {
-          "n": "Tio Marginal",
-          "tag": "#GUYRGQGYJ",
-          "th": 15,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,

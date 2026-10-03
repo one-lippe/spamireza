@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-03T16:49:55.187629Z",
+  "atualizado": "2026-10-03T19:35:33.905582Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -35,7 +35,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Dog Apollo",
@@ -86,7 +86,9 @@
               "nome": "tozim",
               "tag": "#9G22U9U2Y",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -119,7 +121,7 @@
               "tag": "#P8GLGPRP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Psico 2k25",
@@ -175,7 +177,9 @@
               "nome": "TomorrowBr",
               "tag": "#YPJLVPL9U",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -327,7 +331,9 @@
               "nome": "Sene",
               "tag": "#8JQJYQC",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -335,7 +341,7 @@
               "tag": "#G0GGQRP9V",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "LSWRTH",
@@ -368,8 +374,10 @@
               "nome": "100%War_⚡Slash⚡",
               "tag": "#8PURGU2YG",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 3
             },
             {
               "nome": "Lider Andre",
@@ -384,7 +392,9 @@
               "nome": "♣️Dorindo Sena♣",
               "tag": "#8Y9V2QQ82",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -476,7 +486,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "abraão",
@@ -494,7 +504,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Nesk'",
@@ -523,7 +533,9 @@
               "nome": ";-;REI DELAS;-;",
               "tag": "#Q2U92YRQ9",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -595,7 +607,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Líder André 3",
@@ -653,7 +665,9 @@
               "nome": "JRx3",
               "tag": "#GJ9L0YPRU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -670,7 +684,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Eduhh",
@@ -746,7 +760,9 @@
               "nome": "bobzin 2k26",
               "tag": "#G89GCYLGQ",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -754,7 +770,7 @@
               "tag": "#GCLLVYPJ8",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "lipe",
@@ -787,7 +803,9 @@
               "nome": "Tio Marginal",
               "tag": "#GUYRGQGYJ",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
