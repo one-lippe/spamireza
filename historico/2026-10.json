@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-03T19:35:33.903769Z",
+  "atualizado": "2026-10-03T22:25:37.241176Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -338,6 +338,25 @@
           "zona": "—"
         },
         {
+          "n": "SR . Kcatoyo",
+          "tag": "#20GJVUJLU",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "seg": 1,
+          "idx": 81.5,
+          "idxb": 81.5,
+          "amostra": 100,
+          "mvp": 4,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
           "n": "Monesy",
           "tag": "#2YGJQG22G",
           "th": 18,
@@ -353,7 +372,7 @@
           "idxb": 81.5,
           "amostra": 100,
           "mvp": 4,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -372,7 +391,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -391,7 +410,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -410,7 +429,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -429,7 +448,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -448,7 +467,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -467,7 +486,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -486,7 +505,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -505,7 +524,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -524,7 +543,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -543,7 +562,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -562,25 +581,6 @@
           "idxb": 40.7,
           "amostra": 100,
           "mvp": 1,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "SR . Kcatoyo",
-          "tag": "#20GJVUJLU",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "seg": 1,
-          "idx": 6.3,
-          "idxb": 6.3,
-          "amostra": 0,
-          "mvp": 1,
           "pos": 15,
           "zona": "—"
         }
@@ -591,25 +591,6 @@
       "liga": "Master League I",
       "mode": "rank",
       "rank": [
-        {
-          "n": "LSWRTH",
-          "tag": "#YVU0L88P",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 93.0,
-          "idxb": 93.0,
-          "amostra": 100,
-          "mvp": 3,
-          "pos": 1,
-          "zona": "—"
-        },
         {
           "n": "SR • JotaErre",
           "tag": "#GRUG8UQGV",
@@ -626,7 +607,7 @@
           "idxb": 93.0,
           "amostra": 100,
           "mvp": 3,
-          "pos": 2,
+          "pos": 1,
           "zona": "—"
         },
         {
@@ -645,7 +626,7 @@
           "idxb": 86.8,
           "amostra": 100,
           "mvp": 5,
-          "pos": 3,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -664,7 +645,7 @@
           "idxb": 86.8,
           "amostra": 100,
           "mvp": 5,
-          "pos": 4,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -683,7 +664,7 @@
           "idxb": 80.6,
           "amostra": 100,
           "mvp": 4,
-          "pos": 5,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -702,7 +683,7 @@
           "idxb": 80.6,
           "amostra": 100,
           "mvp": 4,
-          "pos": 6,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -721,12 +702,31 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 7,
+          "pos": 6,
           "zona": "—"
         },
         {
           "n": "SrNunes",
           "tag": "#2LY8G8Y9",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 74.4,
+          "idxb": 74.4,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
+          "n": "Coyote 171 × 戦備",
+          "tag": "#Y08CR0PQU",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -763,6 +763,44 @@
           "zona": "—"
         },
         {
+          "n": "Coyote 157 × 戦備",
+          "tag": "#G0GGQRP9V",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 74.4,
+          "idxb": 74.4,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
+          "n": "LSWRTH",
+          "tag": "#YVU0L88P",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 74.4,
+          "idxb": 74.4,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 11,
+          "zona": "—"
+        },
+        {
           "n": "100%War_⚡Slash⚡",
           "tag": "#8PURGU2YG",
           "th": 18,
@@ -778,7 +816,26 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 10,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
+          "n": "BC NOELLE ✓",
+          "tag": "#LCJ8JG09V",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 74.4,
+          "idxb": 74.4,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -797,7 +854,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 11,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -816,7 +873,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 12,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -835,7 +892,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 13,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -854,7 +911,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 14,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -873,7 +930,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 15,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -884,15 +941,15 @@
           "est": 2,
           "spa": 2.0,
           "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 71.7,
-          "idxb": 71.7,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "seg": 1,
+          "idx": 63.5,
+          "idxb": 63.5,
           "amostra": 100,
-          "mvp": 2,
-          "pos": 16,
+          "mvp": 3,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -911,7 +968,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 17,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -930,7 +987,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 18,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -949,7 +1006,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 19,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -968,7 +1025,26 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 20,
+          "pos": 23,
+          "zona": "—"
+        },
+        {
+          "n": "rei do crime",
+          "tag": "#RP8VCCUV",
+          "th": 18,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 57.4,
+          "idxb": 57.4,
+          "amostra": 100,
+          "mvp": 2,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -987,7 +1063,26 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 21,
+          "pos": 25,
+          "zona": "—"
+        },
+        {
+          "n": "irmão do jorel",
+          "tag": "#P2JCQRPGJ",
+          "th": 18,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 57.4,
+          "idxb": 57.4,
+          "amostra": 100,
+          "mvp": 2,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -1006,7 +1101,45 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 22,
+          "pos": 27,
+          "zona": "—"
+        },
+        {
+          "n": "bebun lendário",
+          "tag": "#L90PCJGPC",
+          "th": 17,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 57.4,
+          "idxb": 57.4,
+          "amostra": 100,
+          "mvp": 2,
+          "pos": 28,
+          "zona": "—"
+        },
+        {
+          "n": "THE KING ⚡",
+          "tag": "#Y2CL88YQ9",
+          "th": 17,
+          "atk": 1,
+          "est": 1,
+          "spa": 1.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 40.3,
+          "idxb": 40.3,
+          "amostra": 100,
+          "mvp": 1,
+          "pos": 29,
           "zona": "—"
         },
         {
@@ -1025,139 +1158,6 @@
           "idxb": 12.4,
           "amostra": 0,
           "mvp": 2,
-          "pos": 23,
-          "zona": "—"
-        },
-        {
-          "n": "Coyote 171 × 戦備",
-          "tag": "#Y08CR0PQU",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 24,
-          "zona": "—"
-        },
-        {
-          "n": "Coyote 157 × 戦備",
-          "tag": "#G0GGQRP9V",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 25,
-          "zona": "—"
-        },
-        {
-          "n": "rei do crime",
-          "tag": "#RP8VCCUV",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 26,
-          "zona": "—"
-        },
-        {
-          "n": "BC NOELLE ✓",
-          "tag": "#LCJ8JG09V",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 27,
-          "zona": "—"
-        },
-        {
-          "n": "irmão do jorel",
-          "tag": "#P2JCQRPGJ",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 28,
-          "zona": "—"
-        },
-        {
-          "n": "THE KING ⚡",
-          "tag": "#Y2CL88YQ9",
-          "th": 17,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 29,
-          "zona": "—"
-        },
-        {
-          "n": "bebun lendário",
-          "tag": "#L90PCJGPC",
-          "th": 17,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
           "pos": 30,
           "zona": "—"
         }
@@ -1169,9 +1169,9 @@
       "mode": "rank",
       "rank": [
         {
-          "n": "qvnly",
-          "tag": "#GUCJQPVR9",
-          "th": 18,
+          "n": "Tio Marginal",
+          "tag": "#GUYRGQGYJ",
+          "th": 15,
           "atk": 1,
           "est": 3,
           "spa": 3.0,
@@ -1195,34 +1195,15 @@
           "est": 3,
           "spa": 3.0,
           "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 83.0,
-          "idxb": 83.0,
+          "def": 67,
+          "sof": 1.0,
+          "ndef": 1,
+          "seg": 1,
+          "idx": 77.5,
+          "idxb": 77.5,
           "amostra": 100,
-          "mvp": 3,
+          "mvp": 5,
           "pos": 2,
-          "zona": "—"
-        },
-        {
-          "n": "Tio Marginal",
-          "tag": "#GUYRGQGYJ",
-          "th": 15,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 83.0,
-          "idxb": 83.0,
-          "amostra": 100,
-          "mvp": 3,
-          "pos": 3,
           "zona": "—"
         },
         {
@@ -1241,7 +1222,7 @@
           "idxb": 71.9,
           "amostra": 100,
           "mvp": 4,
-          "pos": 4,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -1260,7 +1241,7 @@
           "idxb": 71.9,
           "amostra": 100,
           "mvp": 4,
-          "pos": 5,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -1279,7 +1260,64 @@
           "idxb": 71.9,
           "amostra": 100,
           "mvp": 4,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
+          "n": "100%War_Quiron",
+          "tag": "#QJRRJGQR",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 66.4,
+          "idxb": 66.4,
+          "amostra": 100,
+          "mvp": 3,
           "pos": 6,
+          "zona": "—"
+        },
+        {
+          "n": "BC YUNO♧",
+          "tag": "#LJLRGUULY",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 66.4,
+          "idxb": 66.4,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
+          "n": "qvnly",
+          "tag": "#GUCJQPVR9",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 66.4,
+          "idxb": 66.4,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -1298,7 +1336,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 7,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -1317,7 +1355,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 8,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -1336,7 +1374,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 9,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -1355,7 +1393,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 10,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -1374,7 +1412,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 11,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -1393,7 +1431,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 12,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -1412,7 +1450,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 13,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -1431,7 +1469,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 14,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -1450,7 +1488,7 @@
           "idxb": 64.0,
           "amostra": 100,
           "mvp": 2,
-          "pos": 15,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -1469,7 +1507,7 @@
           "idxb": 56.7,
           "amostra": 100,
           "mvp": 3,
-          "pos": 16,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1488,7 +1526,7 @@
           "idxb": 51.2,
           "amostra": 100,
           "mvp": 2,
-          "pos": 17,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1507,7 +1545,26 @@
           "idxb": 51.2,
           "amostra": 100,
           "mvp": 2,
-          "pos": 18,
+          "pos": 20,
+          "zona": "—"
+        },
+        {
+          "n": "PaulinhoPH",
+          "tag": "#GVLGQ098",
+          "th": 16,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 51.2,
+          "idxb": 51.2,
+          "amostra": 100,
+          "mvp": 2,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1526,7 +1583,26 @@
           "idxb": 51.2,
           "amostra": 100,
           "mvp": 2,
-          "pos": 19,
+          "pos": 22,
+          "zona": "—"
+        },
+        {
+          "n": "SR • Chefex",
+          "tag": "#G2QQ2998J",
+          "th": 15,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 51.2,
+          "idxb": 51.2,
+          "amostra": 100,
+          "mvp": 2,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -1545,7 +1621,7 @@
           "idxb": 51.2,
           "amostra": 100,
           "mvp": 2,
-          "pos": 20,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -1564,7 +1640,26 @@
           "idxb": 51.2,
           "amostra": 100,
           "mvp": 2,
-          "pos": 21,
+          "pos": 25,
+          "zona": "—"
+        },
+        {
+          "n": "@_Caibreck_",
+          "tag": "#2P8CU8QGR",
+          "th": 18,
+          "atk": 1,
+          "est": 1,
+          "spa": 1.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "seg": 0,
+          "idx": 45.0,
+          "idxb": 45.0,
+          "amostra": 100,
+          "mvp": 1,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -1583,7 +1678,7 @@
           "idxb": 41.5,
           "amostra": 100,
           "mvp": 2,
-          "pos": 22,
+          "pos": 27,
           "zona": "—"
         },
         {
@@ -1602,83 +1697,26 @@
           "idxb": 36.0,
           "amostra": 100,
           "mvp": 1,
-          "pos": 23,
+          "pos": 28,
           "zona": "—"
         },
         {
-          "n": "100%War_Quiron",
-          "tag": "#QJRRJGQR",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 24,
-          "zona": "—"
-        },
-        {
-          "n": "BC YUNO♧",
-          "tag": "#LJLRGUULY",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
+          "n": "RAGNAROK",
+          "tag": "#GCLLVYPJ8",
+          "th": 15,
+          "atk": 1,
+          "est": 1,
+          "spa": 1.0,
+          "conf": 100,
           "def": 0,
           "sof": 3.0,
           "ndef": 1,
           "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 25,
-          "zona": "—"
-        },
-        {
-          "n": "@_Caibreck_",
-          "tag": "#2P8CU8QGR",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 26,
-          "zona": "—"
-        },
-        {
-          "n": "PaulinhoPH",
-          "tag": "#GVLGQ098",
-          "th": 16,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 27,
+          "idx": 36.0,
+          "idxb": 36.0,
+          "amostra": 100,
+          "mvp": 1,
+          "pos": 29,
           "zona": "—"
         },
         {
@@ -1692,44 +1730,6 @@
           "def": null,
           "sof": null,
           "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 28,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Chefex",
-          "tag": "#G2QQ2998J",
-          "th": 15,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 29,
-          "zona": "—"
-        },
-        {
-          "n": "RAGNAROK",
-          "tag": "#GCLLVYPJ8",
-          "th": 15,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
