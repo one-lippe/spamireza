@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-04T18:08:55.529524Z",
+  "atualizado": "2026-10-04T21:24:59.869360Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -214,7 +214,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • C∆iç∆r∆",
@@ -232,7 +232,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "LEANDRO",
@@ -268,7 +268,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Psico 2k25",
@@ -277,7 +277,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "matias?",
@@ -519,7 +519,9 @@
               "nome": "SR . Kcatoyo",
               "tag": "#20GJVUJLU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -888,7 +890,9 @@
               "nome": "Coyote 171 × 戦備",
               "tag": "#Y08CR0PQU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 1
             },
             {
@@ -904,7 +908,9 @@
               "nome": "Coyote 157 × 戦備",
               "tag": "#G0GGQRP9V",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -932,13 +938,15 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Lider Andre",
               "tag": "#20UUPGPCV",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
@@ -993,7 +1001,9 @@
               "nome": "BC NOELLE ✓",
               "tag": "#LCJ8JG09V",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -1012,7 +1022,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "F4KER",
@@ -1025,7 +1035,9 @@
               "nome": "irmão do jorel",
               "tag": "#P2JCQRPGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1051,7 +1063,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Jan™",
@@ -1096,7 +1108,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "SR • JotaErre",
@@ -1413,7 +1425,7 @@
               "tag": "#QJRRJGQR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "BC YUNO♧",
@@ -1442,8 +1454,10 @@
               "nome": "digon",
               "tag": "#GRRYUUGJ2",
               "th": 17,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 3
             },
             {
               "nome": "Líder André 3",
@@ -1452,7 +1466,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "qvnly",
@@ -1501,7 +1515,9 @@
               "nome": "JRx3",
               "tag": "#GJ9L0YPRU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -1517,7 +1533,9 @@
               "nome": "psico raid 01",
               "tag": "#G8C9VLYVC",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1561,7 +1579,7 @@
               "atk": [
                 1
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30 #2",
@@ -1583,7 +1601,9 @@
               "nome": "bobzin 2k26",
               "tag": "#G89GCYLGQ",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -1608,7 +1628,9 @@
               "nome": "Tio Marginal",
               "tag": "#GUYRGQGYJ",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -1636,7 +1658,7 @@
               "atk": [
                 1
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "unshaken",
