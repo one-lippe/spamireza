@@ -1063,14 +1063,14 @@
         "inicio": "20261006T055056.000Z",
         "fim": "20261007T055056.000Z",
         "nos": {
-          "est": 26,
-          "destr": 59.4,
-          "atk": 9
+          "est": 35,
+          "destr": 79.4,
+          "atk": 12
         },
         "eles": {
-          "est": 19,
-          "destr": 43.2,
-          "atk": 7
+          "est": 31,
+          "destr": 69.86666666666666,
+          "atk": 11
         },
         "membros": [
           {
@@ -1113,7 +1113,12 @@
             "tag": "#2899CRJG",
             "th": 18,
             "pos": 3,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -1148,10 +1153,20 @@
             "tag": "#9G22U9U2Y",
             "th": 18,
             "pos": 6,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • JON SNOW",
@@ -1164,9 +1179,14 @@
                 "destr": 91
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Henrique Nerath",
@@ -1174,9 +1194,14 @@
             "th": 18,
             "pos": 8,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • InTheDark☆",
@@ -1184,9 +1209,14 @@
             "th": 18,
             "pos": 9,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Nesk",
@@ -1298,7 +1328,12 @@
             "tag": "#RCQQUGC9",
             "th": 18,
             "pos": 17,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1486,14 +1521,14 @@
       "inicio": "20261006T055056.000Z",
       "fim": "20261007T055056.000Z",
       "nos": {
-        "est": 26,
-        "destr": 59.4,
-        "atk": 9
+        "est": 35,
+        "destr": 79.4,
+        "atk": 12
       },
       "eles": {
-        "est": 19,
-        "destr": 43.2,
-        "atk": 7
+        "est": 31,
+        "destr": 69.86666666666666,
+        "atk": 11
       },
       "membros": [
         {
@@ -1536,7 +1571,12 @@
           "tag": "#2899CRJG",
           "th": 18,
           "pos": 3,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -1571,10 +1611,20 @@
           "tag": "#9G22U9U2Y",
           "th": 18,
           "pos": 6,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • JON SNOW",
@@ -1587,9 +1637,14 @@
               "destr": 91
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Henrique Nerath",
@@ -1597,9 +1652,14 @@
           "th": 18,
           "pos": 8,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • InTheDark☆",
@@ -1607,9 +1667,14 @@
           "th": 18,
           "pos": 9,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Nesk",
@@ -1721,7 +1786,12 @@
           "tag": "#RCQQUGC9",
           "th": 18,
           "pos": 17,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -2796,9 +2866,9 @@
           "atk": 13
         },
         "eles": {
-          "est": 36,
-          "destr": 85.33333333333333,
-          "atk": 13
+          "est": 42,
+          "destr": 98.66666666666667,
+          "atk": 15
         },
         "membros": [
           {
@@ -3027,9 +3097,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Ligeirinh0xD",
@@ -3077,9 +3152,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           }
         ]
       },
@@ -3269,9 +3349,9 @@
         "atk": 13
       },
       "eles": {
-        "est": 36,
-        "destr": 85.33333333333333,
-        "atk": 13
+        "est": 42,
+        "destr": 98.66666666666667,
+        "atk": 15
       },
       "membros": [
         {
@@ -3500,9 +3580,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Ligeirinh0xD",
@@ -3550,9 +3635,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         }
       ]
     },
@@ -5583,14 +5673,14 @@
         "inicio": "20261006T001652.000Z",
         "fim": "20261007T001652.000Z",
         "nos": {
-          "est": 43,
-          "destr": 49.06666666666667,
-          "atk": 15
+          "est": 73,
+          "destr": 82.4,
+          "atk": 25
         },
         "eles": {
-          "est": 53,
-          "destr": 59.733333333333334,
-          "atk": 18
+          "est": 87,
+          "destr": 98.96666666666667,
+          "atk": 30
         },
         "membros": [
           {
@@ -5598,7 +5688,12 @@
             "tag": "#LLLU0VQCL",
             "th": 18,
             "pos": 1,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -5653,7 +5748,12 @@
             "tag": "#8JQJYQC",
             "th": 18,
             "pos": 4,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -5668,7 +5768,12 @@
             "tag": "#YVU0L88P",
             "th": 18,
             "pos": 5,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -5703,7 +5808,12 @@
             "tag": "#89G0YGUJY",
             "th": 18,
             "pos": 7,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -5784,9 +5894,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "NoBlitzz",
@@ -5799,9 +5914,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Royther13",
@@ -5814,9 +5934,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "rei do crime",
@@ -5824,9 +5949,14 @@
             "th": 18,
             "pos": 15,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "BC NOELLE ✓",
@@ -5839,9 +5969,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•InTheDark II",
@@ -5864,19 +5999,34 @@
             "th": 18,
             "pos": 18,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "F4KER",
             "tag": "#QQQ8VQPL0",
             "th": 18,
             "pos": 20,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "irmão do jorel",
@@ -5884,16 +6034,26 @@
             "th": 18,
             "pos": 21,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "·Holtser Ω",
             "tag": "#8GG88V2PU",
             "th": 17,
             "pos": 22,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -5923,20 +6083,40 @@
             "tag": "#8R280VRCQ",
             "th": 17,
             "pos": 24,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Jan™",
             "tag": "#CJV9G22Q",
             "th": 17,
             "pos": 25,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 1,
+            "def_destr": 77,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 77
+              }
+            ]
           },
           {
             "nome": "Nesk'",
@@ -5949,9 +6129,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "THE KING ⚡",
@@ -5984,9 +6169,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": ";-;REI DELAS;-;",
@@ -6013,7 +6203,12 @@
             "tag": "#QJY8RRYR",
             "th": 16,
             "pos": 30,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -6028,7 +6223,12 @@
             "tag": "#GRUG8UQGV",
             "th": 16,
             "pos": 31,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -6391,14 +6591,14 @@
       "inicio": "20261006T001652.000Z",
       "fim": "20261007T001652.000Z",
       "nos": {
-        "est": 43,
-        "destr": 49.06666666666667,
-        "atk": 15
+        "est": 73,
+        "destr": 82.4,
+        "atk": 25
       },
       "eles": {
-        "est": 53,
-        "destr": 59.733333333333334,
-        "atk": 18
+        "est": 87,
+        "destr": 98.96666666666667,
+        "atk": 30
       },
       "membros": [
         {
@@ -6406,7 +6606,12 @@
           "tag": "#LLLU0VQCL",
           "th": 18,
           "pos": 1,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -6461,7 +6666,12 @@
           "tag": "#8JQJYQC",
           "th": 18,
           "pos": 4,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -6476,7 +6686,12 @@
           "tag": "#YVU0L88P",
           "th": 18,
           "pos": 5,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -6511,7 +6726,12 @@
           "tag": "#89G0YGUJY",
           "th": 18,
           "pos": 7,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -6592,9 +6812,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "NoBlitzz",
@@ -6607,9 +6832,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Royther13",
@@ -6622,9 +6852,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "rei do crime",
@@ -6632,9 +6867,14 @@
           "th": 18,
           "pos": 15,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "BC NOELLE ✓",
@@ -6647,9 +6887,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•InTheDark II",
@@ -6672,19 +6917,34 @@
           "th": 18,
           "pos": 18,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "F4KER",
           "tag": "#QQQ8VQPL0",
           "th": 18,
           "pos": 20,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "irmão do jorel",
@@ -6692,16 +6952,26 @@
           "th": 18,
           "pos": 21,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "·Holtser Ω",
           "tag": "#8GG88V2PU",
           "th": 17,
           "pos": 22,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -6731,20 +7001,40 @@
           "tag": "#8R280VRCQ",
           "th": 17,
           "pos": 24,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Jan™",
           "tag": "#CJV9G22Q",
           "th": 17,
           "pos": 25,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
+          "def_estrelas": 1,
+          "def_destr": 77,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 77
+            }
+          ]
         },
         {
           "nome": "Nesk'",
@@ -6757,9 +7047,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "THE KING ⚡",
@@ -6792,9 +7087,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": ";-;REI DELAS;-;",
@@ -6821,7 +7121,12 @@
           "tag": "#QJY8RRYR",
           "th": 16,
           "pos": 30,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -6836,7 +7141,12 @@
           "tag": "#GRUG8UQGV",
           "th": 16,
           "pos": 31,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -8860,14 +9170,14 @@
         "inicio": "20261005T232924.000Z",
         "fim": "20261006T232924.000Z",
         "nos": {
-          "est": 45,
-          "destr": 52.0,
-          "atk": 17
+          "est": 64,
+          "destr": 77.16666666666667,
+          "atk": 25
         },
         "eles": {
-          "est": 67,
-          "destr": 81.16666666666667,
-          "atk": 25
+          "est": 73,
+          "destr": 87.83333333333333,
+          "atk": 27
         },
         "membros": [
           {
@@ -8915,7 +9225,12 @@
             "tag": "#2P8CU8QGR",
             "th": 18,
             "pos": 3,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 99
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 91,
             "defesas": [
@@ -8930,7 +9245,12 @@
             "tag": "#GRRYUUGJ2",
             "th": 17,
             "pos": 5,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 75
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -8945,7 +9265,12 @@
             "tag": "#GY0Q0VRL0",
             "th": 17,
             "pos": 6,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 87
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -9015,7 +9340,12 @@
             "tag": "#YP9L000LG",
             "th": 16,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 94
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -9090,7 +9420,12 @@
             "tag": "#G8C9VLYVC",
             "th": 17,
             "pos": 14,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -9120,17 +9455,32 @@
             "tag": "#2RLG220GY",
             "th": 15,
             "pos": 16,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Trainer Ronald",
             "tag": "#29LG09JGY",
             "th": 16,
             "pos": 18,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -9271,9 +9621,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Tio Marginal",
@@ -9315,7 +9670,12 @@
             "tag": "#PR0R0VC9P",
             "th": 14,
             "pos": 30,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -9713,14 +10073,14 @@
       "inicio": "20261005T232924.000Z",
       "fim": "20261006T232924.000Z",
       "nos": {
-        "est": 45,
-        "destr": 52.0,
-        "atk": 17
+        "est": 64,
+        "destr": 77.16666666666667,
+        "atk": 25
       },
       "eles": {
-        "est": 67,
-        "destr": 81.16666666666667,
-        "atk": 25
+        "est": 73,
+        "destr": 87.83333333333333,
+        "atk": 27
       },
       "membros": [
         {
@@ -9768,7 +10128,12 @@
           "tag": "#2P8CU8QGR",
           "th": 18,
           "pos": 3,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 99
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 91,
           "defesas": [
@@ -9783,7 +10148,12 @@
           "tag": "#GRRYUUGJ2",
           "th": 17,
           "pos": 5,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 75
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -9798,7 +10168,12 @@
           "tag": "#GY0Q0VRL0",
           "th": 17,
           "pos": 6,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 87
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -9868,7 +10243,12 @@
           "tag": "#YP9L000LG",
           "th": 16,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 94
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -9943,7 +10323,12 @@
           "tag": "#G8C9VLYVC",
           "th": 17,
           "pos": 14,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -9973,17 +10358,32 @@
           "tag": "#2RLG220GY",
           "th": 15,
           "pos": 16,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Trainer Ronald",
           "tag": "#29LG09JGY",
           "th": 16,
           "pos": 18,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -10124,9 +10524,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Tio Marginal",
@@ -10168,7 +10573,12 @@
           "tag": "#PR0R0VC9P",
           "th": 14,
           "pos": 30,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
