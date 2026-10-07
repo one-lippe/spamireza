@@ -3538,9 +3538,9 @@
           "atk": 14
         },
         "eles": {
-          "est": 24,
-          "destr": 57.53333333333333,
-          "atk": 9
+          "est": 27,
+          "destr": 64.2,
+          "atk": 10
         },
         "membros": [
           {
@@ -3764,9 +3764,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "⭐️Dog Apollo⭐️",
@@ -3996,9 +4001,9 @@
         "atk": 14
       },
       "eles": {
-        "est": 24,
-        "destr": 57.53333333333333,
-        "atk": 9
+        "est": 27,
+        "destr": 64.2,
+        "atk": 10
       },
       "membros": [
         {
@@ -4222,9 +4227,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "⭐️Dog Apollo⭐️",
@@ -10974,14 +10984,14 @@
         "inicio": "20261006T233105.000Z",
         "fim": "20261007T233105.000Z",
         "nos": {
-          "est": 57,
-          "destr": 67.5,
-          "atk": 22
+          "est": 60,
+          "destr": 70.83333333333333,
+          "atk": 23
         },
         "eles": {
-          "est": 57,
-          "destr": 70.5,
-          "atk": 23
+          "est": 60,
+          "destr": 73.83333333333333,
+          "atk": 24
         },
         "membros": [
           {
@@ -11210,9 +11220,14 @@
             "th": 18,
             "pos": 13,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "psico raid 01",
@@ -11459,7 +11474,12 @@
             "tag": "#PR0R0VC9P",
             "th": 14,
             "pos": 30,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -11842,14 +11862,14 @@
       "inicio": "20261006T233105.000Z",
       "fim": "20261007T233105.000Z",
       "nos": {
-        "est": 57,
-        "destr": 67.5,
-        "atk": 22
+        "est": 60,
+        "destr": 70.83333333333333,
+        "atk": 23
       },
       "eles": {
-        "est": 57,
-        "destr": 70.5,
-        "atk": 23
+        "est": 60,
+        "destr": 73.83333333333333,
+        "atk": 24
       },
       "membros": [
         {
@@ -12078,9 +12098,14 @@
           "th": 18,
           "pos": 13,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "psico raid 01",
@@ -12327,7 +12352,12 @@
           "tag": "#PR0R0VC9P",
           "th": 14,
           "pos": 30,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
