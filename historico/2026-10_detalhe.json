@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T21:50:56.497429Z",
+  "atualizado": "2026-10-07T22:00:38.315100Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1396,7 +1396,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • DuM∆R",
@@ -2673,7 +2673,9 @@
               "nome": "rei do crime",
               "tag": "#RP8VCCUV",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2696,7 +2698,9 @@
               "nome": "SR • The off",
               "tag": "#YJ2JLPQGR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
