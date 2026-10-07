@@ -3533,9 +3533,9 @@
         "inicio": "20261006T232107.000Z",
         "fim": "20261007T232107.000Z",
         "nos": {
-          "est": 34,
-          "destr": 82.46666666666667,
-          "atk": 13
+          "est": 37,
+          "destr": 89.13333333333334,
+          "atk": 14
         },
         "eles": {
           "est": 24,
@@ -3738,7 +3738,12 @@
             "tag": "#YQRJL098P",
             "th": 18,
             "pos": 12,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -3986,9 +3991,9 @@
       "inicio": "20261006T232107.000Z",
       "fim": "20261007T232107.000Z",
       "nos": {
-        "est": 34,
-        "destr": 82.46666666666667,
-        "atk": 13
+        "est": 37,
+        "destr": 89.13333333333334,
+        "atk": 14
       },
       "eles": {
         "est": 24,
@@ -4191,7 +4196,12 @@
           "tag": "#YQRJL098P",
           "th": 18,
           "pos": 12,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -6901,9 +6911,9 @@
           "atk": 25
         },
         "eles": {
-          "est": 70,
-          "destr": 81.3,
-          "atk": 25
+          "est": 73,
+          "destr": 84.63333333333334,
+          "atk": 26
         },
         "membros": [
           {
@@ -7047,9 +7057,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "100%War_⚡Slash⚡",
@@ -7794,9 +7809,9 @@
         "atk": 25
       },
       "eles": {
-        "est": 70,
-        "destr": 81.3,
-        "atk": 25
+        "est": 73,
+        "destr": 84.63333333333334,
+        "atk": 26
       },
       "membros": [
         {
@@ -7940,9 +7955,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "100%War_⚡Slash⚡",
