@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T12:20:41.901942Z",
+  "atualizado": "2026-10-07T12:30:47.969934Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2765,7 +2765,9 @@
               "nome": "bebo lendário",
               "tag": "#2QLGCJRJR",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             }
           ]
