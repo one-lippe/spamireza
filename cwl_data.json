@@ -1384,9 +1384,9 @@
         "inicio": "20261007T055154.000Z",
         "fim": "20261008T055154.000Z",
         "nos": {
-          "est": 11,
-          "destr": 26.133333333333333,
-          "atk": 4
+          "est": 19,
+          "destr": 45.53333333333333,
+          "atk": 7
         },
         "eles": {
           "est": 18,
@@ -1459,7 +1459,12 @@
             "tag": "#PJ0YJLGJ",
             "th": 18,
             "pos": 5,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 91
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1469,7 +1474,12 @@
             "tag": "#9G22U9U2Y",
             "th": 18,
             "pos": 6,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1514,7 +1524,12 @@
             "tag": "#QPCRCR8VY",
             "th": 18,
             "pos": 12,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1777,9 +1792,9 @@
       "inicio": "20261007T055154.000Z",
       "fim": "20261008T055154.000Z",
       "nos": {
-        "est": 11,
-        "destr": 26.133333333333333,
-        "atk": 4
+        "est": 19,
+        "destr": 45.53333333333333,
+        "atk": 7
       },
       "eles": {
         "est": 18,
@@ -1852,7 +1867,12 @@
           "tag": "#PJ0YJLGJ",
           "th": 18,
           "pos": 5,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 91
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -1862,7 +1882,12 @@
           "tag": "#9G22U9U2Y",
           "th": 18,
           "pos": 6,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -1907,7 +1932,12 @@
           "tag": "#QPCRCR8VY",
           "th": 18,
           "pos": 12,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -6671,9 +6701,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 40,
-          "destr": 47.96666666666667,
-          "atk": 15
+          "est": 43,
+          "destr": 51.3,
+          "atk": 16
         },
         "membros": [
           {
@@ -6907,9 +6937,14 @@
             "th": 18,
             "pos": 20,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "irmão do jorel",
@@ -7419,9 +7454,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 40,
-        "destr": 47.96666666666667,
-        "atk": 15
+        "est": 43,
+        "destr": 51.3,
+        "atk": 16
       },
       "membros": [
         {
@@ -7655,9 +7690,14 @@
           "th": 18,
           "pos": 20,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "irmão do jorel",

@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T11:31:12.352664Z",
+  "atualizado": "2026-10-07T11:40:30.129658Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -618,14 +618,18 @@
               "nome": "SR • Giovanelli",
               "tag": "#PJ0YJLGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
               "nome": "tozim",
               "tag": "#9G22U9U2Y",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -653,7 +657,9 @@
               "nome": "LEANDRO",
               "tag": "#QPCRCR8VY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2656,7 +2662,7 @@
               "tag": "#QQQ8VQPL0",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "irmão do jorel",
