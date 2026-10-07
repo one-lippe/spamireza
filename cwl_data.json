@@ -1415,6 +1415,16 @@
             "defesas": []
           },
           {
+            "nome": "Dog Apollo",
+            "tag": "#YJ9R2GPJG",
+            "th": 18,
+            "pos": 4,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
             "nome": "SR • Giovanelli",
             "tag": "#PJ0YJLGJ",
             "th": 18,
@@ -1435,30 +1445,20 @@
             "defesas": []
           },
           {
-            "nome": "SR • JON SNOW",
-            "tag": "#LYV2J2LU",
-            "th": 18,
-            "pos": 7,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
-            "nome": "SR • InTheDark☆",
-            "tag": "#PQRRG2YCP",
-            "th": 18,
-            "pos": 8,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
             "nome": "Henrique Nerath",
             "tag": "#2U8P0YQ92",
             "th": 18,
             "pos": 9,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR • C∆iç∆r∆",
+            "tag": "#GL0PRCU9L",
+            "th": 18,
+            "pos": 10,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
