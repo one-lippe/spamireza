@@ -9993,14 +9993,14 @@
         "inicio": "20261006T233105.000Z",
         "fim": "20261007T233105.000Z",
         "nos": {
-          "est": 7,
-          "destr": 9.633333333333333,
-          "atk": 3
+          "est": 10,
+          "destr": 12.966666666666667,
+          "atk": 4
         },
         "eles": {
-          "est": 3,
-          "destr": 5.766666666666667,
-          "atk": 2
+          "est": 6,
+          "destr": 10.6,
+          "atk": 4
         },
         "membros": [
           {
@@ -10009,9 +10009,14 @@
             "th": 18,
             "pos": 1,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 91,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 91
+              }
+            ]
           },
           {
             "nome": "BC YUNO♧",
@@ -10059,9 +10064,14 @@
             "th": 17,
             "pos": 6,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 54,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 54
+              }
+            ]
           },
           {
             "nome": "qvnly",
@@ -10183,7 +10193,12 @@
             "tag": "#29LG09JGY",
             "th": 16,
             "pos": 18,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -10661,14 +10676,14 @@
       "inicio": "20261006T233105.000Z",
       "fim": "20261007T233105.000Z",
       "nos": {
-        "est": 7,
-        "destr": 9.633333333333333,
-        "atk": 3
+        "est": 10,
+        "destr": 12.966666666666667,
+        "atk": 4
       },
       "eles": {
-        "est": 3,
-        "destr": 5.766666666666667,
-        "atk": 2
+        "est": 6,
+        "destr": 10.6,
+        "atk": 4
       },
       "membros": [
         {
@@ -10677,9 +10692,14 @@
           "th": 18,
           "pos": 1,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 91,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 91
+            }
+          ]
         },
         {
           "nome": "BC YUNO♧",
@@ -10727,9 +10747,14 @@
           "th": 17,
           "pos": 6,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 54,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 54
+            }
+          ]
         },
         {
           "nome": "qvnly",
@@ -10851,7 +10876,12 @@
           "tag": "#29LG09JGY",
           "th": 16,
           "pos": 18,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []

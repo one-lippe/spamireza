@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T01:40:34.411063Z",
+  "atualizado": "2026-10-07T01:51:36.176199Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3716,7 +3716,7 @@
               "tag": "#QJRRJGQR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "BC YUNO♧",
@@ -3751,7 +3751,7 @@
               "tag": "#GY0Q0VRL0",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "qvnly",
@@ -3831,7 +3831,9 @@
               "nome": "Trainer Ronald",
               "tag": "#29LG09JGY",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
