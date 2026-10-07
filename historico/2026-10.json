@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T06:10:34.333536Z",
+  "atualizado": "2026-10-07T06:22:09.084426Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -19,11 +19,30 @@
           "sof": 2.0,
           "ndef": 4,
           "seg": 3,
-          "idx": 80.7,
+          "idx": 80.8,
           "idxb": 82.5,
           "amostra": 80,
           "mvp": 16,
           "pos": 1,
+          "zona": "—"
+        },
+        {
+          "n": "☆VILA DO PX ツ",
+          "tag": "#8PUL8JPC",
+          "th": 18,
+          "atk": 4,
+          "est": 11,
+          "spa": 2.75,
+          "conf": 100,
+          "def": 8,
+          "sof": 2.8,
+          "ndef": 4,
+          "seg": 1,
+          "idx": 77.1,
+          "idxb": 77.9,
+          "amostra": 80,
+          "mvp": 12,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -38,11 +57,11 @@
           "sof": 2.8,
           "ndef": 4,
           "seg": 1,
-          "idx": 76.6,
+          "idx": 76.7,
           "idxb": 77.4,
           "amostra": 80,
           "mvp": 13,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -57,11 +76,11 @@
           "sof": 2.8,
           "ndef": 4,
           "seg": 1,
-          "idx": 76.6,
+          "idx": 76.7,
           "idxb": 77.4,
           "amostra": 80,
           "mvp": 13,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -76,11 +95,11 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 75.4,
+          "idx": 75.6,
           "idxb": 76.7,
           "amostra": 60,
           "mvp": 10,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -95,11 +114,11 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 75.3,
+          "idx": 75.4,
           "idxb": 75.8,
           "amostra": 80,
           "mvp": 12,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -114,11 +133,11 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 75.3,
+          "idx": 75.4,
           "idxb": 75.8,
           "amostra": 80,
           "mvp": 12,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -133,11 +152,11 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 75.3,
+          "idx": 75.4,
           "idxb": 75.8,
           "amostra": 80,
           "mvp": 12,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -152,11 +171,11 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 75.3,
+          "idx": 75.4,
           "idxb": 75.8,
           "amostra": 80,
           "mvp": 12,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -171,11 +190,11 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 75.3,
+          "idx": 75.4,
           "idxb": 75.8,
           "amostra": 80,
           "mvp": 12,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -194,7 +213,7 @@
           "idxb": 71.1,
           "amostra": 80,
           "mvp": 11,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -213,7 +232,7 @@
           "idxb": 70.7,
           "amostra": 60,
           "mvp": 8,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -230,25 +249,6 @@
           "seg": 1,
           "idx": 70.6,
           "idxb": 70.6,
-          "amostra": 60,
-          "mvp": 9,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "☆VILA DO PX ツ",
-          "tag": "#8PUL8JPC",
-          "th": 18,
-          "atk": 3,
-          "est": 8,
-          "spa": 2.67,
-          "conf": 75,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "seg": 1,
-          "idx": 70.0,
-          "idxb": 70.0,
           "amostra": 60,
           "mvp": 9,
           "pos": 13,
@@ -321,7 +321,7 @@
           "conf": 67,
           "def": 0,
           "sof": 3.0,
-          "ndef": 2,
+          "ndef": 3,
           "seg": 0,
           "idx": 63.1,
           "idxb": 63.1,
