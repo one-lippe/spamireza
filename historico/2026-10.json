@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T14:10:54.031642Z",
+  "atualizado": "2026-10-07T14:21:17.070615Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1359,6 +1359,25 @@
           "zona": "—"
         },
         {
+          "n": "psico raid 01",
+          "tag": "#G8C9VLYVC",
+          "th": 17,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 4,
+          "seg": 0,
+          "idx": 66.4,
+          "idxb": 66.4,
+          "amostra": 100,
+          "mvp": 15,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
           "n": "unshaken",
           "tag": "#QL89UQ0Q9",
           "th": 14,
@@ -1374,7 +1393,7 @@
           "idxb": 65.6,
           "amostra": 100,
           "mvp": 16,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -1393,7 +1412,7 @@
           "idxb": 64.7,
           "amostra": 100,
           "mvp": 17,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -1412,7 +1431,7 @@
           "idxb": 65.6,
           "amostra": 80,
           "mvp": 15,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -1431,7 +1450,7 @@
           "idxb": 64.1,
           "amostra": 80,
           "mvp": 13,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -1450,25 +1469,6 @@
           "idxb": 63.6,
           "amostra": 80,
           "mvp": 13,
-          "pos": 9,
-          "zona": "—"
-        },
-        {
-          "n": "psico raid 01",
-          "tag": "#G8C9VLYVC",
-          "th": 17,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
-          "seg": 0,
-          "idx": 61.1,
-          "idxb": 62.2,
-          "amostra": 80,
-          "mvp": 12,
           "pos": 10,
           "zona": "—"
         },

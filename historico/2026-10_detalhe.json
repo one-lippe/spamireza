@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T14:10:54.034806Z",
+  "atualizado": "2026-10-07T14:21:17.073743Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3995,7 +3995,9 @@
               "nome": "psico raid 01",
               "tag": "#G8C9VLYVC",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
