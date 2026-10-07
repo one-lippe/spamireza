@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T18:21:15.803352Z",
+  "atualizado": "2026-10-07T18:31:32.678189Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -38,7 +38,7 @@
           "sof": 2.0,
           "ndef": 4,
           "seg": 3,
-          "idx": 81.2,
+          "idx": 81.3,
           "idxb": 82.5,
           "amostra": 80,
           "mvp": 16,
@@ -65,6 +65,25 @@
           "zona": "—"
         },
         {
+          "n": "matias?",
+          "tag": "#RCQQUGC9",
+          "th": 18,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 5,
+          "seg": 0,
+          "idx": 80.8,
+          "idxb": 80.8,
+          "amostra": 100,
+          "mvp": 15,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
           "n": "SR • Giovanelli",
           "tag": "#PJ0YJLGJ",
           "th": 18,
@@ -76,11 +95,11 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 77.9,
+          "idx": 78.0,
           "idxb": 78.4,
           "amostra": 80,
           "mvp": 12,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -95,11 +114,11 @@
           "sof": 2.8,
           "ndef": 4,
           "seg": 1,
-          "idx": 77.5,
+          "idx": 77.6,
           "idxb": 77.9,
           "amostra": 80,
           "mvp": 12,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -114,11 +133,11 @@
           "sof": 2.8,
           "ndef": 4,
           "seg": 1,
-          "idx": 77.5,
+          "idx": 77.6,
           "idxb": 77.9,
           "amostra": 80,
           "mvp": 12,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -137,7 +156,7 @@
           "idxb": 77.1,
           "amostra": 100,
           "mvp": 14,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -152,11 +171,11 @@
           "sof": 2.8,
           "ndef": 5,
           "seg": 1,
-          "idx": 76.9,
+          "idx": 77.0,
           "idxb": 77.1,
           "amostra": 80,
           "mvp": 13,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -175,7 +194,7 @@
           "idxb": 76.2,
           "amostra": 80,
           "mvp": 11,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -194,7 +213,7 @@
           "idxb": 75.8,
           "amostra": 80,
           "mvp": 12,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -208,25 +227,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 4,
-          "seg": 0,
-          "idx": 75.8,
-          "idxb": 75.8,
-          "amostra": 80,
-          "mvp": 12,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "matias?",
-          "tag": "#RCQQUGC9",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 5,
           "seg": 0,
           "idx": 75.8,
           "idxb": 75.8,
@@ -490,6 +490,25 @@
           "zona": "—"
         },
         {
+          "n": "SR•GOD kratos",
+          "tag": "#LUJ9CRJQG",
+          "th": 18,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 100,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "seg": 2,
+          "idx": 74.3,
+          "idxb": 74.3,
+          "amostra": 100,
+          "mvp": 16,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "SR . Kcatoyo",
           "tag": "#20GJVUJLU",
           "th": 18,
@@ -505,7 +524,7 @@
           "idxb": 74.3,
           "amostra": 80,
           "mvp": 15,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -524,7 +543,7 @@
           "idxb": 73.5,
           "amostra": 60,
           "mvp": 11,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -543,25 +562,6 @@
           "idxb": 73.3,
           "amostra": 100,
           "mvp": 15,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "SR•GOD kratos",
-          "tag": "#LUJ9CRJQG",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "seg": 2,
-          "idx": 73.0,
-          "idxb": 73.0,
-          "amostra": 80,
-          "mvp": 14,
           "pos": 12,
           "zona": "—"
         },
