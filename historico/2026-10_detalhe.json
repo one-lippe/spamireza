@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T19:00:39.604126Z",
+  "atualizado": "2026-10-07T19:10:36.654190Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -656,7 +656,9 @@
               "nome": "Nesk",
               "tag": "#99220V0Q8",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -699,7 +701,9 @@
               "nome": "Neskau",
               "tag": "#P8GLGPRP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2589,7 +2593,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Coyote 157 × 戦備",
@@ -2798,7 +2802,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
@@ -3996,7 +4000,9 @@
               "nome": "MonesyㅤNTJ",
               "tag": "#PRY0G98PG",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
