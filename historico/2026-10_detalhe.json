@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T06:22:09.087632Z",
+  "atualizado": "2026-10-07T06:31:47.435817Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -589,7 +589,7 @@
               "tag": "#8GGCQPYP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Levi_Neiva",
@@ -610,7 +610,7 @@
               "tag": "#YJ9R2GPJG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Giovanelli",
@@ -3978,7 +3978,7 @@
               "tag": "#LL8GP2CQP",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Ligeirinh2xD",
