@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T09:20:55.196911Z",
+  "atualizado": "2026-10-07T09:30:37.729623Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3856,7 +3856,7 @@
               "tag": "#LJLRGUULY",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "@_Caibreck_",

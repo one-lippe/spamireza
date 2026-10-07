@@ -10319,9 +10319,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 35,
-          "destr": 45.3,
-          "atk": 15
+          "est": 37,
+          "destr": 47.86666666666667,
+          "atk": 16
         },
         "membros": [
           {
@@ -10345,9 +10345,14 @@
             "th": 18,
             "pos": 2,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 77,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 77
+              }
+            ]
           },
           {
             "nome": "@_Caibreck_",
@@ -11087,9 +11092,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 35,
-        "destr": 45.3,
-        "atk": 15
+        "est": 37,
+        "destr": 47.86666666666667,
+        "atk": 16
       },
       "membros": [
         {
@@ -11113,9 +11118,14 @@
           "th": 18,
           "pos": 2,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 77,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 77
+            }
+          ]
         },
         {
           "nome": "@_Caibreck_",
