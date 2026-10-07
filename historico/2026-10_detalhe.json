@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T17:30:39.937986Z",
+  "atualizado": "2026-10-07T17:40:31.192422Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -639,7 +639,7 @@
               "tag": "#LYV2J2LU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "SR • C∆iç∆r∆",
