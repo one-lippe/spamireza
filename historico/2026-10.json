@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T02:30:34.006863Z",
+  "atualizado": "2026-10-07T02:40:37.792250Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -76,7 +76,7 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 81.9,
+          "idx": 81.8,
           "idxb": 83.0,
           "amostra": 75,
           "mvp": 10,
@@ -293,6 +293,25 @@
           "zona": "—"
         },
         {
+          "n": "Henrique Nerath",
+          "tag": "#2U8P0YQ92",
+          "th": 18,
+          "atk": 3,
+          "est": 7,
+          "spa": 2.33,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "seg": 1,
+          "idx": 70.7,
+          "idxb": 70.7,
+          "amostra": 75,
+          "mvp": 8,
+          "pos": 16,
+          "zona": "rebx"
+        },
+        {
           "n": "SR • InTheDark☆",
           "tag": "#PQRRG2YCP",
           "th": 18,
@@ -308,27 +327,8 @@
           "idxb": 66.9,
           "amostra": 100,
           "mvp": 9,
-          "pos": 16,
-          "zona": "rebx"
-        },
-        {
-          "n": "Henrique Nerath",
-          "tag": "#2U8P0YQ92",
-          "th": 18,
-          "atk": 2,
-          "est": 5,
-          "spa": 2.5,
-          "conf": 67,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 3,
-          "seg": 1,
-          "idx": 65.4,
-          "idxb": 65.4,
-          "amostra": 50,
-          "mvp": 6,
           "pos": 17,
-          "zona": "—"
+          "zona": "rebx"
         }
       ]
     },
