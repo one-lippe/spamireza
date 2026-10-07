@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T03:00:44.435169Z",
+  "atualizado": "2026-10-07T03:11:06.450284Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1236,7 +1236,7 @@
               "tag": "#20GJVUJLU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Monesy",
@@ -3753,7 +3753,9 @@
               "nome": "digon",
               "tag": "#GRRYUUGJ2",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3897,7 +3899,7 @@
               "tag": "#Q289QJUJC",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "scamador'd'calv",

@@ -1450,10 +1450,10 @@
             "defesas": []
           },
           {
-            "nome": "Henrique Nerath",
-            "tag": "#2U8P0YQ92",
+            "nome": "SR • JON SNOW",
+            "tag": "#LYV2J2LU",
             "th": 18,
-            "pos": 9,
+            "pos": 7,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -3247,9 +3247,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 9,
-          "destr": 20.0,
-          "atk": 3
+          "est": 11,
+          "destr": 24.666666666666668,
+          "atk": 4
         },
         "membros": [
           {
@@ -3378,9 +3378,14 @@
             "th": 18,
             "pos": 10,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 70,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 70
+              }
+            ]
           },
           {
             "nome": "Monesy",
@@ -3635,9 +3640,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 9,
-        "destr": 20.0,
-        "atk": 3
+        "est": 11,
+        "destr": 24.666666666666668,
+        "atk": 4
       },
       "membros": [
         {
@@ -3766,9 +3771,14 @@
           "th": 18,
           "pos": 10,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 70,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 70
+            }
+          ]
         },
         {
           "nome": "Monesy",
@@ -10053,14 +10063,14 @@
         "inicio": "20261006T233105.000Z",
         "fim": "20261007T233105.000Z",
         "nos": {
-          "est": 13,
-          "destr": 16.3,
-          "atk": 5
+          "est": 16,
+          "destr": 19.633333333333333,
+          "atk": 6
         },
         "eles": {
-          "est": 9,
-          "destr": 13.933333333333334,
-          "atk": 5
+          "est": 12,
+          "destr": 17.266666666666666,
+          "atk": 6
         },
         "membros": [
           {
@@ -10113,7 +10123,12 @@
             "tag": "#GRRYUUGJ2",
             "th": 17,
             "pos": 5,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -10349,9 +10364,14 @@
             "th": 15,
             "pos": 25,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "scamador'd'calv",
@@ -10746,14 +10766,14 @@
       "inicio": "20261006T233105.000Z",
       "fim": "20261007T233105.000Z",
       "nos": {
-        "est": 13,
-        "destr": 16.3,
-        "atk": 5
+        "est": 16,
+        "destr": 19.633333333333333,
+        "atk": 6
       },
       "eles": {
-        "est": 9,
-        "destr": 13.933333333333334,
-        "atk": 5
+        "est": 12,
+        "destr": 17.266666666666666,
+        "atk": 6
       },
       "membros": [
         {
@@ -10806,7 +10826,12 @@
           "tag": "#GRRYUUGJ2",
           "th": 17,
           "pos": 5,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -11042,9 +11067,14 @@
           "th": 15,
           "pos": 25,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "scamador'd'calv",
