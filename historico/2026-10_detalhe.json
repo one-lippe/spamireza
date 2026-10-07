@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T22:40:35.674305Z",
+  "atualizado": "2026-10-07T22:50:42.507021Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1328,7 +1328,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•GOD kratos",
@@ -2695,7 +2695,9 @@
               "nome": "SR•InTheDark II",
               "tag": "#Q9PL0CUU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {

@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T22:40:35.672438Z",
+  "atualizado": "2026-10-07T22:50:42.503976Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -554,12 +554,12 @@
           "est": 14,
           "spa": 2.8,
           "conf": 100,
-          "def": 8,
+          "def": 7,
           "sof": 2.8,
-          "ndef": 4,
+          "ndef": 5,
           "seg": 1,
-          "idx": 73.3,
-          "idxb": 73.3,
+          "idx": 73.0,
+          "idxb": 73.0,
           "amostra": 100,
           "mvp": 15,
           "pos": 12,
@@ -706,6 +706,25 @@
           "zona": "promo"
         },
         {
+          "n": "SR•InTheDark II",
+          "tag": "#Q9PL0CUU",
+          "th": 18,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 27,
+          "sof": 2.2,
+          "ndef": 5,
+          "seg": 3,
+          "idx": 79.4,
+          "idxb": 79.4,
+          "amostra": 100,
+          "mvp": 19,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
           "n": "SR • JotaErre",
           "tag": "#GRUG8UQGV",
           "th": 16,
@@ -721,7 +740,7 @@
           "idxb": 79.0,
           "amostra": 100,
           "mvp": 18,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -740,7 +759,7 @@
           "idxb": 76.0,
           "amostra": 100,
           "mvp": 18,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -759,7 +778,7 @@
           "idxb": 75.6,
           "amostra": 100,
           "mvp": 16,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -778,7 +797,7 @@
           "idxb": 75.6,
           "amostra": 100,
           "mvp": 16,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -797,7 +816,7 @@
           "idxb": 74.7,
           "amostra": 100,
           "mvp": 17,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -816,7 +835,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 15,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -835,7 +854,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 15,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -854,25 +873,6 @@
           "idxb": 75.1,
           "amostra": 80,
           "mvp": 15,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "SR•InTheDark II",
-          "tag": "#Q9PL0CUU",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 27,
-          "sof": 2.2,
-          "ndef": 5,
-          "seg": 3,
-          "idx": 73.8,
-          "idxb": 74.7,
-          "amostra": 80,
-          "mvp": 16,
           "pos": 11,
           "zona": "—"
         },

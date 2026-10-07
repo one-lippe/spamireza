@@ -3548,9 +3548,9 @@
           "atk": 15
         },
         "eles": {
-          "est": 39,
-          "destr": 90.86666666666666,
-          "atk": 14
+          "est": 42,
+          "destr": 97.53333333333333,
+          "atk": 15
         },
         "membros": [
           {
@@ -3604,9 +3604,14 @@
                 "destr": 76
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•GOD kratos",
@@ -4036,9 +4041,9 @@
         "atk": 15
       },
       "eles": {
-        "est": 39,
-        "destr": 90.86666666666666,
-        "atk": 14
+        "est": 42,
+        "destr": 97.53333333333333,
+        "atk": 15
       },
       "membros": [
         {
@@ -4092,9 +4097,14 @@
               "destr": 76
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•GOD kratos",
@@ -6976,9 +6986,9 @@
         "inicio": "20261007T001754.000Z",
         "fim": "20261008T001754.000Z",
         "nos": {
-          "est": 73,
-          "destr": 87.66666666666667,
-          "atk": 28
+          "est": 76,
+          "destr": 91.0,
+          "atk": 29
         },
         "eles": {
           "est": 80,
@@ -7286,7 +7296,12 @@
             "tag": "#Q9PL0CUU",
             "th": 18,
             "pos": 17,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 54,
             "defesas": [
@@ -7904,9 +7919,9 @@
       "inicio": "20261007T001754.000Z",
       "fim": "20261008T001754.000Z",
       "nos": {
-        "est": 73,
-        "destr": 87.66666666666667,
-        "atk": 28
+        "est": 76,
+        "destr": 91.0,
+        "atk": 29
       },
       "eles": {
         "est": 80,
@@ -8214,7 +8229,12 @@
           "tag": "#Q9PL0CUU",
           "th": 18,
           "pos": 17,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 54,
           "defesas": [
