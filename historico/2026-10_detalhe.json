@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T11:40:30.129658Z",
+  "atualizado": "2026-10-07T11:50:29.923891Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2723,14 +2723,18 @@
               "nome": "bebun lendário",
               "tag": "#L90PCJGPC",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
               "nome": ";-;REI DELAS;-;",
               "tag": "#Q2U92YRQ9",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {

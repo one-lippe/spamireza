@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T11:40:30.126555Z",
+  "atualizado": "2026-10-07T11:50:29.920927Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -687,6 +687,25 @@
           "zona": "promo"
         },
         {
+          "n": ";-;REI DELAS;-;",
+          "tag": "#Q2U92YRQ9",
+          "th": 17,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 5,
+          "seg": 0,
+          "idx": 74.4,
+          "idxb": 74.4,
+          "amostra": 100,
+          "mvp": 15,
+          "pos": 2,
+          "zona": "promo"
+        },
+        {
           "n": "SR•InTheDark II",
           "tag": "#Q9PL0CUU",
           "th": 18,
@@ -702,8 +721,8 @@
           "idxb": 74.7,
           "amostra": 80,
           "mvp": 16,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "Coyote 171 × 戦備",
@@ -717,11 +736,11 @@
           "sof": 2.2,
           "ndef": 4,
           "seg": 2,
-          "idx": 72.9,
+          "idx": 73.0,
           "idxb": 74.4,
           "amostra": 80,
           "mvp": 15,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -736,11 +755,30 @@
           "sof": 1.8,
           "ndef": 4,
           "seg": 3,
-          "idx": 72.6,
+          "idx": 72.7,
           "idxb": 76.3,
           "amostra": 60,
           "mvp": 14,
-          "pos": 4,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
+          "n": "SR • JotaErre",
+          "tag": "#GRUG8UQGV",
+          "th": 16,
+          "atk": 4,
+          "est": 12,
+          "spa": 3.0,
+          "conf": 80,
+          "def": 22,
+          "sof": 2.3,
+          "ndef": 3,
+          "seg": 2,
+          "idx": 72.6,
+          "idxb": 73.9,
+          "amostra": 80,
+          "mvp": 14,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -759,26 +797,26 @@
           "idxb": 72.5,
           "amostra": 100,
           "mvp": 15,
-          "pos": 5,
+          "pos": 7,
           "zona": "—"
         },
         {
-          "n": "SR • JotaErre",
-          "tag": "#GRUG8UQGV",
-          "th": 16,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 22,
-          "sof": 2.3,
-          "ndef": 3,
-          "seg": 2,
+          "n": "bebun lendário",
+          "tag": "#L90PCJGPC",
+          "th": 17,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 100,
+          "def": 8,
+          "sof": 2.8,
+          "ndef": 4,
+          "seg": 1,
           "idx": 72.5,
-          "idxb": 73.9,
-          "amostra": 80,
-          "mvp": 14,
-          "pos": 6,
+          "idxb": 72.5,
+          "amostra": 100,
+          "mvp": 15,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -793,11 +831,11 @@
           "sof": 2.5,
           "ndef": 4,
           "seg": 2,
-          "idx": 71.6,
+          "idx": 71.7,
           "idxb": 72.8,
           "amostra": 80,
           "mvp": 14,
-          "pos": 7,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -816,7 +854,7 @@
           "idxb": 72.2,
           "amostra": 80,
           "mvp": 14,
-          "pos": 8,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -835,7 +873,7 @@
           "idxb": 71.0,
           "amostra": 100,
           "mvp": 14,
-          "pos": 9,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -854,7 +892,7 @@
           "idxb": 71.7,
           "amostra": 80,
           "mvp": 15,
-          "pos": 10,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -869,11 +907,11 @@
           "sof": 2.8,
           "ndef": 5,
           "seg": 1,
-          "idx": 70.2,
+          "idx": 70.3,
           "idxb": 71.0,
           "amostra": 80,
           "mvp": 13,
-          "pos": 11,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -888,11 +926,11 @@
           "sof": 2.8,
           "ndef": 5,
           "seg": 1,
-          "idx": 70.2,
+          "idx": 70.3,
           "idxb": 71.0,
           "amostra": 80,
           "mvp": 13,
-          "pos": 12,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -907,30 +945,11 @@
           "sof": 3.0,
           "ndef": 5,
           "seg": 0,
-          "idx": 69.2,
+          "idx": 69.3,
           "idxb": 69.8,
           "amostra": 80,
           "mvp": 12,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": ";-;REI DELAS;-;",
-          "tag": "#Q2U92YRQ9",
-          "th": 17,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 5,
-          "seg": 0,
-          "idx": 69.2,
-          "idxb": 69.8,
-          "amostra": 80,
-          "mvp": 12,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -945,11 +964,11 @@
           "sof": 2.0,
           "ndef": 4,
           "seg": 2,
-          "idx": 68.3,
+          "idx": 68.4,
           "idxb": 69.1,
           "amostra": 60,
           "mvp": 12,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -964,11 +983,11 @@
           "sof": 2.6,
           "ndef": 5,
           "seg": 2,
-          "idx": 67.8,
+          "idx": 67.9,
           "idxb": 68.0,
           "amostra": 80,
           "mvp": 13,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -987,7 +1006,7 @@
           "idxb": 67.6,
           "amostra": 100,
           "mvp": 13,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1002,36 +1021,17 @@
           "sof": 2.6,
           "ndef": 5,
           "seg": 1,
-          "idx": 67.4,
+          "idx": 67.5,
           "idxb": 67.6,
           "amostra": 60,
           "mvp": 11,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
           "n": "PaiDeFamilia",
           "tag": "#2GCJ8QC92",
           "th": 18,
-          "atk": 4,
-          "est": 11,
-          "spa": 2.75,
-          "conf": 80,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "seg": 1,
-          "idx": 67.0,
-          "idxb": 67.0,
-          "amostra": 80,
-          "mvp": 12,
-          "pos": 19,
-          "zona": "—"
-        },
-        {
-          "n": "bebun lendário",
-          "tag": "#L90PCJGPC",
-          "th": 17,
           "atk": 4,
           "est": 11,
           "spa": 2.75,
