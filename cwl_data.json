@@ -6926,14 +6926,14 @@
         "inicio": "20261007T001754.000Z",
         "fim": "20261008T001754.000Z",
         "nos": {
-          "est": 70,
-          "destr": 84.33333333333333,
-          "atk": 27
+          "est": 73,
+          "destr": 87.66666666666667,
+          "atk": 28
         },
         "eles": {
-          "est": 75,
-          "destr": 87.86666666666666,
-          "atk": 27
+          "est": 77,
+          "destr": 90.16666666666667,
+          "atk": 28
         },
         "membros": [
           {
@@ -7481,10 +7481,20 @@
             "tag": "#GRUG8UQGV",
             "th": 16,
             "pos": 31,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 2,
+            "def_destr": 69,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 69
+              }
+            ]
           },
           {
             "nome": "bebo lendário",
@@ -7839,14 +7849,14 @@
       "inicio": "20261007T001754.000Z",
       "fim": "20261008T001754.000Z",
       "nos": {
-        "est": 70,
-        "destr": 84.33333333333333,
-        "atk": 27
+        "est": 73,
+        "destr": 87.66666666666667,
+        "atk": 28
       },
       "eles": {
-        "est": 75,
-        "destr": 87.86666666666666,
-        "atk": 27
+        "est": 77,
+        "destr": 90.16666666666667,
+        "atk": 28
       },
       "membros": [
         {
@@ -8394,10 +8404,20 @@
           "tag": "#GRUG8UQGV",
           "th": 16,
           "pos": 31,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
+          "def_estrelas": 2,
+          "def_destr": 69,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 69
+            }
+          ]
         },
         {
           "nome": "bebo lendário",
@@ -11014,9 +11034,9 @@
         "inicio": "20261006T233105.000Z",
         "fim": "20261007T233105.000Z",
         "nos": {
-          "est": 60,
-          "destr": 70.83333333333333,
-          "atk": 23
+          "est": 62,
+          "destr": 73.3,
+          "atk": 24
         },
         "eles": {
           "est": 60,
@@ -11069,7 +11089,12 @@
             "tag": "#2P8CU8QGR",
             "th": 18,
             "pos": 3,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 74
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 87,
             "defesas": [
@@ -11892,9 +11917,9 @@
       "inicio": "20261006T233105.000Z",
       "fim": "20261007T233105.000Z",
       "nos": {
-        "est": 60,
-        "destr": 70.83333333333333,
-        "atk": 23
+        "est": 62,
+        "destr": 73.3,
+        "atk": 24
       },
       "eles": {
         "est": 60,
@@ -11947,7 +11972,12 @@
           "tag": "#2P8CU8QGR",
           "th": 18,
           "pos": 3,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 74
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 87,
           "defesas": [

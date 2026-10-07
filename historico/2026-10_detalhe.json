@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T22:00:38.315100Z",
+  "atualizado": "2026-10-07T22:10:35.317925Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2804,8 +2804,10 @@
               "nome": "SR • JotaErre",
               "tag": "#GRUG8UQGV",
               "th": 16,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 2
             },
             {
               "nome": "bebo lendário",
@@ -3948,7 +3950,9 @@
               "nome": "@_Caibreck_",
               "tag": "#2P8CU8QGR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
