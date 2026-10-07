@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T14:21:17.070615Z",
+  "atualizado": "2026-10-07T14:32:17.022757Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -357,8 +357,8 @@
           "zona": "promo"
         },
         {
-          "n": "Levi_Neiva 2",
-          "tag": "#90GRYGJVP",
+          "n": "dvnly",
+          "tag": "#QR2JLQ2RR",
           "th": 18,
           "atk": 5,
           "est": 15,
@@ -376,19 +376,19 @@
           "zona": "promo"
         },
         {
-          "n": "dvnly",
-          "tag": "#QR2JLQ2RR",
+          "n": "Levi_Neiva 2",
+          "tag": "#90GRYGJVP",
           "th": 18,
           "atk": 5,
           "est": 15,
           "spa": 3.0,
           "conf": 100,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 4,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
           "seg": 2,
-          "idx": 78.3,
-          "idxb": 78.3,
+          "idx": 77.7,
+          "idxb": 77.7,
           "amostra": 100,
           "mvp": 17,
           "pos": 3,

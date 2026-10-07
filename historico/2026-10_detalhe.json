@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T14:21:17.073743Z",
+  "atualizado": "2026-10-07T14:32:17.024529Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1368,7 +1368,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR . Kcatoyo",
