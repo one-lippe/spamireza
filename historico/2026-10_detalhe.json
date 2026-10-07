@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T12:30:47.969934Z",
+  "atualizado": "2026-10-07T12:40:37.345550Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2751,7 +2751,9 @@
               "nome": "LSWRTHN",
               "tag": "#QJY8RRYR",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
