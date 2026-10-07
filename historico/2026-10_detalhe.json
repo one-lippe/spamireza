@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T20:00:49.343360Z",
+  "atualizado": "2026-10-07T20:11:54.713284Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -4093,7 +4093,9 @@
               "nome": "bobzin 2k26",
               "tag": "#G89GCYLGQ",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
