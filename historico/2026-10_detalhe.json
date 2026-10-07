@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T16:50:40.347939Z",
+  "atualizado": "2026-10-07T17:11:01.999727Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2732,7 +2732,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "THE KING ⚡",

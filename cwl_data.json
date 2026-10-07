@@ -6761,9 +6761,9 @@
           "atk": 20
         },
         "eles": {
-          "est": 55,
-          "destr": 64.63333333333334,
-          "atk": 20
+          "est": 58,
+          "destr": 67.96666666666667,
+          "atk": 21
         },
         "membros": [
           {
@@ -7157,9 +7157,14 @@
                 "destr": 92
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "THE KING ⚡",
@@ -7604,9 +7609,9 @@
         "atk": 20
       },
       "eles": {
-        "est": 55,
-        "destr": 64.63333333333334,
-        "atk": 20
+        "est": 58,
+        "destr": 67.96666666666667,
+        "atk": 21
       },
       "membros": [
         {
@@ -8000,9 +8005,14 @@
               "destr": 92
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "THE KING ⚡",
