@@ -6510,9 +6510,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 3,
-          "destr": 3.3333333333333335,
-          "atk": 1
+          "est": 4,
+          "destr": 6.3,
+          "atk": 2
         },
         "membros": [
           {
@@ -6761,9 +6761,14 @@
             "th": 17,
             "pos": 25,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 89,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 89
+              }
+            ]
           },
           {
             "nome": "Nesk'",
@@ -7178,9 +7183,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 3,
-        "destr": 3.3333333333333335,
-        "atk": 1
+        "est": 4,
+        "destr": 6.3,
+        "atk": 2
       },
       "membros": [
         {
@@ -7429,9 +7434,14 @@
           "th": 17,
           "pos": 25,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 89,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 89
+            }
+          ]
         },
         {
           "nome": "Nesk'",

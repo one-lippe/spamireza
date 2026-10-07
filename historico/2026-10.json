@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T04:20:33.383260Z",
+  "atualizado": "2026-10-07T04:31:22.440397Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -744,6 +744,25 @@
           "zona": "—"
         },
         {
+          "n": "Jan™",
+          "tag": "#CJV9G22Q",
+          "th": 17,
+          "atk": 3,
+          "est": 9,
+          "spa": 3.0,
+          "conf": 75,
+          "def": 42,
+          "sof": 1.8,
+          "ndef": 4,
+          "seg": 3,
+          "idx": 72.5,
+          "idxb": 76.3,
+          "amostra": 60,
+          "mvp": 14,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
           "n": "SR • JotaErre",
           "tag": "#GRUG8UQGV",
           "th": 16,
@@ -759,7 +778,7 @@
           "idxb": 73.9,
           "amostra": 80,
           "mvp": 14,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -778,7 +797,7 @@
           "idxb": 72.8,
           "amostra": 80,
           "mvp": 14,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -797,25 +816,6 @@
           "idxb": 72.8,
           "amostra": 80,
           "mvp": 14,
-          "pos": 7,
-          "zona": "—"
-        },
-        {
-          "n": "Jan™",
-          "tag": "#CJV9G22Q",
-          "th": 17,
-          "atk": 3,
-          "est": 9,
-          "spa": 3.0,
-          "conf": 75,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 3,
-          "seg": 2,
-          "idx": 71.5,
-          "idxb": 74.8,
-          "amostra": 60,
-          "mvp": 12,
           "pos": 8,
           "zona": "—"
         },
