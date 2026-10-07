@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T03:40:32.292058Z",
+  "atualizado": "2026-10-07T03:50:31.921961Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3794,7 +3794,7 @@
               "tag": "#GVLGQ098",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Gerion",
@@ -3898,7 +3898,7 @@
               "tag": "#GCLLVYPJ8",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "lipe",
@@ -3925,7 +3925,9 @@
               "nome": "LUMINOUS2",
               "tag": "#R0909YJ0Q",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
