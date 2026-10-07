@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T23:20:35.626847Z",
+  "atualizado": "2026-10-07T23:30:38.618299Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1300,7 +1300,7 @@
         {
           "g": 5,
           "vs": "کانیا",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
