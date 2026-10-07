@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T00:00:01.690934Z",
+  "atualizado": "2026-10-07T00:35:28.629884Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -445,7 +445,9 @@
               "nome": "marinaul war",
               "tag": "#8GGCQPYP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -1184,7 +1186,7 @@
               "tag": "#LUJ9CRJQG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30",
@@ -2108,7 +2110,7 @@
         {
           "g": 4,
           "vs": "Persian",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 30,
           "jogadores": [
             {
@@ -3628,7 +3630,9 @@
               "nome": "GSAzevedo30 #2",
               "tag": "#29882J2L2",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
