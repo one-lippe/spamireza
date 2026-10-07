@@ -10304,14 +10304,14 @@
         "inicio": "20261006T233105.000Z",
         "fim": "20261007T233105.000Z",
         "nos": {
-          "est": 22,
-          "destr": 26.3,
-          "atk": 8
+          "est": 25,
+          "destr": 29.633333333333333,
+          "atk": 9
         },
         "eles": {
-          "est": 33,
-          "destr": 42.4,
-          "atk": 14
+          "est": 35,
+          "destr": 45.3,
+          "atk": 15
         },
         "membros": [
           {
@@ -10345,9 +10345,14 @@
             "th": 18,
             "pos": 3,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 87,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 87
+              }
+            ]
           },
           {
             "nome": "Lider André 2",
@@ -10444,7 +10449,12 @@
             "tag": "#YP9L000LG",
             "th": 16,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 1,
             "def_destr": 85,
             "defesas": [
@@ -11057,14 +11067,14 @@
       "inicio": "20261006T233105.000Z",
       "fim": "20261007T233105.000Z",
       "nos": {
-        "est": 22,
-        "destr": 26.3,
-        "atk": 8
+        "est": 25,
+        "destr": 29.633333333333333,
+        "atk": 9
       },
       "eles": {
-        "est": 33,
-        "destr": 42.4,
-        "atk": 14
+        "est": 35,
+        "destr": 45.3,
+        "atk": 15
       },
       "membros": [
         {
@@ -11098,9 +11108,14 @@
           "th": 18,
           "pos": 3,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 87,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 87
+            }
+          ]
         },
         {
           "nome": "Lider André 2",
@@ -11197,7 +11212,12 @@
           "tag": "#YP9L000LG",
           "th": 16,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 1,
           "def_destr": 85,
           "defesas": [

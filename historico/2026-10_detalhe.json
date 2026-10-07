@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T08:50:31.472165Z",
+  "atualizado": "2026-10-07T09:03:30.977675Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3863,7 +3863,7 @@
               "tag": "#2P8CU8QGR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Lider André 2",
@@ -3917,7 +3917,9 @@
               "nome": "Gerion",
               "tag": "#YP9L000LG",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 1
             },
             {
