@@ -3468,9 +3468,9 @@
           "atk": 11
         },
         "eles": {
-          "est": 17,
-          "destr": 38.0,
-          "atk": 6
+          "est": 18,
+          "destr": 44.2,
+          "atk": 7
         },
         "membros": [
           {
@@ -3484,9 +3484,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 93,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 93
+              }
+            ]
           },
           {
             "nome": "KingMpg",
@@ -3896,9 +3901,9 @@
         "atk": 11
       },
       "eles": {
-        "est": 17,
-        "destr": 38.0,
-        "atk": 6
+        "est": 18,
+        "destr": 44.2,
+        "atk": 7
       },
       "membros": [
         {
@@ -3912,9 +3917,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 93,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 93
+            }
+          ]
         },
         {
           "nome": "KingMpg",
@@ -10759,9 +10769,9 @@
           "atk": 17
         },
         "eles": {
-          "est": 51,
-          "destr": 63.833333333333336,
-          "atk": 21
+          "est": 54,
+          "destr": 67.16666666666667,
+          "atk": 22
         },
         "membros": [
           {
@@ -10840,9 +10850,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Líder André 3",
@@ -11592,9 +11607,9 @@
         "atk": 17
       },
       "eles": {
-        "est": 51,
-        "destr": 63.833333333333336,
-        "atk": 21
+        "est": 54,
+        "destr": 67.16666666666667,
+        "atk": 22
       },
       "membros": [
         {
@@ -11673,9 +11688,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Líder André 3",

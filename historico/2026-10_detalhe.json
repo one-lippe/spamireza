@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T18:00:47.521583Z",
+  "atualizado": "2026-10-07T18:11:44.701558Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1298,7 +1298,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "KingMpg",
@@ -3937,7 +3937,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Líder André 3",
