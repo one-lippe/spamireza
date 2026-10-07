@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T12:10:49.170353Z",
+  "atualizado": "2026-10-07T12:20:41.898900Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -668,6 +668,25 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "BC NOELLE ✓",
+          "tag": "#LCJ8JG09V",
+          "th": 18,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "seg": 1,
+          "idx": 75.6,
+          "idxb": 75.6,
+          "amostra": 100,
+          "mvp": 16,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "Royther13",
           "tag": "#22LUL8GV9",
           "th": 18,
@@ -683,7 +702,7 @@
           "idxb": 74.7,
           "amostra": 100,
           "mvp": 17,
-          "pos": 1,
+          "pos": 2,
           "zona": "promo"
         },
         {
@@ -702,8 +721,8 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 15,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "SR•InTheDark II",
@@ -721,7 +740,7 @@
           "idxb": 74.7,
           "amostra": 80,
           "mvp": 16,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -736,11 +755,11 @@
           "sof": 2.2,
           "ndef": 4,
           "seg": 2,
-          "idx": 73.0,
+          "idx": 73.1,
           "idxb": 74.4,
           "amostra": 80,
           "mvp": 15,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -755,11 +774,11 @@
           "sof": 1.8,
           "ndef": 4,
           "seg": 3,
-          "idx": 72.8,
+          "idx": 72.9,
           "idxb": 76.3,
           "amostra": 60,
           "mvp": 14,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -774,11 +793,11 @@
           "sof": 2.3,
           "ndef": 3,
           "seg": 2,
-          "idx": 72.6,
+          "idx": 72.7,
           "idxb": 73.9,
           "amostra": 80,
           "mvp": 14,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -797,7 +816,7 @@
           "idxb": 72.5,
           "amostra": 100,
           "mvp": 15,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -816,7 +835,26 @@
           "idxb": 72.5,
           "amostra": 100,
           "mvp": 15,
-          "pos": 8,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
+          "n": "♣️Dorindo Sena♣",
+          "tag": "#8Y9V2QQ82",
+          "th": 18,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 100,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "seg": 1,
+          "idx": 72.2,
+          "idxb": 72.2,
+          "amostra": 100,
+          "mvp": 15,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -835,7 +873,7 @@
           "idxb": 72.8,
           "amostra": 80,
           "mvp": 14,
-          "pos": 9,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -854,7 +892,7 @@
           "idxb": 72.2,
           "amostra": 80,
           "mvp": 14,
-          "pos": 10,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -873,7 +911,7 @@
           "idxb": 71.0,
           "amostra": 100,
           "mvp": 14,
-          "pos": 11,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -892,26 +930,7 @@
           "idxb": 71.7,
           "amostra": 80,
           "mvp": 15,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "BC NOELLE ✓",
-          "tag": "#LCJ8JG09V",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "seg": 1,
-          "idx": 70.3,
-          "idxb": 71.0,
-          "amostra": 80,
-          "mvp": 13,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -926,11 +945,11 @@
           "sof": 2.8,
           "ndef": 5,
           "seg": 1,
-          "idx": 70.3,
+          "idx": 70.4,
           "idxb": 71.0,
           "amostra": 80,
           "mvp": 13,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -949,7 +968,7 @@
           "idxb": 69.8,
           "amostra": 80,
           "mvp": 12,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -964,11 +983,11 @@
           "sof": 2.0,
           "ndef": 4,
           "seg": 2,
-          "idx": 68.5,
+          "idx": 68.6,
           "idxb": 69.1,
           "amostra": 60,
           "mvp": 12,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -983,11 +1002,11 @@
           "sof": 2.6,
           "ndef": 5,
           "seg": 2,
-          "idx": 67.9,
+          "idx": 68.0,
           "idxb": 68.0,
           "amostra": 80,
           "mvp": 13,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1006,7 +1025,7 @@
           "idxb": 67.6,
           "amostra": 60,
           "mvp": 11,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1025,7 +1044,7 @@
           "idxb": 67.6,
           "amostra": 100,
           "mvp": 13,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1042,25 +1061,6 @@
           "seg": 1,
           "idx": 67.0,
           "idxb": 67.0,
-          "amostra": 80,
-          "mvp": 12,
-          "pos": 20,
-          "zona": "—"
-        },
-        {
-          "n": "♣️Dorindo Sena♣",
-          "tag": "#8Y9V2QQ82",
-          "th": 18,
-          "atk": 4,
-          "est": 11,
-          "spa": 2.75,
-          "conf": 80,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "seg": 1,
-          "idx": 66.7,
-          "idxb": 66.7,
           "amostra": 80,
           "mvp": 12,
           "pos": 21,
