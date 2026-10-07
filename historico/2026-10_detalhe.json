@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T09:10:28.361080Z",
+  "atualizado": "2026-10-07T09:20:55.196911Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1396,7 +1396,7 @@
               "tag": "#GRR2G9LP0",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
@@ -4016,7 +4016,9 @@
               "nome": "RAGNAROK",
               "tag": "#GCLLVYPJ8",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
