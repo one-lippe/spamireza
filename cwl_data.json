@@ -6591,9 +6591,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 18,
-          "destr": 21.433333333333334,
-          "atk": 7
+          "est": 21,
+          "destr": 24.766666666666666,
+          "atk": 8
         },
         "membros": [
           {
@@ -6602,9 +6602,14 @@
             "th": 18,
             "pos": 1,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SrNunes",
@@ -7289,9 +7294,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 18,
-        "destr": 21.433333333333334,
-        "atk": 7
+        "est": 21,
+        "destr": 24.766666666666666,
+        "atk": 8
       },
       "membros": [
         {
@@ -7300,9 +7305,14 @@
           "th": 18,
           "pos": 1,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SrNunes",
