@@ -1389,6 +1389,182 @@
           "atk": 0
         },
         "eles": {
+          "est": 3,
+          "destr": 6.666666666666667,
+          "atk": 1
+        },
+        "membros": [
+          {
+            "nome": "marinaul war",
+            "tag": "#8GGCQPYP",
+            "th": 18,
+            "pos": 1,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Levi_Neiva",
+            "tag": "#C8R989YJ",
+            "th": 18,
+            "pos": 2,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Jan",
+            "tag": "#2899CRJG",
+            "th": 18,
+            "pos": 3,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Dog Apollo",
+            "tag": "#YJ9R2GPJG",
+            "th": 18,
+            "pos": 4,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR • Giovanelli",
+            "tag": "#PJ0YJLGJ",
+            "th": 18,
+            "pos": 5,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "tozim",
+            "tag": "#9G22U9U2Y",
+            "th": 18,
+            "pos": 6,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR • JON SNOW",
+            "tag": "#LYV2J2LU",
+            "th": 18,
+            "pos": 7,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR • C∆iç∆r∆",
+            "tag": "#GL0PRCU9L",
+            "th": 18,
+            "pos": 10,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Nesk",
+            "tag": "#99220V0Q8",
+            "th": 18,
+            "pos": 11,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "LEANDRO",
+            "tag": "#QPCRCR8VY",
+            "th": 18,
+            "pos": 12,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Psico 2k25",
+            "tag": "#Q2UJJ89VG",
+            "th": 18,
+            "pos": 13,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "MAJ0R FiV3",
+            "tag": "#LCR9YQGYY",
+            "th": 18,
+            "pos": 14,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "☆VILA DO PX ツ",
+            "tag": "#8PUL8JPC",
+            "th": 18,
+            "pos": 15,
+            "ataques": [],
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
+          },
+          {
+            "nome": "Neskau",
+            "tag": "#P8GLGPRP",
+            "th": 18,
+            "pos": 16,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "matias?",
+            "tag": "#RCQQUGC9",
+            "th": 18,
+            "pos": 17,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          }
+        ]
+      },
+      {
+        "warTag": "#8J2L2YJR9",
+        "state": "preparation",
+        "teamSize": 15,
+        "adversario": "JewishFamily#2",
+        "prep": "20261007T060127.000Z",
+        "inicio": "20261008T060125.000Z",
+        "fim": "20261009T060125.000Z",
+        "nos": {
+          "est": 0,
+          "destr": 0.0,
+          "atk": 0
+        },
+        "eles": {
           "est": 0,
           "destr": 0.0,
           "atk": 0
@@ -1561,9 +1737,9 @@
         "atk": 0
       },
       "eles": {
-        "est": 0,
-        "destr": 0.0,
-        "atk": 0
+        "est": 3,
+        "destr": 6.666666666666667,
+        "atk": 1
       },
       "membros": [
         {
@@ -1692,9 +1868,14 @@
           "th": 18,
           "pos": 15,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Neskau",
@@ -6370,9 +6551,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 10,
-          "destr": 12.966666666666667,
-          "atk": 4
+          "est": 13,
+          "destr": 16.3,
+          "atk": 5
         },
         "membros": [
           {
@@ -6591,9 +6772,14 @@
             "th": 18,
             "pos": 22,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "·Holtser Ω",
@@ -7053,9 +7239,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 10,
-        "destr": 12.966666666666667,
-        "atk": 4
+        "est": 13,
+        "destr": 16.3,
+        "atk": 5
       },
       "membros": [
         {
@@ -7274,9 +7460,14 @@
           "th": 18,
           "pos": 22,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "·Holtser Ω",
