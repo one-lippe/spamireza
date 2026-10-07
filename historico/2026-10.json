@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T07:10:30.344864Z",
+  "atualizado": "2026-10-07T07:20:35.401202Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -687,27 +687,27 @@
           "zona": "promo"
         },
         {
-          "n": "Coyote 171 × 戦備",
-          "tag": "#Y08CR0PQU",
+          "n": "SR•InTheDark II",
+          "tag": "#Q9PL0CUU",
           "th": 18,
           "atk": 4,
           "est": 12,
           "spa": 3.0,
           "conf": 80,
-          "def": 25,
+          "def": 27,
           "sof": 2.2,
-          "ndef": 4,
-          "seg": 2,
-          "idx": 72.9,
-          "idxb": 74.4,
+          "ndef": 5,
+          "seg": 3,
+          "idx": 73.1,
+          "idxb": 74.7,
           "amostra": 80,
-          "mvp": 15,
+          "mvp": 16,
           "pos": 2,
           "zona": "promo"
         },
         {
-          "n": "SR•InTheDark II",
-          "tag": "#Q9PL0CUU",
+          "n": "Coyote 171 × 戦備",
+          "tag": "#Y08CR0PQU",
           "th": 18,
           "atk": 4,
           "est": 12,
