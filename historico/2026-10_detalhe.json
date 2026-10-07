@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T22:10:35.317925Z",
+  "atualizado": "2026-10-07T22:20:36.532771Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -649,7 +649,9 @@
               "nome": "SR • C∆iç∆r∆",
               "tag": "#GL0PRCU9L",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -1371,7 +1373,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Levi_Neiva 2",
@@ -2676,7 +2678,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "BC NOELLE ✓",
@@ -4004,7 +4006,9 @@
               "nome": "PaulinhoPH",
               "tag": "#GVLGQ098",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {

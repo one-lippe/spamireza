@@ -1384,9 +1384,9 @@
         "inicio": "20261007T055154.000Z",
         "fim": "20261008T055154.000Z",
         "nos": {
-          "est": 35,
-          "destr": 84.73333333333333,
-          "atk": 13
+          "est": 37,
+          "destr": 91.13333333333334,
+          "atk": 14
         },
         "eles": {
           "est": 36,
@@ -1534,7 +1534,12 @@
             "tag": "#GL0PRCU9L",
             "th": 18,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 96
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -1857,9 +1862,9 @@
       "inicio": "20261007T055154.000Z",
       "fim": "20261008T055154.000Z",
       "nos": {
-        "est": 35,
-        "destr": 84.73333333333333,
-        "atk": 13
+        "est": 37,
+        "destr": 91.13333333333334,
+        "atk": 14
       },
       "eles": {
         "est": 36,
@@ -2007,7 +2012,12 @@
           "tag": "#GL0PRCU9L",
           "th": 18,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 96
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -3538,9 +3548,9 @@
           "atk": 14
         },
         "eles": {
-          "est": 30,
-          "destr": 70.86666666666666,
-          "atk": 11
+          "est": 33,
+          "destr": 77.53333333333333,
+          "atk": 12
         },
         "membros": [
           {
@@ -3679,9 +3689,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Levi_Neiva 2",
@@ -4006,9 +4021,9 @@
         "atk": 14
       },
       "eles": {
-        "est": 30,
-        "destr": 70.86666666666666,
-        "atk": 11
+        "est": 33,
+        "destr": 77.53333333333333,
+        "atk": 12
       },
       "membros": [
         {
@@ -4147,9 +4162,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Levi_Neiva 2",
@@ -6931,9 +6951,9 @@
           "atk": 28
         },
         "eles": {
-          "est": 77,
-          "destr": 90.16666666666667,
-          "atk": 28
+          "est": 80,
+          "destr": 93.5,
+          "atk": 29
         },
         "membros": [
           {
@@ -7202,9 +7222,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "BC NOELLE ✓",
@@ -7854,9 +7879,9 @@
         "atk": 28
       },
       "eles": {
-        "est": 77,
-        "destr": 90.16666666666667,
-        "atk": 28
+        "est": 80,
+        "destr": 93.5,
+        "atk": 29
       },
       "membros": [
         {
@@ -8125,9 +8150,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "BC NOELLE ✓",
@@ -11034,9 +11064,9 @@
         "inicio": "20261006T233105.000Z",
         "fim": "20261007T233105.000Z",
         "nos": {
-          "est": 62,
-          "destr": 73.3,
-          "atk": 24
+          "est": 64,
+          "destr": 75.73333333333333,
+          "atk": 25
         },
         "eles": {
           "est": 60,
@@ -11204,7 +11234,12 @@
             "tag": "#GVLGQ098",
             "th": 16,
             "pos": 9,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 73
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -11917,9 +11952,9 @@
       "inicio": "20261006T233105.000Z",
       "fim": "20261007T233105.000Z",
       "nos": {
-        "est": 62,
-        "destr": 73.3,
-        "atk": 24
+        "est": 64,
+        "destr": 75.73333333333333,
+        "atk": 25
       },
       "eles": {
         "est": 60,
@@ -12087,7 +12122,12 @@
           "tag": "#GVLGQ098",
           "th": 16,
           "pos": 9,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 73
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
