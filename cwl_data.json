@@ -1389,9 +1389,9 @@
           "atk": 8
         },
         "eles": {
-          "est": 24,
-          "destr": 53.333333333333336,
-          "atk": 8
+          "est": 27,
+          "destr": 60.0,
+          "atk": 9
         },
         "membros": [
           {
@@ -1490,9 +1490,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • JON SNOW",
@@ -1812,9 +1817,9 @@
         "atk": 8
       },
       "eles": {
-        "est": 24,
-        "destr": 53.333333333333336,
-        "atk": 8
+        "est": 27,
+        "destr": 60.0,
+        "atk": 9
       },
       "membros": [
         {
@@ -1913,9 +1918,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • JON SNOW",
@@ -10664,9 +10674,9 @@
         "inicio": "20261006T233105.000Z",
         "fim": "20261007T233105.000Z",
         "nos": {
-          "est": 37,
-          "destr": 43.333333333333336,
-          "atk": 14
+          "est": 46,
+          "destr": 53.333333333333336,
+          "atk": 17
         },
         "eles": {
           "est": 48,
@@ -10679,7 +10689,12 @@
             "tag": "#QJRRJGQR",
             "th": 18,
             "pos": 1,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 1,
             "def_destr": 91,
             "defesas": [
@@ -10694,7 +10709,12 @@
             "tag": "#LJLRGUULY",
             "th": 18,
             "pos": 2,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 77,
             "defesas": [
@@ -10914,7 +10934,12 @@
             "tag": "#2RLG220GY",
             "th": 15,
             "pos": 16,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -11477,9 +11502,9 @@
       "inicio": "20261006T233105.000Z",
       "fim": "20261007T233105.000Z",
       "nos": {
-        "est": 37,
-        "destr": 43.333333333333336,
-        "atk": 14
+        "est": 46,
+        "destr": 53.333333333333336,
+        "atk": 17
       },
       "eles": {
         "est": 48,
@@ -11492,7 +11517,12 @@
           "tag": "#QJRRJGQR",
           "th": 18,
           "pos": 1,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 1,
           "def_destr": 91,
           "defesas": [
@@ -11507,7 +11537,12 @@
           "tag": "#LJLRGUULY",
           "th": 18,
           "pos": 2,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 77,
           "defesas": [
@@ -11727,7 +11762,12 @@
           "tag": "#2RLG220GY",
           "th": 15,
           "pos": 16,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [

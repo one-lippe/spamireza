@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T15:40:36.671579Z",
+  "atualizado": "2026-10-07T15:50:37.694889Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -632,7 +632,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • JON SNOW",
@@ -3896,14 +3896,18 @@
               "nome": "100%War_Quiron",
               "tag": "#QJRRJGQR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 1
             },
             {
               "nome": "BC YUNO♧",
               "tag": "#LJLRGUULY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -4015,7 +4019,9 @@
               "nome": "Wilson z2",
               "tag": "#2RLG220GY",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
