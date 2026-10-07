@@ -1389,9 +1389,9 @@
           "atk": 13
         },
         "eles": {
-          "est": 31,
-          "destr": 72.8,
-          "atk": 11
+          "est": 36,
+          "destr": 85.73333333333333,
+          "atk": 13
         },
         "membros": [
           {
@@ -1480,9 +1480,14 @@
                 "destr": 91
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 94,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 94
+              }
+            ]
           },
           {
             "nome": "tozim",
@@ -1585,9 +1590,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "MAJ0R FiV3",
@@ -1852,9 +1862,9 @@
         "atk": 13
       },
       "eles": {
-        "est": 31,
-        "destr": 72.8,
-        "atk": 11
+        "est": 36,
+        "destr": 85.73333333333333,
+        "atk": 13
       },
       "membros": [
         {
@@ -1943,9 +1953,14 @@
               "destr": 91
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 94,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 94
+            }
+          ]
         },
         {
           "nome": "tozim",
@@ -2048,9 +2063,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "MAJ0R FiV3",
@@ -6876,9 +6896,9 @@
         "inicio": "20261007T001754.000Z",
         "fim": "20261008T001754.000Z",
         "nos": {
-          "est": 60,
-          "destr": 72.23333333333333,
-          "atk": 23
+          "est": 62,
+          "destr": 74.63333333333334,
+          "atk": 24
         },
         "eles": {
           "est": 70,
@@ -7051,7 +7071,12 @@
             "tag": "#20UUPGPCV",
             "th": 18,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 72
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -7759,9 +7784,9 @@
       "inicio": "20261007T001754.000Z",
       "fim": "20261008T001754.000Z",
       "nos": {
-        "est": 60,
-        "destr": 72.23333333333333,
-        "atk": 23
+        "est": 62,
+        "destr": 74.63333333333334,
+        "atk": 24
       },
       "eles": {
         "est": 70,
@@ -7934,7 +7959,12 @@
           "tag": "#20UUPGPCV",
           "th": 18,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 72
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [

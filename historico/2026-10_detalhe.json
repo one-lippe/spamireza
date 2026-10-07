@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T20:30:38.295211Z",
+  "atualizado": "2026-10-07T20:40:38.907276Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -625,7 +625,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "tozim",
@@ -677,7 +677,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "MAJ0R FiV3",
@@ -2633,7 +2633,9 @@
               "nome": "Lider Andre",
               "tag": "#20UUPGPCV",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
