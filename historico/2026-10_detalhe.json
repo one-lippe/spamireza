@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T10:30:37.646010Z",
+  "atualizado": "2026-10-07T10:40:33.012525Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2552,7 +2552,9 @@
               "nome": "LSWRTH",
               "tag": "#YVU0L88P",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -3906,7 +3908,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "PaulinhoPH",
@@ -4064,7 +4066,9 @@
               "nome": "unshaken",
               "tag": "#QL89UQ0Q9",
               "th": 14,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
