@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T02:10:34.328978Z",
+  "atualizado": "2026-10-07T02:20:35.391062Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -774,7 +774,7 @@
           "sof": 2.0,
           "ndef": 3,
           "seg": 2,
-          "idx": 71.4,
+          "idx": 71.5,
           "idxb": 74.8,
           "amostra": 60,
           "mvp": 12,
@@ -953,6 +953,25 @@
           "zona": "—"
         },
         {
+          "n": "·Holtser Ω",
+          "tag": "#8GG88V2PU",
+          "th": 17,
+          "atk": 3,
+          "est": 9,
+          "spa": 3.0,
+          "conf": 60,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 4,
+          "seg": 1,
+          "idx": 67.5,
+          "idxb": 68.2,
+          "amostra": 60,
+          "mvp": 11,
+          "pos": 16,
+          "zona": "—"
+        },
+        {
           "n": "SR • THIAGO",
           "tag": "#89G0YGUJY",
           "th": 18,
@@ -968,7 +987,7 @@
           "idxb": 67.0,
           "amostra": 80,
           "mvp": 12,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -987,7 +1006,7 @@
           "idxb": 67.0,
           "amostra": 80,
           "mvp": 12,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1006,7 +1025,7 @@
           "idxb": 67.0,
           "amostra": 80,
           "mvp": 12,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1025,7 +1044,7 @@
           "idxb": 67.0,
           "amostra": 80,
           "mvp": 12,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1044,25 +1063,6 @@
           "idxb": 65.5,
           "amostra": 80,
           "mvp": 11,
-          "pos": 20,
-          "zona": "—"
-        },
-        {
-          "n": "·Holtser Ω",
-          "tag": "#8GG88V2PU",
-          "th": 17,
-          "atk": 2,
-          "est": 6,
-          "spa": 3.0,
-          "conf": 40,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 4,
-          "seg": 1,
-          "idx": 63.5,
-          "idxb": 63.5,
-          "amostra": 40,
-          "mvp": 8,
           "pos": 21,
           "zona": "—"
         },
