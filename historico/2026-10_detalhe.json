@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T13:20:36.917226Z",
+  "atualizado": "2026-10-07T13:30:40.405673Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2607,7 +2607,7 @@
               "atk": [
                 1
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Lider Andre",
