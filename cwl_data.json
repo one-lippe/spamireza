@@ -6911,9 +6911,9 @@
           "atk": 25
         },
         "eles": {
-          "est": 73,
-          "destr": 84.63333333333334,
-          "atk": 26
+          "est": 75,
+          "destr": 87.86666666666666,
+          "atk": 27
         },
         "membros": [
           {
@@ -6967,9 +6967,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 97,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 97
+              }
+            ]
           },
           {
             "nome": "Sene",
@@ -7809,9 +7814,9 @@
         "atk": 25
       },
       "eles": {
-        "est": 73,
-        "destr": 84.63333333333334,
-        "atk": 26
+        "est": 75,
+        "destr": 87.86666666666666,
+        "atk": 27
       },
       "membros": [
         {
@@ -7865,9 +7870,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 97,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 97
+            }
+          ]
         },
         {
           "nome": "Sene",
