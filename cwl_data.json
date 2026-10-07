@@ -1389,9 +1389,9 @@
           "atk": 8
         },
         "eles": {
-          "est": 27,
-          "destr": 60.0,
-          "atk": 9
+          "est": 30,
+          "destr": 66.66666666666667,
+          "atk": 10
         },
         "membros": [
           {
@@ -1545,9 +1545,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Psico 2k25",
@@ -1817,9 +1822,9 @@
         "atk": 8
       },
       "eles": {
-        "est": 27,
-        "destr": 60.0,
-        "atk": 9
+        "est": 30,
+        "destr": 66.66666666666667,
+        "atk": 10
       },
       "membros": [
         {
@@ -1973,9 +1978,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Psico 2k25",
