@@ -3242,9 +3242,9 @@
         "inicio": "20261006T232107.000Z",
         "fim": "20261007T232107.000Z",
         "nos": {
-          "est": 13,
-          "destr": 31.733333333333334,
-          "atk": 5
+          "est": 15,
+          "destr": 36.8,
+          "atk": 6
         },
         "eles": {
           "est": 9,
@@ -3277,7 +3277,12 @@
             "tag": "#YPJLVPL9U",
             "th": 18,
             "pos": 3,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 76
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -3625,9 +3630,9 @@
       "inicio": "20261006T232107.000Z",
       "fim": "20261007T232107.000Z",
       "nos": {
-        "est": 13,
-        "destr": 31.733333333333334,
-        "atk": 5
+        "est": 15,
+        "destr": 36.8,
+        "atk": 6
       },
       "eles": {
         "est": 9,
@@ -3660,7 +3665,12 @@
           "tag": "#YPJLVPL9U",
           "th": 18,
           "pos": 3,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 76
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -10048,9 +10058,9 @@
           "atk": 5
         },
         "eles": {
-          "est": 6,
-          "destr": 10.6,
-          "atk": 4
+          "est": 9,
+          "destr": 13.933333333333334,
+          "atk": 5
         },
         "membros": [
           {
@@ -10239,9 +10249,14 @@
             "th": 15,
             "pos": 16,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Trainer Ronald",
@@ -10736,9 +10751,9 @@
         "atk": 5
       },
       "eles": {
-        "est": 6,
-        "destr": 10.6,
-        "atk": 4
+        "est": 9,
+        "destr": 13.933333333333334,
+        "atk": 5
       },
       "membros": [
         {
@@ -10927,9 +10942,14 @@
           "th": 15,
           "pos": 16,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Trainer Ronald",

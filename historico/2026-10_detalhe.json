@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T02:40:37.794029Z",
+  "atualizado": "2026-10-07T02:50:56.337510Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1180,7 +1180,9 @@
               "nome": "TomorrowBr",
               "tag": "#YPJLVPL9U",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -3835,7 +3837,7 @@
               "tag": "#2RLG220GY",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Trainer Ronald",
