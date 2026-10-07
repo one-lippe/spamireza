@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T06:41:29.652626Z",
+  "atualizado": "2026-10-07T06:51:25.973792Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3985,7 +3985,7 @@
               "tag": "#GCC98R22R",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "GSAzevedo30 #2",
