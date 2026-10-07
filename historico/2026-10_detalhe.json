@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T12:05:19.845289Z",
+  "atualizado": "2026-10-07T12:10:49.173514Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2596,7 +2596,9 @@
               "nome": "100%War_⚡Slash⚡",
               "tag": "#8PURGU2YG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": null
             },
             {
@@ -2668,7 +2670,9 @@
               "nome": "irmão do jorel",
               "tag": "#P2JCQRPGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
