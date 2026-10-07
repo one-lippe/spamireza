@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T01:21:16.496798Z",
+  "atualizado": "2026-10-07T01:30:36.884089Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -782,6 +782,25 @@
           "zona": "—"
         },
         {
+          "n": "Nesk'",
+          "tag": "#YCRJU229",
+          "th": 17,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 4,
+          "seg": 0,
+          "idx": 71.0,
+          "idxb": 71.0,
+          "amostra": 100,
+          "mvp": 14,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
           "n": "LSWRTHN",
           "tag": "#QJY8RRYR",
           "th": 16,
@@ -797,7 +816,7 @@
           "idxb": 71.7,
           "amostra": 80,
           "mvp": 15,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -816,7 +835,7 @@
           "idxb": 71.3,
           "amostra": 80,
           "mvp": 13,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -835,7 +854,7 @@
           "idxb": 71.3,
           "amostra": 80,
           "mvp": 13,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -854,32 +873,13 @@
           "idxb": 71.3,
           "amostra": 80,
           "mvp": 13,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
           "n": "Agnes",
           "tag": "#LLLU0VQCL",
           "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
-          "seg": 0,
-          "idx": 69.1,
-          "idxb": 69.8,
-          "amostra": 80,
-          "mvp": 12,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "Nesk'",
-          "tag": "#YCRJU229",
-          "th": 17,
           "atk": 4,
           "est": 12,
           "spa": 3.0,
@@ -926,7 +926,7 @@
           "sof": 2.5,
           "ndef": 4,
           "seg": 1,
-          "idx": 68.1,
+          "idx": 68.2,
           "idxb": 68.6,
           "amostra": 80,
           "mvp": 13,
