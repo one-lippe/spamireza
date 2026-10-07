@@ -10148,9 +10148,9 @@
           "atk": 7
         },
         "eles": {
-          "est": 26,
-          "destr": 32.96666666666667,
-          "atk": 11
+          "est": 29,
+          "destr": 36.3,
+          "atk": 12
         },
         "membros": [
           {
@@ -10509,9 +10509,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "°D∆×iLh∆°",
@@ -10881,9 +10886,9 @@
         "atk": 7
       },
       "eles": {
-        "est": 26,
-        "destr": 32.96666666666667,
-        "atk": 11
+        "est": 29,
+        "destr": 36.3,
+        "atk": 12
       },
       "membros": [
         {
@@ -11242,9 +11247,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "°D∆×iLh∆°",

@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T05:46:29.864203Z",
+  "atualizado": "2026-10-07T05:50:33.525795Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1283,25 +1283,6 @@
       "mode": "rank",
       "rank": [
         {
-          "n": "LUMINOUS2",
-          "tag": "#R0909YJ0Q",
-          "th": 15,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 100,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 3,
-          "seg": 2,
-          "idx": 68.9,
-          "idxb": 68.9,
-          "amostra": 100,
-          "mvp": 17,
-          "pos": 1,
-          "zona": "promo"
-        },
-        {
           "n": "qvnly",
           "tag": "#GUCJQPVR9",
           "th": 18,
@@ -1317,7 +1298,7 @@
           "idxb": 68.6,
           "amostra": 100,
           "mvp": 17,
-          "pos": 2,
+          "pos": 1,
           "zona": "promo"
         },
         {
@@ -1336,6 +1317,25 @@
           "idxb": 67.5,
           "amostra": 100,
           "mvp": 16,
+          "pos": 2,
+          "zona": "promo"
+        },
+        {
+          "n": "LUMINOUS2",
+          "tag": "#R0909YJ0Q",
+          "th": 15,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 100,
+          "def": 25,
+          "sof": 2.2,
+          "ndef": 4,
+          "seg": 2,
+          "idx": 67.5,
+          "idxb": 67.5,
+          "amostra": 100,
+          "mvp": 17,
           "pos": 3,
           "zona": "—"
         },
