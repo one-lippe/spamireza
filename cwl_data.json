@@ -3232,9 +3232,9 @@
         "inicio": "20261006T232107.000Z",
         "fim": "20261007T232107.000Z",
         "nos": {
-          "est": 6,
-          "destr": 13.333333333333334,
-          "atk": 2
+          "est": 8,
+          "destr": 18.8,
+          "atk": 3
         },
         "eles": {
           "est": 9,
@@ -3402,7 +3402,12 @@
             "tag": "#9LPJP9YPQ",
             "th": 18,
             "pos": 14,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 82
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -3569,20 +3574,20 @@
             "defesas": []
           },
           {
-            "nome": "⭐️Dog Apollo⭐️",
-            "tag": "#9LPJP9YPQ",
+            "nome": "Ligeirinh0xD",
+            "tag": "#GRR2G9LP0",
             "th": 18,
-            "pos": 14,
+            "pos": 15,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
           },
           {
-            "nome": "Ligeirinh0xD",
-            "tag": "#GRR2G9LP0",
+            "nome": "SR • Dennis",
+            "tag": "#82R9VYVGY",
             "th": 18,
-            "pos": 15,
+            "pos": 17,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -3600,9 +3605,9 @@
       "inicio": "20261006T232107.000Z",
       "fim": "20261007T232107.000Z",
       "nos": {
-        "est": 6,
-        "destr": 13.333333333333334,
-        "atk": 2
+        "est": 8,
+        "destr": 18.8,
+        "atk": 3
       },
       "eles": {
         "est": 9,
@@ -3770,7 +3775,12 @@
           "tag": "#9LPJP9YPQ",
           "th": 18,
           "pos": 14,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 82
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
