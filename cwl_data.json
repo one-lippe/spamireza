@@ -3544,16 +3544,6 @@
             "defesas": []
           },
           {
-            "nome": "Monesy",
-            "tag": "#2YGJQG22G",
-            "th": 18,
-            "pos": 11,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
             "nome": "SR • DuM∆R",
             "tag": "#YQRJL098P",
             "th": 18,
@@ -3578,6 +3568,16 @@
             "tag": "#GRR2G9LP0",
             "th": 18,
             "pos": 15,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Sra Nunes",
+            "tag": "#22JQULR22",
+            "th": 18,
+            "pos": 16,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
