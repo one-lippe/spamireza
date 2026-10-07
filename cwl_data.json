@@ -6621,9 +6621,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 32,
-          "destr": 38.06666666666667,
-          "atk": 12
+          "est": 35,
+          "destr": 41.4,
+          "atk": 13
         },
         "membros": [
           {
@@ -6757,9 +6757,14 @@
             "th": 18,
             "pos": 12,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Royther13",
@@ -7344,9 +7349,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 32,
-        "destr": 38.06666666666667,
-        "atk": 12
+        "est": 35,
+        "destr": 41.4,
+        "atk": 13
       },
       "membros": [
         {
@@ -7480,9 +7485,14 @@
           "th": 18,
           "pos": 12,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Royther13",
@@ -10329,9 +10339,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 40,
-          "destr": 51.2,
-          "atk": 17
+          "est": 42,
+          "destr": 53.833333333333336,
+          "atk": 18
         },
         "membros": [
           {
@@ -10750,9 +10760,14 @@
             "th": 14,
             "pos": 31,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 79,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 79
+              }
+            ]
           },
           {
             "nome": "Najla Nunes",
@@ -11107,9 +11122,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 40,
-        "destr": 51.2,
-        "atk": 17
+        "est": 42,
+        "destr": 53.833333333333336,
+        "atk": 18
       },
       "membros": [
         {
@@ -11528,9 +11543,14 @@
           "th": 14,
           "pos": 31,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 79,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 79
+            }
+          ]
         },
         {
           "nome": "Najla Nunes",

@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T10:00:59.345047Z",
+  "atualizado": "2026-10-07T10:12:13.508507Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2602,7 +2602,7 @@
               "tag": "#9RJGGUY9R",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Royther13",
@@ -4065,7 +4065,7 @@
               "tag": "#QL89UQ0Q9",
               "th": 14,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Najla Nunes",
