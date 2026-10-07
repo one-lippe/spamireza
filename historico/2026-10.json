@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T08:22:03.107595Z",
+  "atualizado": "2026-10-07T08:30:56.391791Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1370,7 +1370,7 @@
           "sof": 2.4,
           "ndef": 5,
           "seg": 3,
-          "idx": 63.6,
+          "idx": 63.7,
           "idxb": 65.6,
           "amostra": 80,
           "mvp": 15,
@@ -1389,7 +1389,7 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 62.4,
+          "idx": 62.5,
           "idxb": 64.1,
           "amostra": 80,
           "mvp": 13,
@@ -1408,7 +1408,7 @@
           "sof": 2.8,
           "ndef": 4,
           "seg": 1,
-          "idx": 62.0,
+          "idx": 62.1,
           "idxb": 63.6,
           "amostra": 80,
           "mvp": 13,
@@ -1427,7 +1427,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 60.9,
+          "idx": 61.0,
           "idxb": 62.2,
           "amostra": 80,
           "mvp": 12,
@@ -1446,7 +1446,7 @@
           "sof": 1.8,
           "ndef": 6,
           "seg": 4,
-          "idx": 60.0,
+          "idx": 60.1,
           "idxb": 61.1,
           "amostra": 80,
           "mvp": 17,
@@ -1465,7 +1465,7 @@
           "sof": 2.6,
           "ndef": 5,
           "seg": 1,
-          "idx": 59.7,
+          "idx": 59.8,
           "idxb": 60.7,
           "amostra": 80,
           "mvp": 13,
@@ -1484,7 +1484,7 @@
           "sof": 2.3,
           "ndef": 3,
           "seg": 2,
-          "idx": 59.4,
+          "idx": 59.5,
           "idxb": 61.8,
           "amostra": 60,
           "mvp": 11,
@@ -1503,7 +1503,7 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 59.4,
+          "idx": 59.5,
           "idxb": 60.3,
           "amostra": 80,
           "mvp": 12,
@@ -1522,11 +1522,30 @@
           "sof": 2.8,
           "ndef": 4,
           "seg": 1,
-          "idx": 59.0,
+          "idx": 59.1,
           "idxb": 59.8,
           "amostra": 80,
           "mvp": 12,
           "pos": 13,
+          "zona": "—"
+        },
+        {
+          "n": "Najla Nunes",
+          "tag": "#9CR0G200R",
+          "th": 15,
+          "atk": 4,
+          "est": 10,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 3,
+          "seg": 0,
+          "idx": 58.3,
+          "idxb": 58.8,
+          "amostra": 80,
+          "mvp": 10,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -1545,7 +1564,7 @@
           "idxb": 56.1,
           "amostra": 100,
           "mvp": 12,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -1564,7 +1583,7 @@
           "idxb": 54.2,
           "amostra": 80,
           "mvp": 12,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -1583,7 +1602,7 @@
           "idxb": 53.6,
           "amostra": 80,
           "mvp": 11,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -1602,7 +1621,7 @@
           "idxb": 52.2,
           "amostra": 80,
           "mvp": 10,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1621,7 +1640,7 @@
           "idxb": 51.5,
           "amostra": 80,
           "mvp": 12,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1640,25 +1659,6 @@
           "idxb": 51.2,
           "amostra": 100,
           "mvp": 10,
-          "pos": 19,
-          "zona": "—"
-        },
-        {
-          "n": "Najla Nunes",
-          "tag": "#9CR0G200R",
-          "th": 15,
-          "atk": 3,
-          "est": 7,
-          "spa": 2.33,
-          "conf": 75,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 3,
-          "seg": 0,
-          "idx": 51.1,
-          "idxb": 51.1,
-          "amostra": 60,
-          "mvp": 7,
           "pos": 20,
           "zona": "—"
         },
