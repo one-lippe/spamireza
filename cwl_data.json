@@ -6520,9 +6520,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 7,
-          "destr": 9.633333333333333,
-          "atk": 3
+          "est": 10,
+          "destr": 12.966666666666667,
+          "atk": 4
         },
         "membros": [
           {
@@ -6681,9 +6681,14 @@
             "th": 18,
             "pos": 16,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•InTheDark II",
@@ -7198,9 +7203,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 7,
-        "destr": 9.633333333333333,
-        "atk": 3
+        "est": 10,
+        "destr": 12.966666666666667,
+        "atk": 4
       },
       "membros": [
         {
@@ -7359,9 +7364,14 @@
           "th": 18,
           "pos": 16,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•InTheDark II",
@@ -10138,9 +10148,9 @@
           "atk": 7
         },
         "eles": {
-          "est": 23,
-          "destr": 29.633333333333333,
-          "atk": 10
+          "est": 26,
+          "destr": 32.96666666666667,
+          "atk": 11
         },
         "membros": [
           {
@@ -10339,9 +10349,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Wilson z2",
@@ -10866,9 +10881,9 @@
         "atk": 7
       },
       "eles": {
-        "est": 23,
-        "destr": 29.633333333333333,
-        "atk": 10
+        "est": 26,
+        "destr": 32.96666666666667,
+        "atk": 11
       },
       "membros": [
         {
@@ -11067,9 +11082,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Wilson z2",
