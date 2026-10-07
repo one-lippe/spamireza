@@ -1389,9 +1389,9 @@
           "atk": 14
         },
         "eles": {
-          "est": 36,
-          "destr": 85.73333333333333,
-          "atk": 13
+          "est": 39,
+          "destr": 92.4,
+          "atk": 14
         },
         "membros": [
           {
@@ -1655,9 +1655,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "matias?",
@@ -1867,9 +1872,9 @@
         "atk": 14
       },
       "eles": {
-        "est": 36,
-        "destr": 85.73333333333333,
-        "atk": 13
+        "est": 39,
+        "destr": 92.4,
+        "atk": 14
       },
       "membros": [
         {
@@ -2133,9 +2138,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "matias?",
@@ -6986,9 +6996,9 @@
         "inicio": "20261007T001754.000Z",
         "fim": "20261008T001754.000Z",
         "nos": {
-          "est": 76,
-          "destr": 91.0,
-          "atk": 29
+          "est": 78,
+          "destr": 93.93333333333334,
+          "atk": 30
         },
         "eles": {
           "est": 80,
@@ -7376,7 +7386,12 @@
             "tag": "#PCGCJRLRJ",
             "th": 18,
             "pos": 22,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 88
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -7919,9 +7934,9 @@
       "inicio": "20261007T001754.000Z",
       "fim": "20261008T001754.000Z",
       "nos": {
-        "est": 76,
-        "destr": 91.0,
-        "atk": 29
+        "est": 78,
+        "destr": 93.93333333333334,
+        "atk": 30
       },
       "eles": {
         "est": 80,
@@ -8309,7 +8324,12 @@
           "tag": "#PCGCJRLRJ",
           "th": 18,
           "pos": 22,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 88
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [

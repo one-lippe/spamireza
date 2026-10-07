@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T22:50:42.503976Z",
+  "atualizado": "2026-10-07T23:01:10.374938Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -93,7 +93,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 4,
+          "ndef": 5,
           "seg": 0,
           "idx": 80.8,
           "idxb": 80.8,
@@ -1181,6 +1181,25 @@
           "zona": "—"
         },
         {
+          "n": "abraão",
+          "tag": "#PCGCJRLRJ",
+          "th": 18,
+          "atk": 5,
+          "est": 11,
+          "spa": 2.2,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 5,
+          "seg": 0,
+          "idx": 60.8,
+          "idxb": 60.8,
+          "amostra": 100,
+          "mvp": 11,
+          "pos": 28,
+          "zona": "—"
+        },
+        {
           "n": "Lider Andre",
           "tag": "#20UUPGPCV",
           "th": 18,
@@ -1196,25 +1215,6 @@
           "idxb": 58.6,
           "amostra": 100,
           "mvp": 11,
-          "pos": 28,
-          "zona": "—"
-        },
-        {
-          "n": "abraão",
-          "tag": "#PCGCJRLRJ",
-          "th": 18,
-          "atk": 4,
-          "est": 9,
-          "spa": 2.25,
-          "conf": 80,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 5,
-          "seg": 0,
-          "idx": 57.0,
-          "idxb": 57.0,
-          "amostra": 80,
-          "mvp": 9,
           "pos": 29,
           "zona": "—"
         },
