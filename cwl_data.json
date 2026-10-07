@@ -10699,9 +10699,9 @@
           "atk": 17
         },
         "eles": {
-          "est": 48,
-          "destr": 60.5,
-          "atk": 20
+          "est": 51,
+          "destr": 63.833333333333336,
+          "atk": 21
         },
         "membros": [
           {
@@ -11150,9 +11150,14 @@
             "th": 14,
             "pos": 30,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "unshaken",
@@ -11527,9 +11532,9 @@
         "atk": 17
       },
       "eles": {
-        "est": 48,
-        "destr": 60.5,
-        "atk": 20
+        "est": 51,
+        "destr": 63.833333333333336,
+        "atk": 21
       },
       "membros": [
         {
@@ -11978,9 +11983,14 @@
           "th": 14,
           "pos": 30,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "unshaken",
