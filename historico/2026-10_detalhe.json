@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T11:50:29.923891Z",
+  "atualizado": "2026-10-07T12:00:52.615157Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2576,7 +2576,7 @@
               "tag": "#G0GGQRP9V",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • THIAGO",
@@ -2716,7 +2716,9 @@
               "nome": "THE KING ⚡",
               "tag": "#Y2CL88YQ9",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
