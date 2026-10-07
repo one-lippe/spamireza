@@ -3543,14 +3543,14 @@
         "inicio": "20261006T232107.000Z",
         "fim": "20261007T232107.000Z",
         "nos": {
-          "est": 37,
-          "destr": 89.13333333333334,
-          "atk": 14
+          "est": 40,
+          "destr": 95.8,
+          "atk": 15
         },
         "eles": {
-          "est": 36,
-          "destr": 84.2,
-          "atk": 13
+          "est": 39,
+          "destr": 90.86666666666666,
+          "atk": 14
         },
         "membros": [
           {
@@ -3584,9 +3584,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "TomorrowBr",
@@ -3728,7 +3733,12 @@
             "tag": "#20GJVUJLU",
             "th": 18,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 70,
             "defesas": [
@@ -4021,14 +4031,14 @@
       "inicio": "20261006T232107.000Z",
       "fim": "20261007T232107.000Z",
       "nos": {
-        "est": 37,
-        "destr": 89.13333333333334,
-        "atk": 14
+        "est": 40,
+        "destr": 95.8,
+        "atk": 15
       },
       "eles": {
-        "est": 36,
-        "destr": 84.2,
-        "atk": 13
+        "est": 39,
+        "destr": 90.86666666666666,
+        "atk": 14
       },
       "membros": [
         {
@@ -4062,9 +4072,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "TomorrowBr",
@@ -4206,7 +4221,12 @@
           "tag": "#20GJVUJLU",
           "th": 18,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 70,
           "defesas": [
@@ -11074,9 +11094,9 @@
         "inicio": "20261006T233105.000Z",
         "fim": "20261007T233105.000Z",
         "nos": {
-          "est": 64,
-          "destr": 75.73333333333333,
-          "atk": 25
+          "est": 69,
+          "destr": 82.23333333333333,
+          "atk": 27
         },
         "eles": {
           "est": 60,
@@ -11319,7 +11339,12 @@
             "tag": "#QV2J0YV0V",
             "th": 18,
             "pos": 13,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 95
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -11404,7 +11429,12 @@
             "tag": "#LL8GP2CQP",
             "th": 15,
             "pos": 19,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 90,
             "defesas": [
@@ -11962,9 +11992,9 @@
       "inicio": "20261006T233105.000Z",
       "fim": "20261007T233105.000Z",
       "nos": {
-        "est": 64,
-        "destr": 75.73333333333333,
-        "atk": 25
+        "est": 69,
+        "destr": 82.23333333333333,
+        "atk": 27
       },
       "eles": {
         "est": 60,
@@ -12207,7 +12237,12 @@
           "tag": "#QV2J0YV0V",
           "th": 18,
           "pos": 13,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 95
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -12292,7 +12327,12 @@
           "tag": "#LL8GP2CQP",
           "th": 15,
           "pos": 19,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 90,
           "defesas": [
