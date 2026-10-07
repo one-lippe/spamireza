@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T19:30:40.199497Z",
+  "atualizado": "2026-10-07T19:41:11.772190Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -801,25 +801,6 @@
           "zona": "—"
         },
         {
-          "n": "SrNunes",
-          "tag": "#2LY8G8Y9",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 100,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 4,
-          "seg": 2,
-          "idx": 74.1,
-          "idxb": 74.1,
-          "amostra": 100,
-          "mvp": 16,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
           "n": "bebo lendário",
           "tag": "#2QLGCJRJR",
           "th": 16,
@@ -835,7 +816,7 @@
           "idxb": 75.1,
           "amostra": 80,
           "mvp": 15,
-          "pos": 9,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -853,6 +834,25 @@
           "idx": 73.6,
           "idxb": 74.7,
           "amostra": 80,
+          "mvp": 16,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
+          "n": "SrNunes",
+          "tag": "#2LY8G8Y9",
+          "th": 18,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 100,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "seg": 2,
+          "idx": 73.5,
+          "idxb": 73.5,
+          "amostra": 100,
           "mvp": 16,
           "pos": 10,
           "zona": "—"
