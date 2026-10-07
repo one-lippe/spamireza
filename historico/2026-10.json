@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T13:41:19.077320Z",
+  "atualizado": "2026-10-07T13:50:53.767701Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -782,6 +782,25 @@
           "zona": "—"
         },
         {
+          "n": "NoBlitzz",
+          "tag": "#9RJGGUY9R",
+          "th": 18,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 100,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "seg": 1,
+          "idx": 73.5,
+          "idxb": 73.5,
+          "amostra": 100,
+          "mvp": 16,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
           "n": "SR•InTheDark II",
           "tag": "#Q9PL0CUU",
           "th": 18,
@@ -797,7 +816,7 @@
           "idxb": 74.7,
           "amostra": 80,
           "mvp": 16,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -816,7 +835,7 @@
           "idxb": 74.4,
           "amostra": 80,
           "mvp": 15,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -835,7 +854,7 @@
           "idxb": 76.3,
           "amostra": 60,
           "mvp": 14,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -854,7 +873,7 @@
           "idxb": 73.9,
           "amostra": 80,
           "mvp": 14,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -873,7 +892,7 @@
           "idxb": 72.5,
           "amostra": 100,
           "mvp": 15,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -892,7 +911,7 @@
           "idxb": 72.5,
           "amostra": 100,
           "mvp": 15,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -911,7 +930,7 @@
           "idxb": 72.5,
           "amostra": 100,
           "mvp": 15,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -930,25 +949,6 @@
           "idxb": 72.2,
           "amostra": 100,
           "mvp": 15,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "NoBlitzz",
-          "tag": "#9RJGGUY9R",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "seg": 1,
-          "idx": 71.5,
-          "idxb": 72.2,
-          "amostra": 80,
-          "mvp": 14,
           "pos": 15,
           "zona": "—"
         },
