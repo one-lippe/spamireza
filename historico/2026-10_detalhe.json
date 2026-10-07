@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T20:50:34.866650Z",
+  "atualizado": "2026-10-07T21:00:42.180437Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2608,7 +2608,9 @@
               "nome": "SR • THIAGO",
               "tag": "#89G0YGUJY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -3965,7 +3967,9 @@
               "nome": "Líder André 3",
               "tag": "#GY0Q0VRL0",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {

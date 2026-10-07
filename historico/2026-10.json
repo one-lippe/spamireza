@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T20:50:34.864264Z",
+  "atualizado": "2026-10-07T21:00:42.177589Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -679,7 +679,7 @@
           "sof": 1.8,
           "ndef": 4,
           "seg": 3,
-          "idx": 79.6,
+          "idx": 79.7,
           "idxb": 82.2,
           "amostra": 80,
           "mvp": 17,
@@ -850,7 +850,7 @@
           "sof": 2.2,
           "ndef": 5,
           "seg": 3,
-          "idx": 73.6,
+          "idx": 73.7,
           "idxb": 74.7,
           "amostra": 80,
           "mvp": 16,
@@ -877,6 +877,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • THIAGO",
+          "tag": "#89G0YGUJY",
+          "th": 18,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 100,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "seg": 2,
+          "idx": 73.5,
+          "idxb": 73.5,
+          "amostra": 100,
+          "mvp": 16,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
           "n": "NoBlitzz",
           "tag": "#9RJGGUY9R",
           "th": 18,
@@ -892,7 +911,7 @@
           "idxb": 73.5,
           "amostra": 100,
           "mvp": 16,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -911,7 +930,7 @@
           "idxb": 73.9,
           "amostra": 80,
           "mvp": 14,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -930,7 +949,7 @@
           "idxb": 72.5,
           "amostra": 100,
           "mvp": 15,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -949,7 +968,7 @@
           "idxb": 72.5,
           "amostra": 100,
           "mvp": 15,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -968,7 +987,7 @@
           "idxb": 72.2,
           "amostra": 100,
           "mvp": 15,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -987,7 +1006,7 @@
           "idxb": 72.2,
           "amostra": 100,
           "mvp": 15,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1006,7 +1025,7 @@
           "idxb": 71.0,
           "amostra": 100,
           "mvp": 14,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1025,25 +1044,6 @@
           "idxb": 71.0,
           "amostra": 100,
           "mvp": 14,
-          "pos": 19,
-          "zona": "—"
-        },
-        {
-          "n": "SR • THIAGO",
-          "tag": "#89G0YGUJY",
-          "th": 18,
-          "atk": 4,
-          "est": 11,
-          "spa": 2.75,
-          "conf": 80,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "seg": 2,
-          "idx": 68.0,
-          "idxb": 68.0,
-          "amostra": 80,
-          "mvp": 13,
           "pos": 20,
           "zona": "—"
         },
@@ -1587,6 +1587,25 @@
           "zona": "—"
         },
         {
+          "n": "Líder André 3",
+          "tag": "#GY0Q0VRL0",
+          "th": 17,
+          "atk": 5,
+          "est": 10,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 27,
+          "sof": 2.2,
+          "ndef": 5,
+          "seg": 3,
+          "idx": 55.6,
+          "idxb": 55.6,
+          "amostra": 100,
+          "mvp": 14,
+          "pos": 17,
+          "zona": "—"
+        },
+        {
           "n": "Meliodas NNT",
           "tag": "#2PLQG8UQU",
           "th": 17,
@@ -1602,7 +1621,7 @@
           "idxb": 55.6,
           "amostra": 100,
           "mvp": 12,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1621,7 +1640,7 @@
           "idxb": 55.6,
           "amostra": 100,
           "mvp": 12,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1640,7 +1659,7 @@
           "idxb": 54.2,
           "amostra": 80,
           "mvp": 12,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1659,7 +1678,7 @@
           "idxb": 53.4,
           "amostra": 100,
           "mvp": 12,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1678,25 +1697,6 @@
           "idxb": 51.6,
           "amostra": 60,
           "mvp": 7,
-          "pos": 21,
-          "zona": "—"
-        },
-        {
-          "n": "Líder André 3",
-          "tag": "#GY0Q0VRL0",
-          "th": 17,
-          "atk": 4,
-          "est": 8,
-          "spa": 2.0,
-          "conf": 80,
-          "def": 27,
-          "sof": 2.2,
-          "ndef": 5,
-          "seg": 3,
-          "idx": 51.5,
-          "idxb": 51.5,
-          "amostra": 80,
-          "mvp": 12,
           "pos": 22,
           "zona": "—"
         },
