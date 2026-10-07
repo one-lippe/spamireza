@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T04:00:33.095971Z",
+  "atualizado": "2026-10-07T04:11:48.223020Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1221,7 +1221,9 @@
               "nome": "ＬＵＭＩＮＯＵＳ",
               "tag": "#2LLYCQPG8",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {

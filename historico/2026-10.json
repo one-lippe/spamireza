@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T04:00:33.092865Z",
+  "atualizado": "2026-10-07T04:11:48.219809Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -376,6 +376,25 @@
           "zona": "promo"
         },
         {
+          "n": "ＬＵＭＩＮＯＵＳ",
+          "tag": "#2LLYCQPG8",
+          "th": 18,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 8,
+          "sof": 2.8,
+          "ndef": 4,
+          "seg": 1,
+          "idx": 76.8,
+          "idxb": 76.8,
+          "amostra": 100,
+          "mvp": 16,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
           "n": "Monesy",
           "tag": "#2YGJQG22G",
           "th": 18,
@@ -391,7 +410,7 @@
           "idxb": 74.9,
           "amostra": 100,
           "mvp": 16,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -406,11 +425,11 @@
           "sof": 2.2,
           "ndef": 4,
           "seg": 2,
-          "idx": 74.7,
+          "idx": 74.8,
           "idxb": 75.2,
           "amostra": 80,
           "mvp": 15,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -425,11 +444,11 @@
           "sof": 3.0,
           "ndef": 3,
           "seg": 0,
-          "idx": 74.2,
+          "idx": 74.3,
           "idxb": 75.2,
           "amostra": 60,
           "mvp": 9,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -448,7 +467,7 @@
           "idxb": 74.3,
           "amostra": 80,
           "mvp": 15,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -463,11 +482,11 @@
           "sof": 2.5,
           "ndef": 4,
           "seg": 2,
-          "idx": 73.4,
+          "idx": 73.5,
           "idxb": 73.6,
           "amostra": 80,
           "mvp": 14,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -486,7 +505,7 @@
           "idxb": 73.3,
           "amostra": 100,
           "mvp": 15,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -501,11 +520,11 @@
           "sof": 2.3,
           "ndef": 3,
           "seg": 1,
-          "idx": 73.2,
+          "idx": 73.3,
           "idxb": 73.5,
           "amostra": 60,
           "mvp": 11,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -520,35 +539,16 @@
           "sof": 2.6,
           "ndef": 5,
           "seg": 2,
-          "idx": 72.9,
+          "idx": 73.0,
           "idxb": 73.0,
           "amostra": 80,
           "mvp": 14,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
           "n": "KingMpg",
           "tag": "#22YJPYPCJ",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "seg": 1,
-          "idx": 72.1,
-          "idxb": 72.1,
-          "amostra": 80,
-          "mvp": 13,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "ＬＵＭＩＮＯＵＳ",
-          "tag": "#2LLYCQPG8",
           "th": 18,
           "atk": 4,
           "est": 12,
