@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T14:50:39.161290Z",
+  "atualizado": "2026-10-07T15:01:08.881458Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -680,7 +680,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "☆VILA DO PX ツ",
