@@ -3373,9 +3373,9 @@
         "inicio": "20261006T232107.000Z",
         "fim": "20261007T232107.000Z",
         "nos": {
-          "est": 23,
-          "destr": 56.666666666666664,
-          "atk": 9
+          "est": 26,
+          "destr": 63.333333333333336,
+          "atk": 10
         },
         "eles": {
           "est": 14,
@@ -3463,7 +3463,12 @@
             "tag": "#8UJY9C8RQ",
             "th": 18,
             "pos": 6,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -3645,16 +3650,6 @@
             "defesas": []
           },
           {
-            "nome": "TomorrowBr",
-            "tag": "#YPJLVPL9U",
-            "th": 18,
-            "pos": 3,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
             "nome": "MAJ0R FiV3",
             "tag": "#QRJL0RGQR",
             "th": 18,
@@ -3725,6 +3720,16 @@
             "defesas": []
           },
           {
+            "nome": "Monesy",
+            "tag": "#2YGJQG22G",
+            "th": 18,
+            "pos": 11,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
             "nome": "SR • DuM∆R",
             "tag": "#YQRJL098P",
             "th": 18,
@@ -3786,9 +3791,9 @@
       "inicio": "20261006T232107.000Z",
       "fim": "20261007T232107.000Z",
       "nos": {
-        "est": 23,
-        "destr": 56.666666666666664,
-        "atk": 9
+        "est": 26,
+        "destr": 63.333333333333336,
+        "atk": 10
       },
       "eles": {
         "est": 14,
@@ -3876,7 +3881,12 @@
           "tag": "#8UJY9C8RQ",
           "th": 18,
           "pos": 6,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -6661,9 +6671,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 38,
-          "destr": 44.733333333333334,
-          "atk": 14
+          "est": 40,
+          "destr": 47.96666666666667,
+          "atk": 15
         },
         "membros": [
           {
@@ -6747,9 +6757,14 @@
             "th": 18,
             "pos": 7,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 97,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 97
+              }
+            ]
           },
           {
             "nome": "PaiDeFamilia",
@@ -7404,9 +7419,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 38,
-        "destr": 44.733333333333334,
-        "atk": 14
+        "est": 40,
+        "destr": 47.96666666666667,
+        "atk": 15
       },
       "membros": [
         {
@@ -7490,9 +7505,14 @@
           "th": 18,
           "pos": 7,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 97,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 97
+            }
+          ]
         },
         {
           "nome": "PaiDeFamilia",
