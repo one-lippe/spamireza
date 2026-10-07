@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T18:50:41.935310Z",
+  "atualizado": "2026-10-07T18:55:31.304071Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -668,6 +668,25 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "Jan™",
+          "tag": "#CJV9G22Q",
+          "th": 17,
+          "atk": 4,
+          "est": 12,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 42,
+          "sof": 1.8,
+          "ndef": 4,
+          "seg": 3,
+          "idx": 79.6,
+          "idxb": 82.2,
+          "amostra": 80,
+          "mvp": 17,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "Coyote 171 × 戦備",
           "tag": "#Y08CR0PQU",
           "th": 18,
@@ -683,7 +702,7 @@
           "idxb": 79.0,
           "amostra": 100,
           "mvp": 18,
-          "pos": 1,
+          "pos": 2,
           "zona": "promo"
         },
         {
@@ -702,8 +721,8 @@
           "idxb": 76.0,
           "amostra": 100,
           "mvp": 18,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "BC NOELLE ✓",
@@ -721,7 +740,7 @@
           "idxb": 75.6,
           "amostra": 100,
           "mvp": 16,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -736,11 +755,11 @@
           "sof": 2.0,
           "ndef": 4,
           "seg": 2,
-          "idx": 74.8,
+          "idx": 74.9,
           "idxb": 76.3,
           "amostra": 80,
           "mvp": 15,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -759,7 +778,7 @@
           "idxb": 74.7,
           "amostra": 100,
           "mvp": 17,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -778,7 +797,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 15,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -797,7 +816,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 15,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -816,7 +835,7 @@
           "idxb": 74.1,
           "amostra": 100,
           "mvp": 16,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -835,7 +854,7 @@
           "idxb": 74.7,
           "amostra": 80,
           "mvp": 16,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -854,25 +873,6 @@
           "idxb": 73.5,
           "amostra": 100,
           "mvp": 16,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "Jan™",
-          "tag": "#CJV9G22Q",
-          "th": 17,
-          "atk": 3,
-          "est": 9,
-          "spa": 3.0,
-          "conf": 75,
-          "def": 42,
-          "sof": 1.8,
-          "ndef": 4,
-          "seg": 3,
-          "idx": 73.4,
-          "idxb": 76.3,
-          "amostra": 60,
-          "mvp": 14,
           "pos": 11,
           "zona": "—"
         },
@@ -888,7 +888,7 @@
           "sof": 2.3,
           "ndef": 3,
           "seg": 2,
-          "idx": 72.9,
+          "idx": 73.0,
           "idxb": 73.9,
           "amostra": 80,
           "mvp": 14,
