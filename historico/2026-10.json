@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T23:01:11.489068Z",
+  "atualizado": "2026-10-08T23:10:30.355420Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -839,6 +839,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • THIAGO",
+          "tag": "#89G0YGUJY",
+          "th": 18,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 6,
+          "seg": 2,
+          "idx": 73.6,
+          "idxb": 73.6,
+          "amostra": 100,
+          "mvp": 19,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
           "n": "PaiDeFamilia",
           "tag": "#2GCJ8QC92",
           "th": 18,
@@ -854,7 +873,7 @@
           "idxb": 73.6,
           "amostra": 100,
           "mvp": 19,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -873,7 +892,7 @@
           "idxb": 73.6,
           "amostra": 100,
           "mvp": 19,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -892,7 +911,7 @@
           "idxb": 73.6,
           "amostra": 100,
           "mvp": 19,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -911,7 +930,7 @@
           "idxb": 72.8,
           "amostra": 100,
           "mvp": 18,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -930,7 +949,7 @@
           "idxb": 72.8,
           "amostra": 100,
           "mvp": 20,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -949,7 +968,7 @@
           "idxb": 71.6,
           "amostra": 100,
           "mvp": 17,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -968,7 +987,7 @@
           "idxb": 71.6,
           "amostra": 100,
           "mvp": 17,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -987,7 +1006,7 @@
           "idxb": 71.7,
           "amostra": 83,
           "mvp": 17,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1006,7 +1025,7 @@
           "idxb": 71.6,
           "amostra": 83,
           "mvp": 16,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1025,25 +1044,6 @@
           "idxb": 69.8,
           "amostra": 100,
           "mvp": 17,
-          "pos": 19,
-          "zona": "—"
-        },
-        {
-          "n": "SR • THIAGO",
-          "tag": "#89G0YGUJY",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 6,
-          "seg": 2,
-          "idx": 69.2,
-          "idxb": 69.2,
-          "amostra": 83,
-          "mvp": 16,
           "pos": 20,
           "zona": "—"
         },
