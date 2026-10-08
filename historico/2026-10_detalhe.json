@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T01:30:40.120725Z",
+  "atualizado": "2026-10-08T01:40:48.778450Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3057,14 +3057,18 @@
               "nome": "BC NOELLE ✓",
               "tag": "#LCJ8JG09V",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
               "nome": "SR•InTheDark II",
               "tag": "#Q9PL0CUU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -4771,7 +4775,7 @@
               "tag": "#9CR0G200R",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
