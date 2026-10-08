@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T17:30:42.574723Z",
+  "atualizado": "2026-10-08T17:40:57.305252Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1465,7 +1465,7 @@
           "sof": 2.8,
           "ndef": 4,
           "seg": 1,
-          "idx": 63.2,
+          "idx": 63.3,
           "idxb": 64.3,
           "amostra": 83,
           "mvp": 16,
@@ -1758,6 +1758,25 @@
           "zona": "—"
         },
         {
+          "n": "@_Caibreck_",
+          "tag": "#2P8CU8QGR",
+          "th": 18,
+          "atk": 6,
+          "est": 9,
+          "spa": 1.5,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 4,
+          "seg": 2,
+          "idx": 46.3,
+          "idxb": 46.3,
+          "amostra": 100,
+          "mvp": 11,
+          "pos": 26,
+          "zona": "—"
+        },
+        {
           "n": "MonesyㅤNTJ",
           "tag": "#PRY0G98PG",
           "th": 16,
@@ -1773,7 +1792,7 @@
           "idxb": 45.6,
           "amostra": 83,
           "mvp": 10,
-          "pos": 26,
+          "pos": 27,
           "zona": "—"
         },
         {
@@ -1792,7 +1811,7 @@
           "idxb": 44.7,
           "amostra": 83,
           "mvp": 9,
-          "pos": 27,
+          "pos": 28,
           "zona": "—"
         },
         {
@@ -1811,7 +1830,7 @@
           "idxb": 44.6,
           "amostra": 50,
           "mvp": 7,
-          "pos": 28,
+          "pos": 29,
           "zona": "—"
         },
         {
@@ -1830,25 +1849,6 @@
           "idxb": 41.5,
           "amostra": 17,
           "mvp": 2,
-          "pos": 29,
-          "zona": "—"
-        },
-        {
-          "n": "@_Caibreck_",
-          "tag": "#2P8CU8QGR",
-          "th": 18,
-          "atk": 5,
-          "est": 7,
-          "spa": 1.4,
-          "conf": 83,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 4,
-          "seg": 2,
-          "idx": 41.4,
-          "idxb": 41.4,
-          "amostra": 83,
-          "mvp": 9,
           "pos": 30,
           "zona": "—"
         },
