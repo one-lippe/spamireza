@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T12:10:34.310142Z",
+  "atualizado": "2026-10-08T12:21:04.333462Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -763,7 +763,9 @@
               "nome": "tozim",
               "tag": "#9G22U9U2Y",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -816,7 +818,9 @@
               "nome": "MAJ0R FiV3",
               "tag": "#LCR9YQGYY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1586,14 +1590,18 @@
               "nome": "KingMpg",
               "tag": "#22YJPYPCJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
               "nome": "MAJ0R FiV3",
               "tag": "#QRJL0RGQR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -4781,7 +4789,7 @@
               "tag": "#PRY0G98PG",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "JRx3",
