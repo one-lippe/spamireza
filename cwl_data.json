@@ -7849,9 +7849,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 30,
-          "destr": 37.43333333333333,
-          "atk": 13
+          "est": 32,
+          "destr": 40.6,
+          "atk": 14
         },
         "membros": [
           {
@@ -8000,9 +8000,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 95,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 95
+              }
+            ]
           },
           {
             "nome": "NoBlitzz",
@@ -8607,9 +8612,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 30,
-        "destr": 37.43333333333333,
-        "atk": 13
+        "est": 32,
+        "destr": 40.6,
+        "atk": 14
       },
       "membros": [
         {
@@ -8758,9 +8763,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 95,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 95
+            }
+          ]
         },
         {
           "nome": "NoBlitzz",
