@@ -12007,9 +12007,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 49,
-          "destr": 55.7,
-          "atk": 17
+          "est": 55,
+          "destr": 62.36666666666667,
+          "atk": 19
         },
         "membros": [
           {
@@ -12093,9 +12093,14 @@
             "th": 17,
             "pos": 6,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Meliodas NNT",
@@ -12123,9 +12128,14 @@
             "th": 18,
             "pos": 8,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "PaulinhoPH",
@@ -12785,9 +12795,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 49,
-        "destr": 55.7,
-        "atk": 17
+        "est": 55,
+        "destr": 62.36666666666667,
+        "atk": 19
       },
       "membros": [
         {
@@ -12871,9 +12881,14 @@
           "th": 17,
           "pos": 6,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Meliodas NNT",
@@ -12901,9 +12916,14 @@
           "th": 18,
           "pos": 8,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "PaulinhoPH",
