@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T13:20:42.046087Z",
+  "atualizado": "2026-10-08T13:30:43.309745Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -4849,7 +4849,9 @@
               "nome": "Trainer Ronald",
               "tag": "#29LG09JGY",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
