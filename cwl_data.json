@@ -4160,9 +4160,9 @@
           "atk": 13
         },
         "eles": {
-          "est": 39,
-          "destr": 86.66666666666667,
-          "atk": 13
+          "est": 44,
+          "destr": 99.66666666666667,
+          "atk": 15
         },
         "membros": [
           {
@@ -4336,9 +4336,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 95,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 95
+              }
+            ]
           },
           {
             "nome": "Monesy",
@@ -4351,9 +4356,14 @@
                 "destr": 88
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • DuM∆R",
@@ -4633,9 +4643,9 @@
         "atk": 13
       },
       "eles": {
-        "est": 39,
-        "destr": 86.66666666666667,
-        "atk": 13
+        "est": 44,
+        "destr": 99.66666666666667,
+        "atk": 15
       },
       "membros": [
         {
@@ -4809,9 +4819,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 95,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 95
+            }
+          ]
         },
         {
           "nome": "Monesy",
@@ -4824,9 +4839,14 @@
               "destr": 88
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • DuM∆R",
@@ -8174,9 +8194,9 @@
         "inicio": "20261008T004648.000Z",
         "fim": "20261009T004648.000Z",
         "nos": {
-          "est": 51,
-          "destr": 61.9,
-          "atk": 19
+          "est": 53,
+          "destr": 64.33333333333333,
+          "atk": 20
         },
         "eles": {
           "est": 65,
@@ -8354,7 +8374,12 @@
             "tag": "#20UUPGPCV",
             "th": 18,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 73
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -9037,9 +9062,9 @@
       "inicio": "20261008T004648.000Z",
       "fim": "20261009T004648.000Z",
       "nos": {
-        "est": 51,
-        "destr": 61.9,
-        "atk": 19
+        "est": 53,
+        "destr": 64.33333333333333,
+        "atk": 20
       },
       "eles": {
         "est": 65,
@@ -9217,7 +9242,12 @@
           "tag": "#20UUPGPCV",
           "th": 18,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 73
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
