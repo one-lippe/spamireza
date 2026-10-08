@@ -7656,7 +7656,7 @@
       },
       {
         "warTag": "#8YR989GP2",
-        "state": "preparation",
+        "state": "inWar",
         "teamSize": 30,
         "adversario": "اللواء الرابع",
         "prep": "20261007T004651.000Z",
@@ -7978,7 +7978,7 @@
     ],
     "atual": {
       "warTag": "#8YR989GP2",
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 30,
       "adversario": "اللواء الرابع",
       "prep": "20261007T004651.000Z",
@@ -11476,9 +11476,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 25,
-          "destr": 29.033333333333335,
-          "atk": 9
+          "est": 28,
+          "destr": 32.36666666666667,
+          "atk": 10
         },
         "membros": [
           {
@@ -11747,9 +11747,14 @@
             "th": 15,
             "pos": 22,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "bobzin 2k26",
@@ -12194,9 +12199,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 25,
-        "destr": 29.033333333333335,
-        "atk": 9
+        "est": 28,
+        "destr": 32.36666666666667,
+        "atk": 10
       },
       "membros": [
         {
@@ -12465,9 +12470,14 @@
           "th": 15,
           "pos": 22,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "bobzin 2k26",
