@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T07:01:09.062969Z",
+  "atualizado": "2026-10-08T07:11:04.151776Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3083,7 +3083,7 @@
               "tag": "#LLLU0VQCL",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SrNunes",
@@ -3097,7 +3097,7 @@
               "tag": "#Y08CR0PQU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Sene",

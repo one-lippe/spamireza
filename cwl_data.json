@@ -7819,9 +7819,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 22,
-          "destr": 27.133333333333333,
-          "atk": 9
+          "est": 26,
+          "destr": 31.566666666666666,
+          "atk": 11
         },
         "membros": [
           {
@@ -7830,9 +7830,14 @@
             "th": 18,
             "pos": 1,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 76,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 76
+              }
+            ]
           },
           {
             "nome": "SrNunes",
@@ -7850,9 +7855,14 @@
             "th": 18,
             "pos": 3,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 57,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 57
+              }
+            ]
           },
           {
             "nome": "Sene",
@@ -8557,9 +8567,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 22,
-        "destr": 27.133333333333333,
-        "atk": 9
+        "est": 26,
+        "destr": 31.566666666666666,
+        "atk": 11
       },
       "membros": [
         {
@@ -8568,9 +8578,14 @@
           "th": 18,
           "pos": 1,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 76,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 76
+            }
+          ]
         },
         {
           "nome": "SrNunes",
@@ -8588,9 +8603,14 @@
           "th": 18,
           "pos": 3,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 57,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 57
+            }
+          ]
         },
         {
           "nome": "Sene",
