@@ -1710,9 +1710,9 @@
           "atk": 14
         },
         "eles": {
-          "est": 33,
-          "destr": 82.4,
-          "atk": 13
+          "est": 36,
+          "destr": 89.06666666666666,
+          "atk": 14
         },
         "membros": [
           {
@@ -1821,9 +1821,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • InTheDark☆",
@@ -2188,9 +2193,9 @@
         "atk": 14
       },
       "eles": {
-        "est": 33,
-        "destr": 82.4,
-        "atk": 13
+        "est": 36,
+        "destr": 89.06666666666666,
+        "atk": 14
       },
       "membros": [
         {
@@ -2299,9 +2304,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • InTheDark☆",

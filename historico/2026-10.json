@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T21:10:39.820326Z",
+  "atualizado": "2026-10-08T21:20:44.335948Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -217,25 +217,6 @@
           "zona": "—"
         },
         {
-          "n": "SR • JON SNOW",
-          "tag": "#LYV2J2LU",
-          "th": 18,
-          "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 100,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "seg": 1,
-          "idx": 77.3,
-          "idxb": 77.3,
-          "amostra": 100,
-          "mvp": 18,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
           "n": "tozim",
           "tag": "#9G22U9U2Y",
           "th": 18,
@@ -251,6 +232,25 @@
           "idxb": 77.1,
           "amostra": 83,
           "mvp": 14,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
+          "n": "SR • JON SNOW",
+          "tag": "#LYV2J2LU",
+          "th": 18,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 6,
+          "seg": 1,
+          "idx": 76.9,
+          "idxb": 76.9,
+          "amostra": 100,
+          "mvp": 18,
           "pos": 13,
           "zona": "—"
         },
