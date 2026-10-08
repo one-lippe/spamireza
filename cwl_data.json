@@ -8159,9 +8159,9 @@
           "atk": 16
         },
         "eles": {
-          "est": 62,
-          "destr": 73.93333333333334,
-          "atk": 24
+          "est": 65,
+          "destr": 77.26666666666667,
+          "atk": 25
         },
         "membros": [
           {
@@ -8485,9 +8485,14 @@
             "th": 18,
             "pos": 22,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "·Holtser Ω",
@@ -9002,9 +9007,9 @@
         "atk": 16
       },
       "eles": {
-        "est": 62,
-        "destr": 73.93333333333334,
-        "atk": 24
+        "est": 65,
+        "destr": 77.26666666666667,
+        "atk": 25
       },
       "membros": [
         {
@@ -9328,9 +9333,14 @@
           "th": 18,
           "pos": 22,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "·Holtser Ω",

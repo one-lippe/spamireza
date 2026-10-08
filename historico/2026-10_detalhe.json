@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T17:50:44.031547Z",
+  "atualizado": "2026-10-08T18:03:04.679426Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3274,7 +3274,7 @@
               "tag": "#PCGCJRLRJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "·Holtser Ω",
