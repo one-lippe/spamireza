@@ -7693,14 +7693,14 @@
         "inicio": "20261008T004648.000Z",
         "fim": "20261009T004648.000Z",
         "nos": {
-          "est": 19,
-          "destr": 22.766666666666666,
-          "atk": 7
+          "est": 21,
+          "destr": 25.866666666666667,
+          "atk": 8
         },
         "eles": {
-          "est": 7,
-          "destr": 9.666666666666666,
-          "atk": 3
+          "est": 8,
+          "destr": 11.933333333333334,
+          "atk": 4
         },
         "membros": [
           {
@@ -7759,9 +7759,14 @@
             "th": 18,
             "pos": 6,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 68,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 68
+              }
+            ]
           },
           {
             "nome": "SR • THIAGO",
@@ -8048,7 +8053,12 @@
             "tag": "#2QLGCJRJR",
             "th": 16,
             "pos": 32,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 93
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -8386,14 +8396,14 @@
       "inicio": "20261008T004648.000Z",
       "fim": "20261009T004648.000Z",
       "nos": {
-        "est": 19,
-        "destr": 22.766666666666666,
-        "atk": 7
+        "est": 21,
+        "destr": 25.866666666666667,
+        "atk": 8
       },
       "eles": {
-        "est": 7,
-        "destr": 9.666666666666666,
-        "atk": 3
+        "est": 8,
+        "destr": 11.933333333333334,
+        "atk": 4
       },
       "membros": [
         {
@@ -8452,9 +8462,14 @@
           "th": 18,
           "pos": 6,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 68,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 68
+            }
+          ]
         },
         {
           "nome": "SR • THIAGO",
@@ -8741,7 +8756,12 @@
           "tag": "#2QLGCJRJR",
           "th": 16,
           "pos": 32,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 93
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -11922,14 +11942,14 @@
         "inicio": "20261007T233434.000Z",
         "fim": "20261008T233434.000Z",
         "nos": {
-          "est": 20,
-          "destr": 23.066666666666666,
-          "atk": 7
+          "est": 22,
+          "destr": 25.933333333333334,
+          "atk": 8
         },
         "eles": {
-          "est": 37,
-          "destr": 42.36666666666667,
-          "atk": 13
+          "est": 40,
+          "destr": 45.7,
+          "atk": 14
         },
         "membros": [
           {
@@ -12082,7 +12102,12 @@
             "tag": "#GJ9L0YPRU",
             "th": 17,
             "pos": 12,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 86
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -12198,9 +12223,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Chefex",
@@ -12665,14 +12695,14 @@
       "inicio": "20261007T233434.000Z",
       "fim": "20261008T233434.000Z",
       "nos": {
-        "est": 20,
-        "destr": 23.066666666666666,
-        "atk": 7
+        "est": 22,
+        "destr": 25.933333333333334,
+        "atk": 8
       },
       "eles": {
-        "est": 37,
-        "destr": 42.36666666666667,
-        "atk": 13
+        "est": 40,
+        "destr": 45.7,
+        "atk": 14
       },
       "membros": [
         {
@@ -12825,7 +12855,12 @@
           "tag": "#GJ9L0YPRU",
           "th": 17,
           "pos": 12,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 86
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -12941,9 +12976,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Chefex",
