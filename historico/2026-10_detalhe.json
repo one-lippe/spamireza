@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T09:00:41.930771Z",
+  "atualizado": "2026-10-08T09:11:50.984821Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -738,7 +738,9 @@
               "nome": "Levi_Neiva",
               "tag": "#C8R989YJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -4780,7 +4782,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GPM Level 1",

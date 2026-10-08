@@ -1705,9 +1705,9 @@
         "inicio": "20261008T060125.000Z",
         "fim": "20261009T060125.000Z",
         "nos": {
-          "est": 9,
-          "destr": 20.0,
-          "atk": 3
+          "est": 12,
+          "destr": 26.666666666666668,
+          "atk": 4
         },
         "eles": {
           "est": 0,
@@ -1730,7 +1730,12 @@
             "tag": "#C8R989YJ",
             "th": 18,
             "pos": 2,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -2063,9 +2068,9 @@
       "inicio": "20261008T060125.000Z",
       "fim": "20261009T060125.000Z",
       "nos": {
-        "est": 9,
-        "destr": 20.0,
-        "atk": 3
+        "est": 12,
+        "destr": 26.666666666666668,
+        "atk": 4
       },
       "eles": {
         "est": 0,
@@ -2088,7 +2093,12 @@
           "tag": "#C8R989YJ",
           "th": 18,
           "pos": 2,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -12198,9 +12208,9 @@
           "atk": 13
         },
         "eles": {
-          "est": 58,
-          "destr": 65.7,
-          "atk": 20
+          "est": 61,
+          "destr": 69.03333333333333,
+          "atk": 21
         },
         "membros": [
           {
@@ -12379,9 +12389,14 @@
                 "destr": 86
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "GPM Level 1",
@@ -13006,9 +13021,9 @@
         "atk": 13
       },
       "eles": {
-        "est": 58,
-        "destr": 65.7,
-        "atk": 20
+        "est": 61,
+        "destr": 69.03333333333333,
+        "atk": 21
       },
       "membros": [
         {
@@ -13187,9 +13202,14 @@
               "destr": 86
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "GPM Level 1",
