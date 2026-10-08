@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T10:00:54.249034Z",
+  "atualizado": "2026-10-08T10:11:09.673179Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -217,6 +217,25 @@
           "zona": "—"
         },
         {
+          "n": "Dog Apollo",
+          "tag": "#YJ9R2GPJG",
+          "th": 18,
+          "atk": 5,
+          "est": 12,
+          "spa": 2.4,
+          "conf": 100,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "seg": 2,
+          "idx": 72.4,
+          "idxb": 72.4,
+          "amostra": 83,
+          "mvp": 14,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
           "n": "SR • JON SNOW",
           "tag": "#LYV2J2LU",
           "th": 18,
@@ -232,25 +251,6 @@
           "idxb": 71.9,
           "amostra": 83,
           "mvp": 15,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "Dog Apollo",
-          "tag": "#YJ9R2GPJG",
-          "th": 18,
-          "atk": 5,
-          "est": 12,
-          "spa": 2.4,
-          "conf": 100,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "seg": 1,
-          "idx": 71.4,
-          "idxb": 71.4,
-          "amostra": 83,
-          "mvp": 13,
           "pos": 13,
           "zona": "—"
         },

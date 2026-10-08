@@ -1710,9 +1710,9 @@
           "atk": 5
         },
         "eles": {
-          "est": 8,
-          "destr": 19.866666666666667,
-          "atk": 3
+          "est": 10,
+          "destr": 26.066666666666666,
+          "atk": 4
         },
         "membros": [
           {
@@ -1771,9 +1771,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 93,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 93
+              }
+            ]
           },
           {
             "nome": "tozim",
@@ -2093,9 +2098,9 @@
         "atk": 5
       },
       "eles": {
-        "est": 8,
-        "destr": 19.866666666666667,
-        "atk": 3
+        "est": 10,
+        "destr": 26.066666666666666,
+        "atk": 4
       },
       "membros": [
         {
@@ -2154,9 +2159,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 93,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 93
+            }
+          ]
         },
         {
           "nome": "tozim",
