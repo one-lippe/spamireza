@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T20:30:40.367756Z",
+  "atualizado": "2026-10-08T20:40:38.494065Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -849,7 +849,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "matias?",
@@ -3279,7 +3279,9 @@
               "nome": "abraão",
               "tag": "#PCGCJRLRJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
