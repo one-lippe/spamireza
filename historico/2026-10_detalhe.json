@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T01:50:59.146578Z",
+  "atualizado": "2026-10-08T02:00:41.708295Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3122,7 +3122,7 @@
               "tag": "#CJV9G22Q",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "Nesk'",
@@ -3151,7 +3151,9 @@
               "nome": ";-;REI DELAS;-;",
               "tag": "#Q2U92YRQ9",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -4657,7 +4659,7 @@
               "tag": "#G8C9VLYVC",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Eduhh",
@@ -4746,7 +4748,9 @@
               "nome": "Tio Marginal",
               "tag": "#GUYRGQGYJ",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {

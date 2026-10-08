@@ -7693,14 +7693,14 @@
         "inicio": "20261008T004648.000Z",
         "fim": "20261009T004648.000Z",
         "nos": {
-          "est": 17,
-          "destr": 19.6,
-          "atk": 6
+          "est": 19,
+          "destr": 22.766666666666666,
+          "atk": 7
         },
         "eles": {
-          "est": 6,
-          "destr": 6.666666666666667,
-          "atk": 2
+          "est": 7,
+          "destr": 9.666666666666666,
+          "atk": 3
         },
         "membros": [
           {
@@ -7959,9 +7959,14 @@
             "th": 17,
             "pos": 25,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 90,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 90
+              }
+            ]
           },
           {
             "nome": "Nesk'",
@@ -8008,7 +8013,12 @@
             "tag": "#Q2U92YRQ9",
             "th": 17,
             "pos": 29,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 95
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -8376,14 +8386,14 @@
       "inicio": "20261008T004648.000Z",
       "fim": "20261009T004648.000Z",
       "nos": {
-        "est": 17,
-        "destr": 19.6,
-        "atk": 6
+        "est": 19,
+        "destr": 22.766666666666666,
+        "atk": 7
       },
       "eles": {
-        "est": 6,
-        "destr": 6.666666666666667,
-        "atk": 2
+        "est": 7,
+        "destr": 9.666666666666666,
+        "atk": 3
       },
       "membros": [
         {
@@ -8642,9 +8652,14 @@
           "th": 17,
           "pos": 25,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 90,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 90
+            }
+          ]
         },
         {
           "nome": "Nesk'",
@@ -8691,7 +8706,12 @@
           "tag": "#Q2U92YRQ9",
           "th": 17,
           "pos": 29,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 95
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -11902,14 +11922,14 @@
         "inicio": "20261007T233434.000Z",
         "fim": "20261008T233434.000Z",
         "nos": {
-          "est": 17,
-          "destr": 19.733333333333334,
-          "atk": 6
+          "est": 20,
+          "destr": 23.066666666666666,
+          "atk": 7
         },
         "eles": {
-          "est": 34,
-          "destr": 39.03333333333333,
-          "atk": 12
+          "est": 37,
+          "destr": 42.36666666666667,
+          "atk": 13
         },
         "membros": [
           {
@@ -12088,9 +12108,14 @@
             "th": 17,
             "pos": 14,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Eduhh",
@@ -12242,7 +12267,12 @@
             "tag": "#GUYRGQGYJ",
             "th": 15,
             "pos": 27,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -12635,14 +12665,14 @@
       "inicio": "20261007T233434.000Z",
       "fim": "20261008T233434.000Z",
       "nos": {
-        "est": 17,
-        "destr": 19.733333333333334,
-        "atk": 6
+        "est": 20,
+        "destr": 23.066666666666666,
+        "atk": 7
       },
       "eles": {
-        "est": 34,
-        "destr": 39.03333333333333,
-        "atk": 12
+        "est": 37,
+        "destr": 42.36666666666667,
+        "atk": 13
       },
       "membros": [
         {
@@ -12821,9 +12851,14 @@
           "th": 17,
           "pos": 14,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Eduhh",
@@ -12975,7 +13010,12 @@
           "tag": "#GUYRGQGYJ",
           "th": 15,
           "pos": 27,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
