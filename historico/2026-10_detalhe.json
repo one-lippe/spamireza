@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T17:26:46.841383Z",
+  "atualizado": "2026-10-08T17:30:42.654117Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -4813,7 +4813,9 @@
               "nome": "Gerion",
               "tag": "#YP9L000LG",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {

@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T17:26:46.838667Z",
+  "atualizado": "2026-10-08T17:30:42.574723Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1340,6 +1340,25 @@
           "zona": "—"
         },
         {
+          "n": "Gerion",
+          "tag": "#YP9L000LG",
+          "th": 16,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 7,
+          "seg": 4,
+          "idx": 66.9,
+          "idxb": 66.9,
+          "amostra": 100,
+          "mvp": 23,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
           "n": "unshaken",
           "tag": "#QL89UQ0Q9",
           "th": 14,
@@ -1355,7 +1374,7 @@
           "idxb": 66.1,
           "amostra": 100,
           "mvp": 19,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -1374,7 +1393,7 @@
           "idxb": 65.7,
           "amostra": 100,
           "mvp": 19,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -1393,7 +1412,7 @@
           "idxb": 65.0,
           "amostra": 100,
           "mvp": 18,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -1412,7 +1431,7 @@
           "idxb": 65.0,
           "amostra": 100,
           "mvp": 20,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -1431,7 +1450,7 @@
           "idxb": 65.7,
           "amostra": 83,
           "mvp": 18,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -1450,7 +1469,7 @@
           "idxb": 64.3,
           "amostra": 83,
           "mvp": 16,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -1465,29 +1484,10 @@
           "sof": 3.0,
           "ndef": 5,
           "seg": 0,
-          "idx": 62.0,
+          "idx": 62.1,
           "idxb": 62.9,
           "amostra": 83,
           "mvp": 15,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "Gerion",
-          "tag": "#YP9L000LG",
-          "th": 16,
-          "atk": 5,
-          "est": 13,
-          "spa": 2.6,
-          "conf": 83,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 7,
-          "seg": 4,
-          "idx": 61.6,
-          "idxb": 62.4,
-          "amostra": 83,
-          "mvp": 20,
           "pos": 11,
           "zona": "—"
         },
@@ -1522,7 +1522,7 @@
           "sof": 2.4,
           "ndef": 5,
           "seg": 3,
-          "idx": 61.1,
+          "idx": 61.2,
           "idxb": 62.8,
           "amostra": 67,
           "mvp": 15,
@@ -1541,7 +1541,7 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 61.0,
+          "idx": 61.1,
           "idxb": 61.7,
           "amostra": 83,
           "mvp": 15,
