@@ -4509,7 +4509,7 @@
       },
       {
         "warTag": "#8GVV29PP0",
-        "state": "preparation",
+        "state": "inWar",
         "teamSize": 15,
         "adversario": "IMPÉRIO II",
         "prep": "20261007T234718.000Z",
@@ -4681,7 +4681,7 @@
     ],
     "atual": {
       "warTag": "#8GVV29PP0",
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 15,
       "adversario": "IMPÉRIO II",
       "prep": "20261007T234718.000Z",
@@ -8104,9 +8104,9 @@
         "inicio": "20261008T004648.000Z",
         "fim": "20261009T004648.000Z",
         "nos": {
-          "est": 70,
-          "destr": 83.53333333333333,
-          "atk": 27
+          "est": 71,
+          "destr": 86.0,
+          "atk": 28
         },
         "eles": {
           "est": 76,
@@ -8369,7 +8369,12 @@
             "tag": "#RP8VCCUV",
             "th": 18,
             "pos": 15,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 74
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 98,
             "defesas": [
@@ -9027,9 +9032,9 @@
       "inicio": "20261008T004648.000Z",
       "fim": "20261009T004648.000Z",
       "nos": {
-        "est": 70,
-        "destr": 83.53333333333333,
-        "atk": 27
+        "est": 71,
+        "destr": 86.0,
+        "atk": 28
       },
       "eles": {
         "est": 76,
@@ -9292,7 +9297,12 @@
           "tag": "#RP8VCCUV",
           "th": 18,
           "pos": 15,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 74
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 98,
           "defesas": [
@@ -13409,9 +13419,9 @@
           "atk": 0
         },
         "eles": {
-          "est": 0,
-          "destr": 0.0,
-          "atk": 0
+          "est": 5,
+          "destr": 6.633333333333334,
+          "atk": 2
         },
         "membros": [
           {
@@ -13430,9 +13440,14 @@
             "th": 18,
             "pos": 2,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 99,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 99
+              }
+            ]
           },
           {
             "nome": "@_Caibreck_",
@@ -13580,9 +13595,14 @@
             "th": 16,
             "pos": 17,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "GHOSTSX",
@@ -13731,9 +13751,9 @@
         "atk": 0
       },
       "eles": {
-        "est": 0,
-        "destr": 0.0,
-        "atk": 0
+        "est": 5,
+        "destr": 6.633333333333334,
+        "atk": 2
       },
       "membros": [
         {
@@ -13752,9 +13772,14 @@
           "th": 18,
           "pos": 2,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 99,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 99
+            }
+          ]
         },
         {
           "nome": "@_Caibreck_",
@@ -13902,9 +13927,14 @@
           "th": 16,
           "pos": 17,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "GHOSTSX",

@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T23:40:37.898454Z",
+  "atualizado": "2026-10-08T23:50:35.550597Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1725,6 +1725,119 @@
               "def_est": 3
             }
           ]
+        },
+        {
+          "g": 7,
+          "vs": "IMPÉRIO II",
+          "state": "inWar",
+          "size": 15,
+          "jogadores": [
+            {
+              "nome": "SR - JON SNOW 2",
+              "tag": "#9VV909C89",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "KingMpg",
+              "tag": "#22YJPYPCJ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "TomorrowBr",
+              "tag": "#YPJLVPL9U",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "MAJ0R FiV3",
+              "tag": "#QRJL0RGQR",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR•GOD kratos",
+              "tag": "#LUJ9CRJQG",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • Balestra",
+              "tag": "#8UJY9C8RQ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "ＬＵＭＩＮＯＵＳ",
+              "tag": "#2LLYCQPG8",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Levi_Neiva 2",
+              "tag": "#90GRYGJVP",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR . Kcatoyo",
+              "tag": "#20GJVUJLU",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • DuM∆R",
+              "tag": "#YQRJL098P",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "dvnly",
+              "tag": "#QR2JLQ2RR",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "⭐️Dog Apollo⭐️",
+              "tag": "#9LPJP9YPQ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Ligeirinh0xD",
+              "tag": "#GRR2G9LP0",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Sra Nunes",
+              "tag": "#22JQULR22",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • Dennis",
+              "tag": "#82R9VYVGY",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            }
+          ]
         }
       ]
     },
@@ -3239,7 +3352,9 @@
               "nome": "rei do crime",
               "tag": "#RP8VCCUV",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 2
             },
             {
@@ -5054,7 +5169,7 @@
               "tag": "#LJLRGUULY",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "@_Caibreck_",
@@ -5159,7 +5274,7 @@
               "tag": "#29LG09JGY",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GHOSTSX",
