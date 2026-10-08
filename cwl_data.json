@@ -8259,9 +8259,9 @@
           "atk": 25
         },
         "eles": {
-          "est": 73,
-          "destr": 87.2,
-          "atk": 28
+          "est": 76,
+          "destr": 90.53333333333333,
+          "atk": 29
         },
         "membros": [
           {
@@ -8610,9 +8610,14 @@
                 "destr": 78
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "abraão",
@@ -9167,9 +9172,9 @@
         "atk": 25
       },
       "eles": {
-        "est": 73,
-        "destr": 87.2,
-        "atk": 28
+        "est": 76,
+        "destr": 90.53333333333333,
+        "atk": 29
       },
       "membros": [
         {
@@ -9518,9 +9523,14 @@
               "destr": 78
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "abraão",
@@ -12913,14 +12923,14 @@
         "inicio": "20261007T233434.000Z",
         "fim": "20261008T233434.000Z",
         "nos": {
-          "est": 57,
-          "destr": 65.4,
-          "atk": 21
+          "est": 59,
+          "destr": 68.53333333333333,
+          "atk": 22
         },
         "eles": {
-          "est": 76,
-          "destr": 85.7,
-          "atk": 26
+          "est": 79,
+          "destr": 89.03333333333333,
+          "atk": 27
         },
         "membros": [
           {
@@ -12998,7 +13008,12 @@
             "tag": "#GRRYUUGJ2",
             "th": 17,
             "pos": 5,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 94
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -13434,9 +13449,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Najla Nunes",
@@ -13791,14 +13811,14 @@
       "inicio": "20261007T233434.000Z",
       "fim": "20261008T233434.000Z",
       "nos": {
-        "est": 57,
-        "destr": 65.4,
-        "atk": 21
+        "est": 59,
+        "destr": 68.53333333333333,
+        "atk": 22
       },
       "eles": {
-        "est": 76,
-        "destr": 85.7,
-        "atk": 26
+        "est": 79,
+        "destr": 89.03333333333333,
+        "atk": 27
       },
       "membros": [
         {
@@ -13876,7 +13896,12 @@
           "tag": "#GRRYUUGJ2",
           "th": 17,
           "pos": 5,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 94
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -14312,9 +14337,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Najla Nunes",
