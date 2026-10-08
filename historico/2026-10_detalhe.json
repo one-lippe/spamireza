@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T02:20:37.909654Z",
+  "atualizado": "2026-10-08T02:30:47.094827Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1501,7 +1501,9 @@
               "nome": "Levi_Neiva 2",
               "tag": "#90GRYGJVP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3137,7 +3139,9 @@
               "nome": "THE KING ⚡",
               "tag": "#Y2CL88YQ9",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -4740,7 +4744,9 @@
               "nome": "lipe",
               "tag": "#Q289QJUJC",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
