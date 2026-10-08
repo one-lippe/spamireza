@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T21:30:38.491957Z",
+  "atualizado": "2026-10-08T21:40:38.847917Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3364,7 +3364,9 @@
               "nome": "SR • JotaErre",
               "tag": "#GRUG8UQGV",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -4956,7 +4958,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "scamador'd'calv",

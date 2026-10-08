@@ -8244,9 +8244,9 @@
         "inicio": "20261008T004648.000Z",
         "fim": "20261009T004648.000Z",
         "nos": {
-          "est": 62,
-          "destr": 74.1,
-          "atk": 24
+          "est": 64,
+          "destr": 76.86666666666666,
+          "atk": 25
         },
         "eles": {
           "est": 70,
@@ -8779,7 +8779,12 @@
             "tag": "#GRUG8UQGV",
             "th": 16,
             "pos": 31,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 83
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -9142,9 +9147,9 @@
       "inicio": "20261008T004648.000Z",
       "fim": "20261009T004648.000Z",
       "nos": {
-        "est": 62,
-        "destr": 74.1,
-        "atk": 24
+        "est": 64,
+        "destr": 76.86666666666666,
+        "atk": 25
       },
       "eles": {
         "est": 70,
@@ -9677,7 +9682,12 @@
           "tag": "#GRUG8UQGV",
           "th": 16,
           "pos": 31,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 83
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -12888,9 +12898,9 @@
           "atk": 20
         },
         "eles": {
-          "est": 73,
-          "destr": 82.36666666666666,
-          "atk": 25
+          "est": 76,
+          "destr": 85.7,
+          "atk": 26
         },
         "membros": [
           {
@@ -13319,9 +13329,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "scamador'd'calv",
@@ -13756,9 +13771,9 @@
         "atk": 20
       },
       "eles": {
-        "est": 73,
-        "destr": 82.36666666666666,
-        "atk": 25
+        "est": 76,
+        "destr": 85.7,
+        "atk": 26
       },
       "membros": [
         {
@@ -14187,9 +14202,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "scamador'd'calv",

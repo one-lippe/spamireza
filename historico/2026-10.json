@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T21:30:38.488784Z",
+  "atualizado": "2026-10-08T21:40:38.844443Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -782,6 +782,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • JotaErre",
+          "tag": "#GRUG8UQGV",
+          "th": 16,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 20,
+          "sof": 2.4,
+          "ndef": 5,
+          "seg": 3,
+          "idx": 75.3,
+          "idxb": 75.3,
+          "amostra": 100,
+          "mvp": 20,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
           "n": "SrNunes",
           "tag": "#2LY8G8Y9",
           "th": 18,
@@ -797,7 +816,7 @@
           "idxb": 74.7,
           "amostra": 100,
           "mvp": 20,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -816,7 +835,7 @@
           "idxb": 73.6,
           "amostra": 100,
           "mvp": 19,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -835,7 +854,7 @@
           "idxb": 73.6,
           "amostra": 100,
           "mvp": 19,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -854,7 +873,7 @@
           "idxb": 73.6,
           "amostra": 100,
           "mvp": 19,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -873,25 +892,6 @@
           "idxb": 73.6,
           "amostra": 100,
           "mvp": 19,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "SR • JotaErre",
-          "tag": "#GRUG8UQGV",
-          "th": 16,
-          "atk": 5,
-          "est": 15,
-          "spa": 3.0,
-          "conf": 83,
-          "def": 20,
-          "sof": 2.4,
-          "ndef": 5,
-          "seg": 3,
-          "idx": 73.4,
-          "idxb": 74.2,
-          "amostra": 83,
-          "mvp": 18,
           "pos": 12,
           "zona": "—"
         },
@@ -972,6 +972,25 @@
           "zona": "—"
         },
         {
+          "n": "Agnes",
+          "tag": "#LLLU0VQCL",
+          "th": 18,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 83,
+          "def": 6,
+          "sof": 2.8,
+          "ndef": 6,
+          "seg": 1,
+          "idx": 71.3,
+          "idxb": 71.6,
+          "amostra": 83,
+          "mvp": 16,
+          "pos": 17,
+          "zona": "—"
+        },
+        {
           "n": "bebo lendário",
           "tag": "#2QLGCJRJR",
           "th": 16,
@@ -987,25 +1006,6 @@
           "idxb": 71.7,
           "amostra": 83,
           "mvp": 17,
-          "pos": 17,
-          "zona": "—"
-        },
-        {
-          "n": "Agnes",
-          "tag": "#LLLU0VQCL",
-          "th": 18,
-          "atk": 5,
-          "est": 15,
-          "spa": 3.0,
-          "conf": 83,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
-          "seg": 1,
-          "idx": 71.2,
-          "idxb": 71.6,
-          "amostra": 83,
-          "mvp": 16,
           "pos": 18,
           "zona": "—"
         },
@@ -1729,7 +1729,7 @@
           "conf": 83,
           "def": 0,
           "sof": 3.0,
-          "ndef": 3,
+          "ndef": 4,
           "seg": 0,
           "idx": 50.8,
           "idxb": 50.8,
