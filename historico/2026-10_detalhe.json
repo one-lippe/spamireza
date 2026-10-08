@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T17:01:04.153021Z",
+  "atualizado": "2026-10-08T17:11:42.106407Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1699,7 +1699,9 @@
               "nome": "Ligeirinh0xD",
               "tag": "#GRR2G9LP0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -4857,7 +4859,9 @@
               "nome": "Wilson z2",
               "tag": "#2RLG220GY",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
