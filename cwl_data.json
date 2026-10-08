@@ -8214,14 +8214,14 @@
         "inicio": "20261008T004648.000Z",
         "fim": "20261009T004648.000Z",
         "nos": {
-          "est": 55,
-          "destr": 66.33333333333333,
-          "atk": 21
+          "est": 60,
+          "destr": 72.26666666666667,
+          "atk": 23
         },
         "eles": {
-          "est": 65,
-          "destr": 77.26666666666667,
-          "atk": 25
+          "est": 68,
+          "destr": 80.6,
+          "atk": 26
         },
         "membros": [
           {
@@ -8304,7 +8304,12 @@
             "tag": "#YVU0L88P",
             "th": 18,
             "pos": 5,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 88,
             "defesas": [
@@ -8505,9 +8510,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • The off",
@@ -8549,7 +8559,12 @@
             "tag": "#P2JCQRPGJ",
             "th": 18,
             "pos": 21,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 78
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -9087,14 +9102,14 @@
       "inicio": "20261008T004648.000Z",
       "fim": "20261009T004648.000Z",
       "nos": {
-        "est": 55,
-        "destr": 66.33333333333333,
-        "atk": 21
+        "est": 60,
+        "destr": 72.26666666666667,
+        "atk": 23
       },
       "eles": {
-        "est": 65,
-        "destr": 77.26666666666667,
-        "atk": 25
+        "est": 68,
+        "destr": 80.6,
+        "atk": 26
       },
       "membros": [
         {
@@ -9177,7 +9192,12 @@
           "tag": "#YVU0L88P",
           "th": 18,
           "pos": 5,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 88,
           "defesas": [
@@ -9378,9 +9398,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • The off",
@@ -9422,7 +9447,12 @@
           "tag": "#P2JCQRPGJ",
           "th": 18,
           "pos": 21,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 78
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []

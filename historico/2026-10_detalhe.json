@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T20:51:08.923608Z",
+  "atualizado": "2026-10-08T21:01:13.963894Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3154,7 +3154,9 @@
               "nome": "LSWRTH",
               "tag": "#YVU0L88P",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -3250,7 +3252,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • The off",
@@ -3272,7 +3274,9 @@
               "nome": "irmão do jorel",
               "tag": "#P2JCQRPGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
