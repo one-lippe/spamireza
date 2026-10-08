@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T18:20:54.523388Z",
+  "atualizado": "2026-10-08T18:30:41.853986Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -592,12 +592,12 @@
           "est": 10,
           "spa": 2.5,
           "conf": 100,
-          "def": 22,
-          "sof": 2.3,
-          "ndef": 3,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 4,
           "seg": 1,
-          "idx": 70.8,
-          "idxb": 70.8,
+          "idx": 69.7,
+          "idxb": 69.7,
           "amostra": 67,
           "mvp": 12,
           "pos": 14,
@@ -668,6 +668,25 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "Coyote 171 × 戦備",
+          "tag": "#Y08CR0PQU",
+          "th": 18,
+          "atk": 6,
+          "est": 18,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 28,
+          "sof": 2.2,
+          "ndef": 6,
+          "seg": 4,
+          "idx": 79.6,
+          "idxb": 79.6,
+          "amostra": 100,
+          "mvp": 23,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "SR•InTheDark II",
           "tag": "#Q9PL0CUU",
           "th": 18,
@@ -683,7 +702,7 @@
           "idxb": 79.4,
           "amostra": 100,
           "mvp": 22,
-          "pos": 1,
+          "pos": 2,
           "zona": "promo"
         },
         {
@@ -702,8 +721,8 @@
           "idxb": 75.4,
           "amostra": 100,
           "mvp": 19,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "F4KER",
@@ -721,7 +740,7 @@
           "idxb": 75.4,
           "amostra": 100,
           "mvp": 19,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -740,7 +759,7 @@
           "idxb": 75.3,
           "amostra": 100,
           "mvp": 20,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -755,11 +774,11 @@
           "sof": 1.6,
           "ndef": 5,
           "seg": 4,
-          "idx": 75.1,
+          "idx": 75.2,
           "idxb": 78.4,
           "amostra": 67,
           "mvp": 19,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -778,26 +797,26 @@
           "idxb": 74.7,
           "amostra": 100,
           "mvp": 20,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
-          "n": "Coyote 171 × 戦備",
-          "tag": "#Y08CR0PQU",
+          "n": "Coyote 157 × 戦備",
+          "tag": "#G0GGQRP9V",
           "th": 18,
-          "atk": 5,
-          "est": 15,
-          "spa": 3.0,
-          "conf": 83,
-          "def": 28,
-          "sof": 2.2,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
           "ndef": 6,
-          "seg": 4,
-          "idx": 74.5,
-          "idxb": 75.7,
-          "amostra": 83,
-          "mvp": 20,
-          "pos": 7,
+          "seg": 1,
+          "idx": 73.6,
+          "idxb": 73.6,
+          "amostra": 100,
+          "mvp": 19,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -816,7 +835,7 @@
           "idxb": 73.6,
           "amostra": 100,
           "mvp": 19,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -835,7 +854,7 @@
           "idxb": 73.6,
           "amostra": 100,
           "mvp": 19,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -854,7 +873,7 @@
           "idxb": 73.6,
           "amostra": 100,
           "mvp": 19,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -873,7 +892,7 @@
           "idxb": 74.2,
           "amostra": 83,
           "mvp": 18,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -892,7 +911,7 @@
           "idxb": 72.8,
           "amostra": 100,
           "mvp": 18,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -911,7 +930,7 @@
           "idxb": 71.6,
           "amostra": 100,
           "mvp": 17,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -930,7 +949,26 @@
           "idxb": 71.6,
           "amostra": 100,
           "mvp": 17,
-          "pos": 14,
+          "pos": 15,
+          "zona": "—"
+        },
+        {
+          "n": "Agnes",
+          "tag": "#LLLU0VQCL",
+          "th": 18,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 83,
+          "def": 6,
+          "sof": 2.8,
+          "ndef": 6,
+          "seg": 1,
+          "idx": 71.2,
+          "idxb": 71.6,
+          "amostra": 83,
+          "mvp": 16,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -949,26 +987,7 @@
           "idxb": 71.7,
           "amostra": 83,
           "mvp": 17,
-          "pos": 15,
-          "zona": "—"
-        },
-        {
-          "n": "Agnes",
-          "tag": "#LLLU0VQCL",
-          "th": 18,
-          "atk": 5,
-          "est": 15,
-          "spa": 3.0,
-          "conf": 83,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
-          "seg": 1,
-          "idx": 71.1,
-          "idxb": 71.6,
-          "amostra": 83,
-          "mvp": 16,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -987,7 +1006,7 @@
           "idxb": 71.2,
           "amostra": 83,
           "mvp": 18,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1006,25 +1025,6 @@
           "idxb": 69.8,
           "amostra": 100,
           "mvp": 17,
-          "pos": 18,
-          "zona": "—"
-        },
-        {
-          "n": "Coyote 157 × 戦備",
-          "tag": "#G0GGQRP9V",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 6,
-          "seg": 1,
-          "idx": 69.1,
-          "idxb": 69.2,
-          "amostra": 83,
-          "mvp": 16,
           "pos": 19,
           "zona": "—"
         },
@@ -1040,7 +1040,7 @@
           "sof": 2.7,
           "ndef": 6,
           "seg": 2,
-          "idx": 69.1,
+          "idx": 69.2,
           "idxb": 69.2,
           "amostra": 83,
           "mvp": 16,

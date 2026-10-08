@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T18:20:54.526779Z",
+  "atualizado": "2026-10-08T18:30:41.857181Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1711,7 +1711,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Dennis",
@@ -3136,7 +3136,9 @@
               "nome": "Coyote 171 × 戦備",
               "tag": "#Y08CR0PQU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -3159,7 +3161,9 @@
               "nome": "Coyote 157 × 戦備",
               "tag": "#G0GGQRP9V",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 1
             },
             {
