@@ -7839,9 +7839,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 28,
-          "destr": 34.5,
-          "atk": 12
+          "est": 30,
+          "destr": 37.43333333333333,
+          "atk": 13
         },
         "membros": [
           {
@@ -7905,9 +7905,14 @@
             "th": 18,
             "pos": 5,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 88,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 88
+              }
+            ]
           },
           {
             "nome": "Coyote 157 × 戦備",
@@ -8592,9 +8597,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 28,
-        "destr": 34.5,
-        "atk": 12
+        "est": 30,
+        "destr": 37.43333333333333,
+        "atk": 13
       },
       "membros": [
         {
@@ -8658,9 +8663,14 @@
           "th": 18,
           "pos": 5,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 88,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 88
+            }
+          ]
         },
         {
           "nome": "Coyote 157 × 戦備",
@@ -12183,9 +12193,9 @@
         "inicio": "20261007T233434.000Z",
         "fim": "20261008T233434.000Z",
         "nos": {
-          "est": 34,
-          "destr": 39.266666666666666,
-          "atk": 12
+          "est": 36,
+          "destr": 41.43333333333333,
+          "atk": 13
         },
         "eles": {
           "est": 58,
@@ -12538,7 +12548,12 @@
             "tag": "#GCLLVYPJ8",
             "th": 15,
             "pos": 24,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 65
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -12986,9 +13001,9 @@
       "inicio": "20261007T233434.000Z",
       "fim": "20261008T233434.000Z",
       "nos": {
-        "est": 34,
-        "destr": 39.266666666666666,
-        "atk": 12
+        "est": 36,
+        "destr": 41.43333333333333,
+        "atk": 13
       },
       "eles": {
         "est": 58,
@@ -13341,7 +13356,12 @@
           "tag": "#GCLLVYPJ8",
           "th": 15,
           "pos": 24,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 65
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [

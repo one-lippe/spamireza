@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T08:50:45.894033Z",
+  "atualizado": "2026-10-08T09:00:41.930771Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3113,7 +3113,7 @@
               "tag": "#YVU0L88P",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Coyote 157 × 戦備",
@@ -4864,7 +4864,9 @@
               "nome": "RAGNAROK",
               "tag": "#GCLLVYPJ8",
               "th": 15,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
