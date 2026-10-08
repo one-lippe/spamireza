@@ -12693,14 +12693,14 @@
         "inicio": "20261007T233434.000Z",
         "fim": "20261008T233434.000Z",
         "nos": {
-          "est": 50,
-          "destr": 57.666666666666664,
-          "atk": 18
+          "est": 52,
+          "destr": 59.7,
+          "atk": 19
         },
         "eles": {
-          "est": 70,
-          "destr": 79.03333333333333,
-          "atk": 24
+          "est": 73,
+          "destr": 82.36666666666666,
+          "atk": 25
         },
         "membros": [
           {
@@ -12788,7 +12788,12 @@
             "tag": "#GY0Q0VRL0",
             "th": 17,
             "pos": 6,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 61
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -13009,9 +13014,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•InTheDarkIII",
@@ -13546,14 +13556,14 @@
       "inicio": "20261007T233434.000Z",
       "fim": "20261008T233434.000Z",
       "nos": {
-        "est": 50,
-        "destr": 57.666666666666664,
-        "atk": 18
+        "est": 52,
+        "destr": 59.7,
+        "atk": 19
       },
       "eles": {
-        "est": 70,
-        "destr": 79.03333333333333,
-        "atk": 24
+        "est": 73,
+        "destr": 82.36666666666666,
+        "atk": 25
       },
       "membros": [
         {
@@ -13641,7 +13651,12 @@
           "tag": "#GY0Q0VRL0",
           "th": 17,
           "pos": 6,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 61
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -13862,9 +13877,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•InTheDarkIII",
