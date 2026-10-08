@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T01:00:39.982629Z",
+  "atualizado": "2026-10-08T01:10:29.140627Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1488,7 +1488,7 @@
               "tag": "#8UJY9C8RQ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "ＬＵＭＩＮＯＵＳ",
@@ -3133,7 +3133,7 @@
               "tag": "#L90PCJGPC",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": ";-;REI DELAS;-;",
