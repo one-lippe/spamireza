@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T12:50:39.762609Z",
+  "atualizado": "2026-10-08T13:00:39.516415Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3147,7 +3147,7 @@
               "tag": "#89G0YGUJY",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "PaiDeFamilia",
@@ -4834,7 +4834,7 @@
               "tag": "#2RLG220GY",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ligeirinh2xD",
