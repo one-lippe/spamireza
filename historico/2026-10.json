@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-07T23:50:36.979875Z",
+  "atualizado": "2026-10-08T00:00:44.864184Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1302,6 +1302,25 @@
           "zona": "promo"
         },
         {
+          "n": "GSAzevedo30 #2",
+          "tag": "#29882J2L2",
+          "th": 15,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 100,
+          "def": 27,
+          "sof": 2.2,
+          "ndef": 5,
+          "seg": 3,
+          "idx": 65.8,
+          "idxb": 65.8,
+          "amostra": 100,
+          "mvp": 20,
+          "pos": 2,
+          "zona": "promo"
+        },
+        {
           "n": "Ligeirinh2xD",
           "tag": "#GCC98R22R",
           "th": 16,
@@ -1317,8 +1336,8 @@
           "idxb": 65.7,
           "amostra": 83,
           "mvp": 18,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "qvnly",
@@ -1336,7 +1355,7 @@
           "idxb": 65.2,
           "amostra": 83,
           "mvp": 17,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -1355,7 +1374,7 @@
           "idxb": 64.3,
           "amostra": 83,
           "mvp": 16,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -1374,7 +1393,7 @@
           "idxb": 64.0,
           "amostra": 83,
           "mvp": 17,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -1393,25 +1412,6 @@
           "idxb": 63.9,
           "amostra": 83,
           "mvp": 16,
-          "pos": 6,
-          "zona": "—"
-        },
-        {
-          "n": "Gerion",
-          "tag": "#YP9L000LG",
-          "th": 16,
-          "atk": 5,
-          "est": 13,
-          "spa": 2.6,
-          "conf": 83,
-          "def": 39,
-          "sof": 1.8,
-          "ndef": 6,
-          "seg": 4,
-          "idx": 62.1,
-          "idxb": 63.3,
-          "amostra": 83,
-          "mvp": 20,
           "pos": 7,
           "zona": "—"
         },
@@ -1454,6 +1454,25 @@
           "zona": "—"
         },
         {
+          "n": "Gerion",
+          "tag": "#YP9L000LG",
+          "th": 16,
+          "atk": 5,
+          "est": 13,
+          "spa": 2.6,
+          "conf": 83,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 7,
+          "seg": 4,
+          "idx": 61.4,
+          "idxb": 62.4,
+          "amostra": 83,
+          "mvp": 20,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
           "n": "Wilson z2",
           "tag": "#2RLG220GY",
           "th": 15,
@@ -1469,7 +1488,7 @@
           "idxb": 62.1,
           "amostra": 83,
           "mvp": 16,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -1488,7 +1507,7 @@
           "idxb": 62.8,
           "amostra": 67,
           "mvp": 15,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -1507,26 +1526,26 @@
           "idxb": 61.3,
           "amostra": 83,
           "mvp": 15,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
-          "n": "GSAzevedo30 #2",
-          "tag": "#29882J2L2",
-          "th": 15,
-          "atk": 5,
-          "est": 13,
-          "spa": 2.6,
-          "conf": 83,
-          "def": 27,
-          "sof": 2.2,
-          "ndef": 5,
-          "seg": 3,
-          "idx": 60.4,
-          "idxb": 61.3,
-          "amostra": 83,
-          "mvp": 17,
-          "pos": 13,
+          "n": "Trainer Ronald",
+          "tag": "#29LG09JGY",
+          "th": 16,
+          "atk": 4,
+          "est": 11,
+          "spa": 2.75,
+          "conf": 67,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "seg": 1,
+          "idx": 57.1,
+          "idxb": 57.5,
+          "amostra": 67,
+          "mvp": 12,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -1544,25 +1563,6 @@
           "idx": 57.1,
           "idxb": 57.3,
           "amostra": 83,
-          "mvp": 12,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "Trainer Ronald",
-          "tag": "#29LG09JGY",
-          "th": 16,
-          "atk": 4,
-          "est": 11,
-          "spa": 2.75,
-          "conf": 67,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 3,
-          "seg": 1,
-          "idx": 57.0,
-          "idxb": 57.5,
-          "amostra": 67,
           "mvp": 12,
           "pos": 15,
           "zona": "—"

@@ -11746,14 +11746,14 @@
         "inicio": "20261007T233434.000Z",
         "fim": "20261008T233434.000Z",
         "nos": {
-          "est": 9,
-          "destr": 10.0,
-          "atk": 3
+          "est": 12,
+          "destr": 13.333333333333334,
+          "atk": 4
         },
         "eles": {
-          "est": 19,
-          "destr": 22.366666666666667,
-          "atk": 7
+          "est": 22,
+          "destr": 25.7,
+          "atk": 8
         },
         "membros": [
           {
@@ -11872,9 +11872,14 @@
             "th": 16,
             "pos": 10,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "MonesyㅤNTJ",
@@ -11986,7 +11991,12 @@
             "tag": "#29882J2L2",
             "th": 15,
             "pos": 21,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -12439,14 +12449,14 @@
       "inicio": "20261007T233434.000Z",
       "fim": "20261008T233434.000Z",
       "nos": {
-        "est": 9,
-        "destr": 10.0,
-        "atk": 3
+        "est": 12,
+        "destr": 13.333333333333334,
+        "atk": 4
       },
       "eles": {
-        "est": 19,
-        "destr": 22.366666666666667,
-        "atk": 7
+        "est": 22,
+        "destr": 25.7,
+        "atk": 8
       },
       "membros": [
         {
@@ -12565,9 +12575,14 @@
           "th": 16,
           "pos": 10,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "MonesyㅤNTJ",
@@ -12679,7 +12694,12 @@
           "tag": "#29882J2L2",
           "th": 15,
           "pos": 21,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
