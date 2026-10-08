@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T16:31:53.209620Z",
+  "atualizado": "2026-10-08T16:40:40.441739Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -792,7 +792,9 @@
               "nome": "Henrique Nerath",
               "tag": "#2U8P0YQ92",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -4954,7 +4956,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "unshaken",
