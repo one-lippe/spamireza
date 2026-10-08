@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T15:20:40.234563Z",
+  "atualizado": "2026-10-08T15:31:20.668569Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -858,25 +858,6 @@
           "zona": "—"
         },
         {
-          "n": "bebo lendário",
-          "tag": "#2QLGCJRJR",
-          "th": 16,
-          "atk": 5,
-          "est": 13,
-          "spa": 2.6,
-          "conf": 100,
-          "def": 27,
-          "sof": 2.2,
-          "ndef": 5,
-          "seg": 2,
-          "idx": 71.8,
-          "idxb": 72.5,
-          "amostra": 83,
-          "mvp": 17,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
           "n": "Nesk'",
           "tag": "#YCRJU229",
           "th": 17,
@@ -892,7 +873,7 @@
           "idxb": 71.6,
           "amostra": 100,
           "mvp": 17,
-          "pos": 12,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -910,6 +891,25 @@
           "idx": 71.6,
           "idxb": 71.6,
           "amostra": 100,
+          "mvp": 17,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
+          "n": "bebo lendário",
+          "tag": "#2QLGCJRJR",
+          "th": 16,
+          "atk": 5,
+          "est": 13,
+          "spa": 2.6,
+          "conf": 100,
+          "def": 22,
+          "sof": 2.3,
+          "ndef": 6,
+          "seg": 2,
+          "idx": 71.1,
+          "idxb": 71.7,
+          "amostra": 83,
           "mvp": 17,
           "pos": 13,
           "zona": "—"
