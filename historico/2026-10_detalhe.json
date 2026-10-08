@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T00:10:35.419384Z",
+  "atualizado": "2026-10-08T00:20:30.850516Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2670,7 +2670,7 @@
         {
           "g": 5,
           "vs": "BAYERN BOOTCAMP",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 30,
           "jogadores": [
             {
@@ -4429,7 +4429,9 @@
               "nome": "SR • Eduhh",
               "tag": "#2Q9RYUCCP",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
