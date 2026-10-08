@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T16:11:07.386603Z",
+  "atualizado": "2026-10-08T16:20:54.387654Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1682,7 +1682,7 @@
               "tag": "#YQRJL098P",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "dvnly",
@@ -1698,7 +1698,7 @@
               "tag": "#GRR2G9LP0",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Sra Nunes",

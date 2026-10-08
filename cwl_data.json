@@ -4130,9 +4130,9 @@
           "atk": 12
         },
         "eles": {
-          "est": 30,
-          "destr": 66.66666666666667,
-          "atk": 10
+          "est": 36,
+          "destr": 80.0,
+          "atk": 12
         },
         "membros": [
           {
@@ -4331,9 +4331,14 @@
             "th": 18,
             "pos": 12,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "dvnly",
@@ -4361,9 +4366,14 @@
             "th": 18,
             "pos": 15,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Sra Nunes",
@@ -4583,9 +4593,9 @@
         "atk": 12
       },
       "eles": {
-        "est": 30,
-        "destr": 66.66666666666667,
-        "atk": 10
+        "est": 36,
+        "destr": 80.0,
+        "atk": 12
       },
       "membros": [
         {
@@ -4784,9 +4794,14 @@
           "th": 18,
           "pos": 12,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "dvnly",
@@ -4814,9 +4829,14 @@
           "th": 18,
           "pos": 15,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Sra Nunes",
