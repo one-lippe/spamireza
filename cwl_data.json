@@ -4125,14 +4125,14 @@
         "inicio": "20261007T233953.000Z",
         "fim": "20261008T233953.000Z",
         "nos": {
-          "est": 29,
-          "destr": 71.66666666666667,
-          "atk": 11
+          "est": 32,
+          "destr": 78.33333333333333,
+          "atk": 12
         },
         "eles": {
-          "est": 27,
-          "destr": 60.0,
-          "atk": 9
+          "est": 30,
+          "destr": 66.66666666666667,
+          "atk": 10
         },
         "membros": [
           {
@@ -4346,9 +4346,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Ligeirinh0xD",
@@ -4365,7 +4370,12 @@
             "tag": "#22JQULR22",
             "th": 18,
             "pos": 16,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -4568,14 +4578,14 @@
       "inicio": "20261007T233953.000Z",
       "fim": "20261008T233953.000Z",
       "nos": {
-        "est": 29,
-        "destr": 71.66666666666667,
-        "atk": 11
+        "est": 32,
+        "destr": 78.33333333333333,
+        "atk": 12
       },
       "eles": {
-        "est": 27,
-        "destr": 60.0,
-        "atk": 9
+        "est": 30,
+        "destr": 66.66666666666667,
+        "atk": 10
       },
       "membros": [
         {
@@ -4789,9 +4799,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Ligeirinh0xD",
@@ -4808,7 +4823,12 @@
           "tag": "#22JQULR22",
           "th": 18,
           "pos": 16,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -8084,9 +8104,9 @@
         "inicio": "20261008T004648.000Z",
         "fim": "20261009T004648.000Z",
         "nos": {
-          "est": 34,
-          "destr": 42.03333333333333,
-          "atk": 13
+          "est": 37,
+          "destr": 45.36666666666667,
+          "atk": 14
         },
         "eles": {
           "est": 56,
@@ -8114,7 +8134,12 @@
             "tag": "#2LY8G8Y9",
             "th": 18,
             "pos": 2,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 88,
             "defesas": [
@@ -8902,9 +8927,9 @@
       "inicio": "20261008T004648.000Z",
       "fim": "20261009T004648.000Z",
       "nos": {
-        "est": 34,
-        "destr": 42.03333333333333,
-        "atk": 13
+        "est": 37,
+        "destr": 45.36666666666667,
+        "atk": 14
       },
       "eles": {
         "est": 56,
@@ -8932,7 +8957,12 @@
           "tag": "#2LY8G8Y9",
           "th": 18,
           "pos": 2,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 88,
           "defesas": [

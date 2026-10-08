@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T16:01:53.136667Z",
+  "atualizado": "2026-10-08T16:11:07.386603Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1691,7 +1691,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ligeirinh0xD",
@@ -1704,7 +1704,9 @@
               "nome": "Sra Nunes",
               "tag": "#22JQULR22",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3121,7 +3123,9 @@
               "nome": "SrNunes",
               "tag": "#2LY8G8Y9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
