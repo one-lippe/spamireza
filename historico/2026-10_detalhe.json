@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T22:30:49.267017Z",
+  "atualizado": "2026-10-08T22:40:30.046224Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -4770,14 +4770,18 @@
               "nome": "100%War_Quiron",
               "tag": "#QJRRJGQR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
               "nome": "BC YUNO♧",
               "tag": "#LJLRGUULY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -4854,7 +4858,9 @@
               "nome": "MonesyㅤNTJ",
               "tag": "#PRY0G98PG",
               "th": 16,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
@@ -4972,7 +4978,9 @@
               "nome": "scamador'd'calv",
               "tag": "#QUP0R2CJU",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
