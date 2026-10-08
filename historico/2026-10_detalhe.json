@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T07:41:36.973919Z",
+  "atualizado": "2026-10-08T07:51:01.656178Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1586,7 +1586,7 @@
               "tag": "#QRJL0RGQR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30",

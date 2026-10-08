@@ -3950,9 +3950,9 @@
           "atk": 5
         },
         "eles": {
-          "est": 18,
-          "destr": 40.0,
-          "atk": 6
+          "est": 21,
+          "destr": 46.666666666666664,
+          "atk": 7
         },
         "membros": [
           {
@@ -3991,9 +3991,14 @@
             "th": 18,
             "pos": 4,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "GSAzevedo30",
@@ -4348,9 +4353,9 @@
         "atk": 5
       },
       "eles": {
-        "est": 18,
-        "destr": 40.0,
-        "atk": 6
+        "est": 21,
+        "destr": 46.666666666666664,
+        "atk": 7
       },
       "membros": [
         {
@@ -4389,9 +4394,14 @@
           "th": 18,
           "pos": 4,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "GSAzevedo30",
