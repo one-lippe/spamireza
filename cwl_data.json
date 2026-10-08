@@ -3874,14 +3874,14 @@
         "inicio": "20261007T233953.000Z",
         "fim": "20261008T233953.000Z",
         "nos": {
-          "est": 1,
-          "destr": 6.133333333333334,
-          "atk": 1
+          "est": 4,
+          "destr": 12.8,
+          "atk": 2
         },
         "eles": {
-          "est": 0,
-          "destr": 0.0,
-          "atk": 0
+          "est": 3,
+          "destr": 6.666666666666667,
+          "atk": 1
         },
         "membros": [
           {
@@ -3925,9 +3925,14 @@
                 "destr": 92
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•GOD kratos",
@@ -4004,7 +4009,12 @@
             "tag": "#QR2JLQ2RR",
             "th": 18,
             "pos": 13,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -4222,14 +4232,14 @@
       "inicio": "20261007T233953.000Z",
       "fim": "20261008T233953.000Z",
       "nos": {
-        "est": 1,
-        "destr": 6.133333333333334,
-        "atk": 1
+        "est": 4,
+        "destr": 12.8,
+        "atk": 2
       },
       "eles": {
-        "est": 0,
-        "destr": 0.0,
-        "atk": 0
+        "est": 3,
+        "destr": 6.666666666666667,
+        "atk": 1
       },
       "membros": [
         {
@@ -4273,9 +4283,14 @@
               "destr": 92
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•GOD kratos",
@@ -4352,7 +4367,12 @@
           "tag": "#QR2JLQ2RR",
           "th": 18,
           "pos": 13,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -11751,9 +11771,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 22,
-          "destr": 25.7,
-          "atk": 8
+          "est": 25,
+          "destr": 29.033333333333335,
+          "atk": 9
         },
         "membros": [
           {
@@ -11907,9 +11927,14 @@
             "th": 18,
             "pos": 13,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "psico raid 01",
@@ -12454,9 +12479,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 22,
-        "destr": 25.7,
-        "atk": 8
+        "est": 25,
+        "destr": 29.033333333333335,
+        "atk": 9
       },
       "membros": [
         {
@@ -12610,9 +12635,14 @@
           "th": 18,
           "pos": 13,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "psico raid 01",
