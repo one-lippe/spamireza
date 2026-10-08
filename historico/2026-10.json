@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T21:20:44.335948Z",
+  "atualizado": "2026-10-08T21:30:38.488784Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -433,6 +433,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • DuM∆R",
+          "tag": "#YQRJL098P",
+          "th": 18,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "seg": 1,
+          "idx": 77.0,
+          "idxb": 77.7,
+          "amostra": 83,
+          "mvp": 17,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
           "n": "KingMpg",
           "tag": "#22YJPYPCJ",
           "th": 18,
@@ -448,7 +467,7 @@
           "idxb": 76.2,
           "amostra": 100,
           "mvp": 19,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -467,7 +486,7 @@
           "idxb": 76.2,
           "amostra": 100,
           "mvp": 19,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -486,25 +505,6 @@
           "idxb": 73.0,
           "amostra": 83,
           "mvp": 15,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "SR • DuM∆R",
-          "tag": "#YQRJL098P",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "seg": 1,
-          "idx": 73.0,
-          "idxb": 73.0,
-          "amostra": 67,
-          "mvp": 14,
           "pos": 9,
           "zona": "—"
         },
@@ -1150,14 +1150,14 @@
           "est": 12,
           "spa": 2.4,
           "conf": 83,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 5,
-          "seg": 0,
-          "idx": 60.3,
-          "idxb": 60.3,
+          "def": 6,
+          "sof": 2.8,
+          "ndef": 6,
+          "seg": 1,
+          "idx": 61.3,
+          "idxb": 61.3,
           "amostra": 83,
-          "mvp": 12,
+          "mvp": 13,
           "pos": 26,
           "zona": "—"
         },

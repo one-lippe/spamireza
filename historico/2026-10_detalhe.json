@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T21:20:44.338562Z",
+  "atualizado": "2026-10-08T21:30:38.491957Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1683,7 +1683,9 @@
               "nome": "SR • DuM∆R",
               "tag": "#YQRJL098P",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3234,7 +3236,7 @@
               "tag": "#RP8VCCUV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "BC NOELLE ✓",
