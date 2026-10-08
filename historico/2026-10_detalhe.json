@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T11:20:42.245298Z",
+  "atualizado": "2026-10-08T11:30:46.263858Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1612,7 +1612,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Balestra",
@@ -3114,7 +3114,7 @@
               "tag": "#8JQJYQC",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "LSWRTH",
@@ -3222,7 +3222,7 @@
               "tag": "#QQQ8VQPL0",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "irmão do jorel",
