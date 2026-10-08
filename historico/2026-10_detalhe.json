@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T06:30:31.328331Z",
+  "atualizado": "2026-10-08T06:41:00.989985Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -817,7 +817,9 @@
               "nome": "☆VILA DO PX ツ",
               "tag": "#8PUL8JPC",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -4919,7 +4921,9 @@
               "nome": "Najla Nunes",
               "tag": "#9CR0G200R",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             }
           ]
