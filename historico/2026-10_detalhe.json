@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T10:16:03.258143Z",
+  "atualizado": "2026-10-08T10:20:29.854771Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3154,7 +3154,7 @@
               "tag": "#20UUPGPCV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "♣️Dorindo Sena♣",
