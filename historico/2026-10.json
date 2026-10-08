@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T15:01:05.448366Z",
+  "atualizado": "2026-10-08T15:10:49.562495Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -27,27 +27,27 @@
           "zona": "—"
         },
         {
-          "n": "Psico 2k25",
-          "tag": "#Q2UJJ89VG",
+          "n": "Levi_Neiva",
+          "tag": "#C8R989YJ",
           "th": 18,
           "atk": 6,
           "est": 18,
           "spa": 3.0,
           "conf": 100,
-          "def": 7,
+          "def": 6,
           "sof": 2.8,
-          "ndef": 5,
+          "ndef": 6,
           "seg": 1,
-          "idx": 82.1,
-          "idxb": 82.1,
+          "idx": 81.9,
+          "idxb": 81.9,
           "amostra": 100,
           "mvp": 19,
           "pos": 2,
           "zona": "—"
         },
         {
-          "n": "Levi_Neiva",
-          "tag": "#C8R989YJ",
+          "n": "Jan",
+          "tag": "#2899CRJG",
           "th": 18,
           "atk": 6,
           "est": 18,
@@ -65,8 +65,8 @@
           "zona": "—"
         },
         {
-          "n": "Jan",
-          "tag": "#2899CRJG",
+          "n": "Psico 2k25",
+          "tag": "#Q2UJJ89VG",
           "th": 18,
           "atk": 6,
           "est": 18,
