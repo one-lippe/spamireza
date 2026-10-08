@@ -1710,9 +1710,9 @@
           "atk": 13
         },
         "eles": {
-          "est": 21,
-          "destr": 51.93333333333333,
-          "atk": 8
+          "est": 23,
+          "destr": 58.06666666666667,
+          "atk": 9
         },
         "membros": [
           {
@@ -1916,9 +1916,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 92,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 92
+              }
+            ]
           },
           {
             "nome": "☆VILA DO PX ツ",
@@ -2158,9 +2163,9 @@
         "atk": 13
       },
       "eles": {
-        "est": 21,
-        "destr": 51.93333333333333,
-        "atk": 8
+        "est": 23,
+        "destr": 58.06666666666667,
+        "atk": 9
       },
       "membros": [
         {
@@ -2364,9 +2369,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 92,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 92
+            }
+          ]
         },
         {
           "nome": "☆VILA DO PX ツ",

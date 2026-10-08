@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T16:20:54.384802Z",
+  "atualizado": "2026-10-08T16:31:53.207575Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -133,11 +133,30 @@
           "sof": 2.5,
           "ndef": 4,
           "seg": 2,
-          "idx": 78.8,
+          "idx": 78.9,
           "idxb": 79.5,
           "amostra": 67,
           "mvp": 13,
           "pos": 7,
+          "zona": "—"
+        },
+        {
+          "n": "MAJ0R FiV3",
+          "tag": "#LCR9YQGYY",
+          "th": 18,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 6,
+          "sof": 2.8,
+          "ndef": 6,
+          "seg": 1,
+          "idx": 78.8,
+          "idxb": 78.8,
+          "amostra": 100,
+          "mvp": 18,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -156,7 +175,7 @@
           "idxb": 78.8,
           "amostra": 83,
           "mvp": 15,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -175,7 +194,7 @@
           "idxb": 78.4,
           "amostra": 83,
           "mvp": 15,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -194,25 +213,6 @@
           "idxb": 77.7,
           "amostra": 83,
           "mvp": 16,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "MAJ0R FiV3",
-          "tag": "#LCR9YQGYY",
-          "th": 18,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 100,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 5,
-          "seg": 0,
-          "idx": 77.7,
-          "idxb": 77.7,
-          "amostra": 100,
-          "mvp": 17,
           "pos": 11,
           "zona": "—"
         },
