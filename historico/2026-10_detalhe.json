@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T05:00:40.406413Z",
+  "atualizado": "2026-10-08T05:10:27.545336Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -4663,7 +4663,9 @@
               "nome": "GPM Level 1",
               "tag": "#QV2J0YV0V",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
