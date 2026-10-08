@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T04:50:32.919134Z",
+  "atualizado": "2026-10-08T05:00:40.404313Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -471,8 +471,8 @@
           "zona": "—"
         },
         {
-          "n": "KingMpg",
-          "tag": "#22YJPYPCJ",
+          "n": "ＬＵＭＩＮＯＵＳ",
+          "tag": "#2LLYCQPG8",
           "th": 18,
           "atk": 5,
           "est": 15,
@@ -490,19 +490,19 @@
           "zona": "—"
         },
         {
-          "n": "ＬＵＭＩＮＯＵＳ",
-          "tag": "#2LLYCQPG8",
+          "n": "KingMpg",
+          "tag": "#22YJPYPCJ",
           "th": 18,
           "atk": 5,
           "est": 15,
           "spa": 3.0,
           "conf": 83,
-          "def": 7,
+          "def": 6,
           "sof": 2.8,
-          "ndef": 5,
+          "ndef": 6,
           "seg": 1,
-          "idx": 72.2,
-          "idxb": 72.5,
+          "idx": 72.1,
+          "idxb": 72.3,
           "amostra": 83,
           "mvp": 16,
           "pos": 9,
