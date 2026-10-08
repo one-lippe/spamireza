@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T12:32:35.156149Z",
+  "atualizado": "2026-10-08T12:41:31.090831Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -747,7 +747,9 @@
               "nome": "Jan",
               "tag": "#2899CRJG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -802,7 +804,9 @@
               "nome": "LEANDRO",
               "tag": "#QPCRCR8VY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
