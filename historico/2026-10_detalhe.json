@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T22:22:00.267567Z",
+  "atualizado": "2026-10-08T22:30:49.267017Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3314,7 +3314,9 @@
               "nome": "Jan™",
               "tag": "#CJV9G22Q",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 1
             },
             {
@@ -4980,7 +4982,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "LUMINOUS2",

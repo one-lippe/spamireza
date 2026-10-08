@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T22:22:00.265023Z",
+  "atualizado": "2026-10-08T22:30:49.264863Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -668,6 +668,25 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "Jan™",
+          "tag": "#CJV9G22Q",
+          "th": 17,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 47,
+          "sof": 1.6,
+          "ndef": 5,
+          "seg": 4,
+          "idx": 80.9,
+          "idxb": 83.1,
+          "amostra": 83,
+          "mvp": 22,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "Coyote 171 × 戦備",
           "tag": "#Y08CR0PQU",
           "th": 18,
@@ -683,7 +702,7 @@
           "idxb": 79.6,
           "amostra": 100,
           "mvp": 23,
-          "pos": 1,
+          "pos": 2,
           "zona": "promo"
         },
         {
@@ -702,8 +721,8 @@
           "idxb": 78.5,
           "amostra": 100,
           "mvp": 22,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "BC NOELLE ✓",
@@ -721,7 +740,7 @@
           "idxb": 75.4,
           "amostra": 100,
           "mvp": 19,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -739,25 +758,6 @@
           "idx": 75.4,
           "idxb": 75.4,
           "amostra": 100,
-          "mvp": 19,
-          "pos": 4,
-          "zona": "—"
-        },
-        {
-          "n": "Jan™",
-          "tag": "#CJV9G22Q",
-          "th": 17,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 47,
-          "sof": 1.6,
-          "ndef": 5,
-          "seg": 4,
-          "idx": 75.4,
-          "idxb": 78.4,
-          "amostra": 67,
           "mvp": 19,
           "pos": 5,
           "zona": "—"
@@ -972,6 +972,25 @@
           "zona": "—"
         },
         {
+          "n": "bebo lendário",
+          "tag": "#2QLGCJRJR",
+          "th": 16,
+          "atk": 5,
+          "est": 13,
+          "spa": 2.6,
+          "conf": 100,
+          "def": 22,
+          "sof": 2.3,
+          "ndef": 6,
+          "seg": 2,
+          "idx": 71.4,
+          "idxb": 71.7,
+          "amostra": 83,
+          "mvp": 17,
+          "pos": 17,
+          "zona": "—"
+        },
+        {
           "n": "Agnes",
           "tag": "#LLLU0VQCL",
           "th": 18,
@@ -987,25 +1006,6 @@
           "idxb": 71.6,
           "amostra": 83,
           "mvp": 16,
-          "pos": 17,
-          "zona": "—"
-        },
-        {
-          "n": "bebo lendário",
-          "tag": "#2QLGCJRJR",
-          "th": 16,
-          "atk": 5,
-          "est": 13,
-          "spa": 2.6,
-          "conf": 100,
-          "def": 22,
-          "sof": 2.3,
-          "ndef": 6,
-          "seg": 2,
-          "idx": 71.3,
-          "idxb": 71.7,
-          "amostra": 83,
-          "mvp": 17,
           "pos": 18,
           "zona": "—"
         },
@@ -1613,12 +1613,12 @@
           "est": 13,
           "spa": 2.17,
           "conf": 100,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 6,
           "seg": 1,
-          "idx": 55.9,
-          "idxb": 55.9,
+          "idx": 55.6,
+          "idxb": 55.6,
           "amostra": 100,
           "mvp": 15,
           "pos": 18,

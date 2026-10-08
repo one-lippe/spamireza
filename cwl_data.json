@@ -8254,9 +8254,9 @@
         "inicio": "20261008T004648.000Z",
         "fim": "20261009T004648.000Z",
         "nos": {
-          "est": 64,
-          "destr": 76.86666666666666,
-          "atk": 25
+          "est": 67,
+          "destr": 80.2,
+          "atk": 26
         },
         "eles": {
           "est": 76,
@@ -8684,7 +8684,12 @@
             "tag": "#CJV9G22Q",
             "th": 17,
             "pos": 25,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 1,
             "def_destr": 90,
             "defesas": [
@@ -9167,9 +9172,9 @@
       "inicio": "20261008T004648.000Z",
       "fim": "20261009T004648.000Z",
       "nos": {
-        "est": 64,
-        "destr": 76.86666666666666,
-        "atk": 25
+        "est": 67,
+        "destr": 80.2,
+        "atk": 26
       },
       "eles": {
         "est": 76,
@@ -9597,7 +9602,12 @@
           "tag": "#CJV9G22Q",
           "th": 17,
           "pos": 25,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 1,
           "def_destr": 90,
           "defesas": [
@@ -12928,9 +12938,9 @@
           "atk": 22
         },
         "eles": {
-          "est": 79,
-          "destr": 89.03333333333333,
-          "atk": 27
+          "est": 82,
+          "destr": 92.36666666666666,
+          "atk": 28
         },
         "membros": [
           {
@@ -13399,9 +13409,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "LUMINOUS2",
@@ -13816,9 +13831,9 @@
         "atk": 22
       },
       "eles": {
-        "est": 79,
-        "destr": 89.03333333333333,
-        "atk": 27
+        "est": 82,
+        "destr": 92.36666666666666,
+        "atk": 28
       },
       "membros": [
         {
@@ -14287,9 +14302,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "LUMINOUS2",
