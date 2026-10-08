@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T10:50:59.662550Z",
+  "atualizado": "2026-10-08T11:01:49.560175Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -741,7 +741,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Jan",
@@ -770,7 +770,9 @@
               "nome": "SR • JON SNOW",
               "tag": "#LYV2J2LU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -799,7 +801,7 @@
               "tag": "#QPCRCR8VY",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Psico 2k25",
@@ -1624,7 +1626,7 @@
               "tag": "#2LLYCQPG8",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Levi_Neiva 2",
