@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T06:21:09.380942Z",
+  "atualizado": "2026-10-08T06:30:31.328331Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -831,7 +831,9 @@
               "nome": "matias?",
               "tag": "#RCQQUGC9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             }
           ]
@@ -3252,7 +3254,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "THE KING ⚡",

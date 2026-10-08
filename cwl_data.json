@@ -1705,9 +1705,9 @@
         "inicio": "20261008T060125.000Z",
         "fim": "20261009T060125.000Z",
         "nos": {
-          "est": 3,
-          "destr": 6.666666666666667,
-          "atk": 1
+          "est": 6,
+          "destr": 13.333333333333334,
+          "atk": 2
         },
         "eles": {
           "est": 0,
@@ -1865,7 +1865,12 @@
             "tag": "#RCQQUGC9",
             "th": 18,
             "pos": 17,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -2053,9 +2058,9 @@
       "inicio": "20261008T060125.000Z",
       "fim": "20261009T060125.000Z",
       "nos": {
-        "est": 3,
-        "destr": 6.666666666666667,
-        "atk": 1
+        "est": 6,
+        "destr": 13.333333333333334,
+        "atk": 2
       },
       "eles": {
         "est": 0,
@@ -2213,7 +2218,12 @@
           "tag": "#RCQQUGC9",
           "th": 18,
           "pos": 17,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -7789,9 +7799,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 19,
-          "destr": 23.8,
-          "atk": 8
+          "est": 22,
+          "destr": 27.133333333333333,
+          "atk": 9
         },
         "membros": [
           {
@@ -8085,9 +8095,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "THE KING ⚡",
@@ -8522,9 +8537,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 19,
-        "destr": 23.8,
-        "atk": 8
+        "est": 22,
+        "destr": 27.133333333333333,
+        "atk": 9
       },
       "membros": [
         {
@@ -8818,9 +8833,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "THE KING ⚡",
