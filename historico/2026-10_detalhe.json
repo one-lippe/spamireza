@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T03:41:11.111964Z",
+  "atualizado": "2026-10-08T03:50:34.571737Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -4576,7 +4576,7 @@
               "tag": "#QJRRJGQR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "BC YUNO♧",
@@ -4590,7 +4590,7 @@
               "tag": "#2P8CU8QGR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Lider André 2",
@@ -4710,7 +4710,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30 #2",
