@@ -8249,9 +8249,9 @@
           "atk": 25
         },
         "eles": {
-          "est": 70,
-          "destr": 83.86666666666666,
-          "atk": 27
+          "est": 73,
+          "destr": 87.2,
+          "atk": 28
         },
         "membros": [
           {
@@ -8655,9 +8655,14 @@
                 "destr": 96
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Jan™",
@@ -9152,9 +9157,9 @@
         "atk": 25
       },
       "eles": {
-        "est": 70,
-        "destr": 83.86666666666666,
-        "atk": 27
+        "est": 73,
+        "destr": 87.2,
+        "atk": 28
       },
       "membros": [
         {
@@ -9558,9 +9563,14 @@
               "destr": 96
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Jan™",
