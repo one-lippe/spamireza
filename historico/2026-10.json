@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T03:30:59.379035Z",
+  "atualizado": "2026-10-08T03:41:11.108715Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1076,7 +1076,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 4,
+          "ndef": 5,
           "seg": 0,
           "idx": 64.2,
           "idxb": 64.2,
@@ -1283,6 +1283,25 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "LUMINOUS2",
+          "tag": "#R0909YJ0Q",
+          "th": 15,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 25,
+          "sof": 2.2,
+          "ndef": 4,
+          "seg": 2,
+          "idx": 68.0,
+          "idxb": 68.0,
+          "amostra": 100,
+          "mvp": 20,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "SR • Eduhh",
           "tag": "#2Q9RYUCCP",
           "th": 17,
@@ -1298,7 +1317,7 @@
           "idxb": 67.3,
           "amostra": 100,
           "mvp": 19,
-          "pos": 1,
+          "pos": 2,
           "zona": "promo"
         },
         {
@@ -1317,8 +1336,8 @@
           "idxb": 66.1,
           "amostra": 100,
           "mvp": 19,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "GSAzevedo30 #2",
@@ -1336,7 +1355,7 @@
           "idxb": 65.0,
           "amostra": 100,
           "mvp": 20,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -1351,11 +1370,11 @@
           "sof": 2.5,
           "ndef": 6,
           "seg": 3,
-          "idx": 64.2,
+          "idx": 64.3,
           "idxb": 65.7,
           "amostra": 83,
           "mvp": 18,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -1374,7 +1393,7 @@
           "idxb": 65.2,
           "amostra": 83,
           "mvp": 17,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -1393,25 +1412,6 @@
           "idxb": 64.3,
           "amostra": 83,
           "mvp": 16,
-          "pos": 6,
-          "zona": "—"
-        },
-        {
-          "n": "LUMINOUS2",
-          "tag": "#R0909YJ0Q",
-          "th": 15,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 25,
-          "sof": 2.2,
-          "ndef": 4,
-          "seg": 2,
-          "idx": 62.8,
-          "idxb": 64.0,
-          "amostra": 83,
-          "mvp": 17,
           "pos": 7,
           "zona": "—"
         },
@@ -1484,7 +1484,7 @@
           "sof": 2.6,
           "ndef": 5,
           "seg": 1,
-          "idx": 61.2,
+          "idx": 61.3,
           "idxb": 62.1,
           "amostra": 83,
           "mvp": 16,
@@ -1503,7 +1503,7 @@
           "sof": 2.4,
           "ndef": 5,
           "seg": 3,
-          "idx": 60.8,
+          "idx": 60.9,
           "idxb": 62.8,
           "amostra": 67,
           "mvp": 15,
@@ -1560,7 +1560,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 57.2,
+          "idx": 57.3,
           "idxb": 57.3,
           "amostra": 83,
           "mvp": 12,

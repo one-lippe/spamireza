@@ -7718,9 +7718,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 10,
-          "destr": 13.8,
-          "atk": 5
+          "est": 13,
+          "destr": 17.133333333333333,
+          "atk": 6
         },
         "membros": [
           {
@@ -8024,9 +8024,14 @@
                 "destr": 86
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "bebun lendário",
@@ -8436,9 +8441,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 10,
-        "destr": 13.8,
-        "atk": 5
+        "est": 13,
+        "destr": 17.133333333333333,
+        "atk": 6
       },
       "membros": [
         {
@@ -8742,9 +8747,14 @@
               "destr": 86
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "bebun lendário",
@@ -11992,9 +12002,9 @@
         "inicio": "20261007T233434.000Z",
         "fim": "20261008T233434.000Z",
         "nos": {
-          "est": 25,
-          "destr": 29.266666666666666,
-          "atk": 9
+          "est": 28,
+          "destr": 32.6,
+          "atk": 10
         },
         "eles": {
           "est": 40,
@@ -12367,7 +12377,12 @@
             "tag": "#R0909YJ0Q",
             "th": 15,
             "pos": 28,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -12750,9 +12765,9 @@
       "inicio": "20261007T233434.000Z",
       "fim": "20261008T233434.000Z",
       "nos": {
-        "est": 25,
-        "destr": 29.266666666666666,
-        "atk": 9
+        "est": 28,
+        "destr": 32.6,
+        "atk": 10
       },
       "eles": {
         "est": 40,
@@ -13125,7 +13140,12 @@
           "tag": "#R0909YJ0Q",
           "th": 15,
           "pos": 28,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
