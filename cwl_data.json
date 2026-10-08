@@ -12948,9 +12948,9 @@
           "atk": 26
         },
         "eles": {
-          "est": 82,
-          "destr": 92.36666666666666,
-          "atk": 28
+          "est": 87,
+          "destr": 98.96666666666667,
+          "atk": 30
         },
         "membros": [
           {
@@ -13424,9 +13424,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 98,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 98
+              }
+            ]
           },
           {
             "nome": "Tio Marginal",
@@ -13459,9 +13464,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "°D∆×iLh∆°",
@@ -13861,9 +13871,9 @@
         "atk": 26
       },
       "eles": {
-        "est": 82,
-        "destr": 92.36666666666666,
-        "atk": 28
+        "est": 87,
+        "destr": 98.96666666666667,
+        "atk": 30
       },
       "membros": [
         {
@@ -14337,9 +14347,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 98,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 98
+            }
+          ]
         },
         {
           "nome": "Tio Marginal",
@@ -14372,9 +14387,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "°D∆×iLh∆°",
