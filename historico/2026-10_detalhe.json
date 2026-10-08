@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T00:50:39.238760Z",
+  "atualizado": "2026-10-08T01:00:39.982629Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1502,7 +1502,7 @@
               "tag": "#90GRYGJVP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR . Kcatoyo",
@@ -3116,7 +3116,9 @@
               "nome": "Nesk'",
               "tag": "#YCRJU229",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
