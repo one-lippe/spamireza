@@ -1705,9 +1705,9 @@
         "inicio": "20261008T060125.000Z",
         "fim": "20261009T060125.000Z",
         "nos": {
-          "est": 33,
-          "destr": 73.33333333333333,
-          "atk": 11
+          "est": 39,
+          "destr": 86.66666666666667,
+          "atk": 13
         },
         "eles": {
           "est": 18,
@@ -1855,7 +1855,12 @@
             "tag": "#99220V0Q8",
             "th": 18,
             "pos": 11,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1930,7 +1935,12 @@
             "tag": "#P8GLGPRP",
             "th": 18,
             "pos": 16,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -2138,9 +2148,9 @@
       "inicio": "20261008T060125.000Z",
       "fim": "20261009T060125.000Z",
       "nos": {
-        "est": 33,
-        "destr": 73.33333333333333,
-        "atk": 11
+        "est": 39,
+        "destr": 86.66666666666667,
+        "atk": 13
       },
       "eles": {
         "est": 18,
@@ -2288,7 +2298,12 @@
           "tag": "#99220V0Q8",
           "th": 18,
           "pos": 11,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -2363,7 +2378,12 @@
           "tag": "#P8GLGPRP",
           "th": 18,
           "pos": 16,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
