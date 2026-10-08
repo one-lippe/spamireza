@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T17:11:42.102831Z",
+  "atualizado": "2026-10-08T17:21:43.269197Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -869,11 +869,30 @@
           "sof": 2.4,
           "ndef": 5,
           "seg": 3,
-          "idx": 73.2,
+          "idx": 73.3,
           "idxb": 74.2,
           "amostra": 83,
           "mvp": 18,
           "pos": 11,
+          "zona": "—"
+        },
+        {
+          "n": "Sene",
+          "tag": "#8JQJYQC",
+          "th": 18,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "seg": 1,
+          "idx": 72.8,
+          "idxb": 72.8,
+          "amostra": 100,
+          "mvp": 18,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -892,7 +911,7 @@
           "idxb": 71.6,
           "amostra": 100,
           "mvp": 17,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -911,7 +930,26 @@
           "idxb": 71.6,
           "amostra": 100,
           "mvp": 17,
-          "pos": 13,
+          "pos": 14,
+          "zona": "—"
+        },
+        {
+          "n": "bebo lendário",
+          "tag": "#2QLGCJRJR",
+          "th": 16,
+          "atk": 5,
+          "est": 13,
+          "spa": 2.6,
+          "conf": 100,
+          "def": 22,
+          "sof": 2.3,
+          "ndef": 6,
+          "seg": 2,
+          "idx": 71.2,
+          "idxb": 71.7,
+          "amostra": 83,
+          "mvp": 17,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -930,26 +968,7 @@
           "idxb": 71.6,
           "amostra": 83,
           "mvp": 16,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "bebo lendário",
-          "tag": "#2QLGCJRJR",
-          "th": 16,
-          "atk": 5,
-          "est": 13,
-          "spa": 2.6,
-          "conf": 100,
-          "def": 22,
-          "sof": 2.3,
-          "ndef": 6,
-          "seg": 2,
-          "idx": 71.1,
-          "idxb": 71.7,
-          "amostra": 83,
-          "mvp": 17,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -964,11 +983,11 @@
           "sof": 2.3,
           "ndef": 6,
           "seg": 2,
-          "idx": 70.7,
+          "idx": 70.8,
           "idxb": 71.2,
           "amostra": 83,
           "mvp": 18,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -987,7 +1006,7 @@
           "idxb": 69.8,
           "amostra": 100,
           "mvp": 17,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1006,7 +1025,7 @@
           "idxb": 69.2,
           "amostra": 83,
           "mvp": 16,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1025,25 +1044,6 @@
           "idxb": 69.2,
           "amostra": 83,
           "mvp": 16,
-          "pos": 19,
-          "zona": "—"
-        },
-        {
-          "n": "Sene",
-          "tag": "#8JQJYQC",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "seg": 1,
-          "idx": 68.4,
-          "idxb": 68.4,
-          "amostra": 83,
-          "mvp": 15,
           "pos": 20,
           "zona": "—"
         },
@@ -1171,7 +1171,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 5,
+          "ndef": 6,
           "seg": 0,
           "idx": 60.2,
           "idxb": 60.2,
@@ -1266,7 +1266,7 @@
           "conf": 33,
           "def": 0,
           "sof": 3.0,
-          "ndef": 2,
+          "ndef": 3,
           "seg": 0,
           "idx": 41.9,
           "idxb": 41.9,

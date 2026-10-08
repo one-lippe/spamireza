@@ -8154,14 +8154,14 @@
         "inicio": "20261008T004648.000Z",
         "fim": "20261009T004648.000Z",
         "nos": {
-          "est": 39,
-          "destr": 48.56666666666667,
-          "atk": 15
+          "est": 42,
+          "destr": 51.9,
+          "atk": 16
         },
         "eles": {
-          "est": 56,
-          "destr": 67.26666666666667,
-          "atk": 22
+          "est": 62,
+          "destr": 73.93333333333334,
+          "atk": 24
         },
         "membros": [
           {
@@ -8219,7 +8219,12 @@
             "tag": "#8JQJYQC",
             "th": 18,
             "pos": 4,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -8305,9 +8310,14 @@
                 "destr": 88
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Lider Andre",
@@ -8430,9 +8440,14 @@
             "th": 18,
             "pos": 18,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "F4KER",
@@ -8982,14 +8997,14 @@
       "inicio": "20261008T004648.000Z",
       "fim": "20261009T004648.000Z",
       "nos": {
-        "est": 39,
-        "destr": 48.56666666666667,
-        "atk": 15
+        "est": 42,
+        "destr": 51.9,
+        "atk": 16
       },
       "eles": {
-        "est": 56,
-        "destr": 67.26666666666667,
-        "atk": 22
+        "est": 62,
+        "destr": 73.93333333333334,
+        "atk": 24
       },
       "membros": [
         {
@@ -9047,7 +9062,12 @@
           "tag": "#8JQJYQC",
           "th": 18,
           "pos": 4,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -9133,9 +9153,14 @@
               "destr": 88
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Lider Andre",
@@ -9258,9 +9283,14 @@
           "th": 18,
           "pos": 18,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "F4KER",

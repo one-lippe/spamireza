@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T17:11:42.106407Z",
+  "atualizado": "2026-10-08T17:21:43.272524Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3143,7 +3143,9 @@
               "nome": "Sene",
               "tag": "#8JQJYQC",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3183,7 +3185,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Lider Andre",
@@ -3249,7 +3251,7 @@
               "tag": "#YJ2JLPQGR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "F4KER",
