@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T05:51:48.774445Z",
+  "atualizado": "2026-10-08T06:01:01.032980Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -581,7 +581,7 @@
         {
           "g": 5,
           "vs": "BD Army Club",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
@@ -3178,7 +3178,7 @@
               "tag": "#GRUG8UQGV",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "bebo lendário",
