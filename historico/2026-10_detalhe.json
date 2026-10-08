@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T19:20:33.383380Z",
+  "atualizado": "2026-10-08T19:30:47.895920Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -795,7 +795,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Nesk",
