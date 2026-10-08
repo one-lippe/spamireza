@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T21:01:13.960549Z",
+  "atualizado": "2026-10-08T21:10:39.820326Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -302,7 +302,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 4,
+          "ndef": 5,
           "seg": 0,
           "idx": 69.7,
           "idxb": 69.7,
@@ -915,6 +915,25 @@
           "zona": "—"
         },
         {
+          "n": "LSWRTHN",
+          "tag": "#QJY8RRYR",
+          "th": 16,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 100,
+          "def": 22,
+          "sof": 2.3,
+          "ndef": 6,
+          "seg": 2,
+          "idx": 72.8,
+          "idxb": 72.8,
+          "amostra": 100,
+          "mvp": 20,
+          "pos": 14,
+          "zona": "—"
+        },
+        {
           "n": "Nesk'",
           "tag": "#YCRJU229",
           "th": 17,
@@ -930,7 +949,7 @@
           "idxb": 71.6,
           "amostra": 100,
           "mvp": 17,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -949,7 +968,7 @@
           "idxb": 71.6,
           "amostra": 100,
           "mvp": 17,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -968,7 +987,7 @@
           "idxb": 71.7,
           "amostra": 83,
           "mvp": 17,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -987,25 +1006,6 @@
           "idxb": 71.6,
           "amostra": 83,
           "mvp": 16,
-          "pos": 17,
-          "zona": "—"
-        },
-        {
-          "n": "LSWRTHN",
-          "tag": "#QJY8RRYR",
-          "th": 16,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 22,
-          "sof": 2.3,
-          "ndef": 6,
-          "seg": 2,
-          "idx": 70.9,
-          "idxb": 71.2,
-          "amostra": 83,
-          "mvp": 18,
           "pos": 18,
           "zona": "—"
         },
