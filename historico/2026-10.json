@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T01:20:29.773375Z",
+  "atualizado": "2026-10-08T01:30:40.117551Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -763,6 +763,25 @@
           "zona": "—"
         },
         {
+          "n": "♣️Dorindo Sena♣",
+          "tag": "#8Y9V2QQ82",
+          "th": 18,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "seg": 1,
+          "idx": 72.8,
+          "idxb": 72.8,
+          "amostra": 100,
+          "mvp": 18,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
           "n": "Nesk'",
           "tag": "#YCRJU229",
           "th": 17,
@@ -778,7 +797,7 @@
           "idxb": 71.6,
           "amostra": 100,
           "mvp": 17,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -793,29 +812,10 @@
           "sof": 2.2,
           "ndef": 5,
           "seg": 2,
-          "idx": 71.2,
+          "idx": 71.3,
           "idxb": 72.1,
           "amostra": 83,
           "mvp": 18,
-          "pos": 7,
-          "zona": "—"
-        },
-        {
-          "n": "BC NOELLE ✓",
-          "tag": "#LCJ8JG09V",
-          "th": 18,
-          "atk": 5,
-          "est": 15,
-          "spa": 3.0,
-          "conf": 83,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "seg": 1,
-          "idx": 71.0,
-          "idxb": 71.8,
-          "amostra": 83,
-          "mvp": 16,
           "pos": 8,
           "zona": "—"
         },
@@ -839,6 +839,25 @@
           "zona": "—"
         },
         {
+          "n": "BC NOELLE ✓",
+          "tag": "#LCJ8JG09V",
+          "th": 18,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 83,
+          "def": 6,
+          "sof": 2.8,
+          "ndef": 6,
+          "seg": 1,
+          "idx": 70.8,
+          "idxb": 71.6,
+          "amostra": 83,
+          "mvp": 16,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
           "n": "Agnes",
           "tag": "#LLLU0VQCL",
           "th": 18,
@@ -854,7 +873,7 @@
           "idxb": 70.5,
           "amostra": 83,
           "mvp": 15,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -873,7 +892,26 @@
           "idxb": 70.5,
           "amostra": 83,
           "mvp": 15,
-          "pos": 11,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
+          "n": "bebo lendário",
+          "tag": "#2QLGCJRJR",
+          "th": 16,
+          "atk": 4,
+          "est": 11,
+          "spa": 2.75,
+          "conf": 80,
+          "def": 27,
+          "sof": 2.2,
+          "ndef": 5,
+          "seg": 2,
+          "idx": 69.3,
+          "idxb": 70.4,
+          "amostra": 67,
+          "mvp": 15,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -892,7 +930,7 @@
           "idxb": 69.6,
           "amostra": 83,
           "mvp": 16,
-          "pos": 12,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -911,7 +949,7 @@
           "idxb": 69.6,
           "amostra": 83,
           "mvp": 16,
-          "pos": 13,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -930,26 +968,7 @@
           "idxb": 69.6,
           "amostra": 83,
           "mvp": 16,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "bebo lendário",
-          "tag": "#2QLGCJRJR",
-          "th": 16,
-          "atk": 4,
-          "est": 11,
-          "spa": 2.75,
-          "conf": 80,
-          "def": 27,
-          "sof": 2.2,
-          "ndef": 5,
-          "seg": 2,
-          "idx": 69.2,
-          "idxb": 70.4,
-          "amostra": 67,
-          "mvp": 15,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -968,31 +987,12 @@
           "idxb": 68.7,
           "amostra": 83,
           "mvp": 15,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
           "n": "PaiDeFamilia",
           "tag": "#2GCJ8QC92",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "seg": 1,
-          "idx": 68.2,
-          "idxb": 68.4,
-          "amostra": 83,
-          "mvp": 15,
-          "pos": 17,
-          "zona": "—"
-        },
-        {
-          "n": "♣️Dorindo Sena♣",
-          "tag": "#8Y9V2QQ82",
           "th": 18,
           "atk": 5,
           "est": 14,

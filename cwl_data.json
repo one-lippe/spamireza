@@ -7683,14 +7683,14 @@
         "inicio": "20261008T004648.000Z",
         "fim": "20261009T004648.000Z",
         "nos": {
+          "est": 9,
+          "destr": 10.0,
+          "atk": 3
+        },
+        "eles": {
           "est": 6,
           "destr": 6.666666666666667,
           "atk": 2
-        },
-        "eles": {
-          "est": 3,
-          "destr": 3.3333333333333335,
-          "atk": 1
         },
         "membros": [
           {
@@ -7798,7 +7798,12 @@
             "tag": "#8Y9V2QQ82",
             "th": 18,
             "pos": 11,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -7844,9 +7849,14 @@
             "th": 18,
             "pos": 16,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•InTheDark II",
@@ -8341,14 +8351,14 @@
       "inicio": "20261008T004648.000Z",
       "fim": "20261009T004648.000Z",
       "nos": {
+        "est": 9,
+        "destr": 10.0,
+        "atk": 3
+      },
+      "eles": {
         "est": 6,
         "destr": 6.666666666666667,
         "atk": 2
-      },
-      "eles": {
-        "est": 3,
-        "destr": 3.3333333333333335,
-        "atk": 1
       },
       "membros": [
         {
@@ -8456,7 +8466,12 @@
           "tag": "#8Y9V2QQ82",
           "th": 18,
           "pos": 11,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -8502,9 +8517,14 @@
           "th": 18,
           "pos": 16,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•InTheDark II",

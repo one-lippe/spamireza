@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T01:20:29.776461Z",
+  "atualizado": "2026-10-08T01:30:40.120725Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3025,7 +3025,9 @@
               "nome": "♣️Dorindo Sena♣",
               "tag": "#8Y9V2QQ82",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3056,7 +3058,7 @@
               "tag": "#LCJ8JG09V",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•InTheDark II",
