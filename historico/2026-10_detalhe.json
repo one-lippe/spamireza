@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T13:11:19.765672Z",
+  "atualizado": "2026-10-08T13:20:42.046087Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1630,7 +1630,9 @@
               "nome": "SR • Balestra",
               "tag": "#8UJY9C8RQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
