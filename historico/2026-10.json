@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T18:50:42.870307Z",
+  "atualizado": "2026-10-09T19:00:41.456775Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -706,25 +706,6 @@
           "zona": "promo"
         },
         {
-          "n": "Royther13",
-          "tag": "#22LUL8GV9",
-          "th": 18,
-          "atk": 7,
-          "est": 20,
-          "spa": 2.86,
-          "conf": 100,
-          "def": 20,
-          "sof": 2.4,
-          "ndef": 5,
-          "seg": 2,
-          "idx": 75.7,
-          "idxb": 75.7,
-          "amostra": 100,
-          "mvp": 23,
-          "pos": 3,
-          "zona": "—"
-        },
-        {
           "n": "SrNunes",
           "tag": "#2LY8G8Y9",
           "th": 18,
@@ -740,7 +721,7 @@
           "idxb": 75.5,
           "amostra": 100,
           "mvp": 24,
-          "pos": 4,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -759,7 +740,7 @@
           "idxb": 75.3,
           "amostra": 100,
           "mvp": 22,
-          "pos": 5,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -778,6 +759,25 @@
           "idxb": 75.3,
           "amostra": 100,
           "mvp": 22,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
+          "n": "Royther13",
+          "tag": "#22LUL8GV9",
+          "th": 18,
+          "atk": 7,
+          "est": 20,
+          "spa": 2.86,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 6,
+          "seg": 2,
+          "idx": 75.1,
+          "idxb": 75.1,
+          "amostra": 100,
+          "mvp": 23,
           "pos": 6,
           "zona": "—"
         },
@@ -1264,14 +1264,14 @@
           "est": 5,
           "spa": 1.67,
           "conf": 75,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 3,
-          "seg": 0,
-          "idx": 45.9,
-          "idxb": 45.9,
+          "def": 8,
+          "sof": 2.8,
+          "ndef": 4,
+          "seg": 1,
+          "idx": 47.4,
+          "idxb": 47.4,
           "amostra": 43,
-          "mvp": 5,
+          "mvp": 6,
           "pos": 32,
           "zona": "rebx"
         }

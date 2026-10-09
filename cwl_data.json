@@ -9080,9 +9080,9 @@
           "atk": 19
         },
         "eles": {
-          "est": 66,
-          "destr": 80.46666666666667,
-          "atk": 25
+          "est": 71,
+          "destr": 86.06666666666666,
+          "atk": 27
         },
         "membros": [
           {
@@ -9316,9 +9316,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "rei do crime",
@@ -9371,9 +9376,14 @@
                 "destr": 99
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 68,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 68
+              }
+            ]
           },
           {
             "nome": "F4KER",
@@ -9622,9 +9632,9 @@
         "atk": 19
       },
       "eles": {
-        "est": 66,
-        "destr": 80.46666666666667,
-        "atk": 25
+        "est": 71,
+        "destr": 86.06666666666666,
+        "atk": 27
       },
       "membros": [
         {
@@ -9858,9 +9868,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "rei do crime",
@@ -9913,9 +9928,14 @@
               "destr": 99
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 68,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 68
+            }
+          ]
         },
         {
           "nome": "F4KER",

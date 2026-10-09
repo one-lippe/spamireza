@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T18:50:42.900705Z",
+  "atualizado": "2026-10-09T19:00:41.460283Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3787,7 +3787,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "rei do crime",
@@ -3819,7 +3819,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "F4KER",
