@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T05:10:41.398856Z",
+  "atualizado": "2026-10-09T05:20:27.625565Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -706,6 +706,25 @@
           "zona": "promo"
         },
         {
+          "n": "Coyote 171 × 戦備",
+          "tag": "#Y08CR0PQU",
+          "th": 18,
+          "atk": 6,
+          "est": 18,
+          "spa": 3.0,
+          "conf": 86,
+          "def": 29,
+          "sof": 2.1,
+          "ndef": 7,
+          "seg": 5,
+          "idx": 75.1,
+          "idxb": 76.4,
+          "amostra": 86,
+          "mvp": 24,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
           "n": "SR • JotaErre",
           "tag": "#GRUG8UQGV",
           "th": 16,
@@ -720,25 +739,6 @@
           "idx": 75.1,
           "idxb": 75.1,
           "amostra": 100,
-          "mvp": 23,
-          "pos": 3,
-          "zona": "—"
-        },
-        {
-          "n": "Coyote 171 × 戦備",
-          "tag": "#Y08CR0PQU",
-          "th": 18,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 28,
-          "sof": 2.2,
-          "ndef": 6,
-          "seg": 4,
-          "idx": 74.9,
-          "idxb": 76.2,
-          "amostra": 86,
           "mvp": 23,
           "pos": 4,
           "zona": "—"

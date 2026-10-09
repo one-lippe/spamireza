@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T05:10:41.402218Z",
+  "atualizado": "2026-10-09T05:20:27.628981Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3544,7 +3544,7 @@
               "tag": "#Y08CR0PQU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Sene",
