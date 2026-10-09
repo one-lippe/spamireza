@@ -8865,9 +8865,9 @@
           "atk": 3
         },
         "eles": {
-          "est": 10,
-          "destr": 12.266666666666667,
-          "atk": 4
+          "est": 13,
+          "destr": 15.6,
+          "atk": 5
         },
         "membros": [
           {
@@ -9161,9 +9161,14 @@
             "th": 17,
             "pos": 29,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "LSWRTHN",
@@ -9222,9 +9227,9 @@
         "atk": 3
       },
       "eles": {
-        "est": 10,
-        "destr": 12.266666666666667,
-        "atk": 4
+        "est": 13,
+        "destr": 15.6,
+        "atk": 5
       },
       "membros": [
         {
@@ -9518,9 +9523,14 @@
           "th": 17,
           "pos": 29,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "LSWRTHN",
