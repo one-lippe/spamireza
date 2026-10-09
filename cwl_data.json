@@ -9080,9 +9080,9 @@
           "atk": 19
         },
         "eles": {
-          "est": 71,
-          "destr": 86.06666666666666,
-          "atk": 27
+          "est": 76,
+          "destr": 92.36666666666666,
+          "atk": 29
         },
         "membros": [
           {
@@ -9301,9 +9301,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Royther13",
@@ -9331,9 +9336,14 @@
             "th": 18,
             "pos": 15,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 89,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 89
+              }
+            ]
           },
           {
             "nome": "BC NOELLE ✓",
@@ -9632,9 +9642,9 @@
         "atk": 19
       },
       "eles": {
-        "est": 71,
-        "destr": 86.06666666666666,
-        "atk": 27
+        "est": 76,
+        "destr": 92.36666666666666,
+        "atk": 29
       },
       "membros": [
         {
@@ -9853,9 +9863,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Royther13",
@@ -9883,9 +9898,14 @@
           "th": 18,
           "pos": 15,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 89,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 89
+            }
+          ]
         },
         {
           "nome": "BC NOELLE ✓",

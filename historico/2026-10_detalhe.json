@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T19:00:41.460283Z",
+  "atualizado": "2026-10-09T19:10:35.284705Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3778,7 +3778,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Royther13",
@@ -3794,7 +3794,7 @@
               "tag": "#RP8VCCUV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "BC NOELLE ✓",
