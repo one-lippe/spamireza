@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T13:00:35.038449Z",
+  "atualizado": "2026-10-09T13:10:43.749162Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -671,18 +671,18 @@
           "n": "Jan™",
           "tag": "#CJV9G22Q",
           "th": 17,
-          "atk": 5,
-          "est": 15,
+          "atk": 6,
+          "est": 18,
           "spa": 3.0,
-          "conf": 83,
+          "conf": 100,
           "def": 47,
           "sof": 1.6,
           "ndef": 5,
           "seg": 4,
-          "idx": 75.9,
-          "idxb": 79.2,
-          "amostra": 71,
-          "mvp": 22,
+          "idx": 80.9,
+          "idxb": 83.1,
+          "amostra": 86,
+          "mvp": 25,
           "pos": 1,
           "zona": "promo"
         },
@@ -755,7 +755,7 @@
           "sof": 2.1,
           "ndef": 7,
           "seg": 5,
-          "idx": 75.1,
+          "idx": 75.2,
           "idxb": 76.4,
           "amostra": 86,
           "mvp": 24,
@@ -1283,6 +1283,25 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "scamador'd'calv",
+          "tag": "#QUP0R2CJU",
+          "th": 15,
+          "atk": 7,
+          "est": 21,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "seg": 2,
+          "idx": 68.6,
+          "idxb": 68.6,
+          "amostra": 100,
+          "mvp": 23,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "qvnly",
           "tag": "#GUCJQPVR9",
           "th": 18,
@@ -1298,7 +1317,7 @@
           "idxb": 68.2,
           "amostra": 100,
           "mvp": 23,
-          "pos": 1,
+          "pos": 2,
           "zona": "promo"
         },
         {
@@ -1317,8 +1336,8 @@
           "idxb": 67.5,
           "amostra": 100,
           "mvp": 23,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "SR • Eduhh",
@@ -1336,7 +1355,7 @@
           "idxb": 67.3,
           "amostra": 100,
           "mvp": 22,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -1355,7 +1374,7 @@
           "idxb": 66.8,
           "amostra": 100,
           "mvp": 25,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -1374,7 +1393,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 21,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -1393,7 +1412,7 @@
           "idxb": 66.1,
           "amostra": 100,
           "mvp": 22,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -1412,7 +1431,7 @@
           "idxb": 66.1,
           "amostra": 100,
           "mvp": 22,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -1431,25 +1450,6 @@
           "idxb": 66.2,
           "amostra": 86,
           "mvp": 21,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "scamador'd'calv",
-          "tag": "#QUP0R2CJU",
-          "th": 15,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "seg": 2,
-          "idx": 64.6,
-          "idxb": 65.6,
-          "amostra": 86,
-          "mvp": 20,
           "pos": 9,
           "zona": "—"
         },
@@ -1465,7 +1465,7 @@
           "sof": 2.1,
           "ndef": 8,
           "seg": 4,
-          "idx": 62.5,
+          "idx": 62.6,
           "idxb": 63.2,
           "amostra": 86,
           "mvp": 23,

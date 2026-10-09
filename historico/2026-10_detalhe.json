@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T13:00:35.041915Z",
+  "atualizado": "2026-10-09T13:10:43.751232Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3836,7 +3836,9 @@
               "nome": "Jan™",
               "tag": "#CJV9G22Q",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -5746,7 +5748,9 @@
               "nome": "scamador'd'calv",
               "tag": "#QUP0R2CJU",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
