@@ -4446,9 +4446,9 @@
           "atk": 7
         },
         "eles": {
-          "est": 30,
-          "destr": 66.66666666666667,
-          "atk": 10
+          "est": 31,
+          "destr": 72.4,
+          "atk": 11
         },
         "membros": [
           {
@@ -4557,9 +4557,14 @@
                 "destr": 91
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 86,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 86
+              }
+            ]
           },
           {
             "nome": "Levi_Neiva 2",
@@ -4703,9 +4708,9 @@
         "atk": 7
       },
       "eles": {
-        "est": 30,
-        "destr": 66.66666666666667,
-        "atk": 10
+        "est": 31,
+        "destr": 72.4,
+        "atk": 11
       },
       "membros": [
         {
@@ -4814,9 +4819,14 @@
               "destr": 91
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 86,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 86
+            }
+          ]
         },
         {
           "nome": "Levi_Neiva 2",

@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T10:40:48.384898Z",
+  "atualizado": "2026-10-09T10:50:39.705187Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -395,6 +395,25 @@
           "zona": "—"
         },
         {
+          "n": "ＬＵＭＩＮＯＵＳ",
+          "tag": "#2LLYCQPG8",
+          "th": 18,
+          "atk": 7,
+          "est": 20,
+          "spa": 2.86,
+          "conf": 100,
+          "def": 14,
+          "sof": 2.6,
+          "ndef": 7,
+          "seg": 2,
+          "idx": 75.4,
+          "idxb": 75.4,
+          "amostra": 100,
+          "mvp": 23,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
           "n": "SR - JON SNOW 2",
           "tag": "#9VV909C89",
           "th": 18,
@@ -410,7 +429,7 @@
           "idxb": 75.4,
           "amostra": 86,
           "mvp": 22,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -429,7 +448,7 @@
           "idxb": 75.4,
           "amostra": 86,
           "mvp": 22,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -448,7 +467,7 @@
           "idxb": 75.0,
           "amostra": 86,
           "mvp": 21,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -467,25 +486,6 @@
           "idxb": 75.2,
           "amostra": 71,
           "mvp": 15,
-          "pos": 7,
-          "zona": "—"
-        },
-        {
-          "n": "ＬＵＭＩＮＯＵＳ",
-          "tag": "#2LLYCQPG8",
-          "th": 18,
-          "atk": 7,
-          "est": 20,
-          "spa": 2.86,
-          "conf": 100,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
-          "seg": 1,
-          "idx": 73.8,
-          "idxb": 73.8,
-          "amostra": 100,
-          "mvp": 21,
           "pos": 8,
           "zona": "—"
         },
