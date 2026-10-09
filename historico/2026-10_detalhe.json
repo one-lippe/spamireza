@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T14:10:37.849963Z",
+  "atualizado": "2026-10-09T14:21:01.268486Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3810,7 +3810,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "irmão do jorel",
@@ -5640,7 +5640,9 @@
               "nome": "Gerion",
               "tag": "#YP9L000LG",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {

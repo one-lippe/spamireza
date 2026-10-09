@@ -9000,9 +9000,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 42,
-          "destr": 51.2,
-          "atk": 16
+          "est": 45,
+          "destr": 54.53333333333333,
+          "atk": 17
         },
         "membros": [
           {
@@ -9256,9 +9256,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "irmão do jorel",
@@ -9452,9 +9457,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 42,
-        "destr": 51.2,
-        "atk": 16
+        "est": 45,
+        "destr": 54.53333333333333,
+        "atk": 17
       },
       "membros": [
         {
@@ -9708,9 +9713,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "irmão do jorel",
@@ -13674,9 +13684,9 @@
         "inicio": "20261008T233758.000Z",
         "fim": "20261009T233758.000Z",
         "nos": {
-          "est": 54,
-          "destr": 60.0,
-          "atk": 18
+          "est": 57,
+          "destr": 63.333333333333336,
+          "atk": 19
         },
         "eles": {
           "est": 22,
@@ -13829,7 +13839,12 @@
             "tag": "#YP9L000LG",
             "th": 16,
             "pos": 11,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -14131,9 +14146,9 @@
       "inicio": "20261008T233758.000Z",
       "fim": "20261009T233758.000Z",
       "nos": {
-        "est": 54,
-        "destr": 60.0,
-        "atk": 18
+        "est": 57,
+        "destr": 63.333333333333336,
+        "atk": 19
       },
       "eles": {
         "est": 22,
@@ -14286,7 +14301,12 @@
           "tag": "#YP9L000LG",
           "th": 16,
           "pos": 11,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
