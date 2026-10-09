@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T11:50:28.971885Z",
+  "atualizado": "2026-10-09T12:00:38.691168Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -875,7 +875,7 @@
               "tag": "#8GGCQPYP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Levi_Neiva",

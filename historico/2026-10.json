@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T11:50:28.967618Z",
+  "atualizado": "2026-10-09T12:00:38.689150Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -84,8 +84,8 @@
           "zona": "—"
         },
         {
-          "n": "marinaul war",
-          "tag": "#8GGCQPYP",
+          "n": "Levi_Neiva",
+          "tag": "#C8R989YJ",
           "th": 18,
           "atk": 6,
           "est": 18,
@@ -103,8 +103,8 @@
           "zona": "—"
         },
         {
-          "n": "Levi_Neiva",
-          "tag": "#C8R989YJ",
+          "n": "Jan",
+          "tag": "#2899CRJG",
           "th": 18,
           "atk": 6,
           "est": 18,
@@ -122,19 +122,19 @@
           "zona": "—"
         },
         {
-          "n": "Jan",
-          "tag": "#2899CRJG",
+          "n": "marinaul war",
+          "tag": "#8GGCQPYP",
           "th": 18,
           "atk": 6,
           "est": 18,
           "spa": 3.0,
           "conf": 86,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
+          "def": 5,
+          "sof": 2.9,
+          "ndef": 7,
           "seg": 1,
-          "idx": 78.0,
-          "idxb": 78.3,
+          "idx": 77.9,
+          "idxb": 78.2,
           "amostra": 86,
           "mvp": 19,
           "pos": 7,
