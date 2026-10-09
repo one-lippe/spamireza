@@ -4446,9 +4446,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 27,
-          "destr": 60.0,
-          "atk": 9
+          "est": 30,
+          "destr": 66.66666666666667,
+          "atk": 10
         },
         "membros": [
           {
@@ -4517,9 +4517,14 @@
             "th": 18,
             "pos": 6,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Balestra",
@@ -4693,9 +4698,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 27,
-        "destr": 60.0,
-        "atk": 9
+        "est": 30,
+        "destr": 66.66666666666667,
+        "atk": 10
       },
       "membros": [
         {
@@ -4764,9 +4769,14 @@
           "th": 18,
           "pos": 6,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Balestra",
@@ -8800,9 +8810,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 19,
-          "destr": 22.266666666666666,
-          "atk": 7
+          "est": 25,
+          "destr": 28.933333333333334,
+          "atk": 9
         },
         "membros": [
           {
@@ -8861,9 +8871,14 @@
             "th": 18,
             "pos": 5,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Coyote 157 × 戦備",
@@ -9016,9 +9031,14 @@
             "th": 18,
             "pos": 21,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "abraão",
@@ -9177,9 +9197,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 19,
-        "destr": 22.266666666666666,
-        "atk": 7
+        "est": 25,
+        "destr": 28.933333333333334,
+        "atk": 9
       },
       "membros": [
         {
@@ -9238,9 +9258,14 @@
           "th": 18,
           "pos": 5,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Coyote 157 × 戦備",
@@ -9393,9 +9418,14 @@
           "th": 18,
           "pos": 21,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "abraão",

@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T10:20:30.442454Z",
+  "atualizado": "2026-10-09T10:30:29.155229Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1886,7 +1886,7 @@
               "tag": "#LUJ9CRJQG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Balestra",
@@ -3677,7 +3677,7 @@
               "tag": "#YVU0L88P",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Coyote 157 × 戦備",
@@ -3779,7 +3779,7 @@
               "tag": "#P2JCQRPGJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "abraão",
