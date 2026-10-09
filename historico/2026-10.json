@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T15:20:33.974856Z",
+  "atualizado": "2026-10-09T15:30:47.185588Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1283,6 +1283,25 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "Ligeirinh2xD",
+          "tag": "#GCC98R22R",
+          "th": 16,
+          "atk": 7,
+          "est": 21,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 6,
+          "seg": 3,
+          "idx": 69.2,
+          "idxb": 69.2,
+          "amostra": 100,
+          "mvp": 24,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "qvnly",
           "tag": "#GUCJQPVR9",
           "th": 18,
@@ -1298,7 +1317,7 @@
           "idxb": 68.8,
           "amostra": 100,
           "mvp": 24,
-          "pos": 1,
+          "pos": 2,
           "zona": "promo"
         },
         {
@@ -1317,8 +1336,8 @@
           "idxb": 68.6,
           "amostra": 100,
           "mvp": 23,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "LUMINOUS2",
@@ -1336,7 +1355,7 @@
           "idxb": 67.5,
           "amostra": 100,
           "mvp": 23,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -1355,7 +1374,7 @@
           "idxb": 67.3,
           "amostra": 100,
           "mvp": 22,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -1374,7 +1393,7 @@
           "idxb": 66.9,
           "amostra": 100,
           "mvp": 26,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -1393,7 +1412,7 @@
           "idxb": 66.8,
           "amostra": 100,
           "mvp": 25,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -1412,7 +1431,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 21,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -1431,7 +1450,7 @@
           "idxb": 66.1,
           "amostra": 100,
           "mvp": 22,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -1450,25 +1469,6 @@
           "idxb": 66.1,
           "amostra": 100,
           "mvp": 22,
-          "pos": 9,
-          "zona": "—"
-        },
-        {
-          "n": "Ligeirinh2xD",
-          "tag": "#GCC98R22R",
-          "th": 16,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 6,
-          "seg": 3,
-          "idx": 65.2,
-          "idxb": 66.2,
-          "amostra": 86,
-          "mvp": 21,
           "pos": 10,
           "zona": "—"
         },

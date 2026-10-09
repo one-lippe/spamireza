@@ -13734,9 +13734,9 @@
         "inicio": "20261008T233758.000Z",
         "fim": "20261009T233758.000Z",
         "nos": {
-          "est": 57,
-          "destr": 63.333333333333336,
-          "atk": 19
+          "est": 60,
+          "destr": 66.66666666666667,
+          "atk": 20
         },
         "eles": {
           "est": 24,
@@ -14024,7 +14024,12 @@
             "tag": "#GCC98R22R",
             "th": 16,
             "pos": 19,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -14201,9 +14206,9 @@
       "inicio": "20261008T233758.000Z",
       "fim": "20261009T233758.000Z",
       "nos": {
-        "est": 57,
-        "destr": 63.333333333333336,
-        "atk": 19
+        "est": 60,
+        "destr": 66.66666666666667,
+        "atk": 20
       },
       "eles": {
         "est": 24,
@@ -14491,7 +14496,12 @@
           "tag": "#GCC98R22R",
           "th": 16,
           "pos": 19,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []

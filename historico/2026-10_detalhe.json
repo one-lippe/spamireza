@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T15:20:33.978484Z",
+  "atualizado": "2026-10-09T15:30:47.187756Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -5716,7 +5716,9 @@
               "nome": "Ligeirinh2xD",
               "tag": "#GCC98R22R",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
