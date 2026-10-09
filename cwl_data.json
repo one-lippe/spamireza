@@ -2067,6 +2067,16 @@
             "defesas": []
           },
           {
+            "nome": "SR • Giovanelli",
+            "tag": "#PJ0YJLGJ",
+            "th": 18,
+            "pos": 5,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
             "nome": "tozim",
             "tag": "#9G22U9U2Y",
             "th": 18,
@@ -2111,16 +2121,6 @@
             "tag": "#99220V0Q8",
             "th": 18,
             "pos": 11,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
-            "nome": "LEANDRO",
-            "tag": "#QPCRCR8VY",
-            "th": 18,
-            "pos": 12,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -8835,9 +8835,9 @@
           "atk": 1
         },
         "eles": {
-          "est": 2,
-          "destr": 3.0,
-          "atk": 1
+          "est": 5,
+          "destr": 6.333333333333333,
+          "atk": 2
         },
         "membros": [
           {
@@ -9136,9 +9136,14 @@
             "th": 16,
             "pos": 31,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "bebo lendário",
@@ -9167,9 +9172,9 @@
         "atk": 1
       },
       "eles": {
-        "est": 2,
-        "destr": 3.0,
-        "atk": 1
+        "est": 5,
+        "destr": 6.333333333333333,
+        "atk": 2
       },
       "membros": [
         {
@@ -9468,9 +9473,14 @@
           "th": 16,
           "pos": 31,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "bebo lendário",

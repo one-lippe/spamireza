@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T03:00:53.309127Z",
+  "atualizado": "2026-10-09T03:10:58.577691Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -820,25 +820,6 @@
           "zona": "—"
         },
         {
-          "n": "SR • JotaErre",
-          "tag": "#GRUG8UQGV",
-          "th": 16,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 86,
-          "def": 20,
-          "sof": 2.4,
-          "ndef": 5,
-          "seg": 3,
-          "idx": 71.3,
-          "idxb": 72.0,
-          "amostra": 86,
-          "mvp": 20,
-          "pos": 9,
-          "zona": "—"
-        },
-        {
           "n": "SrNunes",
           "tag": "#2LY8G8Y9",
           "th": 18,
@@ -854,6 +835,25 @@
           "idxb": 71.8,
           "amostra": 86,
           "mvp": 21,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
+          "n": "SR • JotaErre",
+          "tag": "#GRUG8UQGV",
+          "th": 16,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 86,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 6,
+          "seg": 3,
+          "idx": 70.7,
+          "idxb": 71.3,
+          "amostra": 86,
+          "mvp": 20,
           "pos": 10,
           "zona": "—"
         },
