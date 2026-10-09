@@ -2026,9 +2026,9 @@
           "atk": 11
         },
         "eles": {
-          "est": 25,
-          "destr": 70.26666666666667,
-          "atk": 11
+          "est": 28,
+          "destr": 76.93333333333334,
+          "atk": 12
         },
         "membros": [
           {
@@ -2287,9 +2287,14 @@
             "th": 18,
             "pos": 17,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           }
         ]
       }
@@ -2308,9 +2313,9 @@
         "atk": 11
       },
       "eles": {
-        "est": 25,
-        "destr": 70.26666666666667,
-        "atk": 11
+        "est": 28,
+        "destr": 76.93333333333334,
+        "atk": 12
       },
       "membros": [
         {
@@ -2569,9 +2574,14 @@
           "th": 18,
           "pos": 17,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         }
       ]
     },
