@@ -2026,9 +2026,9 @@
           "atk": 11
         },
         "eles": {
-          "est": 28,
-          "destr": 76.93333333333334,
-          "atk": 12
+          "est": 29,
+          "destr": 83.06666666666666,
+          "atk": 13
         },
         "membros": [
           {
@@ -2197,9 +2197,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 92,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 92
+              }
+            ]
           },
           {
             "nome": "MAJ0R FiV3",
@@ -2313,9 +2318,9 @@
         "atk": 11
       },
       "eles": {
-        "est": 28,
-        "destr": 76.93333333333334,
-        "atk": 12
+        "est": 29,
+        "destr": 83.06666666666666,
+        "atk": 13
       },
       "membros": [
         {
@@ -2484,9 +2489,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 92,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 92
+            }
+          ]
         },
         {
           "nome": "MAJ0R FiV3",
@@ -14009,9 +14019,9 @@
           "atk": 21
         },
         "eles": {
-          "est": 28,
-          "destr": 34.233333333333334,
-          "atk": 12
+          "est": 30,
+          "destr": 36.46666666666667,
+          "atk": 13
         },
         "membros": [
           {
@@ -14315,9 +14325,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 67,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 67
+              }
+            ]
           },
           {
             "nome": "SR•InTheDarkIII",
@@ -14496,9 +14511,9 @@
         "atk": 21
       },
       "eles": {
-        "est": 28,
-        "destr": 34.233333333333334,
-        "atk": 12
+        "est": 30,
+        "destr": 36.46666666666667,
+        "atk": 13
       },
       "membros": [
         {
@@ -14802,9 +14817,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 67,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 67
+            }
+          ]
         },
         {
           "nome": "SR•InTheDarkIII",
