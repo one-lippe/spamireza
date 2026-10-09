@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T10:50:39.705187Z",
+  "atualizado": "2026-10-09T11:00:38.366994Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -190,7 +190,7 @@
           "sof": 2.7,
           "ndef": 7,
           "seg": 2,
-          "idx": 75.9,
+          "idx": 76.0,
           "idxb": 76.0,
           "amostra": 86,
           "mvp": 19,
@@ -236,17 +236,17 @@
           "zona": "—"
         },
         {
-          "n": "SR • JON SNOW",
-          "tag": "#LYV2J2LU",
+          "n": "Dog Apollo",
+          "tag": "#YJ9R2GPJG",
           "th": 18,
           "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 86,
-          "def": 10,
-          "sof": 2.7,
-          "ndef": 7,
-          "seg": 1,
+          "est": 14,
+          "spa": 2.33,
+          "conf": 100,
+          "def": 22,
+          "sof": 2.3,
+          "ndef": 6,
+          "seg": 3,
           "idx": 72.9,
           "idxb": 72.9,
           "amostra": 86,
@@ -274,21 +274,21 @@
           "zona": "—"
         },
         {
-          "n": "Dog Apollo",
-          "tag": "#YJ9R2GPJG",
+          "n": "SR • JON SNOW",
+          "tag": "#LYV2J2LU",
           "th": 18,
-          "atk": 6,
-          "est": 14,
-          "spa": 2.33,
+          "atk": 7,
+          "est": 17,
+          "spa": 2.43,
           "conf": 100,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "seg": 2,
-          "idx": 71.1,
-          "idxb": 71.1,
-          "amostra": 86,
-          "mvp": 16,
+          "def": 10,
+          "sof": 2.7,
+          "ndef": 7,
+          "seg": 1,
+          "idx": 72.1,
+          "idxb": 72.1,
+          "amostra": 100,
+          "mvp": 19,
           "pos": 15,
           "zona": "—"
         },
@@ -338,6 +338,25 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "Ligeirinh0xD",
+          "tag": "#GRR2G9LP0",
+          "th": 18,
+          "atk": 7,
+          "est": 21,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 6,
+          "seg": 2,
+          "idx": 78.3,
+          "idxb": 78.3,
+          "amostra": 100,
+          "mvp": 24,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "dvnly",
           "tag": "#QR2JLQ2RR",
           "th": 18,
@@ -353,7 +372,7 @@
           "idxb": 77.0,
           "amostra": 100,
           "mvp": 23,
-          "pos": 1,
+          "pos": 2,
           "zona": "promo"
         },
         {
@@ -372,8 +391,8 @@
           "idxb": 77.3,
           "amostra": 86,
           "mvp": 20,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "KingMpg",
@@ -391,7 +410,7 @@
           "idxb": 76.1,
           "amostra": 100,
           "mvp": 22,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -410,7 +429,7 @@
           "idxb": 75.4,
           "amostra": 100,
           "mvp": 23,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -429,7 +448,7 @@
           "idxb": 75.4,
           "amostra": 86,
           "mvp": 22,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -448,25 +467,6 @@
           "idxb": 75.4,
           "amostra": 86,
           "mvp": 22,
-          "pos": 6,
-          "zona": "—"
-        },
-        {
-          "n": "Ligeirinh0xD",
-          "tag": "#GRR2G9LP0",
-          "th": 18,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 6,
-          "seg": 2,
-          "idx": 74.5,
-          "idxb": 75.0,
-          "amostra": 86,
-          "mvp": 21,
           "pos": 7,
           "zona": "—"
         },
@@ -482,7 +482,7 @@
           "sof": 3.0,
           "ndef": 5,
           "seg": 0,
-          "idx": 74.2,
+          "idx": 74.3,
           "idxb": 75.2,
           "amostra": 71,
           "mvp": 15,
@@ -520,7 +520,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 72.2,
+          "idx": 72.3,
           "idxb": 72.3,
           "amostra": 86,
           "mvp": 17,

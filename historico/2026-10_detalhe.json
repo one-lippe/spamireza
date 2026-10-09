@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T10:50:39.708658Z",
+  "atualizado": "2026-10-09T11:00:38.370026Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -898,7 +898,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "SR • Giovanelli",
@@ -918,7 +918,9 @@
               "nome": "SR • JON SNOW",
               "tag": "#LYV2J2LU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
@@ -1953,7 +1955,9 @@
               "nome": "Ligeirinh0xD",
               "tag": "#GRR2G9LP0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
