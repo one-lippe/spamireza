@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T11:00:38.370026Z",
+  "atualizado": "2026-10-09T11:10:40.808508Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1859,7 +1859,9 @@
               "nome": "SR - JON SNOW 2",
               "tag": "#9VV909C89",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -5759,7 +5761,9 @@
               "nome": "Najla Nunes",
               "tag": "#9CR0G200R",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             }
           ]

@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T11:00:38.366994Z",
+  "atualizado": "2026-10-09T11:10:40.804962Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -338,6 +338,25 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "SR - JON SNOW 2",
+          "tag": "#9VV909C89",
+          "th": 18,
+          "atk": 7,
+          "est": 21,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 19,
+          "sof": 2.4,
+          "ndef": 7,
+          "seg": 3,
+          "idx": 78.8,
+          "idxb": 78.8,
+          "amostra": 100,
+          "mvp": 25,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "Ligeirinh0xD",
           "tag": "#GRR2G9LP0",
           "th": 18,
@@ -353,7 +372,7 @@
           "idxb": 78.3,
           "amostra": 100,
           "mvp": 24,
-          "pos": 1,
+          "pos": 2,
           "zona": "promo"
         },
         {
@@ -372,8 +391,8 @@
           "idxb": 77.0,
           "amostra": 100,
           "mvp": 23,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "SR • DuM∆R",
@@ -387,11 +406,11 @@
           "sof": 2.7,
           "ndef": 6,
           "seg": 1,
-          "idx": 76.5,
+          "idx": 76.6,
           "idxb": 77.3,
           "amostra": 86,
           "mvp": 20,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -410,7 +429,7 @@
           "idxb": 76.1,
           "amostra": 100,
           "mvp": 22,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -429,25 +448,6 @@
           "idxb": 75.4,
           "amostra": 100,
           "mvp": 23,
-          "pos": 5,
-          "zona": "—"
-        },
-        {
-          "n": "SR - JON SNOW 2",
-          "tag": "#9VV909C89",
-          "th": 18,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 19,
-          "sof": 2.4,
-          "ndef": 7,
-          "seg": 3,
-          "idx": 74.9,
-          "idxb": 75.4,
-          "amostra": 86,
-          "mvp": 22,
           "pos": 6,
           "zona": "—"
         },
@@ -501,7 +501,7 @@
           "sof": 2.7,
           "ndef": 6,
           "seg": 2,
-          "idx": 73.6,
+          "idx": 73.7,
           "idxb": 73.9,
           "amostra": 86,
           "mvp": 20,
@@ -1427,7 +1427,7 @@
           "sof": 2.5,
           "ndef": 6,
           "seg": 3,
-          "idx": 65.0,
+          "idx": 65.1,
           "idxb": 66.2,
           "amostra": 86,
           "mvp": 21,
@@ -1484,11 +1484,30 @@
           "sof": 2.7,
           "ndef": 6,
           "seg": 2,
-          "idx": 62.0,
+          "idx": 62.1,
           "idxb": 62.7,
           "amostra": 86,
           "mvp": 19,
           "pos": 11,
+          "zona": "—"
+        },
+        {
+          "n": "Najla Nunes",
+          "tag": "#9CR0G200R",
+          "th": 15,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 5,
+          "seg": 0,
+          "idx": 60.9,
+          "idxb": 61.3,
+          "amostra": 86,
+          "mvp": 16,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -1503,11 +1522,11 @@
           "sof": 2.3,
           "ndef": 6,
           "seg": 4,
-          "idx": 60.2,
+          "idx": 60.3,
           "idxb": 61.1,
           "amostra": 71,
           "mvp": 18,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -1526,7 +1545,7 @@
           "idxb": 58.8,
           "amostra": 86,
           "mvp": 15,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -1545,7 +1564,7 @@
           "idxb": 58.6,
           "amostra": 86,
           "mvp": 18,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -1564,25 +1583,6 @@
           "idxb": 58.5,
           "amostra": 71,
           "mvp": 15,
-          "pos": 15,
-          "zona": "—"
-        },
-        {
-          "n": "Najla Nunes",
-          "tag": "#9CR0G200R",
-          "th": 15,
-          "atk": 5,
-          "est": 13,
-          "spa": 2.6,
-          "conf": 83,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 5,
-          "seg": 0,
-          "idx": 56.9,
-          "idxb": 56.9,
-          "amostra": 71,
-          "mvp": 13,
           "pos": 16,
           "zona": "—"
         },
