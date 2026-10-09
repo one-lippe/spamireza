@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T08:40:35.321821Z",
+  "atualizado": "2026-10-09T08:51:01.117363Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1503,7 +1503,7 @@
           "sof": 2.3,
           "ndef": 6,
           "seg": 4,
-          "idx": 60.1,
+          "idx": 60.2,
           "idxb": 61.1,
           "amostra": 71,
           "mvp": 18,
@@ -1522,7 +1522,7 @@
           "sof": 3.0,
           "ndef": 5,
           "seg": 0,
-          "idx": 58.6,
+          "idx": 58.7,
           "idxb": 58.8,
           "amostra": 86,
           "mvp": 15,
@@ -1663,6 +1663,25 @@
           "zona": "—"
         },
         {
+          "n": "RAGNAROK",
+          "tag": "#GCLLVYPJ8",
+          "th": 15,
+          "atk": 7,
+          "est": 14,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 6,
+          "seg": 1,
+          "idx": 53.0,
+          "idxb": 53.0,
+          "amostra": 100,
+          "mvp": 16,
+          "pos": 21,
+          "zona": "—"
+        },
+        {
           "n": "Meliodas NNT",
           "tag": "#2PLQG8UQU",
           "th": 17,
@@ -1678,7 +1697,7 @@
           "idxb": 52.6,
           "amostra": 86,
           "mvp": 15,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -1697,7 +1716,7 @@
           "idxb": 52.6,
           "amostra": 86,
           "mvp": 15,
-          "pos": 22,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -1716,7 +1735,7 @@
           "idxb": 51.9,
           "amostra": 86,
           "mvp": 14,
-          "pos": 23,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -1735,7 +1754,7 @@
           "idxb": 51.4,
           "amostra": 86,
           "mvp": 16,
-          "pos": 24,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -1754,25 +1773,6 @@
           "idxb": 51.2,
           "amostra": 29,
           "mvp": 4,
-          "pos": 25,
-          "zona": "—"
-        },
-        {
-          "n": "RAGNAROK",
-          "tag": "#GCLLVYPJ8",
-          "th": 15,
-          "atk": 6,
-          "est": 11,
-          "spa": 1.83,
-          "conf": 86,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 6,
-          "seg": 1,
-          "idx": 47.5,
-          "idxb": 47.5,
-          "amostra": 86,
-          "mvp": 13,
           "pos": 26,
           "zona": "—"
         },
