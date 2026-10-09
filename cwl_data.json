@@ -4516,9 +4516,9 @@
         "inicio": "20261008T234717.000Z",
         "fim": "20261009T234717.000Z",
         "nos": {
-          "est": 9,
-          "destr": 20.0,
-          "atk": 3
+          "est": 11,
+          "destr": 26.066666666666666,
+          "atk": 4
         },
         "eles": {
           "est": 15,
@@ -4596,7 +4596,12 @@
             "tag": "#2LLYCQPG8",
             "th": 18,
             "pos": 8,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 91
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -4728,9 +4733,9 @@
       "inicio": "20261008T234717.000Z",
       "fim": "20261009T234717.000Z",
       "nos": {
-        "est": 9,
-        "destr": 20.0,
-        "atk": 3
+        "est": 11,
+        "destr": 26.066666666666666,
+        "atk": 4
       },
       "eles": {
         "est": 15,
@@ -4808,7 +4813,12 @@
           "tag": "#2LLYCQPG8",
           "th": 18,
           "pos": 8,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 91
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -8793,7 +8803,7 @@
       },
       {
         "warTag": "#8YRYQYLPR",
-        "state": "preparation",
+        "state": "inWar",
         "teamSize": 30,
         "adversario": "#Black Death",
         "prep": "20261008T011713.000Z",
@@ -9115,7 +9125,7 @@
     ],
     "atual": {
       "warTag": "#8YRYQYLPR",
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 30,
       "adversario": "#Black Death",
       "prep": "20261008T011713.000Z",
