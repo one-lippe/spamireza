@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T03:10:58.577691Z",
+  "atualizado": "2026-10-09T03:20:28.820136Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -383,12 +383,12 @@
           "est": 18,
           "spa": 3.0,
           "conf": 86,
-          "def": 22,
-          "sof": 2.3,
-          "ndef": 6,
+          "def": 19,
+          "sof": 2.4,
+          "ndef": 7,
           "seg": 3,
-          "idx": 75.4,
-          "idxb": 76.0,
+          "idx": 74.8,
+          "idxb": 75.4,
           "amostra": 86,
           "mvp": 22,
           "pos": 3,
@@ -406,7 +406,7 @@
           "sof": 2.4,
           "ndef": 7,
           "seg": 4,
-          "idx": 74.9,
+          "idx": 74.8,
           "idxb": 75.4,
           "amostra": 86,
           "mvp": 22,
@@ -444,7 +444,7 @@
           "sof": 3.0,
           "ndef": 5,
           "seg": 0,
-          "idx": 74.2,
+          "idx": 74.1,
           "idxb": 75.2,
           "amostra": 71,
           "mvp": 15,
@@ -668,6 +668,25 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "Royther13",
+          "tag": "#22LUL8GV9",
+          "th": 18,
+          "atk": 7,
+          "est": 20,
+          "spa": 2.86,
+          "conf": 100,
+          "def": 20,
+          "sof": 2.4,
+          "ndef": 5,
+          "seg": 2,
+          "idx": 75.7,
+          "idxb": 75.7,
+          "amostra": 100,
+          "mvp": 23,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "Jan™",
           "tag": "#CJV9G22Q",
           "th": 17,
@@ -683,7 +702,7 @@
           "idxb": 79.2,
           "amostra": 71,
           "mvp": 22,
-          "pos": 1,
+          "pos": 2,
           "zona": "promo"
         },
         {
@@ -702,8 +721,8 @@
           "idxb": 76.2,
           "amostra": 86,
           "mvp": 23,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "SR•InTheDark II",
@@ -721,7 +740,7 @@
           "idxb": 75.2,
           "amostra": 86,
           "mvp": 22,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -740,7 +759,7 @@
           "idxb": 72.0,
           "amostra": 100,
           "mvp": 20,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -759,7 +778,7 @@
           "idxb": 72.1,
           "amostra": 86,
           "mvp": 19,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -778,7 +797,7 @@
           "idxb": 72.1,
           "amostra": 86,
           "mvp": 19,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -797,25 +816,6 @@
           "idxb": 72.1,
           "amostra": 86,
           "mvp": 19,
-          "pos": 7,
-          "zona": "—"
-        },
-        {
-          "n": "Royther13",
-          "tag": "#22LUL8GV9",
-          "th": 18,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 86,
-          "def": 20,
-          "sof": 2.4,
-          "ndef": 5,
-          "seg": 2,
-          "idx": 71.3,
-          "idxb": 72.0,
-          "amostra": 86,
-          "mvp": 20,
           "pos": 8,
           "zona": "—"
         },
@@ -964,7 +964,7 @@
           "sof": 2.8,
           "ndef": 5,
           "seg": 1,
-          "idx": 69.1,
+          "idx": 69.2,
           "idxb": 69.5,
           "amostra": 86,
           "mvp": 18,
@@ -983,7 +983,7 @@
           "sof": 2.3,
           "ndef": 6,
           "seg": 2,
-          "idx": 69.1,
+          "idx": 69.2,
           "idxb": 69.5,
           "amostra": 86,
           "mvp": 20,
@@ -1454,6 +1454,25 @@
           "zona": "—"
         },
         {
+          "n": "GSAzevedo30 #2",
+          "tag": "#29882J2L2",
+          "th": 15,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 86,
+          "def": 29,
+          "sof": 2.1,
+          "ndef": 7,
+          "seg": 4,
+          "idx": 62.2,
+          "idxb": 63.1,
+          "amostra": 86,
+          "mvp": 22,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
           "n": "GPM Level 1",
           "tag": "#QV2J0YV0V",
           "th": 18,
@@ -1469,25 +1488,6 @@
           "idxb": 62.7,
           "amostra": 86,
           "mvp": 19,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "GSAzevedo30 #2",
-          "tag": "#29882J2L2",
-          "th": 15,
-          "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 86,
-          "def": 22,
-          "sof": 2.3,
-          "ndef": 6,
-          "seg": 3,
-          "idx": 61.4,
-          "idxb": 62.1,
-          "amostra": 86,
-          "mvp": 20,
           "pos": 11,
           "zona": "—"
         },
@@ -1503,7 +1503,7 @@
           "sof": 2.3,
           "ndef": 6,
           "seg": 4,
-          "idx": 59.9,
+          "idx": 60.0,
           "idxb": 61.1,
           "amostra": 71,
           "mvp": 18,

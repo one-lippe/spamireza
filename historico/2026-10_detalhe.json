@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T03:10:58.581182Z",
+  "atualizado": "2026-10-09T03:20:28.823500Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1737,7 +1737,7 @@
               "tag": "#9VV909C89",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "KingMpg",
@@ -3611,7 +3611,9 @@
               "nome": "Royther13",
               "tag": "#22LUL8GV9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -5546,7 +5548,7 @@
               "tag": "#29882J2L2",
               "th": 15,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "bobzin 2k26",

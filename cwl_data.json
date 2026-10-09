@@ -4521,9 +4521,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 15,
-          "destr": 33.333333333333336,
-          "atk": 5
+          "est": 18,
+          "destr": 40.0,
+          "atk": 6
         },
         "membros": [
           {
@@ -4532,9 +4532,14 @@
             "th": 18,
             "pos": 1,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "KingMpg",
@@ -4748,9 +4753,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 15,
-        "destr": 33.333333333333336,
-        "atk": 5
+        "est": 18,
+        "destr": 40.0,
+        "atk": 6
       },
       "membros": [
         {
@@ -4759,9 +4764,14 @@
           "th": 18,
           "pos": 1,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "KingMpg",
@@ -8830,9 +8840,9 @@
         "inicio": "20261009T011712.000Z",
         "fim": "20261010T011712.000Z",
         "nos": {
-          "est": 3,
-          "destr": 3.3333333333333335,
-          "atk": 1
+          "est": 6,
+          "destr": 6.666666666666667,
+          "atk": 2
         },
         "eles": {
           "est": 5,
@@ -8970,7 +8980,12 @@
             "tag": "#22LUL8GV9",
             "th": 18,
             "pos": 14,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -9167,9 +9182,9 @@
       "inicio": "20261009T011712.000Z",
       "fim": "20261010T011712.000Z",
       "nos": {
-        "est": 3,
-        "destr": 3.3333333333333335,
-        "atk": 1
+        "est": 6,
+        "destr": 6.666666666666667,
+        "atk": 2
       },
       "eles": {
         "est": 5,
@@ -9307,7 +9322,12 @@
           "tag": "#22LUL8GV9",
           "th": 18,
           "pos": 14,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -13284,9 +13304,9 @@
           "atk": 7
         },
         "eles": {
-          "est": 18,
-          "destr": 22.166666666666668,
-          "atk": 7
+          "est": 19,
+          "destr": 24.3,
+          "atk": 8
         },
         "membros": [
           {
@@ -13550,9 +13570,14 @@
             "th": 15,
             "pos": 21,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 64,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 64
+              }
+            ]
           },
           {
             "nome": "bobzin 2k26",
@@ -13676,9 +13701,9 @@
         "atk": 7
       },
       "eles": {
-        "est": 18,
-        "destr": 22.166666666666668,
-        "atk": 7
+        "est": 19,
+        "destr": 24.3,
+        "atk": 8
       },
       "membros": [
         {
@@ -13942,9 +13967,14 @@
           "th": 15,
           "pos": 21,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 64,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 64
+            }
+          ]
         },
         {
           "nome": "bobzin 2k26",
