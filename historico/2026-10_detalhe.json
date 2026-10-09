@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T02:40:29.528854Z",
+  "atualizado": "2026-10-09T02:50:36.498131Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1844,7 +1844,9 @@
               "nome": "SR • Dennis",
               "tag": "#82R9VYVGY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             }
           ]
@@ -5564,7 +5566,9 @@
               "nome": "lipe",
               "tag": "#Q289QJUJC",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
