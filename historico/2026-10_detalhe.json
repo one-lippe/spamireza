@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T00:50:40.307906Z",
+  "atualizado": "2026-10-09T01:00:34.641175Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1744,7 +1744,7 @@
               "tag": "#22YJPYPCJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "TomorrowBr",
@@ -1806,7 +1806,9 @@
               "nome": "dvnly",
               "tag": "#QR2JLQ2RR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -5216,7 +5218,9 @@
               "nome": "qvnly",
               "tag": "#GUCJQPVR9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -5353,7 +5357,9 @@
               "nome": "LUMINOUS2",
               "tag": "#R0909YJ0Q",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
