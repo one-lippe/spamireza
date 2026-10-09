@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T18:41:10.845914Z",
+  "atualizado": "2026-10-09T18:50:42.900705Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1891,7 +1891,9 @@
               "nome": "TomorrowBr",
               "tag": "#YPJLVPL9U",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3767,7 +3769,7 @@
               "tag": "#8Y9V2QQ82",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "NoBlitzz",
@@ -3906,7 +3908,7 @@
               "tag": "#QJY8RRYR",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • JotaErre",
