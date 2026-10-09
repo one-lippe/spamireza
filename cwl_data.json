@@ -4656,9 +4656,9 @@
           "atk": 15
         },
         "eles": {
-          "est": 39,
-          "destr": 92.06666666666666,
-          "atk": 14
+          "est": 41,
+          "destr": 97.2,
+          "atk": 15
         },
         "membros": [
           {
@@ -4772,9 +4772,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 77,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 77
+              }
+            ]
           },
           {
             "nome": "ＬＵＭＩＮＯＵＳ",
@@ -4973,9 +4978,9 @@
         "atk": 15
       },
       "eles": {
-        "est": 39,
-        "destr": 92.06666666666666,
-        "atk": 14
+        "est": 41,
+        "destr": 97.2,
+        "atk": 15
       },
       "membros": [
         {
@@ -5089,9 +5094,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 77,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 77
+            }
+          ]
         },
         {
           "nome": "ＬＵＭＩＮＯＵＳ",

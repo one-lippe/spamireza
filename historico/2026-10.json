@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T23:00:58.501548Z",
+  "atualizado": "2026-10-09T23:11:13.216425Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -547,6 +547,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • Balestra",
+          "tag": "#8UJY9C8RQ",
+          "th": 18,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 100,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "seg": 1,
+          "idx": 73.0,
+          "idxb": 73.0,
+          "amostra": 71,
+          "mvp": 15,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
           "n": "SR•GOD kratos",
           "tag": "#LUJ9CRJQG",
           "th": 18,
@@ -562,25 +581,6 @@
           "idxb": 72.1,
           "amostra": 100,
           "mvp": 21,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Balestra",
-          "tag": "#8UJY9C8RQ",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 100,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
-          "seg": 0,
-          "idx": 71.8,
-          "idxb": 71.8,
-          "amostra": 71,
-          "mvp": 14,
           "pos": 13,
           "zona": "—"
         },
