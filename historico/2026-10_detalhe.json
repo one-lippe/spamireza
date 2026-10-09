@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T00:20:47.012567Z",
+  "atualizado": "2026-10-09T00:30:48.029914Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1793,7 +1793,7 @@
               "tag": "#20GJVUJLU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • DuM∆R",
@@ -3381,7 +3381,9 @@
               "nome": "SR • The off",
               "tag": "#YJ2JLPQGR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
@@ -5219,7 +5221,9 @@
               "nome": "SR • Eduhh",
               "tag": "#2Q9RYUCCP",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
