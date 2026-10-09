@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-08T23:50:35.550597Z",
+  "atualizado": "2026-10-09T00:01:17.467205Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1835,7 +1835,7 @@
               "tag": "#82R9VYVGY",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
@@ -5176,7 +5176,7 @@
               "tag": "#2P8CU8QGR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Lider André 2",
@@ -5280,7 +5280,9 @@
               "nome": "GHOSTSX",
               "tag": "#GG99R0YJ0",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
