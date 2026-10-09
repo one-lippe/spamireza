@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T22:10:29.955939Z",
+  "atualizado": "2026-10-09T22:21:13.560322Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -934,6 +934,25 @@
           "zona": "—"
         },
         {
+          "n": ";-;REI DELAS;-;",
+          "tag": "#Q2U92YRQ9",
+          "th": 17,
+          "atk": 7,
+          "est": 20,
+          "spa": 2.86,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 7,
+          "seg": 0,
+          "idx": 72.0,
+          "idxb": 72.0,
+          "amostra": 100,
+          "mvp": 20,
+          "pos": 15,
+          "zona": "—"
+        },
+        {
           "n": "Coyote 157 × 戦備",
           "tag": "#G0GGQRP9V",
           "th": 18,
@@ -949,7 +968,7 @@
           "idxb": 71.3,
           "amostra": 100,
           "mvp": 21,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -968,7 +987,26 @@
           "idxb": 71.3,
           "amostra": 100,
           "mvp": 21,
-          "pos": 16,
+          "pos": 17,
+          "zona": "—"
+        },
+        {
+          "n": "bebun lendário",
+          "tag": "#L90PCJGPC",
+          "th": 17,
+          "atk": 7,
+          "est": 19,
+          "spa": 2.71,
+          "conf": 100,
+          "def": 5,
+          "sof": 2.9,
+          "ndef": 7,
+          "seg": 1,
+          "idx": 70.4,
+          "idxb": 70.4,
+          "amostra": 100,
+          "mvp": 20,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -983,30 +1021,11 @@
           "sof": 2.4,
           "ndef": 7,
           "seg": 2,
-          "idx": 68.8,
+          "idx": 68.9,
           "idxb": 68.9,
           "amostra": 86,
           "mvp": 20,
-          "pos": 17,
-          "zona": "—"
-        },
-        {
-          "n": ";-;REI DELAS;-;",
-          "tag": "#Q2U92YRQ9",
-          "th": 17,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 86,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 7,
-          "seg": 0,
-          "idx": 68.2,
-          "idxb": 68.2,
-          "amostra": 86,
-          "mvp": 17,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1025,7 +1044,7 @@
           "idxb": 68.1,
           "amostra": 100,
           "mvp": 19,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1044,7 +1063,7 @@
           "idxb": 67.2,
           "amostra": 71,
           "mvp": 17,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1063,25 +1082,6 @@
           "idxb": 67.1,
           "amostra": 100,
           "mvp": 18,
-          "pos": 21,
-          "zona": "—"
-        },
-        {
-          "n": "bebun lendário",
-          "tag": "#L90PCJGPC",
-          "th": 17,
-          "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 86,
-          "def": 5,
-          "sof": 2.9,
-          "ndef": 7,
-          "seg": 1,
-          "idx": 66.3,
-          "idxb": 66.3,
-          "amostra": 86,
-          "mvp": 17,
           "pos": 22,
           "zona": "—"
         },
