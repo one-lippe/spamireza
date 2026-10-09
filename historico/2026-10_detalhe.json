@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T23:40:29.554370Z",
+  "atualizado": "2026-10-09T23:50:27.806969Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1870,7 +1870,7 @@
         {
           "g": 7,
           "vs": "IMPÉRIO II",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {

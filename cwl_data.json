@@ -4644,7 +4644,7 @@
       },
       {
         "warTag": "#8GVV29PP0",
-        "state": "inWar",
+        "state": "warEnded",
         "teamSize": 15,
         "adversario": "IMPÉRIO II",
         "prep": "20261007T234718.000Z",
@@ -4966,7 +4966,7 @@
     ],
     "atual": {
       "warTag": "#8GVV29PP0",
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 15,
       "adversario": "IMPÉRIO II",
       "prep": "20261007T234718.000Z",
