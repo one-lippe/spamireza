@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T19:10:35.284705Z",
+  "atualizado": "2026-10-09T19:20:39.120518Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3810,7 +3810,7 @@
               "tag": "#Q9PL0CUU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • The off",
