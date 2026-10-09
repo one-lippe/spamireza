@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T17:20:36.873433Z",
+  "atualizado": "2026-10-09T17:31:06.173287Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1907,7 +1907,9 @@
               "nome": "SR•GOD kratos",
               "tag": "#LUJ9CRJQG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3724,7 +3726,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • THIAGO",
@@ -5611,7 +5613,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Líder André 3",
@@ -5624,7 +5626,9 @@
               "nome": "Meliodas NNT",
               "tag": "#2PLQG8UQU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {

@@ -4561,9 +4561,9 @@
         "inicio": "20261008T234717.000Z",
         "fim": "20261009T234717.000Z",
         "nos": {
-          "est": 38,
-          "destr": 86.06666666666666,
-          "atk": 13
+          "est": 41,
+          "destr": 92.73333333333333,
+          "atk": 14
         },
         "eles": {
           "est": 37,
@@ -4651,7 +4651,12 @@
             "tag": "#LUJ9CRJQG",
             "th": 18,
             "pos": 6,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -4863,9 +4868,9 @@
       "inicio": "20261008T234717.000Z",
       "fim": "20261009T234717.000Z",
       "nos": {
-        "est": 38,
-        "destr": 86.06666666666666,
-        "atk": 13
+        "est": 41,
+        "destr": 92.73333333333333,
+        "atk": 14
       },
       "eles": {
         "est": 37,
@@ -4953,7 +4958,12 @@
           "tag": "#LUJ9CRJQG",
           "th": 18,
           "pos": 6,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -9030,9 +9040,9 @@
           "atk": 17
         },
         "eles": {
-          "est": 52,
-          "destr": 63.86666666666667,
-          "atk": 20
+          "est": 55,
+          "destr": 67.2,
+          "atk": 21
         },
         "membros": [
           {
@@ -9141,9 +9151,14 @@
                 "destr": 95
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • THIAGO",
@@ -9537,9 +9552,9 @@
         "atk": 17
       },
       "eles": {
-        "est": 52,
-        "destr": 63.86666666666667,
-        "atk": 20
+        "est": 55,
+        "destr": 67.2,
+        "atk": 21
       },
       "membros": [
         {
@@ -9648,9 +9663,14 @@
               "destr": 95
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • THIAGO",
@@ -13814,14 +13834,14 @@
         "inicio": "20261008T233758.000Z",
         "fim": "20261009T233758.000Z",
         "nos": {
-          "est": 60,
-          "destr": 66.66666666666667,
-          "atk": 20
+          "est": 63,
+          "destr": 70.0,
+          "atk": 21
         },
         "eles": {
-          "est": 24,
-          "destr": 30.0,
-          "atk": 10
+          "est": 26,
+          "destr": 31.866666666666667,
+          "atk": 11
         },
         "membros": [
           {
@@ -13890,9 +13910,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 56,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 56
+              }
+            ]
           },
           {
             "nome": "Líder André 3",
@@ -13914,7 +13939,12 @@
             "tag": "#2PLQG8UQU",
             "th": 17,
             "pos": 7,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -14286,14 +14316,14 @@
       "inicio": "20261008T233758.000Z",
       "fim": "20261009T233758.000Z",
       "nos": {
-        "est": 60,
-        "destr": 66.66666666666667,
-        "atk": 20
+        "est": 63,
+        "destr": 70.0,
+        "atk": 21
       },
       "eles": {
-        "est": 24,
-        "destr": 30.0,
-        "atk": 10
+        "est": 26,
+        "destr": 31.866666666666667,
+        "atk": 11
       },
       "membros": [
         {
@@ -14362,9 +14392,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 56,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 56
+            }
+          ]
         },
         {
           "nome": "Líder André 3",
@@ -14386,7 +14421,12 @@
           "tag": "#2PLQG8UQU",
           "th": 17,
           "pos": 7,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [

@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T17:20:36.870116Z",
+  "atualizado": "2026-10-09T17:31:06.169683Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -501,7 +501,7 @@
           "sof": 3.0,
           "ndef": 5,
           "seg": 0,
-          "idx": 74.6,
+          "idx": 74.7,
           "idxb": 75.2,
           "amostra": 71,
           "mvp": 15,
@@ -528,6 +528,25 @@
           "zona": "—"
         },
         {
+          "n": "SR•GOD kratos",
+          "tag": "#LUJ9CRJQG",
+          "th": 18,
+          "atk": 7,
+          "est": 19,
+          "spa": 2.71,
+          "conf": 100,
+          "def": 10,
+          "sof": 2.7,
+          "ndef": 7,
+          "seg": 2,
+          "idx": 72.1,
+          "idxb": 72.1,
+          "amostra": 100,
+          "mvp": 21,
+          "pos": 11,
+          "zona": "—"
+        },
+        {
           "n": "SR • Balestra",
           "tag": "#8UJY9C8RQ",
           "th": 18,
@@ -543,7 +562,7 @@
           "idxb": 71.8,
           "amostra": 71,
           "mvp": 14,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -562,7 +581,7 @@
           "idxb": 71.5,
           "amostra": 86,
           "mvp": 18,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -581,7 +600,7 @@
           "idxb": 70.8,
           "amostra": 71,
           "mvp": 15,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -600,7 +619,7 @@
           "idxb": 69.5,
           "amostra": 86,
           "mvp": 16,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -619,25 +638,6 @@
           "idxb": 68.9,
           "amostra": 71,
           "mvp": 15,
-          "pos": 15,
-          "zona": "—"
-        },
-        {
-          "n": "SR•GOD kratos",
-          "tag": "#LUJ9CRJQG",
-          "th": 18,
-          "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 86,
-          "def": 10,
-          "sof": 2.7,
-          "ndef": 7,
-          "seg": 2,
-          "idx": 67.9,
-          "idxb": 67.9,
-          "amostra": 86,
-          "mvp": 18,
           "pos": 16,
           "zona": "rebx"
         },
@@ -915,25 +915,6 @@
           "zona": "—"
         },
         {
-          "n": "Coyote 157 × 戦備",
-          "tag": "#G0GGQRP9V",
-          "th": 18,
-          "atk": 7,
-          "est": 19,
-          "spa": 2.71,
-          "conf": 100,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 6,
-          "seg": 1,
-          "idx": 71.6,
-          "idxb": 71.6,
-          "amostra": 100,
-          "mvp": 21,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
           "n": "PaiDeFamilia",
           "tag": "#2GCJ8QC92",
           "th": 18,
@@ -947,6 +928,25 @@
           "seg": 2,
           "idx": 71.6,
           "idxb": 71.6,
+          "amostra": 100,
+          "mvp": 21,
+          "pos": 14,
+          "zona": "—"
+        },
+        {
+          "n": "Coyote 157 × 戦備",
+          "tag": "#G0GGQRP9V",
+          "th": 18,
+          "atk": 7,
+          "est": 19,
+          "spa": 2.71,
+          "conf": 100,
+          "def": 10,
+          "sof": 2.7,
+          "ndef": 7,
+          "seg": 1,
+          "idx": 71.3,
+          "idxb": 71.3,
           "amostra": 100,
           "mvp": 21,
           "pos": 15,
@@ -1541,7 +1541,7 @@
           "sof": 2.3,
           "ndef": 6,
           "seg": 4,
-          "idx": 60.5,
+          "idx": 60.6,
           "idxb": 61.1,
           "amostra": 71,
           "mvp": 18,
@@ -1587,6 +1587,25 @@
           "zona": "—"
         },
         {
+          "n": "Meliodas NNT",
+          "tag": "#2PLQG8UQU",
+          "th": 17,
+          "atk": 7,
+          "est": 16,
+          "spa": 2.29,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 6,
+          "seg": 2,
+          "idx": 57.4,
+          "idxb": 57.4,
+          "amostra": 100,
+          "mvp": 18,
+          "pos": 17,
+          "zona": "—"
+        },
+        {
           "n": "Tio Marginal",
           "tag": "#GUYRGQGYJ",
           "th": 15,
@@ -1602,7 +1621,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 18,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1621,7 +1640,7 @@
           "idxb": 56.8,
           "amostra": 71,
           "mvp": 16,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1640,7 +1659,7 @@
           "idxb": 56.6,
           "amostra": 100,
           "mvp": 17,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1659,7 +1678,7 @@
           "idxb": 56.6,
           "amostra": 86,
           "mvp": 17,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1670,15 +1689,15 @@
           "est": 15,
           "spa": 2.14,
           "conf": 100,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 6,
-          "seg": 0,
-          "idx": 53.4,
-          "idxb": 53.4,
+          "def": 5,
+          "sof": 2.9,
+          "ndef": 7,
+          "seg": 1,
+          "idx": 54.1,
+          "idxb": 54.1,
           "amostra": 100,
-          "mvp": 15,
-          "pos": 21,
+          "mvp": 16,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -1697,7 +1716,7 @@
           "idxb": 53.3,
           "amostra": 86,
           "mvp": 14,
-          "pos": 22,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -1716,25 +1735,6 @@
           "idxb": 53.0,
           "amostra": 100,
           "mvp": 16,
-          "pos": 23,
-          "zona": "—"
-        },
-        {
-          "n": "Meliodas NNT",
-          "tag": "#2PLQG8UQU",
-          "th": 17,
-          "atk": 6,
-          "est": 13,
-          "spa": 2.17,
-          "conf": 86,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 6,
-          "seg": 2,
-          "idx": 52.6,
-          "idxb": 52.6,
-          "amostra": 86,
-          "mvp": 15,
           "pos": 24,
           "zona": "—"
         },
