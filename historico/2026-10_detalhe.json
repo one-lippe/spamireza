@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T03:20:28.823500Z",
+  "atualizado": "2026-10-09T03:30:55.985455Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1758,7 +1758,7 @@
               "tag": "#QRJL0RGQR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•GOD kratos",
@@ -5474,7 +5474,7 @@
               "tag": "#YP9L000LG",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "MonesyㅤNTJ",

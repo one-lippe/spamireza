@@ -4521,9 +4521,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 18,
-          "destr": 40.0,
-          "atk": 6
+          "est": 21,
+          "destr": 46.666666666666664,
+          "atk": 7
         },
         "membros": [
           {
@@ -4572,9 +4572,14 @@
             "th": 18,
             "pos": 5,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•GOD kratos",
@@ -4753,9 +4758,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 18,
-        "destr": 40.0,
-        "atk": 6
+        "est": 21,
+        "destr": 46.666666666666664,
+        "atk": 7
       },
       "membros": [
         {
@@ -4804,9 +4809,14 @@
           "th": 18,
           "pos": 5,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•GOD kratos",
@@ -13304,9 +13314,9 @@
           "atk": 7
         },
         "eles": {
-          "est": 19,
-          "destr": 24.3,
-          "atk": 8
+          "est": 22,
+          "destr": 27.633333333333333,
+          "atk": 9
         },
         "membros": [
           {
@@ -13450,9 +13460,14 @@
             "th": 16,
             "pos": 11,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "MonesyㅤNTJ",
@@ -13701,9 +13716,9 @@
         "atk": 7
       },
       "eles": {
-        "est": 19,
-        "destr": 24.3,
-        "atk": 8
+        "est": 22,
+        "destr": 27.633333333333333,
+        "atk": 9
       },
       "membros": [
         {
@@ -13847,9 +13862,14 @@
           "th": 16,
           "pos": 11,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "MonesyㅤNTJ",

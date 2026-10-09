@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T03:20:28.820136Z",
+  "atualizado": "2026-10-09T03:30:55.981935Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -613,7 +613,7 @@
           "conf": 83,
           "def": 0,
           "sof": 3.0,
-          "ndef": 5,
+          "ndef": 6,
           "seg": 0,
           "idx": 64.4,
           "idxb": 64.4,
@@ -1416,25 +1416,6 @@
           "zona": "—"
         },
         {
-          "n": "Gerion",
-          "tag": "#YP9L000LG",
-          "th": 16,
-          "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 86,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 7,
-          "seg": 4,
-          "idx": 62.9,
-          "idxb": 63.9,
-          "amostra": 86,
-          "mvp": 23,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
           "n": "psico raid 01",
           "tag": "#G8C9VLYVC",
           "th": 17,
@@ -1450,6 +1431,25 @@
           "idxb": 63.4,
           "amostra": 86,
           "mvp": 18,
+          "pos": 8,
+          "zona": "—"
+        },
+        {
+          "n": "Gerion",
+          "tag": "#YP9L000LG",
+          "th": 16,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 86,
+          "def": 29,
+          "sof": 2.1,
+          "ndef": 8,
+          "seg": 4,
+          "idx": 62.3,
+          "idxb": 63.2,
+          "amostra": 86,
+          "mvp": 23,
           "pos": 9,
           "zona": "—"
         },
