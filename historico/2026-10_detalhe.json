@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T15:10:35.992616Z",
+  "atualizado": "2026-10-09T15:20:33.978484Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1978,7 +1978,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Sra Nunes",
@@ -3841,7 +3841,9 @@
               "nome": "Darth Revan",
               "tag": "#8R280VRCQ",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {

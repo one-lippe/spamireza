@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T15:10:35.989921Z",
+  "atualizado": "2026-10-09T15:20:33.974856Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -364,12 +364,12 @@
           "est": 21,
           "spa": 3.0,
           "conf": 100,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 6,
+          "def": 14,
+          "sof": 2.6,
+          "ndef": 7,
           "seg": 2,
-          "idx": 78.3,
-          "idxb": 78.3,
+          "idx": 77.9,
+          "idxb": 77.9,
           "amostra": 100,
           "mvp": 24,
           "pos": 2,
@@ -926,7 +926,7 @@
           "sof": 2.9,
           "ndef": 7,
           "seg": 1,
-          "idx": 71.4,
+          "idx": 71.5,
           "idxb": 72.0,
           "amostra": 86,
           "mvp": 19,
@@ -1029,6 +1029,25 @@
           "zona": "—"
         },
         {
+          "n": "Darth Revan",
+          "tag": "#8R280VRCQ",
+          "th": 17,
+          "atk": 7,
+          "est": 18,
+          "spa": 2.57,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 7,
+          "seg": 0,
+          "idx": 67.1,
+          "idxb": 67.1,
+          "amostra": 100,
+          "mvp": 18,
+          "pos": 20,
+          "zona": "—"
+        },
+        {
           "n": "·Holtser Ω",
           "tag": "#8GG88V2PU",
           "th": 17,
@@ -1044,7 +1063,7 @@
           "idxb": 66.5,
           "amostra": 57,
           "mvp": 14,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1063,7 +1082,7 @@
           "idxb": 66.3,
           "amostra": 86,
           "mvp": 17,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -1082,7 +1101,7 @@
           "idxb": 63.6,
           "amostra": 86,
           "mvp": 16,
-          "pos": 22,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -1101,25 +1120,6 @@
           "idxb": 63.0,
           "amostra": 43,
           "mvp": 7,
-          "pos": 23,
-          "zona": "—"
-        },
-        {
-          "n": "Darth Revan",
-          "tag": "#8R280VRCQ",
-          "th": 17,
-          "atk": 6,
-          "est": 15,
-          "spa": 2.5,
-          "conf": 86,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 7,
-          "seg": 0,
-          "idx": 62.6,
-          "idxb": 62.6,
-          "amostra": 86,
-          "mvp": 15,
           "pos": 24,
           "zona": "—"
         },
