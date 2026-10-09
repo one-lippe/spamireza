@@ -2026,9 +2026,9 @@
           "atk": 11
         },
         "eles": {
-          "est": 23,
-          "destr": 58.06666666666667,
-          "atk": 9
+          "est": 24,
+          "destr": 64.33333333333333,
+          "atk": 10
         },
         "membros": [
           {
@@ -2172,9 +2172,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 94,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 94
+              }
+            ]
           },
           {
             "nome": "Nesk",
@@ -2298,9 +2303,9 @@
         "atk": 11
       },
       "eles": {
-        "est": 23,
-        "destr": 58.06666666666667,
-        "atk": 9
+        "est": 24,
+        "destr": 64.33333333333333,
+        "atk": 10
       },
       "membros": [
         {
@@ -2444,9 +2449,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 94,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 94
+            }
+          ]
         },
         {
           "nome": "Nesk",

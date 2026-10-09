@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T18:00:54.080299Z",
+  "atualizado": "2026-10-09T18:10:55.016999Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -236,6 +236,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • C∆iç∆r∆",
+          "tag": "#GL0PRCU9L",
+          "th": 18,
+          "atk": 4,
+          "est": 10,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 4,
+          "seg": 1,
+          "idx": 74.9,
+          "idxb": 74.9,
+          "amostra": 57,
+          "mvp": 12,
+          "pos": 13,
+          "zona": "—"
+        },
+        {
           "n": "SR • Giovanelli",
           "tag": "#PJ0YJLGJ",
           "th": 18,
@@ -251,7 +270,7 @@
           "idxb": 73.8,
           "amostra": 57,
           "mvp": 13,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -270,7 +289,7 @@
           "idxb": 72.9,
           "amostra": 86,
           "mvp": 18,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -289,25 +308,6 @@
           "idxb": 72.1,
           "amostra": 100,
           "mvp": 19,
-          "pos": 15,
-          "zona": "—"
-        },
-        {
-          "n": "SR • C∆iç∆r∆",
-          "tag": "#GL0PRCU9L",
-          "th": 18,
-          "atk": 4,
-          "est": 10,
-          "spa": 2.5,
-          "conf": 100,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 3,
-          "seg": 0,
-          "idx": 71.5,
-          "idxb": 71.5,
-          "amostra": 57,
-          "mvp": 10,
           "pos": 16,
           "zona": "rebx"
         },
