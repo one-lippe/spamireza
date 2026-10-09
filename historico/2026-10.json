@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T18:30:37.823785Z",
+  "atualizado": "2026-10-09T18:41:10.843682Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1010,6 +1010,25 @@
           "zona": "—"
         },
         {
+          "n": "LSWRTH",
+          "tag": "#YVU0L88P",
+          "th": 18,
+          "atk": 7,
+          "est": 18,
+          "spa": 2.57,
+          "conf": 100,
+          "def": 6,
+          "sof": 2.8,
+          "ndef": 6,
+          "seg": 1,
+          "idx": 68.1,
+          "idxb": 68.1,
+          "amostra": 100,
+          "mvp": 19,
+          "pos": 19,
+          "zona": "—"
+        },
+        {
           "n": "bebo lendário",
           "tag": "#2QLGCJRJR",
           "th": 16,
@@ -1025,7 +1044,7 @@
           "idxb": 67.2,
           "amostra": 71,
           "mvp": 17,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1044,7 +1063,7 @@
           "idxb": 67.1,
           "amostra": 100,
           "mvp": 18,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1063,7 +1082,7 @@
           "idxb": 66.3,
           "amostra": 86,
           "mvp": 17,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -1082,25 +1101,6 @@
           "idxb": 66.2,
           "amostra": 57,
           "mvp": 14,
-          "pos": 22,
-          "zona": "—"
-        },
-        {
-          "n": "LSWRTH",
-          "tag": "#YVU0L88P",
-          "th": 18,
-          "atk": 6,
-          "est": 15,
-          "spa": 2.5,
-          "conf": 86,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
-          "seg": 1,
-          "idx": 63.6,
-          "idxb": 63.6,
-          "amostra": 86,
-          "mvp": 16,
           "pos": 23,
           "zona": "—"
         },
