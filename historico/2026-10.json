@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T21:10:37.321901Z",
+  "atualizado": "2026-10-09T21:15:30.814976Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -831,7 +831,7 @@
           "sof": 2.3,
           "ndef": 7,
           "seg": 4,
-          "idx": 74.4,
+          "idx": 74.5,
           "idxb": 75.5,
           "amostra": 86,
           "mvp": 23,
@@ -1162,6 +1162,25 @@
           "zona": "—"
         },
         {
+          "n": "Lider Andre",
+          "tag": "#20UUPGPCV",
+          "th": 18,
+          "atk": 7,
+          "est": 14,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 14,
+          "sof": 2.6,
+          "ndef": 7,
+          "seg": 2,
+          "idx": 60.0,
+          "idxb": 60.0,
+          "amostra": 100,
+          "mvp": 17,
+          "pos": 27,
+          "zona": "—"
+        },
+        {
           "n": "rei do crime",
           "tag": "#RP8VCCUV",
           "th": 18,
@@ -1177,7 +1196,7 @@
           "idxb": 58.6,
           "amostra": 86,
           "mvp": 15,
-          "pos": 27,
+          "pos": 28,
           "zona": "—"
         },
         {
@@ -1196,25 +1215,6 @@
           "idxb": 56.9,
           "amostra": 86,
           "mvp": 13,
-          "pos": 28,
-          "zona": "—"
-        },
-        {
-          "n": "Lider Andre",
-          "tag": "#20UUPGPCV",
-          "th": 18,
-          "atk": 6,
-          "est": 12,
-          "spa": 2.0,
-          "conf": 86,
-          "def": 14,
-          "sof": 2.6,
-          "ndef": 7,
-          "seg": 2,
-          "idx": 56.7,
-          "idxb": 56.7,
-          "amostra": 86,
-          "mvp": 15,
           "pos": 29,
           "zona": "—"
         },
