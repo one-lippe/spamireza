@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T00:40:53.237394Z",
+  "atualizado": "2026-10-09T00:50:40.307906Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1813,7 +1813,9 @@
               "nome": "⭐️Dog Apollo⭐️",
               "tag": "#9LPJP9YPQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3230,7 +3232,7 @@
         {
           "g": 6,
           "vs": "اللواء الرابع",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 30,
           "jogadores": [
             {
