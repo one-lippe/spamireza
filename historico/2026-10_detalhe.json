@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T04:10:30.705858Z",
+  "atualizado": "2026-10-09T04:20:30.172180Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3584,7 +3584,7 @@
               "tag": "#8PURGU2YG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Lider Andre",

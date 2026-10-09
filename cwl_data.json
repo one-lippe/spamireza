@@ -8855,9 +8855,9 @@
           "atk": 3
         },
         "eles": {
-          "est": 5,
-          "destr": 6.333333333333333,
-          "atk": 2
+          "est": 8,
+          "destr": 9.666666666666666,
+          "atk": 3
         },
         "membros": [
           {
@@ -8951,9 +8951,14 @@
             "th": 18,
             "pos": 9,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Lider Andre",
@@ -9202,9 +9207,9 @@
         "atk": 3
       },
       "eles": {
-        "est": 5,
-        "destr": 6.333333333333333,
-        "atk": 2
+        "est": 8,
+        "destr": 9.666666666666666,
+        "atk": 3
       },
       "membros": [
         {
@@ -9298,9 +9303,14 @@
           "th": 18,
           "pos": 9,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Lider Andre",
