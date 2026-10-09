@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T17:31:06.173287Z",
+  "atualizado": "2026-10-09T17:40:43.573604Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -988,7 +988,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "matias?",
@@ -3744,7 +3744,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "100%War_⚡Slash⚡",
@@ -3874,7 +3874,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "THE KING ⚡",

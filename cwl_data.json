@@ -2026,9 +2026,9 @@
           "atk": 11
         },
         "eles": {
-          "est": 18,
-          "destr": 45.13333333333333,
-          "atk": 7
+          "est": 21,
+          "destr": 51.8,
+          "atk": 8
         },
         "membros": [
           {
@@ -2257,9 +2257,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "matias?",
@@ -2288,9 +2293,9 @@
         "atk": 11
       },
       "eles": {
-        "est": 18,
-        "destr": 45.13333333333333,
-        "atk": 7
+        "est": 21,
+        "destr": 51.8,
+        "atk": 8
       },
       "membros": [
         {
@@ -2519,9 +2524,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "matias?",
@@ -9040,9 +9050,9 @@
           "atk": 17
         },
         "eles": {
-          "est": 55,
-          "destr": 67.2,
-          "atk": 21
+          "est": 61,
+          "destr": 73.86666666666666,
+          "atk": 23
         },
         "membros": [
           {
@@ -9191,9 +9201,14 @@
                 "destr": 97
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "100%War_⚡Slash⚡",
@@ -9441,9 +9456,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "THE KING ⚡",
@@ -9552,9 +9572,9 @@
         "atk": 17
       },
       "eles": {
-        "est": 55,
-        "destr": 67.2,
-        "atk": 21
+        "est": 61,
+        "destr": 73.86666666666666,
+        "atk": 23
       },
       "membros": [
         {
@@ -9703,9 +9723,14 @@
               "destr": 97
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "100%War_⚡Slash⚡",
@@ -9953,9 +9978,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "THE KING ⚡",
