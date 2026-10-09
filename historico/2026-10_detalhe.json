@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T02:30:34.414048Z",
+  "atualizado": "2026-10-09T02:40:29.528854Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -5431,14 +5431,14 @@
               "tag": "#GY0Q0VRL0",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Meliodas NNT",
               "tag": "#2PLQG8UQU",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "qvnly",
@@ -5491,7 +5491,7 @@
               "tag": "#QV2J0YV0V",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "psico raid 01",

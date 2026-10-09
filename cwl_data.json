@@ -13264,9 +13264,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 10,
-          "destr": 12.6,
-          "atk": 4
+          "est": 18,
+          "destr": 22.166666666666668,
+          "atk": 7
         },
         "membros": [
           {
@@ -13340,9 +13340,14 @@
             "th": 17,
             "pos": 6,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Meliodas NNT",
@@ -13350,9 +13355,14 @@
             "th": 17,
             "pos": 7,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "qvnly",
@@ -13430,9 +13440,14 @@
             "th": 18,
             "pos": 14,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 87,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 87
+              }
+            ]
           },
           {
             "nome": "psico raid 01",
@@ -13636,9 +13651,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 10,
-        "destr": 12.6,
-        "atk": 4
+        "est": 18,
+        "destr": 22.166666666666668,
+        "atk": 7
       },
       "membros": [
         {
@@ -13712,9 +13727,14 @@
           "th": 17,
           "pos": 6,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Meliodas NNT",
@@ -13722,9 +13742,14 @@
           "th": 17,
           "pos": 7,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "qvnly",
@@ -13802,9 +13827,14 @@
           "th": 18,
           "pos": 14,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 87,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 87
+            }
+          ]
         },
         {
           "nome": "psico raid 01",
