@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T10:30:29.151474Z",
+  "atualizado": "2026-10-09T10:40:48.384898Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -376,6 +376,25 @@
           "zona": "promo"
         },
         {
+          "n": "KingMpg",
+          "tag": "#22YJPYPCJ",
+          "th": 18,
+          "atk": 7,
+          "est": 21,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 5,
+          "sof": 2.9,
+          "ndef": 7,
+          "seg": 1,
+          "idx": 76.1,
+          "idxb": 76.1,
+          "amostra": 100,
+          "mvp": 22,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
           "n": "SR - JON SNOW 2",
           "tag": "#9VV909C89",
           "th": 18,
@@ -387,11 +406,11 @@
           "sof": 2.4,
           "ndef": 7,
           "seg": 3,
-          "idx": 74.8,
+          "idx": 74.9,
           "idxb": 75.4,
           "amostra": 86,
           "mvp": 22,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -406,11 +425,11 @@
           "sof": 2.4,
           "ndef": 7,
           "seg": 4,
-          "idx": 74.8,
+          "idx": 74.9,
           "idxb": 75.4,
           "amostra": 86,
           "mvp": 22,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -429,7 +448,7 @@
           "idxb": 75.0,
           "amostra": 86,
           "mvp": 21,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -444,11 +463,11 @@
           "sof": 3.0,
           "ndef": 5,
           "seg": 0,
-          "idx": 74.1,
+          "idx": 74.2,
           "idxb": 75.2,
           "amostra": 71,
           "mvp": 15,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -467,7 +486,7 @@
           "idxb": 73.8,
           "amostra": 100,
           "mvp": 21,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -486,25 +505,6 @@
           "idxb": 73.9,
           "amostra": 86,
           "mvp": 20,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "KingMpg",
-          "tag": "#22YJPYPCJ",
-          "th": 18,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 5,
-          "sof": 2.9,
-          "ndef": 7,
-          "seg": 1,
-          "idx": 72.5,
-          "idxb": 72.7,
-          "amostra": 86,
-          "mvp": 19,
           "pos": 9,
           "zona": "—"
         },
@@ -539,7 +539,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 71.7,
+          "idx": 71.8,
           "idxb": 71.8,
           "amostra": 71,
           "mvp": 14,
