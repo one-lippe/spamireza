@@ -8795,14 +8795,14 @@
         "inicio": "20261009T011712.000Z",
         "fim": "20261010T011712.000Z",
         "nos": {
-          "est": 9,
-          "destr": 10.0,
-          "atk": 3
+          "est": 11,
+          "destr": 13.233333333333333,
+          "atk": 4
         },
         "eles": {
-          "est": 16,
-          "destr": 18.933333333333334,
-          "atk": 6
+          "est": 19,
+          "destr": 22.266666666666666,
+          "atk": 7
         },
         "membros": [
           {
@@ -8890,7 +8890,12 @@
             "tag": "#2GCJ8QC92",
             "th": 18,
             "pos": 8,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 97
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -9041,9 +9046,14 @@
             "th": 17,
             "pos": 24,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Jan™",
@@ -9162,14 +9172,14 @@
       "inicio": "20261009T011712.000Z",
       "fim": "20261010T011712.000Z",
       "nos": {
-        "est": 9,
-        "destr": 10.0,
-        "atk": 3
+        "est": 11,
+        "destr": 13.233333333333333,
+        "atk": 4
       },
       "eles": {
-        "est": 16,
-        "destr": 18.933333333333334,
-        "atk": 6
+        "est": 19,
+        "destr": 22.266666666666666,
+        "atk": 7
       },
       "membros": [
         {
@@ -9257,7 +9267,12 @@
           "tag": "#2GCJ8QC92",
           "th": 18,
           "pos": 8,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 97
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -9408,9 +9423,14 @@
           "th": 17,
           "pos": 24,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Jan™",
