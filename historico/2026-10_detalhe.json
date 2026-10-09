@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T22:31:08.562562Z",
+  "atualizado": "2026-10-09T22:40:58.539775Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -996,7 +996,9 @@
               "nome": "matias?",
               "tag": "#RCQQUGC9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             }
           ]
@@ -5769,7 +5771,9 @@
               "nome": "SR•InTheDarkIII",
               "tag": "#LL8GP2CQP",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
