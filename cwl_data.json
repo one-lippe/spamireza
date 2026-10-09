@@ -2026,9 +2026,9 @@
           "atk": 3
         },
         "eles": {
-          "est": 5,
-          "destr": 12.533333333333333,
-          "atk": 2
+          "est": 8,
+          "destr": 19.2,
+          "atk": 3
         },
         "membros": [
           {
@@ -2167,9 +2167,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "☆VILA DO PX ツ",
@@ -2223,9 +2228,9 @@
         "atk": 3
       },
       "eles": {
-        "est": 5,
-        "destr": 12.533333333333333,
-        "atk": 2
+        "est": 8,
+        "destr": 19.2,
+        "atk": 3
       },
       "membros": [
         {
@@ -2364,9 +2369,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "☆VILA DO PX ツ",
@@ -8790,9 +8800,9 @@
           "atk": 3
         },
         "eles": {
-          "est": 13,
-          "destr": 15.6,
-          "atk": 5
+          "est": 16,
+          "destr": 18.933333333333334,
+          "atk": 6
         },
         "membros": [
           {
@@ -9131,9 +9141,14 @@
             "th": 16,
             "pos": 32,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           }
         ]
       }
@@ -9152,9 +9167,9 @@
         "atk": 3
       },
       "eles": {
-        "est": 13,
-        "destr": 15.6,
-        "atk": 5
+        "est": 16,
+        "destr": 18.933333333333334,
+        "atk": 6
       },
       "membros": [
         {
@@ -9493,9 +9508,14 @@
           "th": 16,
           "pos": 32,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         }
       ]
     },
