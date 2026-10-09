@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T01:20:28.731053Z",
+  "atualizado": "2026-10-09T01:30:36.520420Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -725,6 +725,25 @@
           "zona": "—"
         },
         {
+          "n": "Nesk'",
+          "tag": "#YCRJU229",
+          "th": 17,
+          "atk": 7,
+          "est": 20,
+          "spa": 2.86,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 6,
+          "seg": 0,
+          "idx": 72.0,
+          "idxb": 72.0,
+          "amostra": 100,
+          "mvp": 20,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
           "n": "Agnes",
           "tag": "#LLLU0VQCL",
           "th": 18,
@@ -736,29 +755,10 @@
           "sof": 2.8,
           "ndef": 6,
           "seg": 1,
-          "idx": 71.3,
+          "idx": 71.4,
           "idxb": 72.1,
           "amostra": 86,
           "mvp": 19,
-          "pos": 4,
-          "zona": "—"
-        },
-        {
-          "n": "Royther13",
-          "tag": "#22LUL8GV9",
-          "th": 18,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 86,
-          "def": 20,
-          "sof": 2.4,
-          "ndef": 5,
-          "seg": 2,
-          "idx": 71.3,
-          "idxb": 72.0,
-          "amostra": 86,
-          "mvp": 20,
           "pos": 5,
           "zona": "—"
         },
@@ -774,7 +774,7 @@
           "sof": 2.8,
           "ndef": 6,
           "seg": 1,
-          "idx": 71.3,
+          "idx": 71.4,
           "idxb": 72.1,
           "amostra": 86,
           "mvp": 19,
@@ -793,11 +793,30 @@
           "sof": 2.8,
           "ndef": 6,
           "seg": 1,
-          "idx": 71.3,
+          "idx": 71.4,
           "idxb": 72.1,
           "amostra": 86,
           "mvp": 19,
           "pos": 7,
+          "zona": "—"
+        },
+        {
+          "n": "Royther13",
+          "tag": "#22LUL8GV9",
+          "th": 18,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 86,
+          "def": 20,
+          "sof": 2.4,
+          "ndef": 5,
+          "seg": 2,
+          "idx": 71.3,
+          "idxb": 72.0,
+          "amostra": 86,
+          "mvp": 20,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -816,7 +835,7 @@
           "idxb": 72.0,
           "amostra": 86,
           "mvp": 20,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -835,7 +854,7 @@
           "idxb": 71.3,
           "amostra": 86,
           "mvp": 20,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -854,7 +873,7 @@
           "idxb": 70.3,
           "amostra": 86,
           "mvp": 19,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -873,7 +892,7 @@
           "idxb": 70.3,
           "amostra": 86,
           "mvp": 19,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -892,7 +911,7 @@
           "idxb": 70.3,
           "amostra": 86,
           "mvp": 19,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -911,7 +930,7 @@
           "idxb": 70.3,
           "amostra": 86,
           "mvp": 19,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -930,7 +949,7 @@
           "idxb": 70.3,
           "amostra": 86,
           "mvp": 19,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -949,7 +968,7 @@
           "idxb": 69.5,
           "amostra": 86,
           "mvp": 18,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -968,25 +987,6 @@
           "idxb": 69.5,
           "amostra": 86,
           "mvp": 20,
-          "pos": 16,
-          "zona": "—"
-        },
-        {
-          "n": "Nesk'",
-          "tag": "#YCRJU229",
-          "th": 17,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 86,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 6,
-          "seg": 0,
-          "idx": 68.0,
-          "idxb": 68.2,
-          "amostra": 86,
-          "mvp": 17,
           "pos": 17,
           "zona": "—"
         },
@@ -1021,7 +1021,7 @@
           "sof": 2.3,
           "ndef": 6,
           "seg": 2,
-          "idx": 67.5,
+          "idx": 67.6,
           "idxb": 67.8,
           "amostra": 71,
           "mvp": 17,

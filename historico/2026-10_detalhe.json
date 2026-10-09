@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T01:20:28.733688Z",
+  "atualizado": "2026-10-09T01:30:36.524077Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3684,7 +3684,9 @@
               "nome": "Nesk'",
               "tag": "#YCRJU229",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
