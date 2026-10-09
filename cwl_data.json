@@ -4566,9 +4566,9 @@
           "atk": 12
         },
         "eles": {
-          "est": 31,
-          "destr": 72.4,
-          "atk": 11
+          "est": 34,
+          "destr": 79.06666666666666,
+          "atk": 12
         },
         "membros": [
           {
@@ -4707,9 +4707,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR . Kcatoyo",
@@ -4853,9 +4858,9 @@
         "atk": 12
       },
       "eles": {
-        "est": 31,
-        "destr": 72.4,
-        "atk": 11
+        "est": 34,
+        "destr": 79.06666666666666,
+        "atk": 12
       },
       "membros": [
         {
@@ -4994,9 +4999,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR . Kcatoyo",
@@ -8995,9 +9005,9 @@
         "inicio": "20261009T011712.000Z",
         "fim": "20261010T011712.000Z",
         "nos": {
-          "est": 31,
-          "destr": 36.4,
-          "atk": 11
+          "est": 33,
+          "destr": 39.56666666666667,
+          "atk": 12
         },
         "eles": {
           "est": 45,
@@ -9100,7 +9110,12 @@
             "tag": "#G0GGQRP9V",
             "th": 18,
             "pos": 6,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 95
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -9457,9 +9472,9 @@
       "inicio": "20261009T011712.000Z",
       "fim": "20261010T011712.000Z",
       "nos": {
-        "est": 31,
-        "destr": 36.4,
-        "atk": 11
+        "est": 33,
+        "destr": 39.56666666666667,
+        "atk": 12
       },
       "eles": {
         "est": 45,
@@ -9562,7 +9577,12 @@
           "tag": "#G0GGQRP9V",
           "th": 18,
           "pos": 6,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 95
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -13699,9 +13719,9 @@
           "atk": 19
         },
         "eles": {
-          "est": 22,
-          "destr": 27.633333333333333,
-          "atk": 9
+          "est": 24,
+          "destr": 30.0,
+          "atk": 10
         },
         "membros": [
           {
@@ -13815,9 +13835,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 71,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 71
+              }
+            ]
           },
           {
             "nome": "SR • Eduhh",
@@ -14161,9 +14186,9 @@
         "atk": 19
       },
       "eles": {
-        "est": 22,
-        "destr": 27.633333333333333,
-        "atk": 9
+        "est": 24,
+        "destr": 30.0,
+        "atk": 10
       },
       "membros": [
         {
@@ -14277,9 +14302,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 71,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 71
+            }
+          ]
         },
         {
           "nome": "SR • Eduhh",
