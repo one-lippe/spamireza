@@ -13254,9 +13254,9 @@
           "atk": 5
         },
         "eles": {
-          "est": 8,
-          "destr": 9.966666666666667,
-          "atk": 3
+          "est": 10,
+          "destr": 12.6,
+          "atk": 4
         },
         "membros": [
           {
@@ -13265,9 +13265,14 @@
             "th": 18,
             "pos": 1,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 79,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 79
+              }
+            ]
           },
           {
             "nome": "BC YUNO♧",
@@ -13616,9 +13621,9 @@
         "atk": 5
       },
       "eles": {
-        "est": 8,
-        "destr": 9.966666666666667,
-        "atk": 3
+        "est": 10,
+        "destr": 12.6,
+        "atk": 4
       },
       "membros": [
         {
@@ -13627,9 +13632,14 @@
           "th": 18,
           "pos": 1,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 79,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 79
+            }
+          ]
         },
         {
           "nome": "BC YUNO♧",

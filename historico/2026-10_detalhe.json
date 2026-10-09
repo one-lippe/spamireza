@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T02:00:40.827692Z",
+  "atualizado": "2026-10-09T02:10:52.502510Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -5394,7 +5394,7 @@
               "tag": "#QJRRJGQR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "BC YUNO♧",
