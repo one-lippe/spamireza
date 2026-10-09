@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T06:30:40.357629Z",
+  "atualizado": "2026-10-09T06:41:15.290828Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -19,11 +19,30 @@
           "sof": 1.8,
           "ndef": 5,
           "seg": 4,
-          "idx": 83.8,
+          "idx": 83.9,
           "idxb": 85.3,
           "amostra": 86,
           "mvp": 24,
           "pos": 1,
+          "zona": "—"
+        },
+        {
+          "n": "☆VILA DO PX ツ",
+          "tag": "#8PUL8JPC",
+          "th": 18,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "seg": 2,
+          "idx": 79.7,
+          "idxb": 80.4,
+          "amostra": 86,
+          "mvp": 19,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -38,11 +57,11 @@
           "sof": 2.8,
           "ndef": 6,
           "seg": 1,
-          "idx": 77.8,
+          "idx": 77.9,
           "idxb": 78.3,
           "amostra": 86,
           "mvp": 19,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -57,11 +76,11 @@
           "sof": 2.8,
           "ndef": 6,
           "seg": 1,
-          "idx": 77.8,
+          "idx": 77.9,
           "idxb": 78.3,
           "amostra": 86,
           "mvp": 19,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -76,11 +95,11 @@
           "sof": 2.8,
           "ndef": 6,
           "seg": 1,
-          "idx": 77.8,
+          "idx": 77.9,
           "idxb": 78.3,
           "amostra": 86,
           "mvp": 19,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -95,11 +114,11 @@
           "sof": 2.8,
           "ndef": 6,
           "seg": 1,
-          "idx": 77.8,
+          "idx": 77.9,
           "idxb": 78.3,
           "amostra": 86,
           "mvp": 19,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -114,11 +133,11 @@
           "sof": 2.8,
           "ndef": 5,
           "seg": 1,
-          "idx": 77.4,
+          "idx": 77.5,
           "idxb": 78.4,
           "amostra": 71,
           "mvp": 15,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -137,7 +156,7 @@
           "idxb": 77.2,
           "amostra": 86,
           "mvp": 18,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -156,25 +175,6 @@
           "idxb": 77.2,
           "amostra": 86,
           "mvp": 18,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "☆VILA DO PX ツ",
-          "tag": "#8PUL8JPC",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "seg": 2,
-          "idx": 75.4,
-          "idxb": 75.6,
-          "amostra": 71,
-          "mvp": 16,
           "pos": 9,
           "zona": "—"
         },
