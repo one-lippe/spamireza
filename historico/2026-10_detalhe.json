@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T12:20:31.337767Z",
+  "atualizado": "2026-10-09T12:30:37.461704Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -981,7 +981,9 @@
               "nome": "Neskau",
               "tag": "#P8GLGPRP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1926,7 +1928,9 @@
               "nome": "Levi_Neiva 2",
               "tag": "#90GRYGJVP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3812,7 +3816,7 @@
               "tag": "#PCGCJRLRJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "·Holtser Ω",
