@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T13:10:43.749162Z",
+  "atualizado": "2026-10-09T13:20:30.779209Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -820,6 +820,25 @@
           "zona": "—"
         },
         {
+          "n": "Agnes",
+          "tag": "#LLLU0VQCL",
+          "th": 18,
+          "atk": 7,
+          "est": 20,
+          "spa": 2.86,
+          "conf": 100,
+          "def": 6,
+          "sof": 2.8,
+          "ndef": 6,
+          "seg": 1,
+          "idx": 73.0,
+          "idxb": 73.0,
+          "amostra": 100,
+          "mvp": 21,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "Nesk'",
           "tag": "#YCRJU229",
           "th": 17,
@@ -835,7 +854,7 @@
           "idxb": 72.0,
           "amostra": 100,
           "mvp": 20,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -854,25 +873,6 @@
           "idxb": 71.6,
           "amostra": 100,
           "mvp": 21,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "Agnes",
-          "tag": "#LLLU0VQCL",
-          "th": 18,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
-          "seg": 1,
-          "idx": 71.5,
-          "idxb": 72.1,
-          "amostra": 86,
-          "mvp": 19,
           "pos": 11,
           "zona": "—"
         },
@@ -983,7 +983,7 @@
           "sof": 2.3,
           "ndef": 6,
           "seg": 2,
-          "idx": 69.2,
+          "idx": 69.3,
           "idxb": 69.5,
           "amostra": 86,
           "mvp": 20,
