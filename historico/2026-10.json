@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T08:00:36.339087Z",
+  "atualizado": "2026-10-09T08:10:39.448133Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -27,6 +27,25 @@
           "zona": "—"
         },
         {
+          "n": "Psico 2k25",
+          "tag": "#Q2UJJ89VG",
+          "th": 18,
+          "atk": 7,
+          "est": 21,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 6,
+          "sof": 2.8,
+          "ndef": 6,
+          "seg": 1,
+          "idx": 81.9,
+          "idxb": 81.9,
+          "amostra": 100,
+          "mvp": 22,
+          "pos": 2,
+          "zona": "—"
+        },
+        {
           "n": "☆VILA DO PX ツ",
           "tag": "#8PUL8JPC",
           "th": 18,
@@ -42,7 +61,7 @@
           "idxb": 80.4,
           "amostra": 86,
           "mvp": 19,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -61,7 +80,7 @@
           "idxb": 78.3,
           "amostra": 86,
           "mvp": 19,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -80,31 +99,12 @@
           "idxb": 78.3,
           "amostra": 86,
           "mvp": 19,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
           "n": "Jan",
           "tag": "#2899CRJG",
-          "th": 18,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
-          "seg": 1,
-          "idx": 77.9,
-          "idxb": 78.3,
-          "amostra": 86,
-          "mvp": 19,
-          "pos": 5,
-          "zona": "—"
-        },
-        {
-          "n": "Psico 2k25",
-          "tag": "#Q2UJJ89VG",
           "th": 18,
           "atk": 6,
           "est": 18,

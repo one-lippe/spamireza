@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T08:00:36.341581Z",
+  "atualizado": "2026-10-09T08:10:39.451652Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -951,7 +951,9 @@
               "nome": "Psico 2k25",
               "tag": "#Q2UJJ89VG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
