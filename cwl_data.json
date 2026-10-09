@@ -9000,9 +9000,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 40,
-          "destr": 48.46666666666667,
-          "atk": 15
+          "est": 42,
+          "destr": 51.2,
+          "atk": 16
         },
         "membros": [
           {
@@ -9106,9 +9106,14 @@
             "th": 18,
             "pos": 7,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 82,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 82
+              }
+            ]
           },
           {
             "nome": "PaiDeFamilia",
@@ -9447,9 +9452,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 40,
-        "destr": 48.46666666666667,
-        "atk": 15
+        "est": 42,
+        "destr": 51.2,
+        "atk": 16
       },
       "membros": [
         {
@@ -9553,9 +9558,14 @@
           "th": 18,
           "pos": 7,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 82,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 82
+            }
+          ]
         },
         {
           "nome": "PaiDeFamilia",

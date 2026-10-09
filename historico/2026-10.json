@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T14:00:43.919386Z",
+  "atualizado": "2026-10-09T14:10:37.846304Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -915,6 +915,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • THIAGO",
+          "tag": "#89G0YGUJY",
+          "th": 18,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 86,
+          "def": 14,
+          "sof": 2.6,
+          "ndef": 7,
+          "seg": 3,
+          "idx": 70.5,
+          "idxb": 70.9,
+          "amostra": 86,
+          "mvp": 20,
+          "pos": 14,
+          "zona": "—"
+        },
+        {
           "n": "Coyote 157 × 戦備",
           "tag": "#G0GGQRP9V",
           "th": 18,
@@ -926,25 +945,6 @@
           "sof": 2.7,
           "ndef": 6,
           "seg": 1,
-          "idx": 70.0,
-          "idxb": 70.3,
-          "amostra": 86,
-          "mvp": 19,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "SR • THIAGO",
-          "tag": "#89G0YGUJY",
-          "th": 18,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 86,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 6,
-          "seg": 2,
           "idx": 70.0,
           "idxb": 70.3,
           "amostra": 86,
