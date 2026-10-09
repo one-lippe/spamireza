@@ -8980,9 +8980,9 @@
           "atk": 7
         },
         "eles": {
-          "est": 34,
-          "destr": 38.93333333333333,
-          "atk": 12
+          "est": 38,
+          "destr": 45.333333333333336,
+          "atk": 14
         },
         "membros": [
           {
@@ -9116,9 +9116,14 @@
             "th": 18,
             "pos": 10,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 92,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 92
+              }
+            ]
           },
           {
             "nome": "♣️Dorindo Sena♣",
@@ -9301,9 +9306,14 @@
             "th": 17,
             "pos": 27,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "bebun lendário",
@@ -9397,9 +9407,9 @@
         "atk": 7
       },
       "eles": {
-        "est": 34,
-        "destr": 38.93333333333333,
-        "atk": 12
+        "est": 38,
+        "destr": 45.333333333333336,
+        "atk": 14
       },
       "membros": [
         {
@@ -9533,9 +9543,14 @@
           "th": 18,
           "pos": 10,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 92,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 92
+            }
+          ]
         },
         {
           "nome": "♣️Dorindo Sena♣",
@@ -9718,9 +9733,14 @@
           "th": 17,
           "pos": 27,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "bebun lendário",
@@ -13584,9 +13604,9 @@
         "inicio": "20261008T233758.000Z",
         "fim": "20261009T233758.000Z",
         "nos": {
-          "est": 45,
-          "destr": 50.0,
-          "atk": 15
+          "est": 51,
+          "destr": 56.666666666666664,
+          "atk": 17
         },
         "eles": {
           "est": 22,
@@ -13769,7 +13789,12 @@
             "tag": "#GJ9L0YPRU",
             "th": 17,
             "pos": 13,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -13949,7 +13974,12 @@
             "tag": "#GUYRGQGYJ",
             "th": 15,
             "pos": 27,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -14026,9 +14056,9 @@
       "inicio": "20261008T233758.000Z",
       "fim": "20261009T233758.000Z",
       "nos": {
-        "est": 45,
-        "destr": 50.0,
-        "atk": 15
+        "est": 51,
+        "destr": 56.666666666666664,
+        "atk": 17
       },
       "eles": {
         "est": 22,
@@ -14211,7 +14241,12 @@
           "tag": "#GJ9L0YPRU",
           "th": 17,
           "pos": 13,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -14391,7 +14426,12 @@
           "tag": "#GUYRGQGYJ",
           "th": 15,
           "pos": 27,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []

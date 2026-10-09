@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T12:50:53.186880Z",
+  "atualizado": "2026-10-09T13:00:35.041915Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3742,7 +3742,7 @@
               "tag": "#20UUPGPCV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "♣️Dorindo Sena♣",
@@ -3853,7 +3853,7 @@
               "tag": "#Y2CL88YQ9",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "bebun lendário",
@@ -5646,7 +5646,9 @@
               "nome": "JRx3",
               "tag": "#GJ9L0YPRU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -5751,7 +5753,9 @@
               "nome": "Tio Marginal",
               "tag": "#GUYRGQGYJ",
               "th": 15,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
