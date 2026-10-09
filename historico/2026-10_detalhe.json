@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T22:21:13.582708Z",
+  "atualizado": "2026-10-09T22:31:08.562562Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3819,7 +3819,9 @@
               "nome": "SR•InTheDark II",
               "tag": "#Q9PL0CUU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -3939,7 +3941,9 @@
               "nome": "bebo lendário",
               "tag": "#2QLGCJRJR",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             }
           ]
