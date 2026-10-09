@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T14:21:01.265455Z",
+  "atualizado": "2026-10-09T14:30:42.744449Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -687,6 +687,25 @@
           "zona": "promo"
         },
         {
+          "n": "Coyote 171 × 戦備",
+          "tag": "#Y08CR0PQU",
+          "th": 18,
+          "atk": 7,
+          "est": 21,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 29,
+          "sof": 2.1,
+          "ndef": 7,
+          "seg": 5,
+          "idx": 79.7,
+          "idxb": 79.7,
+          "amostra": 100,
+          "mvp": 27,
+          "pos": 2,
+          "zona": "promo"
+        },
+        {
           "n": "Royther13",
           "tag": "#22LUL8GV9",
           "th": 18,
@@ -702,8 +721,8 @@
           "idxb": 75.7,
           "amostra": 100,
           "mvp": 23,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "SrNunes",
@@ -721,7 +740,7 @@
           "idxb": 75.5,
           "amostra": 100,
           "mvp": 24,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -740,25 +759,6 @@
           "idxb": 75.3,
           "amostra": 100,
           "mvp": 22,
-          "pos": 4,
-          "zona": "—"
-        },
-        {
-          "n": "Coyote 171 × 戦備",
-          "tag": "#Y08CR0PQU",
-          "th": 18,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 29,
-          "sof": 2.1,
-          "ndef": 7,
-          "seg": 5,
-          "idx": 75.2,
-          "idxb": 76.4,
-          "amostra": 86,
-          "mvp": 24,
           "pos": 5,
           "zona": "—"
         },
