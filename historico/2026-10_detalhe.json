@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T03:40:42.943790Z",
+  "atualizado": "2026-10-09T03:50:42.940553Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3727,7 +3727,9 @@
               "nome": "SR • JotaErre",
               "tag": "#GRUG8UQGV",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
