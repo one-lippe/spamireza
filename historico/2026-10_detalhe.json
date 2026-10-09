@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T23:30:57.646491Z",
+  "atualizado": "2026-10-09T23:40:29.554370Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -5603,7 +5603,7 @@
         {
           "g": 7,
           "vs": "TapHouse",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 30,
           "jogadores": [
             {
@@ -5721,7 +5721,9 @@
               "nome": "GPM Level 1",
               "tag": "#QV2J0YV0V",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {

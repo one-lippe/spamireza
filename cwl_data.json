@@ -14147,16 +14147,16 @@
       },
       {
         "warTag": "#8RQC88J9U",
-        "state": "inWar",
+        "state": "warEnded",
         "teamSize": 30,
         "adversario": "TapHouse",
         "prep": "20261007T233800.000Z",
         "inicio": "20261008T233758.000Z",
         "fim": "20261009T233758.000Z",
         "nos": {
-          "est": 71,
-          "destr": 79.8,
-          "atk": 25
+          "est": 74,
+          "destr": 83.13333333333334,
+          "atk": 26
         },
         "eles": {
           "est": 30,
@@ -14394,7 +14394,12 @@
             "tag": "#QV2J0YV0V",
             "th": 18,
             "pos": 14,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 87,
             "defesas": [
@@ -14659,16 +14664,16 @@
     ],
     "atual": {
       "warTag": "#8RQC88J9U",
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 30,
       "adversario": "TapHouse",
       "prep": "20261007T233800.000Z",
       "inicio": "20261008T233758.000Z",
       "fim": "20261009T233758.000Z",
       "nos": {
-        "est": 71,
-        "destr": 79.8,
-        "atk": 25
+        "est": 74,
+        "destr": 83.13333333333334,
+        "atk": 26
       },
       "eles": {
         "est": 30,
@@ -14906,7 +14911,12 @@
           "tag": "#QV2J0YV0V",
           "th": 18,
           "pos": 14,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 87,
           "defesas": [

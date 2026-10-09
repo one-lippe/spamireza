@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T23:30:57.641471Z",
+  "atualizado": "2026-10-09T23:40:29.550922Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1435,6 +1435,25 @@
           "zona": "—"
         },
         {
+          "n": "GPM Level 1",
+          "tag": "#QV2J0YV0V",
+          "th": 18,
+          "atk": 7,
+          "est": 20,
+          "spa": 2.86,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 6,
+          "seg": 2,
+          "idx": 66.1,
+          "idxb": 66.1,
+          "amostra": 100,
+          "mvp": 22,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "Wilson z2",
           "tag": "#2RLG220GY",
           "th": 15,
@@ -1450,7 +1469,7 @@
           "idxb": 66.1,
           "amostra": 100,
           "mvp": 22,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -1469,7 +1488,7 @@
           "idxb": 66.1,
           "amostra": 100,
           "mvp": 22,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -1488,25 +1507,6 @@
           "idxb": 62.6,
           "amostra": 100,
           "mvp": 21,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "GPM Level 1",
-          "tag": "#QV2J0YV0V",
-          "th": 18,
-          "atk": 6,
-          "est": 17,
-          "spa": 2.83,
-          "conf": 86,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 6,
-          "seg": 2,
-          "idx": 62.3,
-          "idxb": 62.7,
-          "amostra": 86,
-          "mvp": 19,
           "pos": 12,
           "zona": "—"
         },
