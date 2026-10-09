@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T11:40:34.767006Z",
+  "atualizado": "2026-10-09T11:50:28.971885Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3852,7 +3852,7 @@
               "tag": "#L90PCJGPC",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": ";-;REI DELAS;-;",
@@ -5670,7 +5670,9 @@
               "nome": "Trainer Ronald",
               "tag": "#29LG09JGY",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
