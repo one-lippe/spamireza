@@ -2014,7 +2014,7 @@
       },
       {
         "warTag": "#8J2GLGCRQ",
-        "state": "inWar",
+        "state": "warEnded",
         "teamSize": 15,
         "adversario": "German Wizards",
         "prep": "20261008T060219.000Z",
@@ -2336,7 +2336,7 @@
     ],
     "atual": {
       "warTag": "#8J2GLGCRQ",
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 15,
       "adversario": "German Wizards",
       "prep": "20261008T060219.000Z",
@@ -2655,8 +2655,8 @@
         }
       ]
     },
-    "liga": "Titan League III",
-    "mult": 1.01,
+    "liga": "Titan League II",
+    "mult": 1.04,
     "season": "2026-10"
   },
   {

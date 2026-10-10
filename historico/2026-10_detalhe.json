@@ -1,10 +1,10 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-10T06:00:40.154921Z",
+  "atualizado": "2026-10-10T06:10:36.306309Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
-      "liga": "Titan League III",
+      "liga": "Titan League II",
       "guerras": [
         {
           "g": 1,
@@ -867,7 +867,7 @@
         {
           "g": 7,
           "vs": "German Wizards",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
