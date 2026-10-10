@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-10T00:50:27.313612Z",
+  "atualizado": "2026-10-10T00:59:48.000291Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -27,27 +27,27 @@
           "zona": "—"
         },
         {
-          "n": "Jan",
-          "tag": "#2899CRJG",
+          "n": "Levi_Neiva",
+          "tag": "#C8R989YJ",
           "th": 18,
           "atk": 7,
           "est": 21,
           "spa": 3.0,
           "conf": 100,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
+          "def": 5,
+          "sof": 2.9,
+          "ndef": 7,
           "seg": 1,
-          "idx": 81.9,
-          "idxb": 81.9,
+          "idx": 81.8,
+          "idxb": 81.8,
           "amostra": 100,
           "mvp": 22,
           "pos": 2,
           "zona": "—"
         },
         {
-          "n": "Levi_Neiva",
-          "tag": "#C8R989YJ",
+          "n": "Jan",
+          "tag": "#2899CRJG",
           "th": 18,
           "atk": 7,
           "est": 21,
