@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-10T05:00:42.552101Z",
+  "atualizado": "2026-10-10T05:11:03.686506Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -27,6 +27,25 @@
           "zona": "—"
         },
         {
+          "n": "marinaul war",
+          "tag": "#8GGCQPYP",
+          "th": 18,
+          "atk": 7,
+          "est": 21,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 5,
+          "sof": 2.9,
+          "ndef": 7,
+          "seg": 1,
+          "idx": 81.8,
+          "idxb": 81.8,
+          "amostra": 100,
+          "mvp": 22,
+          "pos": 2,
+          "zona": "—"
+        },
+        {
           "n": "Levi_Neiva",
           "tag": "#C8R989YJ",
           "th": 18,
@@ -42,7 +61,7 @@
           "idxb": 81.8,
           "amostra": 100,
           "mvp": 22,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -61,7 +80,7 @@
           "idxb": 81.8,
           "amostra": 100,
           "mvp": 22,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -80,7 +99,7 @@
           "idxb": 81.8,
           "amostra": 100,
           "mvp": 22,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -99,7 +118,7 @@
           "idxb": 80.8,
           "amostra": 100,
           "mvp": 21,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -118,7 +137,7 @@
           "idxb": 80.8,
           "amostra": 100,
           "mvp": 21,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -137,7 +156,7 @@
           "idxb": 81.1,
           "amostra": 86,
           "mvp": 20,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -156,7 +175,7 @@
           "idxb": 80.1,
           "amostra": 100,
           "mvp": 22,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -171,11 +190,11 @@
           "sof": 2.7,
           "ndef": 6,
           "seg": 1,
-          "idx": 79.8,
+          "idx": 79.9,
           "idxb": 80.0,
           "amostra": 86,
           "mvp": 19,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -194,7 +213,7 @@
           "idxb": 79.8,
           "amostra": 71,
           "mvp": 16,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -213,25 +232,6 @@
           "idxb": 78.4,
           "amostra": 71,
           "mvp": 15,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "marinaul war",
-          "tag": "#8GGCQPYP",
-          "th": 18,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 5,
-          "sof": 2.9,
-          "ndef": 7,
-          "seg": 1,
-          "idx": 78.2,
-          "idxb": 78.2,
-          "amostra": 86,
-          "mvp": 19,
           "pos": 12,
           "zona": "—"
         },
