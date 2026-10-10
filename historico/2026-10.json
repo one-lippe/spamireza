@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-09T23:50:27.804223Z",
+  "atualizado": "2026-10-10T00:00:32.624845Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -679,7 +679,7 @@
           "sof": 1.7,
           "ndef": 6,
           "seg": 5,
-          "idx": 80.7,
+          "idx": 80.8,
           "idxb": 82.7,
           "amostra": 86,
           "mvp": 26,
@@ -1010,6 +1010,25 @@
           "zona": "—"
         },
         {
+          "n": "LSWRTHN",
+          "tag": "#QJY8RRYR",
+          "th": 16,
+          "atk": 7,
+          "est": 18,
+          "spa": 2.57,
+          "conf": 100,
+          "def": 19,
+          "sof": 2.4,
+          "ndef": 7,
+          "seg": 2,
+          "idx": 70.6,
+          "idxb": 70.6,
+          "amostra": 100,
+          "mvp": 22,
+          "pos": 19,
+          "zona": "—"
+        },
+        {
           "n": "bebun lendário",
           "tag": "#L90PCJGPC",
           "th": 17,
@@ -1024,25 +1043,6 @@
           "idx": 70.4,
           "idxb": 70.4,
           "amostra": 100,
-          "mvp": 20,
-          "pos": 19,
-          "zona": "—"
-        },
-        {
-          "n": "LSWRTHN",
-          "tag": "#QJY8RRYR",
-          "th": 16,
-          "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 86,
-          "def": 19,
-          "sof": 2.4,
-          "ndef": 7,
-          "seg": 2,
-          "idx": 68.9,
-          "idxb": 68.9,
-          "amostra": 86,
           "mvp": 20,
           "pos": 20,
           "zona": "—"
