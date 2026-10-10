@@ -9168,7 +9168,7 @@
       },
       {
         "warTag": "#8YRYQYLPR",
-        "state": "inWar",
+        "state": "warEnded",
         "teamSize": 30,
         "adversario": "#Black Death",
         "prep": "20261008T011713.000Z",
@@ -9790,7 +9790,7 @@
     ],
     "atual": {
       "warTag": "#8YRYQYLPR",
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 30,
       "adversario": "#Black Death",
       "prep": "20261008T011713.000Z",

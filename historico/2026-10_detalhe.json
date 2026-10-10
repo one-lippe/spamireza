@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-10T01:10:37.000823Z",
+  "atualizado": "2026-10-10T01:20:39.448212Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3681,7 +3681,7 @@
         {
           "g": 7,
           "vs": "#Black Death",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 30,
           "jogadores": [
             {
