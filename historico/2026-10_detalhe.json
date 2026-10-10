@@ -1,6 +1,6 @@
 {
   "season": "2026-10",
-  "atualizado": "2026-10-10T00:00:32.628319Z",
+  "atualizado": "2026-10-10T00:10:28.449277Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -908,7 +908,9 @@
               "nome": "SR • Giovanelli",
               "tag": "#PJ0YJLGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3866,7 +3868,9 @@
               "nome": "·Holtser Ω",
               "tag": "#8GG88V2PU",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
