@@ -456,9 +456,9 @@
     "elenco": [],
     "rodadas": [],
     "atual": null,
-    "liga": null,
-    "mult": 0.85,
-    "erro": "leaguegroup status 404"
+    "liga": "Master League I",
+    "mult": 0.93,
+    "season": null
   },
   {
     "num": 4,
@@ -469,8 +469,7 @@
     "atual": null,
     "liga": null,
     "mult": 0.85,
-    "season": "2026-10",
-    "erro": "liga anterior (2026-10) ainda na API"
+    "erro": "leaguegroup status 520"
   },
   {
     "num": 5,
