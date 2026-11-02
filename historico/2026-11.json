@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-02T23:40:18.946524Z",
+  "atualizado": "2026-11-02T23:50:17.716134Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -303,8 +303,65 @@
     "3": {
       "nome": "ScamiReza",
       "liga": "Master League I",
-      "mode": "esc",
+      "mode": "rank",
       "rank": [
+        {
+          "n": "Royther13",
+          "tag": "#22LUL8GV9",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "seg": 0,
+          "idx": 93.0,
+          "idxb": 93.0,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 1,
+          "zona": "—"
+        },
+        {
+          "n": "Meliodas NNT",
+          "tag": "#2PLQG8UQU",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "seg": 0,
+          "idx": 93.0,
+          "idxb": 93.0,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 2,
+          "zona": "—"
+        },
+        {
+          "n": "Ghostface",
+          "tag": "#QQUC9JQ9R",
+          "th": 17,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "seg": 0,
+          "idx": 71.7,
+          "idxb": 71.7,
+          "amostra": 100,
+          "mvp": 2,
+          "pos": 3,
+          "zona": "—"
+        },
         {
           "n": "Samuel Soares",
           "tag": "#9V2L9J9JP",
@@ -319,9 +376,9 @@
           "seg": 1,
           "idx": 6.2,
           "idxb": 6.2,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 1,
-          "pos": 1,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -338,9 +395,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 2,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -357,9 +414,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 3,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -376,9 +433,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 4,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -395,9 +452,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 5,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -414,9 +471,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 6,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -433,28 +490,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 7,
-          "zona": "—"
-        },
-        {
-          "n": "Royther13",
-          "tag": "#22LUL8GV9",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 100,
-          "mvp": 0,
-          "pos": 8,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -471,9 +509,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 9,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -490,9 +528,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 10,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -509,9 +547,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 11,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -528,9 +566,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 12,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -547,9 +585,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 13,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -566,9 +604,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 14,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -585,9 +623,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 15,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -604,9 +642,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 16,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -623,9 +661,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 17,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -642,9 +680,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 18,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -661,9 +699,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 19,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -680,28 +718,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 20,
-          "zona": "—"
-        },
-        {
-          "n": "Meliodas NNT",
-          "tag": "#2PLQG8UQU",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 100,
-          "mvp": 0,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -718,9 +737,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 22,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -737,9 +756,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 23,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -756,9 +775,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 24,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -775,9 +794,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 25,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -794,26 +813,7 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
-          "mvp": 0,
-          "pos": 26,
-          "zona": "—"
-        },
-        {
-          "n": "Ghostface",
-          "tag": "#QQUC9JQ9R",
-          "th": 17,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
           "pos": 27,
           "zona": "—"
@@ -832,7 +832,7 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
           "pos": 28,
           "zona": "—"
@@ -851,7 +851,7 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
           "pos": 29,
           "zona": "—"
@@ -864,13 +864,13 @@
           "est": 0,
           "spa": 0,
           "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
           "pos": 30,
           "zona": "—"

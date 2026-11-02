@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-02T23:40:18.947584Z",
+  "atualizado": "2026-11-02T23:50:17.716862Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -188,7 +188,9 @@
               "nome": "Royther13",
               "tag": "#22LUL8GV9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -286,7 +288,9 @@
               "nome": "Meliodas NNT",
               "tag": "#2PLQG8UQU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -328,7 +332,9 @@
               "nome": "Ghostface",
               "tag": "#QQUC9JQ9R",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -350,7 +356,7 @@
               "tag": "#YP9L000LG",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }

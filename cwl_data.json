@@ -1349,14 +1349,14 @@
         "inicio": "20261102T232408.000Z",
         "fim": "20261103T232408.000Z",
         "nos": {
-          "est": 0,
-          "destr": 0.0,
-          "atk": 0
+          "est": 8,
+          "destr": 9.9,
+          "atk": 3
         },
         "eles": {
-          "est": 8,
-          "destr": 9.966666666666667,
-          "atk": 3
+          "est": 11,
+          "destr": 13.3,
+          "atk": 4
         },
         "membros": [
           {
@@ -1424,7 +1424,12 @@
             "tag": "#22LUL8GV9",
             "th": 18,
             "pos": 7,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1569,7 +1574,12 @@
             "tag": "#2PLQG8UQU",
             "th": 18,
             "pos": 22,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1634,7 +1644,12 @@
             "tag": "#QQUC9JQ9R",
             "th": 17,
             "pos": 29,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 97
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1670,9 +1685,14 @@
             "th": 17,
             "pos": 32,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           }
         ]
       },
@@ -2007,14 +2027,14 @@
       "inicio": "20261102T232408.000Z",
       "fim": "20261103T232408.000Z",
       "nos": {
-        "est": 0,
-        "destr": 0.0,
-        "atk": 0
+        "est": 8,
+        "destr": 9.9,
+        "atk": 3
       },
       "eles": {
-        "est": 8,
-        "destr": 9.966666666666667,
-        "atk": 3
+        "est": 11,
+        "destr": 13.3,
+        "atk": 4
       },
       "membros": [
         {
@@ -2082,7 +2102,12 @@
           "tag": "#22LUL8GV9",
           "th": 18,
           "pos": 7,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -2227,7 +2252,12 @@
           "tag": "#2PLQG8UQU",
           "th": 18,
           "pos": 22,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -2292,7 +2322,12 @@
           "tag": "#QQUC9JQ9R",
           "th": 17,
           "pos": 29,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 97
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -2328,9 +2363,14 @@
           "th": 17,
           "pos": 32,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         }
       ]
     },
