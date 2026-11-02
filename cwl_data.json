@@ -532,7 +532,7 @@
     "rodadas": [
       {
         "warTag": "#8L0CY2GPY",
-        "state": "preparation",
+        "state": "inWar",
         "teamSize": 15,
         "adversario": "PL CWL/WARS",
         "prep": "20261101T214917.000Z",
@@ -704,7 +704,7 @@
     ],
     "atual": {
       "warTag": "#8L0CY2GPY",
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 15,
       "adversario": "PL CWL/WARS",
       "prep": "20261101T214917.000Z",
