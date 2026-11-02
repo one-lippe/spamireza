@@ -873,8 +873,8 @@
         }
       ]
     },
-    "liga": null,
-    "mult": 0.85,
+    "liga": "Champion League III",
+    "mult": 0.94,
     "season": "2026-11"
   },
   {
@@ -1399,6 +1399,16 @@
             "defesas": []
           },
           {
+            "nome": "SR • JotaErre",
+            "tag": "#GRUG8UQGV",
+            "th": 16,
+            "pos": 30,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
             "nome": "GSAzevedo30 #2",
             "tag": "#29882J2L2",
             "th": 16,
@@ -1413,16 +1423,6 @@
             "tag": "#YP9L000LG",
             "th": 17,
             "pos": 32,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
-            "nome": "Ligeirinh2xD",
-            "tag": "#GCC98R22R",
-            "th": 16,
-            "pos": 34,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -1721,6 +1721,16 @@
           "defesas": []
         },
         {
+          "nome": "SR • JotaErre",
+          "tag": "#GRUG8UQGV",
+          "th": 16,
+          "pos": 30,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
           "nome": "GSAzevedo30 #2",
           "tag": "#29882J2L2",
           "th": 16,
@@ -1735,16 +1745,6 @@
           "tag": "#YP9L000LG",
           "th": 17,
           "pos": 32,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
-        },
-        {
-          "nome": "Ligeirinh2xD",
-          "tag": "#GCC98R22R",
-          "th": 16,
-          "pos": 34,
           "ataques": [],
           "def_estrelas": null,
           "def_destr": null,
