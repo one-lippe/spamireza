@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-02T22:00:23.451707Z",
+  "atualizado": "2026-11-02T22:10:14.002073Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -9,126 +9,12 @@
     },
     "2": {
       "nome": "RezaSpamandu",
-      "liga": "Champion League III",
-      "guerras": [
-        {
-          "g": 1,
-          "vs": "PL CWL/WARS",
-          "state": "inWar",
-          "size": 15,
-          "jogadores": [
-            {
-              "nome": "SR • Giovanelli",
-              "tag": "#PJ0YJLGJ",
-              "th": 18,
-              "atk": [],
-              "def_est": null
-            },
-            {
-              "nome": "SrNunes",
-              "tag": "#2LY8G8Y9",
-              "th": 18,
-              "atk": [],
-              "def_est": null
-            },
-            {
-              "nome": "tozim",
-              "tag": "#9G22U9U2Y",
-              "th": 18,
-              "atk": [],
-              "def_est": null
-            },
-            {
-              "nome": "Renan",
-              "tag": "#QLRGC8GQ",
-              "th": 18,
-              "atk": [],
-              "def_est": null
-            },
-            {
-              "nome": "Sene",
-              "tag": "#8JQJYQC",
-              "th": 18,
-              "atk": [],
-              "def_est": null
-            },
-            {
-              "nome": "GSAzevedo30",
-              "tag": "#CJLVVL9L",
-              "th": 18,
-              "atk": [],
-              "def_est": 3
-            },
-            {
-              "nome": "KingMpg",
-              "tag": "#22YJPYPCJ",
-              "th": 18,
-              "atk": [],
-              "def_est": null
-            },
-            {
-              "nome": "Monesy9",
-              "tag": "#LJRPJ9PC0",
-              "th": 18,
-              "atk": [],
-              "def_est": null
-            },
-            {
-              "nome": "MAJ0R FiV3",
-              "tag": "#QRJL0RGQR",
-              "th": 18,
-              "atk": [],
-              "def_est": null
-            },
-            {
-              "nome": "TomorrowBr",
-              "tag": "#YPJLVPL9U",
-              "th": 18,
-              "atk": [],
-              "def_est": null
-            },
-            {
-              "nome": "Monesy",
-              "tag": "#2YGJQG22G",
-              "th": 18,
-              "atk": [],
-              "def_est": null
-            },
-            {
-              "nome": "SR • Dog Crazy",
-              "tag": "#9LPJP9YPQ",
-              "th": 18,
-              "atk": [],
-              "def_est": null
-            },
-            {
-              "nome": "Ligeirinh0xD",
-              "tag": "#GRR2G9LP0",
-              "th": 18,
-              "atk": [],
-              "def_est": null
-            },
-            {
-              "nome": "Darth Revan",
-              "tag": "#8R280VRCQ",
-              "th": 18,
-              "atk": [],
-              "def_est": null
-            },
-            {
-              "nome": "SR • Nesquick",
-              "tag": "#YCRJU229",
-              "th": 18,
-              "atk": [],
-              "def_est": null
-            }
-          ]
-        }
-      ]
+      "liga": null,
+      "guerras": []
     },
     "3": {
       "nome": "ScamiReza",
-      "liga": "Master League I",
+      "liga": null,
       "guerras": []
     },
     "4": {
