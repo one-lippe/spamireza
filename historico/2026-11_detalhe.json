@@ -1,15 +1,15 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-02T16:20:19.324010Z",
+  "atualizado": "2026-11-02T16:30:17.277378Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
-      "liga": null,
+      "liga": "Titan League II",
       "guerras": []
     },
     "2": {
       "nome": "RezaSpamandu",
-      "liga": "Champion League III",
+      "liga": null,
       "guerras": []
     },
     "3": {
