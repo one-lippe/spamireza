@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-02T17:40:19.684821Z",
+  "atualizado": "2026-11-02T17:50:17.409061Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -16,7 +16,7 @@
     },
     "3": {
       "nome": "ScamiReza",
-      "liga": "Master League I",
+      "liga": null,
       "mode": "esc",
       "rank": []
     },
