@@ -445,8 +445,8 @@
         }
       ]
     },
-    "liga": null,
-    "mult": 0.85,
+    "liga": "Champion League III",
+    "mult": 0.94,
     "season": "2026-11"
   },
   {
@@ -1324,8 +1324,8 @@
         }
       ]
     },
-    "liga": null,
-    "mult": 0.85,
+    "liga": "Master League I",
+    "mult": 0.93,
     "season": "2026-11"
   },
   {
