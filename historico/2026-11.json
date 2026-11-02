@@ -1,16 +1,16 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-02T20:20:21.463933Z",
+  "atualizado": "2026-11-02T20:30:19.932416Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
-      "liga": "Titan League II",
+      "liga": null,
       "mode": "esc",
       "rank": []
     },
     "2": {
       "nome": "RezaSpamandu",
-      "liga": "Champion League III",
+      "liga": null,
       "mode": "esc",
       "rank": []
     },
