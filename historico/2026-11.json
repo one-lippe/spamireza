@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-02T04:00:19.336174Z",
+  "atualizado": "2026-11-02T04:10:15.318646Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -10,7 +10,7 @@
     },
     "2": {
       "nome": "RezaSpamandu",
-      "liga": null,
+      "liga": "Champion League III",
       "mode": "esc",
       "rank": []
     },
