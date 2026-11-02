@@ -873,8 +873,8 @@
         }
       ]
     },
-    "liga": "Champion League III",
-    "mult": 0.94,
+    "liga": null,
+    "mult": 0.85,
     "season": "2026-11"
   },
   {
@@ -1765,8 +1765,7 @@
     "atual": null,
     "liga": null,
     "mult": 0.85,
-    "season": "2026-10",
-    "erro": "liga anterior (2026-10) ainda na API"
+    "erro": "leaguegroup status 520"
   },
   {
     "num": 5,
@@ -1777,6 +1776,6 @@
     "atual": null,
     "liga": null,
     "mult": 0.85,
-    "erro": "leaguegroup status 404"
+    "erro": "leaguegroup status 525"
   }
 ]
