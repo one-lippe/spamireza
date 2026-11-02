@@ -90,112 +90,15 @@
         "th": 18
       }
     ],
-    "rodadas": [],
-    "atual": null,
-    "liga": "Titan League II",
-    "mult": 1.04,
-    "season": "2026-11"
-  },
-  {
-    "num": 2,
-    "nome": "RezaSpamandu",
-    "tag": "#2R9CC2P02",
-    "elenco": [
-      {
-        "nome": "Monesy9",
-        "tag": "#LJRPJ9PC0",
-        "th": 18
-      },
-      {
-        "nome": "Darth Revan",
-        "tag": "#8R280VRCQ",
-        "th": 18
-      },
-      {
-        "nome": "SR • DuM∆R",
-        "tag": "#YQRJL098P",
-        "th": 18
-      },
-      {
-        "nome": "GSAzevedo30",
-        "tag": "#CJLVVL9L",
-        "th": 18
-      },
-      {
-        "nome": "SR • Dog Crazy",
-        "tag": "#9LPJP9YPQ",
-        "th": 18
-      },
-      {
-        "nome": "tozim",
-        "tag": "#9G22U9U2Y",
-        "th": 18
-      },
-      {
-        "nome": "Sene",
-        "tag": "#8JQJYQC",
-        "th": 18
-      },
-      {
-        "nome": "Renan",
-        "tag": "#QLRGC8GQ",
-        "th": 18
-      },
-      {
-        "nome": "SR • Giovanelli",
-        "tag": "#PJ0YJLGJ",
-        "th": 18
-      },
-      {
-        "nome": "SrNunes",
-        "tag": "#2LY8G8Y9",
-        "th": 18
-      },
-      {
-        "nome": "Ligeirinh0xD",
-        "tag": "#GRR2G9LP0",
-        "th": 18
-      },
-      {
-        "nome": "KingMpg",
-        "tag": "#22YJPYPCJ",
-        "th": 18
-      },
-      {
-        "nome": "Monesy",
-        "tag": "#2YGJQG22G",
-        "th": 18
-      },
-      {
-        "nome": "MAJ0R FiV3",
-        "tag": "#QRJL0RGQR",
-        "th": 18
-      },
-      {
-        "nome": "SR • THIAGO",
-        "tag": "#89G0YGUJY",
-        "th": 18
-      },
-      {
-        "nome": "SR • Nesquick",
-        "tag": "#YCRJU229",
-        "th": 18
-      },
-      {
-        "nome": "TomorrowBr",
-        "tag": "#YPJLVPL9U",
-        "th": 18
-      }
-    ],
     "rodadas": [
       {
-        "warTag": "#8L0CY2GPY",
+        "warTag": "#8RUJPQ0UR",
         "state": "preparation",
         "teamSize": 15,
-        "adversario": "PL CWL/WARS",
-        "prep": "20261101T214917.000Z",
-        "inicio": "20261102T214915.000Z",
-        "fim": "20261103T214915.000Z",
+        "adversario": "W@R HERO",
+        "prep": "20261102T163810.000Z",
+        "inicio": "20261103T163807.000Z",
+        "fim": "20261104T163807.000Z",
         "nos": {
           "est": 0,
           "destr": 0.0,
@@ -208,8 +111,8 @@
         },
         "membros": [
           {
-            "nome": "SR • Giovanelli",
-            "tag": "#PJ0YJLGJ",
+            "nome": "marinaul war",
+            "tag": "#8GGCQPYP",
             "th": 18,
             "pos": 1,
             "ataques": [],
@@ -218,8 +121,8 @@
             "defesas": []
           },
           {
-            "nome": "SrNunes",
-            "tag": "#2LY8G8Y9",
+            "nome": "Henrique Nerath",
+            "tag": "#2U8P0YQ92",
             "th": 18,
             "pos": 2,
             "ataques": [],
@@ -228,8 +131,8 @@
             "defesas": []
           },
           {
-            "nome": "tozim",
-            "tag": "#9G22U9U2Y",
+            "nome": "Jan",
+            "tag": "#2899CRJG",
             "th": 18,
             "pos": 3,
             "ataques": [],
@@ -238,18 +141,8 @@
             "defesas": []
           },
           {
-            "nome": "Renan",
-            "tag": "#QLRGC8GQ",
-            "th": 18,
-            "pos": 4,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
-            "nome": "Sene",
-            "tag": "#8JQJYQC",
+            "nome": "SR • InTheDark☆",
+            "tag": "#PQRRG2YCP",
             "th": 18,
             "pos": 5,
             "ataques": [],
@@ -258,8 +151,8 @@
             "defesas": []
           },
           {
-            "nome": "GSAzevedo30",
-            "tag": "#CJLVVL9L",
+            "nome": "SR • JON SNOW",
+            "tag": "#LYV2J2LU",
             "th": 18,
             "pos": 6,
             "ataques": [],
@@ -268,18 +161,18 @@
             "defesas": []
           },
           {
-            "nome": "KingMpg",
-            "tag": "#22YJPYPCJ",
+            "nome": "Coyote 171 × 戦備",
+            "tag": "#Y08CR0PQU",
             "th": 18,
-            "pos": 7,
+            "pos": 8,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
           },
           {
-            "nome": "Monesy9",
-            "tag": "#LJRPJ9PC0",
+            "nome": "SR • C∆iç∆r∆",
+            "tag": "#GL0PRCU9L",
             "th": 18,
             "pos": 9,
             "ataques": [],
@@ -288,8 +181,8 @@
             "defesas": []
           },
           {
-            "nome": "MAJ0R FiV3",
-            "tag": "#QRJL0RGQR",
+            "nome": "Psico 2k25",
+            "tag": "#Q2UJJ89VG",
             "th": 18,
             "pos": 10,
             "ataques": [],
@@ -298,8 +191,8 @@
             "defesas": []
           },
           {
-            "nome": "TomorrowBr",
-            "tag": "#YPJLVPL9U",
+            "nome": "MAJ0R FiV3",
+            "tag": "#LCR9YQGYY",
             "th": 18,
             "pos": 11,
             "ataques": [],
@@ -308,8 +201,8 @@
             "defesas": []
           },
           {
-            "nome": "Monesy",
-            "tag": "#2YGJQG22G",
+            "nome": "Nesk",
+            "tag": "#99220V0Q8",
             "th": 18,
             "pos": 12,
             "ataques": [],
@@ -318,8 +211,8 @@
             "defesas": []
           },
           {
-            "nome": "SR • Dog Crazy",
-            "tag": "#9LPJP9YPQ",
+            "nome": "SR • Neskau",
+            "tag": "#P8GLGPRP",
             "th": 18,
             "pos": 13,
             "ataques": [],
@@ -328,8 +221,18 @@
             "defesas": []
           },
           {
-            "nome": "Ligeirinh0xD",
-            "tag": "#GRR2G9LP0",
+            "nome": "☆VILA DO PX ツ",
+            "tag": "#8PUL8JPC",
+            "th": 18,
+            "pos": 14,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Levi_Neiva 2",
+            "tag": "#90GRYGJVP",
             "th": 18,
             "pos": 15,
             "ataques": [],
@@ -338,8 +241,8 @@
             "defesas": []
           },
           {
-            "nome": "Darth Revan",
-            "tag": "#8R280VRCQ",
+            "nome": "SR•GOD kratos",
+            "tag": "#LUJ9CRJQG",
             "th": 18,
             "pos": 16,
             "ataques": [],
@@ -348,8 +251,8 @@
             "defesas": []
           },
           {
-            "nome": "SR • Nesquick",
-            "tag": "#YCRJU229",
+            "nome": "matias?",
+            "tag": "#RCQQUGC9",
             "th": 18,
             "pos": 17,
             "ataques": [],
@@ -361,13 +264,13 @@
       }
     ],
     "atual": {
-      "warTag": "#8L0CY2GPY",
+      "warTag": "#8RUJPQ0UR",
       "state": "preparation",
       "teamSize": 15,
-      "adversario": "PL CWL/WARS",
-      "prep": "20261101T214917.000Z",
-      "inicio": "20261102T214915.000Z",
-      "fim": "20261103T214915.000Z",
+      "adversario": "W@R HERO",
+      "prep": "20261102T163810.000Z",
+      "inicio": "20261103T163807.000Z",
+      "fim": "20261104T163807.000Z",
       "nos": {
         "est": 0,
         "destr": 0.0,
@@ -380,8 +283,8 @@
       },
       "membros": [
         {
-          "nome": "SR • Giovanelli",
-          "tag": "#PJ0YJLGJ",
+          "nome": "marinaul war",
+          "tag": "#8GGCQPYP",
           "th": 18,
           "pos": 1,
           "ataques": [],
@@ -390,8 +293,8 @@
           "defesas": []
         },
         {
-          "nome": "SrNunes",
-          "tag": "#2LY8G8Y9",
+          "nome": "Henrique Nerath",
+          "tag": "#2U8P0YQ92",
           "th": 18,
           "pos": 2,
           "ataques": [],
@@ -400,8 +303,8 @@
           "defesas": []
         },
         {
-          "nome": "tozim",
-          "tag": "#9G22U9U2Y",
+          "nome": "Jan",
+          "tag": "#2899CRJG",
           "th": 18,
           "pos": 3,
           "ataques": [],
@@ -410,18 +313,8 @@
           "defesas": []
         },
         {
-          "nome": "Renan",
-          "tag": "#QLRGC8GQ",
-          "th": 18,
-          "pos": 4,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
-        },
-        {
-          "nome": "Sene",
-          "tag": "#8JQJYQC",
+          "nome": "SR • InTheDark☆",
+          "tag": "#PQRRG2YCP",
           "th": 18,
           "pos": 5,
           "ataques": [],
@@ -430,8 +323,8 @@
           "defesas": []
         },
         {
-          "nome": "GSAzevedo30",
-          "tag": "#CJLVVL9L",
+          "nome": "SR • JON SNOW",
+          "tag": "#LYV2J2LU",
           "th": 18,
           "pos": 6,
           "ataques": [],
@@ -440,18 +333,18 @@
           "defesas": []
         },
         {
-          "nome": "KingMpg",
-          "tag": "#22YJPYPCJ",
+          "nome": "Coyote 171 × 戦備",
+          "tag": "#Y08CR0PQU",
           "th": 18,
-          "pos": 7,
+          "pos": 8,
           "ataques": [],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
         },
         {
-          "nome": "Monesy9",
-          "tag": "#LJRPJ9PC0",
+          "nome": "SR • C∆iç∆r∆",
+          "tag": "#GL0PRCU9L",
           "th": 18,
           "pos": 9,
           "ataques": [],
@@ -460,8 +353,8 @@
           "defesas": []
         },
         {
-          "nome": "MAJ0R FiV3",
-          "tag": "#QRJL0RGQR",
+          "nome": "Psico 2k25",
+          "tag": "#Q2UJJ89VG",
           "th": 18,
           "pos": 10,
           "ataques": [],
@@ -470,8 +363,8 @@
           "defesas": []
         },
         {
-          "nome": "TomorrowBr",
-          "tag": "#YPJLVPL9U",
+          "nome": "MAJ0R FiV3",
+          "tag": "#LCR9YQGYY",
           "th": 18,
           "pos": 11,
           "ataques": [],
@@ -480,8 +373,8 @@
           "defesas": []
         },
         {
-          "nome": "Monesy",
-          "tag": "#2YGJQG22G",
+          "nome": "Nesk",
+          "tag": "#99220V0Q8",
           "th": 18,
           "pos": 12,
           "ataques": [],
@@ -490,8 +383,8 @@
           "defesas": []
         },
         {
-          "nome": "SR • Dog Crazy",
-          "tag": "#9LPJP9YPQ",
+          "nome": "SR • Neskau",
+          "tag": "#P8GLGPRP",
           "th": 18,
           "pos": 13,
           "ataques": [],
@@ -500,8 +393,18 @@
           "defesas": []
         },
         {
-          "nome": "Ligeirinh0xD",
-          "tag": "#GRR2G9LP0",
+          "nome": "☆VILA DO PX ツ",
+          "tag": "#8PUL8JPC",
+          "th": 18,
+          "pos": 14,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "Levi_Neiva 2",
+          "tag": "#90GRYGJVP",
           "th": 18,
           "pos": 15,
           "ataques": [],
@@ -510,8 +413,8 @@
           "defesas": []
         },
         {
-          "nome": "Darth Revan",
-          "tag": "#8R280VRCQ",
+          "nome": "SR•GOD kratos",
+          "tag": "#LUJ9CRJQG",
           "th": 18,
           "pos": 16,
           "ataques": [],
@@ -520,8 +423,8 @@
           "defesas": []
         },
         {
-          "nome": "SR • Nesquick",
-          "tag": "#YCRJU229",
+          "nome": "matias?",
+          "tag": "#RCQQUGC9",
           "th": 18,
           "pos": 17,
           "ataques": [],
@@ -531,9 +434,20 @@
         }
       ]
     },
-    "liga": "Champion League III",
-    "mult": 0.94,
+    "liga": "Titan League II",
+    "mult": 1.04,
     "season": "2026-11"
+  },
+  {
+    "num": 2,
+    "nome": "RezaSpamandu",
+    "tag": "#2R9CC2P02",
+    "elenco": [],
+    "rodadas": [],
+    "atual": null,
+    "liga": null,
+    "mult": 0.85,
+    "erro": "leaguegroup status 525"
   },
   {
     "num": 3,
@@ -1410,8 +1324,8 @@
         }
       ]
     },
-    "liga": "Master League I",
-    "mult": 0.93,
+    "liga": null,
+    "mult": 0.85,
     "season": "2026-11"
   },
   {
@@ -1435,6 +1349,6 @@
     "atual": null,
     "liga": null,
     "mult": 0.85,
-    "erro": "leaguegroup status 404"
+    "erro": "leaguegroup status 525"
   }
 ]
