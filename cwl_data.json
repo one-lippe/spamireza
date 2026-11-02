@@ -6,9 +6,9 @@
     "elenco": [],
     "rodadas": [],
     "atual": null,
-    "liga": null,
-    "mult": 0.85,
-    "erro": "leaguegroup status 500"
+    "liga": "Titan League II",
+    "mult": 1.04,
+    "season": null
   },
   {
     "num": 2,
