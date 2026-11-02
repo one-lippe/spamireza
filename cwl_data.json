@@ -434,8 +434,8 @@
         }
       ]
     },
-    "liga": "Titan League II",
-    "mult": 1.04,
+    "liga": null,
+    "mult": 0.85,
     "season": "2026-11"
   },
   {
