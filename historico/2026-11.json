@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T04:00:20.617629Z",
+  "atualizado": "2026-11-03T04:10:19.325106Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -458,6 +458,25 @@
           "zona": "—"
         },
         {
+          "n": "Samuel Soares",
+          "tag": "#9V2L9J9JP",
+          "th": 18,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "seg": 1,
+          "idx": 63.5,
+          "idxb": 63.5,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "100%War_⚡Slash⚡",
           "tag": "#8PURGU2YG",
           "th": 18,
@@ -473,7 +492,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -492,7 +511,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -511,7 +530,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -530,12 +549,12 @@
           "idxb": 12.4,
           "amostra": 0,
           "mvp": 2,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
-          "n": "Samuel Soares",
-          "tag": "#9V2L9J9JP",
+          "n": "LSWRTH",
+          "tag": "#YVU0L88P",
           "th": 18,
           "atk": 0,
           "est": 0,
@@ -549,7 +568,7 @@
           "idxb": 6.2,
           "amostra": 0,
           "mvp": 1,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -563,25 +582,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 14,
-          "zona": "—"
-        },
-        {
-          "n": "LSWRTH",
-          "tag": "#YVU0L88P",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,

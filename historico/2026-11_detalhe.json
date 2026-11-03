@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T04:00:20.618706Z",
+  "atualizado": "2026-11-03T04:10:19.325811Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -156,7 +156,7 @@
               "tag": "#YVU0L88P",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "PaiDeFamilia",
@@ -221,7 +221,9 @@
               "nome": "Samuel Soares",
               "tag": "#9V2L9J9JP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
