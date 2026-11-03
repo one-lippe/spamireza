@@ -1221,14 +1221,14 @@
         "inicio": "20261103T220153.000Z",
         "fim": "20261104T220153.000Z",
         "nos": {
-          "est": 0,
-          "destr": 0.0,
-          "atk": 0
-        },
-        "eles": {
           "est": 3,
           "destr": 6.666666666666667,
           "atk": 1
+        },
+        "eles": {
+          "est": 5,
+          "destr": 12.533333333333333,
+          "atk": 2
         },
         "membros": [
           {
@@ -1312,9 +1312,14 @@
             "th": 18,
             "pos": 8,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 88,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 88
+              }
+            ]
           },
           {
             "nome": "Monesy9",
@@ -1331,7 +1336,12 @@
             "tag": "#QRJL0RGQR",
             "th": 18,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1569,14 +1579,14 @@
       "inicio": "20261103T220153.000Z",
       "fim": "20261104T220153.000Z",
       "nos": {
-        "est": 0,
-        "destr": 0.0,
-        "atk": 0
-      },
-      "eles": {
         "est": 3,
         "destr": 6.666666666666667,
         "atk": 1
+      },
+      "eles": {
+        "est": 5,
+        "destr": 12.533333333333333,
+        "atk": 2
       },
       "membros": [
         {
@@ -1660,9 +1670,14 @@
           "th": 18,
           "pos": 8,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 88,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 88
+            }
+          ]
         },
         {
           "nome": "Monesy9",
@@ -1679,7 +1694,12 @@
           "tag": "#QRJL0RGQR",
           "th": 18,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
