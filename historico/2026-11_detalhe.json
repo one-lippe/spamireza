@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T16:40:26.608898Z",
+  "atualizado": "2026-11-03T16:50:21.420007Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -17,7 +17,7 @@
               "tag": "#8GGCQPYP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "Henrique Nerath",
@@ -52,7 +52,7 @@
               "tag": "#LYV2J2LU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Coyote 171 × 戦備",
@@ -72,7 +72,9 @@
               "nome": "MAJ0R FiV3",
               "tag": "#LCR9YQGYY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {

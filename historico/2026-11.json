@@ -1,12 +1,31 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T16:40:26.607435Z",
+  "atualizado": "2026-11-03T16:50:21.418516Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
       "liga": "Titan League II",
-      "mode": "esc",
+      "mode": "rank",
       "rank": [
+        {
+          "n": "MAJ0R FiV3",
+          "tag": "#LCR9YQGYY",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "seg": 0,
+          "idx": 104.0,
+          "idxb": 104.0,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 1,
+          "zona": "—"
+        },
         {
           "n": "marinaul war",
           "tag": "#8GGCQPYP",
@@ -15,15 +34,15 @@
           "est": 0,
           "spa": 0,
           "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 100,
-          "mvp": 0,
-          "pos": 1,
+          "def": 67,
+          "sof": 1.0,
+          "ndef": 1,
+          "seg": 1,
+          "idx": 13.9,
+          "idxb": 13.9,
+          "amostra": 0,
+          "mvp": 2,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -40,9 +59,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -59,9 +78,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -78,9 +97,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -97,9 +116,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -110,15 +129,15 @@
           "est": 0,
           "spa": 0,
           "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -135,9 +154,9 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -154,26 +173,7 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
-          "mvp": 0,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "MAJ0R FiV3",
-          "tag": "#LCR9YQGYY",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
           "pos": 9,
           "zona": "—"
@@ -192,7 +192,7 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
           "pos": 10,
           "zona": "—"
@@ -211,7 +211,7 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
           "pos": 11,
           "zona": "—"
@@ -230,7 +230,7 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
           "pos": 12,
           "zona": "—"
@@ -249,7 +249,7 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
           "pos": 13,
           "zona": "—"
@@ -268,7 +268,7 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
           "pos": 14,
           "zona": "—"
@@ -287,7 +287,7 @@
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
-          "amostra": 100,
+          "amostra": 0,
           "mvp": 0,
           "pos": 15,
           "zona": "—"
