@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T20:20:32.456379Z",
+  "atualizado": "2026-11-03T20:30:36.170599Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -319,25 +319,6 @@
           "zona": "—"
         },
         {
-          "n": "Monesy9",
-          "tag": "#LJRPJ9PC0",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 94.0,
-          "idxb": 94.0,
-          "amostra": 100,
-          "mvp": 3,
-          "pos": 2,
-          "zona": "—"
-        },
-        {
           "n": "SrNunes",
           "tag": "#2LY8G8Y9",
           "th": 18,
@@ -353,7 +334,7 @@
           "idxb": 81.5,
           "amostra": 100,
           "mvp": 4,
-          "pos": 3,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -372,7 +353,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 4,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -391,7 +372,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 5,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -410,7 +391,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 6,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -429,12 +410,31 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 7,
+          "pos": 6,
           "zona": "—"
         },
         {
           "n": "KingMpg",
           "tag": "#22YJPYPCJ",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 75.2,
+          "idxb": 75.2,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
+          "n": "Monesy9",
+          "tag": "#LJRPJ9PC0",
           "th": 18,
           "atk": 1,
           "est": 3,
