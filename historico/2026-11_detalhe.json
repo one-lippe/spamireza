@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T04:40:20.857245Z",
+  "atualizado": "2026-11-03T04:50:16.547299Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -298,7 +298,7 @@
               "tag": "#PCGCJRLRJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Meliodas NNT",
