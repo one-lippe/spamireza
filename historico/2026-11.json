@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T03:00:24.702855Z",
+  "atualizado": "2026-11-03T03:10:18.200854Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -10,7 +10,7 @@
     },
     "2": {
       "nome": "RezaSpamandu",
-      "liga": null,
+      "liga": "Champion League III",
       "mode": "rank",
       "rank": [
         {
@@ -25,8 +25,8 @@
           "sof": null,
           "ndef": 0,
           "seg": 0,
-          "idx": 85.0,
-          "idxb": 85.0,
+          "idx": 94.0,
+          "idxb": 94.0,
           "amostra": 100,
           "mvp": 3,
           "pos": 1,
@@ -44,8 +44,8 @@
           "sof": null,
           "ndef": 0,
           "seg": 0,
-          "idx": 85.0,
-          "idxb": 85.0,
+          "idx": 94.0,
+          "idxb": 94.0,
           "amostra": 100,
           "mvp": 3,
           "pos": 2,
@@ -63,8 +63,8 @@
           "sof": 3.0,
           "ndef": 1,
           "seg": 0,
-          "idx": 68.0,
-          "idxb": 68.0,
+          "idx": 75.2,
+          "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
           "pos": 3,
@@ -82,8 +82,8 @@
           "sof": 2.0,
           "ndef": 1,
           "seg": 1,
-          "idx": 5.7,
-          "idxb": 5.7,
+          "idx": 6.3,
+          "idxb": 6.3,
           "amostra": 0,
           "mvp": 1,
           "pos": 4,
