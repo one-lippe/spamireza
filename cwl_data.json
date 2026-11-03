@@ -539,9 +539,9 @@
         "inicio": "20261102T214915.000Z",
         "fim": "20261103T214915.000Z",
         "nos": {
-          "est": 33,
-          "destr": 73.33333333333333,
-          "atk": 11
+          "est": 35,
+          "destr": 79.0,
+          "atk": 12
         },
         "eles": {
           "est": 29,
@@ -779,7 +779,12 @@
             "tag": "#8R280VRCQ",
             "th": 18,
             "pos": 16,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 85
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -987,9 +992,9 @@
       "inicio": "20261102T214915.000Z",
       "fim": "20261103T214915.000Z",
       "nos": {
-        "est": 33,
-        "destr": 73.33333333333333,
-        "atk": 11
+        "est": 35,
+        "destr": 79.0,
+        "atk": 12
       },
       "eles": {
         "est": 29,
@@ -1227,7 +1232,12 @@
           "tag": "#8R280VRCQ",
           "th": 18,
           "pos": 16,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 85
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
