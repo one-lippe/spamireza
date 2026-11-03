@@ -105,9 +105,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 19,
-          "destr": 45.86666666666667,
-          "atk": 7
+          "est": 22,
+          "destr": 52.53333333333333,
+          "atk": 8
         },
         "membros": [
           {
@@ -201,9 +201,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Psico 2k25",
@@ -513,9 +518,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 19,
-        "destr": 45.86666666666667,
-        "atk": 7
+        "est": 22,
+        "destr": 52.53333333333333,
+        "atk": 8
       },
       "membros": [
         {
@@ -609,9 +614,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Psico 2k25",
@@ -1845,9 +1855,9 @@
           "atk": 24
         },
         "eles": {
-          "est": 70,
-          "destr": 83.5,
-          "atk": 26
+          "est": 73,
+          "destr": 86.83333333333333,
+          "atk": 27
         },
         "membros": [
           {
@@ -2151,9 +2161,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "F4KER",
@@ -2738,9 +2753,9 @@
         "atk": 24
       },
       "eles": {
-        "est": 70,
-        "destr": 83.5,
-        "atk": 26
+        "est": 73,
+        "destr": 86.83333333333333,
+        "atk": 27
       },
       "membros": [
         {
@@ -3044,9 +3059,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "F4KER",
