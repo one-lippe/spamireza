@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T01:40:17.428633Z",
+  "atualizado": "2026-11-03T01:50:15.064808Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -306,7 +306,7 @@
               "tag": "#L9GRLYGVQ",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Jan™",
@@ -358,7 +358,9 @@
               "nome": "GSAzevedo30 #2",
               "tag": "#29882J2L2",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
