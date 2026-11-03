@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T11:10:17.358995Z",
+  "atualizado": "2026-11-03T11:20:17.177097Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -39,7 +39,9 @@
               "nome": "tozim",
               "tag": "#9G22U9U2Y",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -111,7 +113,7 @@
               "tag": "#9LPJP9YPQ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ligeirinh0xD",
