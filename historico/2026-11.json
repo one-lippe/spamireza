@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T02:30:29.615356Z",
+  "atualizado": "2026-11-03T02:40:18.535722Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -344,25 +344,6 @@
           "zona": "—"
         },
         {
-          "n": "Meliodas NNT",
-          "tag": "#2PLQG8UQU",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 93.0,
-          "idxb": 93.0,
-          "amostra": 100,
-          "mvp": 3,
-          "pos": 3,
-          "zona": "—"
-        },
-        {
           "n": "Royther13",
           "tag": "#22LUL8GV9",
           "th": 18,
@@ -378,6 +359,25 @@
           "idxb": 80.6,
           "amostra": 100,
           "mvp": 4,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
+          "n": "Meliodas NNT",
+          "tag": "#2PLQG8UQU",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 74.4,
+          "idxb": 74.4,
+          "amostra": 100,
+          "mvp": 3,
           "pos": 4,
           "zona": "—"
         },
