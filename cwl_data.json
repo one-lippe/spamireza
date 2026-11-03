@@ -1494,9 +1494,9 @@
           "atk": 17
         },
         "eles": {
-          "est": 57,
-          "destr": 67.83333333333333,
-          "atk": 21
+          "est": 59,
+          "destr": 70.3,
+          "atk": 22
         },
         "membros": [
           {
@@ -1585,9 +1585,14 @@
                 "destr": 97
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 74,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 74
+              }
+            ]
           },
           {
             "nome": "100%War_⚡Slash⚡",
@@ -2327,9 +2332,9 @@
         "atk": 17
       },
       "eles": {
-        "est": 57,
-        "destr": 67.83333333333333,
-        "atk": 21
+        "est": 59,
+        "destr": 70.3,
+        "atk": 22
       },
       "membros": [
         {
@@ -2418,9 +2423,14 @@
               "destr": 97
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 74,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 74
+            }
+          ]
         },
         {
           "nome": "100%War_⚡Slash⚡",
