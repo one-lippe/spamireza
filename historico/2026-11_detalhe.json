@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T17:20:28.213421Z",
+  "atualizado": "2026-11-03T17:30:27.137610Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -90,7 +90,9 @@
               "nome": "SR • Neskau",
               "tag": "#P8GLGPRP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -255,7 +257,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Nesquick",

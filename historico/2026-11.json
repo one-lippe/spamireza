@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T17:20:28.212264Z",
+  "atualizado": "2026-11-03T17:30:27.136184Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -46,6 +46,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • Neskau",
+          "tag": "#P8GLGPRP",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "seg": 0,
+          "idx": 104.0,
+          "idxb": 104.0,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
           "n": "☆VILA DO PX ツ",
           "tag": "#8PUL8JPC",
           "th": 18,
@@ -61,7 +80,7 @@
           "idxb": 80.2,
           "amostra": 100,
           "mvp": 2,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -80,7 +99,7 @@
           "idxb": 13.9,
           "amostra": 0,
           "mvp": 2,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -99,7 +118,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -118,7 +137,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -137,7 +156,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -156,7 +175,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -175,7 +194,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -194,31 +213,12 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
           "n": "Nesk",
           "tag": "#99220V0Q8",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Neskau",
-          "tag": "#P8GLGPRP",
           "th": 18,
           "atk": 0,
           "est": 0,
@@ -516,12 +516,12 @@
           "est": 2,
           "spa": 2.0,
           "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
           "seg": 0,
-          "idx": 72.5,
-          "idxb": 72.5,
+          "idx": 58.0,
+          "idxb": 58.0,
           "amostra": 100,
           "mvp": 2,
           "pos": 12,
