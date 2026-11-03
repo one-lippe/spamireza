@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T14:10:20.457170Z",
+  "atualizado": "2026-11-03T14:20:19.167923Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -648,6 +648,25 @@
           "zona": "—"
         },
         {
+          "n": "NoBlitzz",
+          "tag": "#9RJGGUY9R",
+          "th": 18,
+          "atk": 1,
+          "est": 1,
+          "spa": 1.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "seg": 0,
+          "idx": 50.4,
+          "idxb": 50.4,
+          "amostra": 100,
+          "mvp": 1,
+          "pos": 19,
+          "zona": "—"
+        },
+        {
           "n": "Lider Andre",
           "tag": "#20UUPGPCV",
           "th": 18,
@@ -663,25 +682,6 @@
           "idxb": 12.4,
           "amostra": 0,
           "mvp": 2,
-          "pos": 19,
-          "zona": "—"
-        },
-        {
-          "n": "NoBlitzz",
-          "tag": "#9RJGGUY9R",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
           "pos": 20,
           "zona": "—"
         },
