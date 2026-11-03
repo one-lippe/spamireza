@@ -100,9 +100,9 @@
         "inicio": "20261103T163807.000Z",
         "fim": "20261104T163807.000Z",
         "nos": {
-          "est": 11,
-          "destr": 25.133333333333333,
-          "atk": 4
+          "est": 14,
+          "destr": 31.8,
+          "atk": 5
         },
         "eles": {
           "est": 7,
@@ -230,7 +230,12 @@
             "tag": "#99220V0Q8",
             "th": 18,
             "pos": 12,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -478,9 +483,9 @@
       "inicio": "20261103T163807.000Z",
       "fim": "20261104T163807.000Z",
       "nos": {
-        "est": 11,
-        "destr": 25.133333333333333,
-        "atk": 4
+        "est": 14,
+        "destr": 31.8,
+        "atk": 5
       },
       "eles": {
         "est": 7,
@@ -608,7 +613,12 @@
           "tag": "#99220V0Q8",
           "th": 18,
           "pos": 12,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -1765,9 +1775,9 @@
           "atk": 24
         },
         "eles": {
-          "est": 68,
-          "destr": 80.3,
-          "atk": 25
+          "est": 70,
+          "destr": 83.5,
+          "atk": 26
         },
         "membros": [
           {
@@ -2216,9 +2226,14 @@
             "th": 17,
             "pos": 27,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 96,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 96
+              }
+            ]
           },
           {
             "nome": "SR • Eduhh",
@@ -2653,9 +2668,9 @@
         "atk": 24
       },
       "eles": {
-        "est": 68,
-        "destr": 80.3,
-        "atk": 25
+        "est": 70,
+        "destr": 83.5,
+        "atk": 26
       },
       "membros": [
         {
@@ -3104,9 +3119,14 @@
           "th": 17,
           "pos": 27,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 96,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 96
+            }
+          ]
         },
         {
           "nome": "SR • Eduhh",

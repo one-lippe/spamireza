@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T17:30:27.136184Z",
+  "atualizado": "2026-11-03T17:40:20.843246Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -46,6 +46,25 @@
           "zona": "—"
         },
         {
+          "n": "Nesk",
+          "tag": "#99220V0Q8",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "seg": 0,
+          "idx": 104.0,
+          "idxb": 104.0,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
           "n": "SR • Neskau",
           "tag": "#P8GLGPRP",
           "th": 18,
@@ -61,7 +80,7 @@
           "idxb": 104.0,
           "amostra": 100,
           "mvp": 3,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -80,7 +99,7 @@
           "idxb": 80.2,
           "amostra": 100,
           "mvp": 2,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -99,7 +118,7 @@
           "idxb": 13.9,
           "amostra": 0,
           "mvp": 2,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -118,7 +137,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -137,7 +156,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -156,7 +175,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -175,7 +194,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -194,31 +213,12 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
           "n": "Psico 2k25",
           "tag": "#Q2UJJ89VG",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "Nesk",
-          "tag": "#99220V0Q8",
           "th": 18,
           "atk": 0,
           "est": 0,
@@ -1048,6 +1048,25 @@
           "zona": "—"
         },
         {
+          "n": "PaulinhoPH",
+          "tag": "#GVLGQ098",
+          "th": 17,
+          "atk": 0,
+          "est": 0,
+          "spa": 0,
+          "conf": 0,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "seg": 1,
+          "idx": 6.2,
+          "idxb": 6.2,
+          "amostra": 0,
+          "mvp": 1,
+          "pos": 25,
+          "zona": "—"
+        },
+        {
           "n": "rei do crime",
           "tag": "#RP8VCCUV",
           "th": 18,
@@ -1063,7 +1082,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 25,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -1082,7 +1101,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 26,
+          "pos": 27,
           "zona": "—"
         },
         {
@@ -1101,7 +1120,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 27,
+          "pos": 28,
           "zona": "—"
         },
         {
@@ -1115,25 +1134,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 28,
-          "zona": "—"
-        },
-        {
-          "n": "PaulinhoPH",
-          "tag": "#GVLGQ098",
-          "th": 17,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
