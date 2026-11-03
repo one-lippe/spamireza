@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T00:10:19.894384Z",
+  "atualizado": "2026-11-03T00:20:19.720657Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -306,6 +306,25 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "PaiDeFamilia",
+          "tag": "#2GCJ8QC92",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "seg": 0,
+          "idx": 93.0,
+          "idxb": 93.0,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 1,
+          "zona": "—"
+        },
+        {
           "n": "Royther13",
           "tag": "#22LUL8GV9",
           "th": 18,
@@ -321,7 +340,7 @@
           "idxb": 93.0,
           "amostra": 100,
           "mvp": 3,
-          "pos": 1,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -340,7 +359,7 @@
           "idxb": 93.0,
           "amostra": 100,
           "mvp": 3,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -359,7 +378,7 @@
           "idxb": 93.0,
           "amostra": 100,
           "mvp": 3,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -378,7 +397,7 @@
           "idxb": 71.7,
           "amostra": 100,
           "mvp": 2,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -397,7 +416,7 @@
           "idxb": 71.7,
           "amostra": 100,
           "mvp": 2,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -416,7 +435,7 @@
           "idxb": 71.7,
           "amostra": 100,
           "mvp": 2,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -435,7 +454,7 @@
           "idxb": 6.2,
           "amostra": 0,
           "mvp": 1,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -454,31 +473,12 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
           "n": "LSWRTH",
           "tag": "#YVU0L88P",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 9,
-          "zona": "—"
-        },
-        {
-          "n": "PaiDeFamilia",
-          "tag": "#2GCJ8QC92",
           "th": 18,
           "atk": 0,
           "est": 0,
