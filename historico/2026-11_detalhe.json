@@ -1,10 +1,10 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T06:50:27.582533Z",
+  "atualizado": "2026-11-03T07:00:22.003868Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
-      "liga": null,
+      "liga": "Titan League II",
       "guerras": []
     },
     "2": {
@@ -28,7 +28,9 @@
               "nome": "SrNunes",
               "tag": "#2LY8G8Y9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -136,7 +138,7 @@
     },
     "3": {
       "nome": "ScamiReza",
-      "liga": null,
+      "liga": "Master League I",
       "guerras": [
         {
           "g": 1,

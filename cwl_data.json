@@ -3,12 +3,440 @@
     "num": 1,
     "nome": "SpamiReza",
     "tag": "#2J90U9GYP",
-    "elenco": [],
-    "rodadas": [],
-    "atual": null,
-    "liga": null,
-    "mult": 0.85,
-    "erro": "leaguegroup status 500"
+    "elenco": [
+      {
+        "nome": "Psico 2k25",
+        "tag": "#Q2UJJ89VG",
+        "th": 18
+      },
+      {
+        "nome": "Coyote 171 × 戦備",
+        "tag": "#Y08CR0PQU",
+        "th": 18
+      },
+      {
+        "nome": "SR • Neskau",
+        "tag": "#P8GLGPRP",
+        "th": 18
+      },
+      {
+        "nome": "Nesk",
+        "tag": "#99220V0Q8",
+        "th": 18
+      },
+      {
+        "nome": "SR - JON SNOW 2",
+        "tag": "#9VV909C89",
+        "th": 18
+      },
+      {
+        "nome": "SR • InTheDark☆",
+        "tag": "#PQRRG2YCP",
+        "th": 18
+      },
+      {
+        "nome": "Levi_Neiva 2",
+        "tag": "#90GRYGJVP",
+        "th": 18
+      },
+      {
+        "nome": "SR • Dog Apollo",
+        "tag": "#YJ9R2GPJG",
+        "th": 18
+      },
+      {
+        "nome": "Henrique Nerath",
+        "tag": "#2U8P0YQ92",
+        "th": 18
+      },
+      {
+        "nome": "matias?",
+        "tag": "#RCQQUGC9",
+        "th": 18
+      },
+      {
+        "nome": "SR • JON SNOW",
+        "tag": "#LYV2J2LU",
+        "th": 18
+      },
+      {
+        "nome": "MAJ0R FiV3",
+        "tag": "#LCR9YQGYY",
+        "th": 18
+      },
+      {
+        "nome": "marinaul war",
+        "tag": "#8GGCQPYP",
+        "th": 18
+      },
+      {
+        "nome": "SR•GOD kratos",
+        "tag": "#LUJ9CRJQG",
+        "th": 18
+      },
+      {
+        "nome": "☆VILA DO PX ツ",
+        "tag": "#8PUL8JPC",
+        "th": 18
+      },
+      {
+        "nome": "SR • C∆iç∆r∆",
+        "tag": "#GL0PRCU9L",
+        "th": 18
+      },
+      {
+        "nome": "Jan",
+        "tag": "#2899CRJG",
+        "th": 18
+      }
+    ],
+    "rodadas": [
+      {
+        "warTag": "#8RUJPQ0UR",
+        "state": "preparation",
+        "teamSize": 15,
+        "adversario": "W@R HERO",
+        "prep": "20261102T163810.000Z",
+        "inicio": "20261103T163807.000Z",
+        "fim": "20261104T163807.000Z",
+        "nos": {
+          "est": 0,
+          "destr": 0.0,
+          "atk": 0
+        },
+        "eles": {
+          "est": 0,
+          "destr": 0.0,
+          "atk": 0
+        },
+        "membros": [
+          {
+            "nome": "marinaul war",
+            "tag": "#8GGCQPYP",
+            "th": 18,
+            "pos": 1,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Henrique Nerath",
+            "tag": "#2U8P0YQ92",
+            "th": 18,
+            "pos": 2,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Jan",
+            "tag": "#2899CRJG",
+            "th": 18,
+            "pos": 3,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR • Dog Apollo",
+            "tag": "#YJ9R2GPJG",
+            "th": 18,
+            "pos": 4,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR • InTheDark☆",
+            "tag": "#PQRRG2YCP",
+            "th": 18,
+            "pos": 5,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR • JON SNOW",
+            "tag": "#LYV2J2LU",
+            "th": 18,
+            "pos": 6,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Coyote 171 × 戦備",
+            "tag": "#Y08CR0PQU",
+            "th": 18,
+            "pos": 8,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Psico 2k25",
+            "tag": "#Q2UJJ89VG",
+            "th": 18,
+            "pos": 10,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "MAJ0R FiV3",
+            "tag": "#LCR9YQGYY",
+            "th": 18,
+            "pos": 11,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Nesk",
+            "tag": "#99220V0Q8",
+            "th": 18,
+            "pos": 12,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR • Neskau",
+            "tag": "#P8GLGPRP",
+            "th": 18,
+            "pos": 13,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "☆VILA DO PX ツ",
+            "tag": "#8PUL8JPC",
+            "th": 18,
+            "pos": 14,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Levi_Neiva 2",
+            "tag": "#90GRYGJVP",
+            "th": 18,
+            "pos": 15,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR•GOD kratos",
+            "tag": "#LUJ9CRJQG",
+            "th": 18,
+            "pos": 16,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "matias?",
+            "tag": "#RCQQUGC9",
+            "th": 18,
+            "pos": 17,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          }
+        ]
+      }
+    ],
+    "atual": {
+      "warTag": "#8RUJPQ0UR",
+      "state": "preparation",
+      "teamSize": 15,
+      "adversario": "W@R HERO",
+      "prep": "20261102T163810.000Z",
+      "inicio": "20261103T163807.000Z",
+      "fim": "20261104T163807.000Z",
+      "nos": {
+        "est": 0,
+        "destr": 0.0,
+        "atk": 0
+      },
+      "eles": {
+        "est": 0,
+        "destr": 0.0,
+        "atk": 0
+      },
+      "membros": [
+        {
+          "nome": "marinaul war",
+          "tag": "#8GGCQPYP",
+          "th": 18,
+          "pos": 1,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "Henrique Nerath",
+          "tag": "#2U8P0YQ92",
+          "th": 18,
+          "pos": 2,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "Jan",
+          "tag": "#2899CRJG",
+          "th": 18,
+          "pos": 3,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "SR • Dog Apollo",
+          "tag": "#YJ9R2GPJG",
+          "th": 18,
+          "pos": 4,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "SR • InTheDark☆",
+          "tag": "#PQRRG2YCP",
+          "th": 18,
+          "pos": 5,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "SR • JON SNOW",
+          "tag": "#LYV2J2LU",
+          "th": 18,
+          "pos": 6,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "Coyote 171 × 戦備",
+          "tag": "#Y08CR0PQU",
+          "th": 18,
+          "pos": 8,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "Psico 2k25",
+          "tag": "#Q2UJJ89VG",
+          "th": 18,
+          "pos": 10,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "MAJ0R FiV3",
+          "tag": "#LCR9YQGYY",
+          "th": 18,
+          "pos": 11,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "Nesk",
+          "tag": "#99220V0Q8",
+          "th": 18,
+          "pos": 12,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "SR • Neskau",
+          "tag": "#P8GLGPRP",
+          "th": 18,
+          "pos": 13,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "☆VILA DO PX ツ",
+          "tag": "#8PUL8JPC",
+          "th": 18,
+          "pos": 14,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "Levi_Neiva 2",
+          "tag": "#90GRYGJVP",
+          "th": 18,
+          "pos": 15,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "SR•GOD kratos",
+          "tag": "#LUJ9CRJQG",
+          "th": 18,
+          "pos": 16,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
+          "nome": "matias?",
+          "tag": "#RCQQUGC9",
+          "th": 18,
+          "pos": 17,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        }
+      ]
+    },
+    "liga": "Titan League II",
+    "mult": 1.04,
+    "season": "2026-11"
   },
   {
     "num": 2,
@@ -111,9 +539,9 @@
         "inicio": "20261102T214915.000Z",
         "fim": "20261103T214915.000Z",
         "nos": {
-          "est": 12,
-          "destr": 26.666666666666668,
-          "atk": 4
+          "est": 15,
+          "destr": 33.333333333333336,
+          "atk": 5
         },
         "eles": {
           "est": 11,
@@ -136,7 +564,12 @@
             "tag": "#2LY8G8Y9",
             "th": 18,
             "pos": 2,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 72,
             "defesas": [
@@ -494,9 +927,9 @@
       "inicio": "20261102T214915.000Z",
       "fim": "20261103T214915.000Z",
       "nos": {
-        "est": 12,
-        "destr": 26.666666666666668,
-        "atk": 4
+        "est": 15,
+        "destr": 33.333333333333336,
+        "atk": 5
       },
       "eles": {
         "est": 11,
@@ -519,7 +952,12 @@
           "tag": "#2LY8G8Y9",
           "th": 18,
           "pos": 2,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 72,
           "defesas": [
@@ -2216,8 +2654,8 @@
         }
       ]
     },
-    "liga": null,
-    "mult": 0.85,
+    "liga": "Master League I",
+    "mult": 0.93,
     "season": "2026-11"
   },
   {
@@ -2241,6 +2679,6 @@
     "atual": null,
     "liga": null,
     "mult": 0.85,
-    "erro": "leaguegroup status 520"
+    "erro": "leaguegroup status 404"
   }
 ]
