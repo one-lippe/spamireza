@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T23:41:21.921760Z",
+  "atualizado": "2026-11-03T23:50:21.547489Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -323,7 +323,9 @@
               "nome": "Renan",
               "tag": "#QLRGC8GQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -801,7 +803,9 @@
               "nome": "SR • The off",
               "tag": "#YJ2JLPQGR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
