@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T21:50:25.074383Z",
+  "atualizado": "2026-11-03T22:00:34.154366Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -132,7 +132,9 @@
               "nome": "matias?",
               "tag": "#RCQQUGC9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             }
           ]
@@ -146,7 +148,7 @@
         {
           "g": 1,
           "vs": "PL CWL/WARS",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
