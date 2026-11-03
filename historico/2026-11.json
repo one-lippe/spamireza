@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T08:00:23.049056Z",
+  "atualizado": "2026-11-03T08:10:16.601382Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -477,25 +477,6 @@
           "zona": "—"
         },
         {
-          "n": "Ghostface",
-          "tag": "#QQUC9JQ9R",
-          "th": 17,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 71.7,
-          "idxb": 71.7,
-          "amostra": 100,
-          "mvp": 2,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
           "n": "Samuel Soares",
           "tag": "#9V2L9J9JP",
           "th": 18,
@@ -511,7 +492,7 @@
           "idxb": 63.5,
           "amostra": 100,
           "mvp": 3,
-          "pos": 11,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -530,13 +511,32 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 12,
+          "pos": 11,
           "zona": "—"
         },
         {
           "n": "Reikan",
           "tag": "#GJYRCJ0PR",
           "th": 18,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 57.4,
+          "idxb": 57.4,
+          "amostra": 100,
+          "mvp": 2,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
+          "n": "Ghostface",
+          "tag": "#QQUC9JQ9R",
+          "th": 17,
           "atk": 1,
           "est": 2,
           "spa": 2.0,

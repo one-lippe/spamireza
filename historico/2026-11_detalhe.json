@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T08:00:23.049976Z",
+  "atualizado": "2026-11-03T08:10:16.602527Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -359,7 +359,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • JotaErre",
