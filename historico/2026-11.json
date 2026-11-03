@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T11:24:35.769113Z",
+  "atualizado": "2026-11-03T11:30:26.527684Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -13,25 +13,6 @@
       "liga": "Champion League III",
       "mode": "rank",
       "rank": [
-        {
-          "n": "KingMpg",
-          "tag": "#22YJPYPCJ",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 94.0,
-          "idxb": 94.0,
-          "amostra": 100,
-          "mvp": 3,
-          "pos": 1,
-          "zona": "—"
-        },
         {
           "n": "MAJ0R FiV3",
           "tag": "#QRJL0RGQR",
@@ -48,7 +29,7 @@
           "idxb": 94.0,
           "amostra": 100,
           "mvp": 3,
-          "pos": 2,
+          "pos": 1,
           "zona": "—"
         },
         {
@@ -67,7 +48,7 @@
           "idxb": 94.0,
           "amostra": 100,
           "mvp": 3,
-          "pos": 3,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -86,7 +67,7 @@
           "idxb": 81.5,
           "amostra": 100,
           "mvp": 4,
-          "pos": 4,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -105,7 +86,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 5,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -124,12 +105,31 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 6,
+          "pos": 5,
           "zona": "—"
         },
         {
           "n": "GSAzevedo30",
           "tag": "#CJLVVL9L",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 75.2,
+          "idxb": 75.2,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
+          "n": "KingMpg",
+          "tag": "#22YJPYPCJ",
           "th": 18,
           "atk": 1,
           "est": 3,
