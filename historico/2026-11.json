@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T10:20:17.096209Z",
+  "atualizado": "2026-11-03T10:30:19.676009Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -306,25 +306,6 @@
       "mode": "rank",
       "rank": [
         {
-          "n": "PaiDeFamilia",
-          "tag": "#2GCJ8QC92",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 93.0,
-          "idxb": 93.0,
-          "amostra": 100,
-          "mvp": 3,
-          "pos": 1,
-          "zona": "—"
-        },
-        {
           "n": "Sra Nunes",
           "tag": "#22JQULR22",
           "th": 18,
@@ -340,7 +321,7 @@
           "idxb": 93.0,
           "amostra": 100,
           "mvp": 3,
-          "pos": 2,
+          "pos": 1,
           "zona": "—"
         },
         {
@@ -359,12 +340,31 @@
           "idxb": 93.0,
           "amostra": 100,
           "mvp": 3,
-          "pos": 3,
+          "pos": 2,
           "zona": "—"
         },
         {
           "n": "LSWRTH",
           "tag": "#YVU0L88P",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 1,
+          "seg": 1,
+          "idx": 80.6,
+          "idxb": 80.6,
+          "amostra": 100,
+          "mvp": 4,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
+          "n": "PaiDeFamilia",
+          "tag": "#2GCJ8QC92",
           "th": 18,
           "atk": 1,
           "est": 3,
