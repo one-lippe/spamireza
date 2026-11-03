@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T23:30:33.500885Z",
+  "atualizado": "2026-11-03T23:40:28.916854Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -757,7 +757,9 @@
               "nome": "Reikan",
               "tag": "#GJYRCJ0PR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
