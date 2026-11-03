@@ -1,10 +1,10 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T05:30:22.154454Z",
+  "atualizado": "2026-11-03T05:40:19.591672Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
-      "liga": null,
+      "liga": "Titan League II",
       "guerras": []
     },
     "2": {
@@ -267,7 +267,9 @@
               "nome": "Sra Nunes",
               "tag": "#22JQULR22",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
