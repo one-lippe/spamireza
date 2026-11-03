@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T14:00:22.130594Z",
+  "atualizado": "2026-11-03T14:10:20.458422Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -349,7 +349,9 @@
               "nome": "qvnly",
               "tag": "#GUCJQPVR9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
