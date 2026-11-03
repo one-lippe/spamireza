@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T15:30:31.058820Z",
+  "atualizado": "2026-11-03T15:40:21.269027Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -439,6 +439,25 @@
           "zona": "—"
         },
         {
+          "n": "♣DnF◆",
+          "tag": "#8UY0889P9",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 74.4,
+          "idxb": 74.4,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 8,
+          "zona": "—"
+        },
+        {
           "n": "SR•InTheDark II",
           "tag": "#Q9PL0CUU",
           "th": 18,
@@ -454,7 +473,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -473,7 +492,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -492,7 +511,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -511,7 +530,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 3,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -530,7 +549,7 @@
           "idxb": 71.7,
           "amostra": 100,
           "mvp": 2,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -549,7 +568,7 @@
           "idxb": 63.5,
           "amostra": 100,
           "mvp": 3,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -568,7 +587,7 @@
           "idxb": 63.5,
           "amostra": 100,
           "mvp": 3,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -587,7 +606,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -606,7 +625,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -625,7 +644,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -644,7 +663,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -663,7 +682,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -674,15 +693,15 @@
           "est": 1,
           "spa": 1.0,
           "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
           "seg": 0,
-          "idx": 50.4,
-          "idxb": 50.4,
+          "idx": 40.3,
+          "idxb": 40.3,
           "amostra": 100,
           "mvp": 1,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -701,7 +720,7 @@
           "idxb": 12.4,
           "amostra": 0,
           "mvp": 2,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -715,25 +734,6 @@
           "def": null,
           "sof": null,
           "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 22,
-          "zona": "—"
-        },
-        {
-          "n": "♣DnF◆",
-          "tag": "#8UY0889P9",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,

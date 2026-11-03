@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T15:30:31.059505Z",
+  "atualizado": "2026-11-03T15:40:21.270325Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -226,7 +226,7 @@
               "atk": [
                 1
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Reikan",
@@ -266,7 +266,9 @@
               "nome": "♣DnF◆",
               "tag": "#8UY0889P9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
