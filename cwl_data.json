@@ -1354,9 +1354,9 @@
           "atk": 9
         },
         "eles": {
-          "est": 29,
-          "destr": 35.5,
-          "atk": 11
+          "est": 38,
+          "destr": 45.5,
+          "atk": 14
         },
         "membros": [
           {
@@ -1530,9 +1530,14 @@
             "th": 18,
             "pos": 13,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•InTheDark II",
@@ -1605,9 +1610,14 @@
             "th": 18,
             "pos": 20,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "abraão",
@@ -1655,9 +1665,14 @@
             "th": 18,
             "pos": 24,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "qvnly",
@@ -2097,9 +2112,9 @@
         "atk": 9
       },
       "eles": {
-        "est": 29,
-        "destr": 35.5,
-        "atk": 11
+        "est": 38,
+        "destr": 45.5,
+        "atk": 14
       },
       "membros": [
         {
@@ -2273,9 +2288,14 @@
           "th": 18,
           "pos": 13,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•InTheDark II",
@@ -2348,9 +2368,14 @@
           "th": 18,
           "pos": 20,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "abraão",
@@ -2398,9 +2423,14 @@
           "th": 18,
           "pos": 24,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "qvnly",

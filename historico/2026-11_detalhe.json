@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T01:50:15.064808Z",
+  "atualizado": "2026-11-03T02:00:22.192904Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -239,7 +239,7 @@
               "tag": "#8UY0889P9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•InTheDark II",
@@ -283,7 +283,7 @@
               "tag": "#P2JCQRPGJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "abraão",
@@ -313,7 +313,7 @@
               "tag": "#CJV9G22Q",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "qvnly",
