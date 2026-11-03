@@ -1,10 +1,10 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T00:50:21.609213Z",
+  "atualizado": "2026-11-03T01:00:24.699338Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
-      "liga": "Titan League II",
+      "liga": null,
       "mode": "esc",
       "rank": []
     },
@@ -458,6 +458,25 @@
           "zona": "—"
         },
         {
+          "n": "Lider Andre",
+          "tag": "#20UUPGPCV",
+          "th": 18,
+          "atk": 0,
+          "est": 0,
+          "spa": 0,
+          "conf": 0,
+          "def": 67,
+          "sof": 1.0,
+          "ndef": 1,
+          "seg": 1,
+          "idx": 12.4,
+          "idxb": 12.4,
+          "amostra": 0,
+          "mvp": 2,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "Samuel Soares",
           "tag": "#9V2L9J9JP",
           "th": 18,
@@ -473,7 +492,7 @@
           "idxb": 6.2,
           "amostra": 0,
           "mvp": 1,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -484,28 +503,9 @@
           "est": 0,
           "spa": 0,
           "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "LSWRTH",
-          "tag": "#YVU0L88P",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
@@ -515,8 +515,8 @@
           "zona": "—"
         },
         {
-          "n": "Lider Andre",
-          "tag": "#20UUPGPCV",
+          "n": "LSWRTH",
+          "tag": "#YVU0L88P",
           "th": 18,
           "atk": 0,
           "est": 0,
