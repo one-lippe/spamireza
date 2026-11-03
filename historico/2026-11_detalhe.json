@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T00:30:23.935714Z",
+  "atualizado": "2026-11-03T00:40:21.196087Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -333,7 +333,9 @@
               "nome": "SR • Eduhh",
               "tag": "#2Q9RYUCCP",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
