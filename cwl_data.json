@@ -100,14 +100,14 @@
         "inicio": "20261103T163807.000Z",
         "fim": "20261104T163807.000Z",
         "nos": {
-          "est": 14,
-          "destr": 31.8,
-          "atk": 5
+          "est": 17,
+          "destr": 38.46666666666667,
+          "atk": 6
         },
         "eles": {
-          "est": 10,
-          "destr": 25.866666666666667,
-          "atk": 4
+          "est": 19,
+          "destr": 45.86666666666667,
+          "atk": 7
         },
         "membros": [
           {
@@ -131,9 +131,14 @@
             "th": 18,
             "pos": 2,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Jan",
@@ -205,7 +210,12 @@
             "tag": "#Q2UJJ89VG",
             "th": 18,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -226,9 +236,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Nesk",
@@ -241,9 +256,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Neskau",
@@ -488,14 +508,14 @@
       "inicio": "20261103T163807.000Z",
       "fim": "20261104T163807.000Z",
       "nos": {
-        "est": 14,
-        "destr": 31.8,
-        "atk": 5
+        "est": 17,
+        "destr": 38.46666666666667,
+        "atk": 6
       },
       "eles": {
-        "est": 10,
-        "destr": 25.866666666666667,
-        "atk": 4
+        "est": 19,
+        "destr": 45.86666666666667,
+        "atk": 7
       },
       "membros": [
         {
@@ -519,9 +539,14 @@
           "th": 18,
           "pos": 2,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Jan",
@@ -593,7 +618,12 @@
           "tag": "#Q2UJJ89VG",
           "th": 18,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -614,9 +644,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Nesk",
@@ -629,9 +664,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Neskau",
@@ -800,9 +840,9 @@
         "inicio": "20261102T214915.000Z",
         "fim": "20261103T214915.000Z",
         "nos": {
-          "est": 38,
-          "destr": 85.66666666666667,
-          "atk": 13
+          "est": 41,
+          "destr": 92.33333333333333,
+          "atk": 14
         },
         "eles": {
           "est": 32,
@@ -875,7 +915,12 @@
             "tag": "#QLRGC8GQ",
             "th": 18,
             "pos": 4,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -1263,9 +1308,9 @@
       "inicio": "20261102T214915.000Z",
       "fim": "20261103T214915.000Z",
       "nos": {
-        "est": 38,
-        "destr": 85.66666666666667,
-        "atk": 13
+        "est": 41,
+        "destr": 92.33333333333333,
+        "atk": 14
       },
       "eles": {
         "est": 32,
@@ -1338,7 +1383,12 @@
           "tag": "#QLRGC8GQ",
           "th": 18,
           "pos": 4,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
