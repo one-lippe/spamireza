@@ -544,9 +544,9 @@
           "atk": 3
         },
         "eles": {
-          "est": 9,
-          "destr": 20.0,
-          "atk": 3
+          "est": 11,
+          "destr": 24.8,
+          "atk": 4
         },
         "membros": [
           {
@@ -565,9 +565,14 @@
             "th": 18,
             "pos": 2,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 72,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 72
+              }
+            ]
           },
           {
             "nome": "tozim",
@@ -917,9 +922,9 @@
         "atk": 3
       },
       "eles": {
-        "est": 9,
-        "destr": 20.0,
-        "atk": 3
+        "est": 11,
+        "destr": 24.8,
+        "atk": 4
       },
       "membros": [
         {
@@ -938,9 +943,14 @@
           "th": 18,
           "pos": 2,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 72,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 72
+            }
+          ]
         },
         {
           "nome": "tozim",
@@ -1349,14 +1359,14 @@
         "inicio": "20261102T232408.000Z",
         "fim": "20261103T232408.000Z",
         "nos": {
-          "est": 23,
-          "destr": 28.733333333333334,
-          "atk": 9
+          "est": 25,
+          "destr": 31.566666666666666,
+          "atk": 10
         },
         "eles": {
-          "est": 41,
-          "destr": 48.833333333333336,
-          "atk": 15
+          "est": 44,
+          "destr": 52.166666666666664,
+          "atk": 16
         },
         "membros": [
           {
@@ -1429,7 +1439,12 @@
             "tag": "#8PURGU2YG",
             "th": 18,
             "pos": 6,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 85
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1600,9 +1615,14 @@
             "th": 18,
             "pos": 19,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "irmão do jorel",
@@ -2112,14 +2132,14 @@
       "inicio": "20261102T232408.000Z",
       "fim": "20261103T232408.000Z",
       "nos": {
-        "est": 23,
-        "destr": 28.733333333333334,
-        "atk": 9
+        "est": 25,
+        "destr": 31.566666666666666,
+        "atk": 10
       },
       "eles": {
-        "est": 41,
-        "destr": 48.833333333333336,
-        "atk": 15
+        "est": 44,
+        "destr": 52.166666666666664,
+        "atk": 16
       },
       "membros": [
         {
@@ -2192,7 +2212,12 @@
           "tag": "#8PURGU2YG",
           "th": 18,
           "pos": 6,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 85
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -2363,9 +2388,14 @@
           "th": 18,
           "pos": 19,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "irmão do jorel",
