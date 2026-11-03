@@ -100,14 +100,14 @@
         "inicio": "20261103T163807.000Z",
         "fim": "20261104T163807.000Z",
         "nos": {
-          "est": 3,
-          "destr": 6.666666666666667,
-          "atk": 1
+          "est": 6,
+          "destr": 13.333333333333334,
+          "atk": 2
         },
         "eles": {
-          "est": 4,
-          "destr": 12.533333333333333,
-          "atk": 2
+          "est": 7,
+          "destr": 19.2,
+          "atk": 3
         },
         "membros": [
           {
@@ -141,9 +141,14 @@
             "th": 18,
             "pos": 3,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Dog Apollo",
@@ -185,7 +190,12 @@
             "tag": "#Y08CR0PQU",
             "th": 18,
             "pos": 8,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -458,14 +468,14 @@
       "inicio": "20261103T163807.000Z",
       "fim": "20261104T163807.000Z",
       "nos": {
-        "est": 3,
-        "destr": 6.666666666666667,
-        "atk": 1
+        "est": 6,
+        "destr": 13.333333333333334,
+        "atk": 2
       },
       "eles": {
-        "est": 4,
-        "destr": 12.533333333333333,
-        "atk": 2
+        "est": 7,
+        "destr": 19.2,
+        "atk": 3
       },
       "membros": [
         {
@@ -499,9 +509,14 @@
           "th": 18,
           "pos": 3,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Dog Apollo",
@@ -543,7 +558,12 @@
           "tag": "#Y08CR0PQU",
           "th": 18,
           "pos": 8,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -1710,14 +1730,14 @@
         "inicio": "20261102T232408.000Z",
         "fim": "20261103T232408.000Z",
         "nos": {
-          "est": 57,
-          "destr": 71.96666666666667,
-          "atk": 23
+          "est": 59,
+          "destr": 74.36666666666666,
+          "atk": 24
         },
         "eles": {
-          "est": 62,
-          "destr": 73.63333333333334,
-          "atk": 23
+          "est": 65,
+          "destr": 76.96666666666667,
+          "atk": 24
         },
         "membros": [
           {
@@ -2110,7 +2130,12 @@
             "tag": "#L9GRLYGVQ",
             "th": 17,
             "pos": 23,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 72
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -2206,9 +2231,14 @@
             "th": 16,
             "pos": 30,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "GSAzevedo30 #2",
@@ -2583,14 +2613,14 @@
       "inicio": "20261102T232408.000Z",
       "fim": "20261103T232408.000Z",
       "nos": {
-        "est": 57,
-        "destr": 71.96666666666667,
-        "atk": 23
+        "est": 59,
+        "destr": 74.36666666666666,
+        "atk": 24
       },
       "eles": {
-        "est": 62,
-        "destr": 73.63333333333334,
-        "atk": 23
+        "est": 65,
+        "destr": 76.96666666666667,
+        "atk": 24
       },
       "membros": [
         {
@@ -2983,7 +3013,12 @@
           "tag": "#L9GRLYGVQ",
           "th": 17,
           "pos": 23,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 72
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -3079,9 +3114,14 @@
           "th": 16,
           "pos": 30,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "GSAzevedo30 #2",

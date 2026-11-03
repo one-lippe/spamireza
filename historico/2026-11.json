@@ -1,12 +1,31 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T16:50:21.418516Z",
+  "atualizado": "2026-11-03T17:00:22.712482Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
       "liga": "Titan League II",
       "mode": "rank",
       "rank": [
+        {
+          "n": "Coyote 171 × 戦備",
+          "tag": "#Y08CR0PQU",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "seg": 0,
+          "idx": 104.0,
+          "idxb": 104.0,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 1,
+          "zona": "—"
+        },
         {
           "n": "MAJ0R FiV3",
           "tag": "#LCR9YQGYY",
@@ -23,7 +42,7 @@
           "idxb": 104.0,
           "amostra": 100,
           "mvp": 3,
-          "pos": 1,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -42,7 +61,7 @@
           "idxb": 13.9,
           "amostra": 0,
           "mvp": 2,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -61,7 +80,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -72,15 +91,15 @@
           "est": 0,
           "spa": 0,
           "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -99,7 +118,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -118,7 +137,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -132,25 +151,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 7,
-          "zona": "—"
-        },
-        {
-          "n": "Coyote 171 × 戦備",
-          "tag": "#Y08CR0PQU",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
@@ -953,6 +953,25 @@
           "zona": "—"
         },
         {
+          "n": "Lider André 2",
+          "tag": "#L9GRLYGVQ",
+          "th": 17,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 57.4,
+          "idxb": 57.4,
+          "amostra": 100,
+          "mvp": 2,
+          "pos": 20,
+          "zona": "—"
+        },
+        {
           "n": "Ghostface",
           "tag": "#QQUC9JQ9R",
           "th": 17,
@@ -968,7 +987,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -987,7 +1006,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -1006,7 +1025,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 22,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -1025,7 +1044,7 @@
           "idxb": 40.3,
           "amostra": 100,
           "mvp": 1,
-          "pos": 23,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -1044,7 +1063,7 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 24,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -1063,32 +1082,13 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 25,
+          "pos": 26,
           "zona": "—"
         },
         {
           "n": "abraão",
           "tag": "#PCGCJRLRJ",
           "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 26,
-          "zona": "—"
-        },
-        {
-          "n": "Lider André 2",
-          "tag": "#L9GRLYGVQ",
-          "th": 17,
           "atk": 0,
           "est": 0,
           "spa": 0,
@@ -1150,9 +1150,9 @@
           "est": 0,
           "spa": 0,
           "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
