@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T17:00:22.714350Z",
+  "atualizado": "2026-11-03T17:10:24.461943Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -97,7 +97,9 @@
               "nome": "☆VILA DO PX ツ",
               "tag": "#8PUL8JPC",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -375,7 +377,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "rei do crime",

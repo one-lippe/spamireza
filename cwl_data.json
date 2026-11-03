@@ -100,9 +100,9 @@
         "inicio": "20261103T163807.000Z",
         "fim": "20261104T163807.000Z",
         "nos": {
-          "est": 6,
-          "destr": 13.333333333333334,
-          "atk": 2
+          "est": 8,
+          "destr": 18.466666666666665,
+          "atk": 3
         },
         "eles": {
           "est": 7,
@@ -250,7 +250,12 @@
             "tag": "#8PUL8JPC",
             "th": 18,
             "pos": 14,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 77
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -468,9 +473,9 @@
       "inicio": "20261103T163807.000Z",
       "fim": "20261104T163807.000Z",
       "nos": {
-        "est": 6,
-        "destr": 13.333333333333334,
-        "atk": 2
+        "est": 8,
+        "destr": 18.466666666666665,
+        "atk": 3
       },
       "eles": {
         "est": 7,
@@ -618,7 +623,12 @@
           "tag": "#8PUL8JPC",
           "th": 18,
           "pos": 14,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 77
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -1735,9 +1745,9 @@
           "atk": 24
         },
         "eles": {
-          "est": 65,
-          "destr": 76.96666666666667,
-          "atk": 24
+          "est": 68,
+          "destr": 80.3,
+          "atk": 25
         },
         "membros": [
           {
@@ -1951,9 +1961,14 @@
                 "destr": 86
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "rei do crime",
@@ -2618,9 +2633,9 @@
         "atk": 24
       },
       "eles": {
-        "est": 65,
-        "destr": 76.96666666666667,
-        "atk": 24
+        "est": 68,
+        "destr": 80.3,
+        "atk": 25
       },
       "membros": [
         {
@@ -2834,9 +2849,14 @@
               "destr": 86
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "rei do crime",
