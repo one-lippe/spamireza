@@ -850,9 +850,9 @@
         "inicio": "20261102T214915.000Z",
         "fim": "20261103T214915.000Z",
         "nos": {
-          "est": 41,
-          "destr": 92.33333333333333,
-          "atk": 14
+          "est": 44,
+          "destr": 99.0,
+          "atk": 15
         },
         "eles": {
           "est": 32,
@@ -1090,7 +1090,12 @@
             "tag": "#GRR2G9LP0",
             "th": 18,
             "pos": 15,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1318,9 +1323,9 @@
       "inicio": "20261102T214915.000Z",
       "fim": "20261103T214915.000Z",
       "nos": {
-        "est": 41,
-        "destr": 92.33333333333333,
-        "atk": 14
+        "est": 44,
+        "destr": 99.0,
+        "atk": 15
       },
       "eles": {
         "est": 32,
@@ -1558,7 +1563,12 @@
           "tag": "#GRR2G9LP0",
           "th": 18,
           "pos": 15,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -1855,9 +1865,9 @@
           "atk": 24
         },
         "eles": {
-          "est": 73,
-          "destr": 86.83333333333333,
-          "atk": 27
+          "est": 75,
+          "destr": 89.86666666666666,
+          "atk": 28
         },
         "membros": [
           {
@@ -2181,9 +2191,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 91,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 91
+              }
+            ]
           },
           {
             "nome": "digon",
@@ -2753,9 +2768,9 @@
         "atk": 24
       },
       "eles": {
-        "est": 73,
-        "destr": 86.83333333333333,
-        "atk": 27
+        "est": 75,
+        "destr": 89.86666666666666,
+        "atk": 28
       },
       "membros": [
         {
@@ -3079,9 +3094,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 91,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 91
+            }
+          ]
         },
         {
           "nome": "digon",
