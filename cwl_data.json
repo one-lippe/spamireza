@@ -1104,8 +1104,8 @@
         }
       ]
     },
-    "liga": "Champion League III",
-    "mult": 0.94,
+    "liga": null,
+    "mult": 0.85,
     "season": "2026-11"
   },
   {
@@ -1354,9 +1354,9 @@
           "atk": 8
         },
         "eles": {
-          "est": 14,
-          "destr": 16.633333333333333,
-          "atk": 5
+          "est": 17,
+          "destr": 19.966666666666665,
+          "atk": 6
         },
         "membros": [
           {
@@ -1520,9 +1520,14 @@
             "th": 18,
             "pos": 14,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • The off",
@@ -2062,9 +2067,9 @@
         "atk": 8
       },
       "eles": {
-        "est": 14,
-        "destr": 16.633333333333333,
-        "atk": 5
+        "est": 17,
+        "destr": 19.966666666666665,
+        "atk": 6
       },
       "membros": [
         {
@@ -2228,9 +2233,14 @@
           "th": 18,
           "pos": 14,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • The off",
