@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T10:50:18.509697Z",
+  "atualizado": "2026-11-03T11:00:25.657948Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -90,6 +90,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • Giovanelli",
+          "tag": "#PJ0YJLGJ",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 75.2,
+          "idxb": 75.2,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
           "n": "GSAzevedo30",
           "tag": "#CJLVVL9L",
           "th": 18,
@@ -105,7 +124,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -124,25 +143,6 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 6,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Giovanelli",
-          "tag": "#PJ0YJLGJ",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
           "pos": 7,
           "zona": "—"
         },
