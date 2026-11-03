@@ -141,6 +141,16 @@
             "defesas": []
           },
           {
+            "nome": "SR • Dog Apollo",
+            "tag": "#YJ9R2GPJG",
+            "th": 18,
+            "pos": 4,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
             "nome": "SR • InTheDark☆",
             "tag": "#PQRRG2YCP",
             "th": 18,
@@ -165,16 +175,6 @@
             "tag": "#Y08CR0PQU",
             "th": 18,
             "pos": 8,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
-            "nome": "SR • C∆iç∆r∆",
-            "tag": "#GL0PRCU9L",
-            "th": 18,
-            "pos": 9,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -313,6 +313,16 @@
           "defesas": []
         },
         {
+          "nome": "SR • Dog Apollo",
+          "tag": "#YJ9R2GPJG",
+          "th": 18,
+          "pos": 4,
+          "ataques": [],
+          "def_estrelas": null,
+          "def_destr": null,
+          "defesas": []
+        },
+        {
           "nome": "SR • InTheDark☆",
           "tag": "#PQRRG2YCP",
           "th": 18,
@@ -337,16 +347,6 @@
           "tag": "#Y08CR0PQU",
           "th": 18,
           "pos": 8,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
-        },
-        {
-          "nome": "SR • C∆iç∆r∆",
-          "tag": "#GL0PRCU9L",
-          "th": 18,
-          "pos": 9,
           "ataques": [],
           "def_estrelas": null,
           "def_destr": null,
