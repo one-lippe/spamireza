@@ -1,12 +1,31 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T20:10:30.966589Z",
+  "atualizado": "2026-11-03T20:20:32.456379Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
       "liga": "Titan League II",
       "mode": "rank",
       "rank": [
+        {
+          "n": "SR • InTheDark☆",
+          "tag": "#PQRRG2YCP",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": null,
+          "sof": null,
+          "ndef": 0,
+          "seg": 0,
+          "idx": 104.0,
+          "idxb": 104.0,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 1,
+          "zona": "—"
+        },
         {
           "n": "SR • Neskau",
           "tag": "#P8GLGPRP",
@@ -23,7 +42,7 @@
           "idxb": 104.0,
           "amostra": 100,
           "mvp": 3,
-          "pos": 1,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -42,7 +61,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -61,7 +80,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -80,7 +99,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -99,7 +118,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -118,7 +137,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -137,7 +156,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -156,7 +175,7 @@
           "idxb": 80.2,
           "amostra": 100,
           "mvp": 2,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -175,7 +194,7 @@
           "idxb": 13.9,
           "amostra": 0,
           "mvp": 2,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -194,31 +213,12 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
           "n": "SR • Dog Apollo",
           "tag": "#YJ9R2GPJG",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "SR • InTheDark☆",
-          "tag": "#PQRRG2YCP",
           "th": 18,
           "atk": 0,
           "est": 0,
@@ -338,44 +338,6 @@
           "zona": "—"
         },
         {
-          "n": "Monesy",
-          "tag": "#2YGJQG22G",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 94.0,
-          "idxb": 94.0,
-          "amostra": 100,
-          "mvp": 3,
-          "pos": 3,
-          "zona": "—"
-        },
-        {
-          "n": "Ligeirinh0xD",
-          "tag": "#GRR2G9LP0",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 94.0,
-          "idxb": 94.0,
-          "amostra": 100,
-          "mvp": 3,
-          "pos": 4,
-          "zona": "—"
-        },
-        {
           "n": "SrNunes",
           "tag": "#2LY8G8Y9",
           "th": 18,
@@ -391,7 +353,7 @@
           "idxb": 81.5,
           "amostra": 100,
           "mvp": 4,
-          "pos": 5,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -410,7 +372,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 6,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -429,7 +391,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 7,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -448,7 +410,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 8,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -467,7 +429,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 9,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -486,7 +448,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 10,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -505,7 +467,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 11,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -524,12 +486,50 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 3,
-          "pos": 12,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
+          "n": "Monesy",
+          "tag": "#2YGJQG22G",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 75.2,
+          "idxb": 75.2,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 11,
           "zona": "—"
         },
         {
           "n": "SR • Dog Crazy",
           "tag": "#9LPJP9YPQ",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 75.2,
+          "idxb": 75.2,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
+          "n": "Ligeirinh0xD",
+          "tag": "#GRR2G9LP0",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -972,6 +972,25 @@
           "zona": "—"
         },
         {
+          "n": "abraão",
+          "tag": "#PCGCJRLRJ",
+          "th": 18,
+          "atk": 1,
+          "est": 2,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 57.4,
+          "idxb": 57.4,
+          "amostra": 100,
+          "mvp": 2,
+          "pos": 21,
+          "zona": "—"
+        },
+        {
           "n": "Lider André 2",
           "tag": "#L9GRLYGVQ",
           "th": 17,
@@ -987,7 +1006,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -1006,7 +1025,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 22,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -1025,7 +1044,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 23,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -1044,7 +1063,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 2,
-          "pos": 24,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -1063,7 +1082,7 @@
           "idxb": 40.3,
           "amostra": 100,
           "mvp": 1,
-          "pos": 25,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -1082,7 +1101,7 @@
           "idxb": 6.2,
           "amostra": 0,
           "mvp": 1,
-          "pos": 26,
+          "pos": 27,
           "zona": "—"
         },
         {
@@ -1101,31 +1120,12 @@
           "idxb": 0.0,
           "amostra": 0,
           "mvp": 0,
-          "pos": 27,
+          "pos": 28,
           "zona": "—"
         },
         {
           "n": "irmão do jorel",
           "tag": "#P2JCQRPGJ",
-          "th": 18,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
-          "pos": 28,
-          "zona": "—"
-        },
-        {
-          "n": "abraão",
-          "tag": "#PCGCJRLRJ",
           "th": 18,
           "atk": 0,
           "est": 0,

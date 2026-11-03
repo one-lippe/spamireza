@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T20:10:30.968036Z",
+  "atualizado": "2026-11-03T20:20:32.457235Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -46,7 +46,9 @@
               "nome": "SR • InTheDark☆",
               "tag": "#PQRRG2YCP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -244,7 +246,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Dog Crazy",
@@ -262,7 +264,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Darth Revan",
@@ -467,7 +469,9 @@
               "nome": "abraão",
               "tag": "#PCGCJRLRJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {

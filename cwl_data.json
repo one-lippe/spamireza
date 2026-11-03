@@ -100,9 +100,9 @@
         "inicio": "20261103T163807.000Z",
         "fim": "20261104T163807.000Z",
         "nos": {
-          "est": 23,
-          "destr": 51.8,
-          "atk": 8
+          "est": 26,
+          "destr": 58.46666666666667,
+          "atk": 9
         },
         "eles": {
           "est": 25,
@@ -175,7 +175,12 @@
             "tag": "#PQRRG2YCP",
             "th": 18,
             "pos": 5,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -528,9 +533,9 @@
       "inicio": "20261103T163807.000Z",
       "fim": "20261104T163807.000Z",
       "nos": {
-        "est": 23,
-        "destr": 51.8,
-        "atk": 8
+        "est": 26,
+        "destr": 58.46666666666667,
+        "atk": 9
       },
       "eles": {
         "est": 25,
@@ -603,7 +608,12 @@
           "tag": "#PQRRG2YCP",
           "th": 18,
           "pos": 5,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -885,9 +895,9 @@
           "atk": 15
         },
         "eles": {
-          "est": 32,
-          "destr": 71.46666666666667,
-          "atk": 11
+          "est": 38,
+          "destr": 84.8,
+          "atk": 13
         },
         "membros": [
           {
@@ -1091,9 +1101,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Dog Crazy",
@@ -1126,9 +1141,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Darth Revan",
@@ -1358,9 +1378,9 @@
         "atk": 15
       },
       "eles": {
-        "est": 32,
-        "destr": 71.46666666666667,
-        "atk": 11
+        "est": 38,
+        "destr": 84.8,
+        "atk": 13
       },
       "membros": [
         {
@@ -1564,9 +1584,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Dog Crazy",
@@ -1599,9 +1624,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Darth Revan",
@@ -1890,9 +1920,9 @@
         "inicio": "20261102T232408.000Z",
         "fim": "20261103T232408.000Z",
         "nos": {
-          "est": 62,
-          "destr": 77.7,
-          "atk": 25
+          "est": 64,
+          "destr": 79.86666666666666,
+          "atk": 26
         },
         "eles": {
           "est": 78,
@@ -2275,7 +2305,12 @@
             "tag": "#PCGCJRLRJ",
             "th": 18,
             "pos": 21,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 65
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -2803,9 +2838,9 @@
       "inicio": "20261102T232408.000Z",
       "fim": "20261103T232408.000Z",
       "nos": {
-        "est": 62,
-        "destr": 77.7,
-        "atk": 25
+        "est": 64,
+        "destr": 79.86666666666666,
+        "atk": 26
       },
       "eles": {
         "est": 78,
@@ -3188,7 +3223,12 @@
           "tag": "#PCGCJRLRJ",
           "th": 18,
           "pos": 21,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 65
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
