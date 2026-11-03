@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T19:50:30.069137Z",
+  "atualizado": "2026-11-03T20:00:35.400920Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -114,7 +114,9 @@
               "nome": "Levi_Neiva 2",
               "tag": "#90GRYGJVP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -490,7 +492,9 @@
               "nome": "Jan™",
               "tag": "#CJV9G22Q",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
