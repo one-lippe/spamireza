@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-03T19:00:37.003883Z",
+  "atualizado": "2026-11-03T19:10:41.931152Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -113,7 +113,7 @@
               "tag": "#90GRYGJVP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•GOD kratos",
@@ -396,7 +396,7 @@
               "tag": "#RP8VCCUV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "♣DnF◆",

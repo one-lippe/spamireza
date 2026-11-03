@@ -105,9 +105,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 22,
-          "destr": 52.53333333333333,
-          "atk": 8
+          "est": 25,
+          "destr": 59.2,
+          "atk": 9
         },
         "membros": [
           {
@@ -306,9 +306,14 @@
             "th": 18,
             "pos": 15,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•GOD kratos",
@@ -518,9 +523,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 22,
-        "destr": 52.53333333333333,
-        "atk": 8
+        "est": 25,
+        "destr": 59.2,
+        "atk": 9
       },
       "membros": [
         {
@@ -719,9 +724,14 @@
           "th": 18,
           "pos": 15,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•GOD kratos",
@@ -1232,6 +1242,16 @@
             "defesas": []
           },
           {
+            "nome": "SR • THIAGO",
+            "tag": "#89G0YGUJY",
+            "th": 18,
+            "pos": 8,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
             "nome": "Monesy9",
             "tag": "#LJRPJ9PC0",
             "th": 18,
@@ -1296,16 +1316,6 @@
             "tag": "#GRR2G9LP0",
             "th": 18,
             "pos": 15,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
-            "nome": "SR • Nesquick",
-            "tag": "#YCRJU229",
-            "th": 18,
-            "pos": 17,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -1865,9 +1875,9 @@
           "atk": 24
         },
         "eles": {
-          "est": 75,
-          "destr": 89.86666666666666,
-          "atk": 28
+          "est": 78,
+          "destr": 93.2,
+          "atk": 29
         },
         "membros": [
           {
@@ -2096,9 +2106,14 @@
             "th": 18,
             "pos": 12,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "♣DnF◆",
@@ -2768,9 +2783,9 @@
         "atk": 24
       },
       "eles": {
-        "est": 75,
-        "destr": 89.86666666666666,
-        "atk": 28
+        "est": 78,
+        "destr": 93.2,
+        "atk": 29
       },
       "membros": [
         {
@@ -2999,9 +3014,14 @@
           "th": 18,
           "pos": 12,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "♣DnF◆",
