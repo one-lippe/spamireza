@@ -442,6 +442,16 @@
             "defesas": []
           },
           {
+            "nome": "Henrique Nerath",
+            "tag": "#2U8P0YQ92",
+            "th": 18,
+            "pos": 2,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
             "nome": "Jan",
             "tag": "#2899CRJG",
             "th": 18,
@@ -496,16 +506,6 @@
             "tag": "#Y08CR0PQU",
             "th": 18,
             "pos": 8,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
-            "nome": "SR • C∆iç∆r∆",
-            "tag": "#GL0PRCU9L",
-            "th": 18,
-            "pos": 9,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
