@@ -421,14 +421,14 @@
         "inicio": "20261104T170357.000Z",
         "fim": "20261105T170357.000Z",
         "nos": {
-          "est": 9,
-          "destr": 20.0,
-          "atk": 3
+          "est": 17,
+          "destr": 39.2,
+          "atk": 6
         },
         "eles": {
-          "est": 19,
-          "destr": 45.53333333333333,
-          "atk": 7
+          "est": 22,
+          "destr": 52.2,
+          "atk": 8
         },
         "membros": [
           {
@@ -501,7 +501,12 @@
             "tag": "#PQRRG2YCP",
             "th": 18,
             "pos": 5,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -586,7 +591,12 @@
             "tag": "#99220V0Q8",
             "th": 18,
             "pos": 12,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 88
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -596,10 +606,20 @@
             "tag": "#P8GLGPRP",
             "th": 18,
             "pos": 13,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Levi_Neiva 2",
@@ -814,14 +834,14 @@
       "inicio": "20261104T170357.000Z",
       "fim": "20261105T170357.000Z",
       "nos": {
-        "est": 9,
-        "destr": 20.0,
-        "atk": 3
+        "est": 17,
+        "destr": 39.2,
+        "atk": 6
       },
       "eles": {
-        "est": 19,
-        "destr": 45.53333333333333,
-        "atk": 7
+        "est": 22,
+        "destr": 52.2,
+        "atk": 8
       },
       "membros": [
         {
@@ -894,7 +914,12 @@
           "tag": "#PQRRG2YCP",
           "th": 18,
           "pos": 5,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -979,7 +1004,12 @@
           "tag": "#99220V0Q8",
           "th": 18,
           "pos": 12,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 88
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -989,10 +1019,20 @@
           "tag": "#P8GLGPRP",
           "th": 18,
           "pos": 13,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Levi_Neiva 2",

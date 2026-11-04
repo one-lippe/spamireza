@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T19:50:28.042626Z",
+  "atualizado": "2026-11-04T20:00:26.306389Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -189,7 +189,9 @@
               "nome": "SR • InTheDark☆",
               "tag": "#PQRRG2YCP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -235,15 +237,19 @@
               "nome": "Nesk",
               "tag": "#99220V0Q8",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
               "nome": "SR • Neskau",
               "tag": "#P8GLGPRP",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 3
             },
             {
               "nome": "Levi_Neiva 2",
