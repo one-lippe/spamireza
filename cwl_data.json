@@ -1557,9 +1557,9 @@
           "atk": 15
         },
         "eles": {
-          "est": 35,
-          "destr": 90.4,
-          "atk": 14
+          "est": 37,
+          "destr": 95.86666666666666,
+          "atk": 15
         },
         "membros": [
           {
@@ -1653,9 +1653,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 82,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 82
+              }
+            ]
           },
           {
             "nome": "GSAzevedo30",
@@ -2045,9 +2050,9 @@
         "atk": 15
       },
       "eles": {
-        "est": 35,
-        "destr": 90.4,
-        "atk": 14
+        "est": 37,
+        "destr": 95.86666666666666,
+        "atk": 15
       },
       "membros": [
         {
@@ -2141,9 +2146,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 82,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 82
+            }
+          ]
         },
         {
           "nome": "GSAzevedo30",
@@ -3208,9 +3218,9 @@
         "inicio": "20261103T232411.000Z",
         "fim": "20261104T235008.000Z",
         "nos": {
-          "est": 50,
-          "destr": 70.86666666666666,
-          "atk": 24
+          "est": 52,
+          "destr": 73.53333333333333,
+          "atk": 25
         },
         "eles": {
           "est": 74,
@@ -3753,7 +3763,12 @@
             "tag": "#GRUG8UQGV",
             "th": 16,
             "pos": 31,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 80
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -4111,9 +4126,9 @@
       "inicio": "20261103T232411.000Z",
       "fim": "20261104T235008.000Z",
       "nos": {
-        "est": 50,
-        "destr": 70.86666666666666,
-        "atk": 24
+        "est": 52,
+        "destr": 73.53333333333333,
+        "atk": 25
       },
       "eles": {
         "est": 74,
@@ -4656,7 +4671,12 @@
           "tag": "#GRUG8UQGV",
           "th": 16,
           "pos": 31,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 80
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
