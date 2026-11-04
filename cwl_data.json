@@ -2827,14 +2827,14 @@
         "inicio": "20261103T232411.000Z",
         "fim": "20261104T235008.000Z",
         "nos": {
-          "est": 29,
-          "destr": 37.333333333333336,
-          "atk": 12
+          "est": 31,
+          "destr": 40.3,
+          "atk": 13
         },
         "eles": {
-          "est": 20,
-          "destr": 23.2,
-          "atk": 7
+          "est": 22,
+          "destr": 26.366666666666667,
+          "atk": 8
         },
         "membros": [
           {
@@ -2888,9 +2888,14 @@
             "th": 18,
             "pos": 4,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 95,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 95
+              }
+            ]
           },
           {
             "nome": "♣️Dorindo Sena♣",
@@ -3227,7 +3232,12 @@
             "tag": "#29882J2L2",
             "th": 16,
             "pos": 32,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 89
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -3565,14 +3575,14 @@
       "inicio": "20261103T232411.000Z",
       "fim": "20261104T235008.000Z",
       "nos": {
-        "est": 29,
-        "destr": 37.333333333333336,
-        "atk": 12
+        "est": 31,
+        "destr": 40.3,
+        "atk": 13
       },
       "eles": {
-        "est": 20,
-        "destr": 23.2,
-        "atk": 7
+        "est": 22,
+        "destr": 26.366666666666667,
+        "atk": 8
       },
       "membros": [
         {
@@ -3626,9 +3636,14 @@
           "th": 18,
           "pos": 4,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 95,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 95
+            }
+          ]
         },
         {
           "nome": "♣️Dorindo Sena♣",
@@ -3965,7 +3980,12 @@
           "tag": "#29882J2L2",
           "th": 16,
           "pos": 32,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 89
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
