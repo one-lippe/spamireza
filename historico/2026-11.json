@@ -1,12 +1,31 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T20:20:22.156757Z",
+  "atualizado": "2026-11-04T20:30:24.091821Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
       "liga": "Titan League II",
       "mode": "rank",
       "rank": [
+        {
+          "n": "Jan",
+          "tag": "#2899CRJG",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "seg": 1,
+          "idx": 86.7,
+          "idxb": 86.7,
+          "amostra": 100,
+          "mvp": 7,
+          "pos": 1,
+          "zona": "—"
+        },
         {
           "n": "SR • Dog Apollo",
           "tag": "#YJ9R2GPJG",
@@ -23,7 +42,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 6,
-          "pos": 1,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -42,7 +61,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 6,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -61,7 +80,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 6,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -80,7 +99,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 6,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -99,7 +118,26 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 6,
-          "pos": 5,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
+          "n": "Levi_Neiva 2",
+          "tag": "#90GRYGJVP",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 83.2,
+          "idxb": 83.2,
+          "amostra": 100,
+          "mvp": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -114,30 +152,11 @@
           "sof": 2.0,
           "ndef": 2,
           "seg": 1,
-          "idx": 75.6,
+          "idx": 76.4,
           "idxb": 77.1,
           "amostra": 50,
           "mvp": 5,
-          "pos": 6,
-          "zona": "—"
-        },
-        {
-          "n": "Jan",
-          "tag": "#2899CRJG",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "seg": 1,
-          "idx": 73.7,
-          "idxb": 73.7,
-          "amostra": 50,
-          "mvp": 4,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -156,7 +175,7 @@
           "idxb": 73.7,
           "amostra": 100,
           "mvp": 5,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -175,7 +194,7 @@
           "idxb": 70.2,
           "amostra": 50,
           "mvp": 3,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -189,25 +208,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 2,
-          "seg": 0,
-          "idx": 70.2,
-          "idxb": 70.2,
-          "amostra": 50,
-          "mvp": 3,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "Levi_Neiva 2",
-          "tag": "#90GRYGJVP",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
           "seg": 0,
           "idx": 70.2,
           "idxb": 70.2,
@@ -763,6 +763,25 @@
           "zona": "—"
         },
         {
+          "n": "dvnly",
+          "tag": "#QR2JLQ2RR",
+          "th": 18,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "seg": 1,
+          "idx": 69.0,
+          "idxb": 69.0,
+          "amostra": 100,
+          "mvp": 6,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
           "n": "Lider Andre",
           "tag": "#20UUPGPCV",
           "th": 18,
@@ -778,7 +797,7 @@
           "idxb": 66.6,
           "amostra": 100,
           "mvp": 7,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -792,25 +811,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 2,
-          "seg": 0,
-          "idx": 65.9,
-          "idxb": 65.9,
-          "amostra": 100,
-          "mvp": 5,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "dvnly",
-          "tag": "#QR2JLQ2RR",
-          "th": 18,
-          "atk": 2,
-          "est": 5,
-          "spa": 2.5,
-          "conf": 100,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
           "seg": 0,
           "idx": 65.9,
           "idxb": 65.9,
@@ -858,6 +858,25 @@
           "zona": "—"
         },
         {
+          "n": "PaulinhoPH",
+          "tag": "#GVLGQ098",
+          "th": 17,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 50,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "seg": 1,
+          "idx": 63.6,
+          "idxb": 65.9,
+          "amostra": 50,
+          "mvp": 4,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
           "n": "LSWRTH",
           "tag": "#YVU0L88P",
           "th": 18,
@@ -873,7 +892,7 @@
           "idxb": 63.5,
           "amostra": 100,
           "mvp": 6,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -892,25 +911,6 @@
           "idxb": 63.5,
           "amostra": 100,
           "mvp": 6,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "PaulinhoPH",
-          "tag": "#GVLGQ098",
-          "th": 17,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "seg": 1,
-          "idx": 63.5,
-          "idxb": 65.9,
-          "amostra": 50,
-          "mvp": 4,
           "pos": 14,
           "zona": "—"
         },
