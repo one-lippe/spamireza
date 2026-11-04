@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T15:30:24.767759Z",
+  "atualizado": "2026-11-04T15:40:19.810202Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -960,7 +960,7 @@
               "tag": "#GRUG8UQGV",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30 #2",
