@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T18:30:26.815337Z",
+  "atualizado": "2026-11-04T18:40:23.947913Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -174,14 +174,16 @@
               "tag": "#2899CRJG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • Dog Apollo",
               "tag": "#YJ9R2GPJG",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                3
+              ],
+              "def_est": 3
             },
             {
               "nome": "SR • InTheDark☆",
@@ -482,7 +484,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • THIAGO",
@@ -1025,7 +1027,7 @@
               "atk": [
                 1
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Lider André 2",

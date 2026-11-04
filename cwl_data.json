@@ -421,14 +421,14 @@
         "inicio": "20261104T170357.000Z",
         "fim": "20261105T170357.000Z",
         "nos": {
-          "est": 6,
-          "destr": 13.333333333333334,
-          "atk": 2
+          "est": 9,
+          "destr": 20.0,
+          "atk": 3
         },
         "eles": {
-          "est": 11,
-          "destr": 26.4,
-          "atk": 4
+          "est": 16,
+          "destr": 38.86666666666667,
+          "atk": 6
         },
         "membros": [
           {
@@ -462,19 +462,34 @@
             "th": 18,
             "pos": 3,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 87,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 87
+              }
+            ]
           },
           {
             "nome": "SR • Dog Apollo",
             "tag": "#YJ9R2GPJG",
             "th": 18,
             "pos": 4,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • InTheDark☆",
@@ -794,14 +809,14 @@
       "inicio": "20261104T170357.000Z",
       "fim": "20261105T170357.000Z",
       "nos": {
-        "est": 6,
-        "destr": 13.333333333333334,
-        "atk": 2
+        "est": 9,
+        "destr": 20.0,
+        "atk": 3
       },
       "eles": {
-        "est": 11,
-        "destr": 26.4,
-        "atk": 4
+        "est": 16,
+        "destr": 38.86666666666667,
+        "atk": 6
       },
       "membros": [
         {
@@ -835,19 +850,34 @@
           "th": 18,
           "pos": 3,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 87,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 87
+            }
+          ]
         },
         {
           "nome": "SR • Dog Apollo",
           "tag": "#YJ9R2GPJG",
           "th": 18,
           "pos": 4,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • InTheDark☆",
@@ -1417,9 +1447,9 @@
           "atk": 14
         },
         "eles": {
-          "est": 25,
-          "destr": 64.26666666666667,
-          "atk": 10
+          "est": 28,
+          "destr": 70.93333333333334,
+          "atk": 11
         },
         "membros": [
           {
@@ -1543,9 +1573,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • THIAGO",
@@ -1880,9 +1915,9 @@
         "atk": 14
       },
       "eles": {
-        "est": 25,
-        "destr": 64.26666666666667,
-        "atk": 10
+        "est": 28,
+        "destr": 70.93333333333334,
+        "atk": 11
       },
       "membros": [
         {
@@ -2006,9 +2041,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • THIAGO",
@@ -3023,9 +3063,9 @@
           "atk": 23
         },
         "eles": {
-          "est": 58,
-          "destr": 70.36666666666666,
-          "atk": 22
+          "est": 61,
+          "destr": 73.7,
+          "atk": 23
         },
         "membros": [
           {
@@ -3404,9 +3444,14 @@
                 "destr": 87
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Lider André 2",
@@ -3891,9 +3936,9 @@
         "atk": 23
       },
       "eles": {
-        "est": 58,
-        "destr": 70.36666666666666,
-        "atk": 22
+        "est": 61,
+        "destr": 73.7,
+        "atk": 23
       },
       "membros": [
         {
@@ -4272,9 +4317,14 @@
               "destr": 87
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Lider André 2",
