@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T04:50:20.583311Z",
+  "atualizado": "2026-11-04T05:00:28.167943Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -330,7 +330,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Sene",
@@ -716,7 +716,7 @@
               "tag": "#LLLU0VQCL",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "LSWRTH",
