@@ -1809,16 +1809,6 @@
             "defesas": []
           },
           {
-            "nome": "GSAzevedo30",
-            "tag": "#CJLVVL9L",
-            "th": 18,
-            "pos": 7,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
             "nome": "SR • THIAGO",
             "tag": "#89G0YGUJY",
             "th": 18,
@@ -1879,20 +1869,30 @@
             "defesas": []
           },
           {
-            "nome": "SR • DuM∆R",
-            "tag": "#YQRJL098P",
+            "nome": "Ligeirinh0xD",
+            "tag": "#GRR2G9LP0",
             "th": 18,
-            "pos": 14,
+            "pos": 15,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
           },
           {
-            "nome": "Ligeirinh0xD",
-            "tag": "#GRR2G9LP0",
+            "nome": "Darth Revan",
+            "tag": "#8R280VRCQ",
             "th": 18,
-            "pos": 15,
+            "pos": 16,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR • Nesquick",
+            "tag": "#YCRJU229",
+            "th": 18,
+            "pos": 17,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
