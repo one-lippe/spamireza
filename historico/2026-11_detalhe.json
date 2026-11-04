@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T19:20:27.278424Z",
+  "atualizado": "2026-11-04T19:30:30.481107Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -992,7 +992,9 @@
               "nome": "F4KER",
               "tag": "#QQQ8VQPL0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
