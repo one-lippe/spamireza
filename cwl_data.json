@@ -2922,9 +2922,9 @@
           "atk": 22
         },
         "eles": {
-          "est": 46,
-          "destr": 54.666666666666664,
-          "atk": 17
+          "est": 50,
+          "destr": 60.666666666666664,
+          "atk": 19
         },
         "membros": [
           {
@@ -3093,9 +3093,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 88,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 88
+              }
+            ]
           },
           {
             "nome": "Samuel Soares",
@@ -3193,9 +3198,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 92,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 92
+              }
+            ]
           },
           {
             "nome": "Sra Nunes",
@@ -3760,9 +3770,9 @@
         "atk": 22
       },
       "eles": {
-        "est": 46,
-        "destr": 54.666666666666664,
-        "atk": 17
+        "est": 50,
+        "destr": 60.666666666666664,
+        "atk": 19
       },
       "membros": [
         {
@@ -3931,9 +3941,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 88,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 88
+            }
+          ]
         },
         {
           "nome": "Samuel Soares",
@@ -4031,9 +4046,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 92,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 92
+            }
+          ]
         },
         {
           "nome": "Sra Nunes",

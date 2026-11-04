@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T16:10:24.684178Z",
+  "atualizado": "2026-11-04T16:20:22.148238Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -800,7 +800,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Samuel Soares",
@@ -852,7 +852,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Sra Nunes",
