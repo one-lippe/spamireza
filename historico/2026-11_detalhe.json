@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T22:20:19.598712Z",
+  "atualizado": "2026-11-04T22:30:26.512629Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -434,7 +434,7 @@
         {
           "g": 2,
           "vs": "Łowcy Mroku V2",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
@@ -1062,7 +1062,9 @@
               "nome": "Jan™",
               "tag": "#CJV9G22Q",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1078,7 +1080,9 @@
               "nome": "PaulinhoPH",
               "tag": "#GVLGQ098",
               "th": 17,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
