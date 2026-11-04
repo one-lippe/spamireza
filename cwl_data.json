@@ -1557,9 +1557,9 @@
           "atk": 15
         },
         "eles": {
-          "est": 32,
-          "destr": 83.73333333333333,
-          "atk": 13
+          "est": 35,
+          "destr": 90.4,
+          "atk": 14
         },
         "membros": [
           {
@@ -1788,9 +1788,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Dog Crazy",
@@ -2040,9 +2045,9 @@
         "atk": 15
       },
       "eles": {
-        "est": 32,
-        "destr": 83.73333333333333,
-        "atk": 13
+        "est": 35,
+        "destr": 90.4,
+        "atk": 14
       },
       "membros": [
         {
@@ -2271,9 +2276,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Dog Crazy",
