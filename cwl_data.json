@@ -1336,9 +1336,9 @@
           "atk": 12
         },
         "eles": {
-          "est": 22,
-          "destr": 57.6,
-          "atk": 9
+          "est": 25,
+          "destr": 64.26666666666667,
+          "atk": 10
         },
         "membros": [
           {
@@ -1592,9 +1592,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           }
         ]
       },
@@ -1784,9 +1789,9 @@
         "atk": 12
       },
       "eles": {
-        "est": 22,
-        "destr": 57.6,
-        "atk": 9
+        "est": 25,
+        "destr": 64.26666666666667,
+        "atk": 10
       },
       "membros": [
         {
@@ -2040,9 +2045,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         }
       ]
     },
@@ -2907,9 +2917,9 @@
         "inicio": "20261103T232411.000Z",
         "fim": "20261104T235008.000Z",
         "nos": {
-          "est": 39,
-          "destr": 55.53333333333333,
-          "atk": 18
+          "est": 40,
+          "destr": 57.86666666666667,
+          "atk": 19
         },
         "eles": {
           "est": 40,
@@ -3237,7 +3247,12 @@
             "tag": "#PCGCJRLRJ",
             "th": 18,
             "pos": 21,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 70
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -3715,9 +3730,9 @@
       "inicio": "20261103T232411.000Z",
       "fim": "20261104T235008.000Z",
       "nos": {
-        "est": 39,
-        "destr": 55.53333333333333,
-        "atk": 18
+        "est": 40,
+        "destr": 57.86666666666667,
+        "atk": 19
       },
       "eles": {
         "est": 40,
@@ -4045,7 +4060,12 @@
           "tag": "#PCGCJRLRJ",
           "th": 18,
           "pos": 21,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 70
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
