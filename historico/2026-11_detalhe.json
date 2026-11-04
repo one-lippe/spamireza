@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T23:50:23.486095Z",
+  "atualizado": "2026-11-04T23:58:10.009684Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -980,7 +980,7 @@
         {
           "g": 2,
           "vs": "fury01",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 30,
           "jogadores": [
             {
@@ -1328,7 +1328,9 @@
               "nome": "Samuel Soares",
               "tag": "#9V2L9J9JP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1433,7 +1435,9 @@
               "nome": "qvnly",
               "tag": "#GUCJQPVR9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
