@@ -1331,9 +1331,9 @@
         "inicio": "20261103T220153.000Z",
         "fim": "20261104T222727.000Z",
         "nos": {
-          "est": 28,
-          "destr": 66.2,
-          "atk": 10
+          "est": 31,
+          "destr": 72.86666666666666,
+          "atk": 11
         },
         "eles": {
           "est": 21,
@@ -1486,7 +1486,12 @@
             "tag": "#LJRPJ9PC0",
             "th": 18,
             "pos": 9,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1764,9 +1769,9 @@
       "inicio": "20261103T220153.000Z",
       "fim": "20261104T222727.000Z",
       "nos": {
-        "est": 28,
-        "destr": 66.2,
-        "atk": 10
+        "est": 31,
+        "destr": 72.86666666666666,
+        "atk": 11
       },
       "eles": {
         "est": 21,
@@ -1919,7 +1924,12 @@
           "tag": "#LJRPJ9PC0",
           "th": 18,
           "pos": 9,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -2882,9 +2892,9 @@
           "atk": 18
         },
         "eles": {
-          "est": 37,
-          "destr": 44.666666666666664,
-          "atk": 14
+          "est": 40,
+          "destr": 48.0,
+          "atk": 15
         },
         "membros": [
           {
@@ -3028,9 +3038,14 @@
                 "destr": 97
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Reikan",
@@ -3685,9 +3700,9 @@
         "atk": 18
       },
       "eles": {
-        "est": 37,
-        "destr": 44.666666666666664,
-        "atk": 14
+        "est": 40,
+        "destr": 48.0,
+        "atk": 15
       },
       "membros": [
         {
@@ -3831,9 +3846,14 @@
               "destr": 97
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Reikan",

@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T14:00:33.529487Z",
+  "atualizado": "2026-11-04T14:10:23.946413Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -349,7 +349,7 @@
           "sof": 2.0,
           "ndef": 1,
           "seg": 1,
-          "idx": 76.3,
+          "idx": 76.7,
           "idxb": 81.5,
           "amostra": 50,
           "mvp": 4,
@@ -433,6 +433,25 @@
           "zona": "—"
         },
         {
+          "n": "Monesy9",
+          "tag": "#LJRPJ9PC0",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 75.2,
+          "idxb": 75.2,
+          "amostra": 100,
+          "mvp": 6,
+          "pos": 8,
+          "zona": "—"
+        },
+        {
           "n": "SR • Dog Crazy",
           "tag": "#9LPJP9YPQ",
           "th": 18,
@@ -448,7 +467,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 6,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -467,7 +486,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 6,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -482,35 +501,16 @@
           "sof": 3.0,
           "ndef": 1,
           "seg": 0,
-          "idx": 73.1,
+          "idx": 73.5,
           "idxb": 75.2,
-          "amostra": 50,
-          "mvp": 3,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "tozim",
-          "tag": "#9G22U9U2Y",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 63.4,
-          "idxb": 63.4,
           "amostra": 50,
           "mvp": 3,
           "pos": 11,
           "zona": "—"
         },
         {
-          "n": "Monesy9",
-          "tag": "#LJRPJ9PC0",
+          "n": "tozim",
+          "tag": "#9G22U9U2Y",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -1171,7 +1171,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 1,
+          "ndef": 2,
           "seg": 0,
           "idx": 40.3,
           "idxb": 40.3,
