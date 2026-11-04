@@ -2717,14 +2717,14 @@
         "inicio": "20261103T232411.000Z",
         "fim": "20261104T232411.000Z",
         "nos": {
-          "est": 23,
-          "destr": 28.933333333333334,
-          "atk": 9
+          "est": 25,
+          "destr": 32.233333333333334,
+          "atk": 10
         },
         "eles": {
-          "est": 0,
-          "destr": 0.0,
-          "atk": 0
+          "est": 2,
+          "destr": 3.2,
+          "atk": 1
         },
         "membros": [
           {
@@ -2743,9 +2743,14 @@
             "th": 18,
             "pos": 2,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 96,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 96
+              }
+            ]
           },
           {
             "nome": "PaiDeFamilia",
@@ -2772,7 +2777,12 @@
             "tag": "#8Y9V2QQ82",
             "th": 18,
             "pos": 5,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 99
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -3405,14 +3415,14 @@
       "inicio": "20261103T232411.000Z",
       "fim": "20261104T232411.000Z",
       "nos": {
-        "est": 23,
-        "destr": 28.933333333333334,
-        "atk": 9
+        "est": 25,
+        "destr": 32.233333333333334,
+        "atk": 10
       },
       "eles": {
-        "est": 0,
-        "destr": 0.0,
-        "atk": 0
+        "est": 2,
+        "destr": 3.2,
+        "atk": 1
       },
       "membros": [
         {
@@ -3431,9 +3441,14 @@
           "th": 18,
           "pos": 2,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 96,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 96
+            }
+          ]
         },
         {
           "nome": "PaiDeFamilia",
@@ -3460,7 +3475,12 @@
           "tag": "#8Y9V2QQ82",
           "th": 18,
           "pos": 5,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 99
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
