@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T05:50:19.403899Z",
+  "atualizado": "2026-11-04T06:00:31.797346Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -869,7 +869,7 @@
           "sof": 2.5,
           "ndef": 2,
           "seg": 1,
-          "idx": 62.5,
+          "idx": 62.6,
           "idxb": 65.9,
           "amostra": 50,
           "mvp": 4,
@@ -1048,6 +1048,25 @@
           "zona": "—"
         },
         {
+          "n": "digon",
+          "tag": "#GRRYUUGJ2",
+          "th": 18,
+          "atk": 2,
+          "est": 3,
+          "spa": 1.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "seg": 0,
+          "idx": 48.8,
+          "idxb": 48.8,
+          "amostra": 100,
+          "mvp": 3,
+          "pos": 23,
+          "zona": "—"
+        },
+        {
           "n": "rei do crime",
           "tag": "#RP8VCCUV",
           "th": 18,
@@ -1058,25 +1077,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 1,
-          "seg": 0,
-          "idx": 45.7,
-          "idxb": 45.7,
-          "amostra": 50,
-          "mvp": 2,
-          "pos": 23,
-          "zona": "—"
-        },
-        {
-          "n": "digon",
-          "tag": "#GRRYUUGJ2",
-          "th": 18,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
           "seg": 0,
           "idx": 45.7,
           "idxb": 45.7,

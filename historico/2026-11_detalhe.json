@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T05:50:19.405568Z",
+  "atualizado": "2026-11-04T06:00:31.798908Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -850,7 +850,9 @@
               "nome": "digon",
               "tag": "#GRRYUUGJ2",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
