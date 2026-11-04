@@ -105,9 +105,9 @@
           "atk": 13
         },
         "eles": {
-          "est": 28,
-          "destr": 65.86666666666666,
-          "atk": 10
+          "est": 31,
+          "destr": 72.53333333333333,
+          "atk": 11
         },
         "membros": [
           {
@@ -326,9 +326,14 @@
                 "destr": 77
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Levi_Neiva 2",
@@ -563,9 +568,9 @@
         "atk": 13
       },
       "eles": {
-        "est": 28,
-        "destr": 65.86666666666666,
-        "atk": 10
+        "est": 31,
+        "destr": 72.53333333333333,
+        "atk": 11
       },
       "membros": [
         {
@@ -784,9 +789,14 @@
               "destr": 77
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Levi_Neiva 2",
@@ -2717,9 +2727,9 @@
         "inicio": "20261103T232411.000Z",
         "fim": "20261104T232411.000Z",
         "nos": {
-          "est": 25,
-          "destr": 32.233333333333334,
-          "atk": 10
+          "est": 28,
+          "destr": 35.56666666666667,
+          "atk": 11
         },
         "eles": {
           "est": 2,
@@ -2792,7 +2802,12 @@
             "tag": "#8PURGU2YG",
             "th": 18,
             "pos": 6,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -3415,9 +3430,9 @@
       "inicio": "20261103T232411.000Z",
       "fim": "20261104T232411.000Z",
       "nos": {
-        "est": 25,
-        "destr": 32.233333333333334,
-        "atk": 10
+        "est": 28,
+        "destr": 35.56666666666667,
+        "atk": 11
       },
       "eles": {
         "est": 2,
@@ -3490,7 +3505,12 @@
           "tag": "#8PURGU2YG",
           "th": 18,
           "pos": 6,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []

@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T02:30:24.238625Z",
+  "atualizado": "2026-11-04T02:40:17.532920Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -217,27 +217,27 @@
           "zona": "—"
         },
         {
-          "n": "☆VILA DO PX ツ",
-          "tag": "#8PUL8JPC",
+          "n": "Henrique Nerath",
+          "tag": "#2U8P0YQ92",
           "th": 18,
           "atk": 1,
           "est": 2,
           "spa": 2.0,
           "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
           "seg": 0,
-          "idx": 80.2,
-          "idxb": 80.2,
+          "idx": 64.1,
+          "idxb": 64.1,
           "amostra": 100,
           "mvp": 2,
           "pos": 12,
           "zona": "—"
         },
         {
-          "n": "Henrique Nerath",
-          "tag": "#2U8P0YQ92",
+          "n": "☆VILA DO PX ツ",
+          "tag": "#8PUL8JPC",
           "th": 18,
           "atk": 1,
           "est": 2,
@@ -687,6 +687,25 @@
           "zona": "—"
         },
         {
+          "n": "100%War_⚡Slash⚡",
+          "tag": "#8PURGU2YG",
+          "th": 18,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 65.9,
+          "idxb": 65.9,
+          "amostra": 100,
+          "mvp": 5,
+          "pos": 4,
+          "zona": "—"
+        },
+        {
           "n": "Reikan",
           "tag": "#GJYRCJ0PR",
           "th": 18,
@@ -702,7 +721,7 @@
           "idxb": 65.9,
           "amostra": 100,
           "mvp": 5,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -721,7 +740,7 @@
           "idxb": 65.9,
           "amostra": 100,
           "mvp": 5,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -740,7 +759,7 @@
           "idxb": 65.9,
           "amostra": 100,
           "mvp": 5,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -755,11 +774,11 @@
           "sof": 2.0,
           "ndef": 2,
           "seg": 2,
-          "idx": 63.8,
+          "idx": 64.1,
           "idxb": 69.0,
           "amostra": 50,
           "mvp": 5,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -774,11 +793,11 @@
           "sof": 2.0,
           "ndef": 1,
           "seg": 1,
-          "idx": 63.8,
+          "idx": 64.1,
           "idxb": 69.0,
           "amostra": 50,
           "mvp": 4,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -793,11 +812,11 @@
           "sof": 2.0,
           "ndef": 1,
           "seg": 1,
-          "idx": 63.8,
+          "idx": 64.1,
           "idxb": 69.0,
           "amostra": 50,
           "mvp": 4,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -812,11 +831,11 @@
           "sof": 2.0,
           "ndef": 1,
           "seg": 1,
-          "idx": 63.8,
+          "idx": 64.1,
           "idxb": 69.0,
           "amostra": 50,
           "mvp": 4,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -835,7 +854,7 @@
           "idxb": 63.5,
           "amostra": 100,
           "mvp": 5,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -854,7 +873,7 @@
           "idxb": 63.5,
           "amostra": 100,
           "mvp": 5,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -869,11 +888,11 @@
           "sof": 3.0,
           "ndef": 1,
           "seg": 0,
-          "idx": 60.7,
+          "idx": 61.0,
           "idxb": 62.8,
           "amostra": 50,
           "mvp": 3,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -888,11 +907,11 @@
           "sof": 3.0,
           "ndef": 1,
           "seg": 0,
-          "idx": 60.7,
+          "idx": 61.0,
           "idxb": 62.8,
           "amostra": 50,
           "mvp": 3,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -907,11 +926,11 @@
           "sof": 3.0,
           "ndef": 1,
           "seg": 0,
-          "idx": 60.7,
+          "idx": 61.0,
           "idxb": 62.8,
           "amostra": 50,
           "mvp": 3,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -926,11 +945,11 @@
           "sof": 3.0,
           "ndef": 1,
           "seg": 0,
-          "idx": 60.7,
+          "idx": 61.0,
           "idxb": 62.8,
           "amostra": 50,
           "mvp": 3,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -945,11 +964,11 @@
           "sof": 3.0,
           "ndef": 1,
           "seg": 0,
-          "idx": 60.7,
+          "idx": 61.0,
           "idxb": 62.8,
           "amostra": 50,
           "mvp": 3,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -964,11 +983,11 @@
           "sof": 3.0,
           "ndef": 1,
           "seg": 0,
-          "idx": 60.7,
+          "idx": 61.0,
           "idxb": 62.8,
           "amostra": 50,
           "mvp": 3,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -987,7 +1006,7 @@
           "idxb": 58.1,
           "amostra": 50,
           "mvp": 4,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1006,7 +1025,7 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 4,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1023,25 +1042,6 @@
           "seg": 0,
           "idx": 57.4,
           "idxb": 57.4,
-          "amostra": 50,
-          "mvp": 2,
-          "pos": 21,
-          "zona": "—"
-        },
-        {
-          "n": "100%War_⚡Slash⚡",
-          "tag": "#8PURGU2YG",
-          "th": 18,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 45.7,
-          "idxb": 45.7,
           "amostra": 50,
           "mvp": 2,
           "pos": 22,
