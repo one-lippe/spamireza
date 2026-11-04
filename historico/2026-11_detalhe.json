@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T13:50:23.767877Z",
+  "atualizado": "2026-11-04T14:00:33.530801Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -915,7 +915,7 @@
               "tag": "#GY0Q0VRL0",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "PaulinhoPH",
