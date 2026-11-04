@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T05:30:26.283318Z",
+  "atualizado": "2026-11-04T05:40:25.719236Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -820,25 +820,6 @@
           "zona": "—"
         },
         {
-          "n": "PaulinhoPH",
-          "tag": "#GVLGQ098",
-          "th": 17,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "seg": 1,
-          "idx": 64.1,
-          "idxb": 69.0,
-          "amostra": 50,
-          "mvp": 4,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
           "n": "♣️Dorindo Sena♣",
           "tag": "#8Y9V2QQ82",
           "th": 18,
@@ -854,7 +835,7 @@
           "idxb": 63.5,
           "amostra": 100,
           "mvp": 5,
-          "pos": 12,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -873,6 +854,25 @@
           "idxb": 63.5,
           "amostra": 100,
           "mvp": 5,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
+          "n": "PaulinhoPH",
+          "tag": "#GVLGQ098",
+          "th": 17,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 50,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "seg": 1,
+          "idx": 62.5,
+          "idxb": 65.9,
+          "amostra": 50,
+          "mvp": 4,
           "pos": 13,
           "zona": "—"
         },
