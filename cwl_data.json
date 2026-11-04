@@ -1552,14 +1552,14 @@
         "inicio": "20261103T220153.000Z",
         "fim": "20261104T222727.000Z",
         "nos": {
-          "est": 40,
-          "destr": 92.86666666666666,
-          "atk": 14
+          "est": 43,
+          "destr": 99.53333333333333,
+          "atk": 15
         },
         "eles": {
-          "est": 31,
-          "destr": 77.6,
-          "atk": 12
+          "est": 32,
+          "destr": 83.73333333333333,
+          "atk": 13
         },
         "membros": [
           {
@@ -1728,9 +1728,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 92,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 92
+              }
+            ]
           },
           {
             "nome": "MAJ0R FiV3",
@@ -1812,7 +1817,12 @@
             "tag": "#YQRJL098P",
             "th": 18,
             "pos": 14,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -2025,14 +2035,14 @@
       "inicio": "20261103T220153.000Z",
       "fim": "20261104T222727.000Z",
       "nos": {
-        "est": 40,
-        "destr": 92.86666666666666,
-        "atk": 14
+        "est": 43,
+        "destr": 99.53333333333333,
+        "atk": 15
       },
       "eles": {
-        "est": 31,
-        "destr": 77.6,
-        "atk": 12
+        "est": 32,
+        "destr": 83.73333333333333,
+        "atk": 13
       },
       "membros": [
         {
@@ -2201,9 +2211,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 92,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 92
+            }
+          ]
         },
         {
           "nome": "MAJ0R FiV3",
@@ -2285,7 +2300,12 @@
           "tag": "#YQRJL098P",
           "th": 18,
           "pos": 14,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -3183,9 +3203,9 @@
           "atk": 24
         },
         "eles": {
-          "est": 71,
-          "destr": 85.3,
-          "atk": 27
+          "est": 74,
+          "destr": 88.63333333333334,
+          "atk": 28
         },
         "membros": [
           {
@@ -3619,9 +3639,14 @@
             "th": 18,
             "pos": 24,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Líder André 3",
@@ -4081,9 +4106,9 @@
         "atk": 24
       },
       "eles": {
-        "est": 71,
-        "destr": 85.3,
-        "atk": 27
+        "est": 74,
+        "destr": 88.63333333333334,
+        "atk": 28
       },
       "membros": [
         {
@@ -4517,9 +4542,14 @@
           "th": 18,
           "pos": 24,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Líder André 3",

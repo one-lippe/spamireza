@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T21:00:29.600976Z",
+  "atualizado": "2026-11-04T21:10:21.771316Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -512,7 +512,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "MAJ0R FiV3",
@@ -554,7 +554,9 @@
               "nome": "SR • DuM∆R",
               "tag": "#YQRJL098P",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1055,7 +1057,7 @@
               "tag": "#CJV9G22Q",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Líder André 3",
