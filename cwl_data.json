@@ -426,9 +426,9 @@
           "atk": 3
         },
         "eles": {
-          "est": 16,
-          "destr": 38.86666666666667,
-          "atk": 6
+          "est": 19,
+          "destr": 45.53333333333333,
+          "atk": 7
         },
         "membros": [
           {
@@ -437,9 +437,14 @@
             "th": 18,
             "pos": 1,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Henrique Nerath",
@@ -814,9 +819,9 @@
         "atk": 3
       },
       "eles": {
-        "est": 16,
-        "destr": 38.86666666666667,
-        "atk": 6
+        "est": 19,
+        "destr": 45.53333333333333,
+        "atk": 7
       },
       "membros": [
         {
@@ -825,9 +830,14 @@
           "th": 18,
           "pos": 1,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Henrique Nerath",

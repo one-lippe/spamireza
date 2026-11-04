@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T19:00:44.487484Z",
+  "atualizado": "2026-11-04T19:10:29.647051Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -160,7 +160,7 @@
               "tag": "#8GGCQPYP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Henrique Nerath",
