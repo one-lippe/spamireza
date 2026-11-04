@@ -105,9 +105,9 @@
           "atk": 15
         },
         "eles": {
-          "est": 40,
-          "destr": 92.53333333333333,
-          "atk": 14
+          "est": 43,
+          "destr": 99.2,
+          "atk": 15
         },
         "membros": [
           {
@@ -181,9 +181,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • InTheDark☆",
@@ -593,9 +598,9 @@
         "atk": 15
       },
       "eles": {
-        "est": 40,
-        "destr": 92.53333333333333,
-        "atk": 14
+        "est": 43,
+        "destr": 99.2,
+        "atk": 15
       },
       "membros": [
         {
@@ -669,9 +674,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • InTheDark☆",
@@ -2847,9 +2857,9 @@
         "inicio": "20261103T232411.000Z",
         "fim": "20261104T235008.000Z",
         "nos": {
-          "est": 34,
-          "destr": 43.63333333333333,
-          "atk": 14
+          "est": 35,
+          "destr": 46.86666666666667,
+          "atk": 15
         },
         "eles": {
           "est": 32,
@@ -2977,7 +2987,12 @@
             "tag": "#9RJGGUY9R",
             "th": 18,
             "pos": 8,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 97
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -3620,9 +3635,9 @@
       "inicio": "20261103T232411.000Z",
       "fim": "20261104T235008.000Z",
       "nos": {
-        "est": 34,
-        "destr": 43.63333333333333,
-        "atk": 14
+        "est": 35,
+        "destr": 46.86666666666667,
+        "atk": 15
       },
       "eles": {
         "est": 32,
@@ -3750,7 +3765,12 @@
           "tag": "#9RJGGUY9R",
           "th": 18,
           "pos": 8,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 97
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
