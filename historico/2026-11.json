@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T22:10:22.904561Z",
+  "atualizado": "2026-11-04T22:20:19.597056Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -103,6 +103,25 @@
           "zona": "—"
         },
         {
+          "n": "MAJ0R FiV3",
+          "tag": "#LCR9YQGYY",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "seg": 0,
+          "idx": 83.2,
+          "idxb": 83.2,
+          "amostra": 100,
+          "mvp": 6,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
           "n": "SR • Neskau",
           "tag": "#P8GLGPRP",
           "th": 18,
@@ -118,7 +137,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 6,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -137,7 +156,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 6,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -156,7 +175,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 6,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -171,11 +190,11 @@
           "sof": 2.0,
           "ndef": 2,
           "seg": 1,
-          "idx": 76.9,
+          "idx": 77.1,
           "idxb": 77.1,
           "amostra": 50,
           "mvp": 5,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -194,31 +213,12 @@
           "idxb": 73.7,
           "amostra": 100,
           "mvp": 5,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
           "n": "SR • JON SNOW",
           "tag": "#LYV2J2LU",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "seg": 0,
-          "idx": 70.2,
-          "idxb": 70.2,
-          "amostra": 50,
-          "mvp": 3,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "MAJ0R FiV3",
-          "tag": "#LCR9YQGYY",
           "th": 18,
           "atk": 1,
           "est": 3,
