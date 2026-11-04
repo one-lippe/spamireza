@@ -426,9 +426,9 @@
           "atk": 2
         },
         "eles": {
-          "est": 8,
-          "destr": 19.733333333333334,
-          "atk": 3
+          "est": 11,
+          "destr": 26.4,
+          "atk": 4
         },
         "membros": [
           {
@@ -512,9 +512,14 @@
             "th": 18,
             "pos": 7,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Coyote 171 × 戦備",
@@ -794,9 +799,9 @@
         "atk": 2
       },
       "eles": {
-        "est": 8,
-        "destr": 19.733333333333334,
-        "atk": 3
+        "est": 11,
+        "destr": 26.4,
+        "atk": 4
       },
       "membros": [
         {
@@ -880,9 +885,14 @@
           "th": 18,
           "pos": 7,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Coyote 171 × 戦備",
