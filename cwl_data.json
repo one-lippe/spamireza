@@ -1896,7 +1896,7 @@
       },
       {
         "warTag": "#8L22JJYPR",
-        "state": "preparation",
+        "state": "inWar",
         "teamSize": 15,
         "adversario": "UnitedWarriorDK",
         "prep": "20261103T221209.000Z",
@@ -2068,7 +2068,7 @@
     ],
     "atual": {
       "warTag": "#8L22JJYPR",
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 15,
       "adversario": "UnitedWarriorDK",
       "prep": "20261103T221209.000Z",
