@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T10:10:31.746831Z",
+  "atualizado": "2026-11-04T10:20:23.127044Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -793,7 +793,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "dvnly",
@@ -825,7 +825,7 @@
               "tag": "#Q9PL0CUU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • The off",

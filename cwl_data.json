@@ -2832,9 +2832,9 @@
           "atk": 14
         },
         "eles": {
-          "est": 22,
-          "destr": 26.366666666666667,
-          "atk": 8
+          "est": 28,
+          "destr": 33.03333333333333,
+          "atk": 10
         },
         "membros": [
           {
@@ -2983,9 +2983,14 @@
                 "destr": 82
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "dvnly",
@@ -3033,9 +3038,14 @@
             "th": 18,
             "pos": 14,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • The off",
@@ -3585,9 +3595,9 @@
         "atk": 14
       },
       "eles": {
-        "est": 22,
-        "destr": 26.366666666666667,
-        "atk": 8
+        "est": 28,
+        "destr": 33.03333333333333,
+        "atk": 10
       },
       "membros": [
         {
@@ -3736,9 +3746,14 @@
               "destr": 82
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "dvnly",
@@ -3786,9 +3801,14 @@
           "th": 18,
           "pos": 14,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • The off",
