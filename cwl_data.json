@@ -105,9 +105,9 @@
           "atk": 14
         },
         "eles": {
-          "est": 37,
-          "destr": 85.86666666666666,
-          "atk": 13
+          "est": 40,
+          "destr": 92.53333333333333,
+          "atk": 14
         },
         "membros": [
           {
@@ -391,9 +391,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           }
         ]
       },
@@ -583,9 +588,9 @@
         "atk": 14
       },
       "eles": {
-        "est": 37,
-        "destr": 85.86666666666666,
-        "atk": 13
+        "est": 40,
+        "destr": 92.53333333333333,
+        "atk": 14
       },
       "membros": [
         {
@@ -869,9 +874,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         }
       ]
     },
