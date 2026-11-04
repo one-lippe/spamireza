@@ -1336,9 +1336,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 19,
-          "destr": 45.2,
-          "atk": 7
+          "est": 21,
+          "destr": 51.666666666666664,
+          "atk": 8
         },
         "membros": [
           {
@@ -1437,9 +1437,14 @@
                 "destr": 93
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 97,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 97
+              }
+            ]
           },
           {
             "nome": "KingMpg",
@@ -1764,9 +1769,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 19,
-        "destr": 45.2,
-        "atk": 7
+        "est": 21,
+        "destr": 51.666666666666664,
+        "atk": 8
       },
       "membros": [
         {
@@ -1865,9 +1870,14 @@
               "destr": 93
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 97,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 97
+            }
+          ]
         },
         {
           "nome": "KingMpg",
@@ -2867,9 +2877,9 @@
         "inicio": "20261103T232411.000Z",
         "fim": "20261104T235008.000Z",
         "nos": {
-          "est": 38,
-          "destr": 52.833333333333336,
-          "atk": 17
+          "est": 39,
+          "destr": 55.53333333333333,
+          "atk": 18
         },
         "eles": {
           "est": 34,
@@ -2897,7 +2907,12 @@
             "tag": "#YVU0L88P",
             "th": 18,
             "pos": 2,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 81
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 96,
             "defesas": [
@@ -3660,9 +3675,9 @@
       "inicio": "20261103T232411.000Z",
       "fim": "20261104T235008.000Z",
       "nos": {
-        "est": 38,
-        "destr": 52.833333333333336,
-        "atk": 17
+        "est": 39,
+        "destr": 55.53333333333333,
+        "atk": 18
       },
       "eles": {
         "est": 34,
@@ -3690,7 +3705,12 @@
           "tag": "#YVU0L88P",
           "th": 18,
           "pos": 2,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 81
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 96,
           "defesas": [
