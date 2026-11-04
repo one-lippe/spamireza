@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T17:10:35.956702Z",
+  "atualizado": "2026-11-04T17:20:23.179213Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -188,14 +188,14 @@
               "tag": "#PQRRG2YCP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • JON SNOW",
               "tag": "#LYV2J2LU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR - JON SNOW 2",
@@ -208,7 +208,9 @@
               "nome": "Coyote 171 × 戦備",
               "tag": "#Y08CR0PQU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
