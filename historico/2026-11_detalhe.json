@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T16:00:32.140831Z",
+  "atualizado": "2026-11-04T16:10:24.684178Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -752,7 +752,9 @@
               "nome": "Lider Andre",
               "tag": "#20UUPGPCV",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
@@ -825,7 +827,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "♣DnF◆",
@@ -906,7 +908,9 @@
               "nome": "Lider André 2",
               "tag": "#L9GRLYGVQ",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
