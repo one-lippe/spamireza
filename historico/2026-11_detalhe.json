@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T05:20:18.352140Z",
+  "atualizado": "2026-11-04T05:30:26.284835Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -755,7 +755,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Royther13",
@@ -851,7 +851,7 @@
               "tag": "#GRRYUUGJ2",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "irmão do jorel",
@@ -865,7 +865,7 @@
               "tag": "#PCGCJRLRJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Meliodas NNT",
