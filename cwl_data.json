@@ -2917,14 +2917,14 @@
         "inicio": "20261103T232411.000Z",
         "fim": "20261104T235008.000Z",
         "nos": {
-          "est": 46,
-          "destr": 64.6,
-          "atk": 22
+          "est": 47,
+          "destr": 67.53333333333333,
+          "atk": 23
         },
         "eles": {
-          "est": 50,
-          "destr": 60.666666666666664,
-          "atk": 19
+          "est": 55,
+          "destr": 67.03333333333333,
+          "atk": 21
         },
         "membros": [
           {
@@ -3177,7 +3177,12 @@
             "tag": "#Q9PL0CUU",
             "th": 18,
             "pos": 14,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 88
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -3228,9 +3233,14 @@
             "th": 18,
             "pos": 18,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 91,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 91
+              }
+            ]
           },
           {
             "nome": "digon",
@@ -3363,9 +3373,14 @@
             "th": 18,
             "pos": 27,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Eduhh",
@@ -3765,14 +3780,14 @@
       "inicio": "20261103T232411.000Z",
       "fim": "20261104T235008.000Z",
       "nos": {
-        "est": 46,
-        "destr": 64.6,
-        "atk": 22
+        "est": 47,
+        "destr": 67.53333333333333,
+        "atk": 23
       },
       "eles": {
-        "est": 50,
-        "destr": 60.666666666666664,
-        "atk": 19
+        "est": 55,
+        "destr": 67.03333333333333,
+        "atk": 21
       },
       "membros": [
         {
@@ -4025,7 +4040,12 @@
           "tag": "#Q9PL0CUU",
           "th": 18,
           "pos": 14,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 88
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -4076,9 +4096,14 @@
           "th": 18,
           "pos": 18,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 91,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 91
+            }
+          ]
         },
         {
           "nome": "digon",
@@ -4211,9 +4236,14 @@
           "th": 18,
           "pos": 27,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Eduhh",

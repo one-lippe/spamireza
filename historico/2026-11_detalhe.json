@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T16:20:22.148238Z",
+  "atualizado": "2026-11-04T16:30:25.138220Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -842,7 +842,9 @@
               "nome": "SR•InTheDark II",
               "tag": "#Q9PL0CUU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
@@ -868,7 +870,7 @@
               "tag": "#QQQ8VQPL0",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "digon",
@@ -941,7 +943,7 @@
               "tag": "#GUCJQPVR9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Eduhh",
