@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T02:40:17.532920Z",
+  "atualizado": "2026-11-04T02:50:25.570773Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -27,8 +27,8 @@
           "zona": "—"
         },
         {
-          "n": "SR • InTheDark☆",
-          "tag": "#PQRRG2YCP",
+          "n": "matias?",
+          "tag": "#RCQQUGC9",
           "th": 18,
           "atk": 1,
           "est": 3,
@@ -46,27 +46,27 @@
           "zona": "—"
         },
         {
-          "n": "matias?",
-          "tag": "#RCQQUGC9",
+          "n": "Jan",
+          "tag": "#2899CRJG",
           "th": 18,
           "atk": 1,
           "est": 3,
           "spa": 3.0,
           "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
           "seg": 0,
-          "idx": 104.0,
-          "idxb": 104.0,
+          "idx": 83.2,
+          "idxb": 83.2,
           "amostra": 100,
           "mvp": 3,
           "pos": 3,
           "zona": "—"
         },
         {
-          "n": "Jan",
-          "tag": "#2899CRJG",
+          "n": "SR • InTheDark☆",
+          "tag": "#PQRRG2YCP",
           "th": 18,
           "atk": 1,
           "est": 3,
