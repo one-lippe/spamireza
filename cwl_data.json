@@ -1326,9 +1326,9 @@
           "atk": 7
         },
         "eles": {
-          "est": 8,
-          "destr": 19.2,
-          "atk": 3
+          "est": 11,
+          "destr": 25.866666666666667,
+          "atk": 4
         },
         "membros": [
           {
@@ -1477,9 +1477,14 @@
             "th": 18,
             "pos": 11,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Monesy",
@@ -1719,9 +1724,9 @@
         "atk": 7
       },
       "eles": {
-        "est": 8,
-        "destr": 19.2,
-        "atk": 3
+        "est": 11,
+        "destr": 25.866666666666667,
+        "atk": 4
       },
       "membros": [
         {
@@ -1870,9 +1875,14 @@
           "th": 18,
           "pos": 11,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Monesy",

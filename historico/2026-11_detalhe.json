@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T06:50:23.227272Z",
+  "atualizado": "2026-11-04T07:00:22.053678Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -389,7 +389,7 @@
               "tag": "#YPJLVPL9U",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Monesy",
