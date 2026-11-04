@@ -1326,9 +1326,9 @@
           "atk": 7
         },
         "eles": {
-          "est": 11,
-          "destr": 25.866666666666667,
-          "atk": 4
+          "est": 14,
+          "destr": 32.53333333333333,
+          "atk": 5
         },
         "membros": [
           {
@@ -1517,9 +1517,14 @@
             "th": 18,
             "pos": 14,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Ligeirinh0xD",
@@ -1724,9 +1729,9 @@
         "atk": 7
       },
       "eles": {
-        "est": 11,
-        "destr": 25.866666666666667,
-        "atk": 4
+        "est": 14,
+        "destr": 32.53333333333333,
+        "atk": 5
       },
       "membros": [
         {
@@ -1915,9 +1920,14 @@
           "th": 18,
           "pos": 14,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Ligeirinh0xD",
@@ -2802,9 +2812,9 @@
           "atk": 12
         },
         "eles": {
-          "est": 17,
-          "destr": 19.866666666666667,
-          "atk": 6
+          "est": 20,
+          "destr": 23.2,
+          "atk": 7
         },
         "membros": [
           {
@@ -2843,9 +2853,14 @@
             "th": 18,
             "pos": 3,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Lider Andre",
@@ -3535,9 +3550,9 @@
         "atk": 12
       },
       "eles": {
-        "est": 17,
-        "destr": 19.866666666666667,
-        "atk": 6
+        "est": 20,
+        "destr": 23.2,
+        "atk": 7
       },
       "membros": [
         {
@@ -3576,9 +3591,14 @@
           "th": 18,
           "pos": 3,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Lider Andre",

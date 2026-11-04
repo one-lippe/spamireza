@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T07:00:22.052084Z",
+  "atualizado": "2026-11-04T07:10:21.100158Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -611,9 +611,9 @@
           "est": 0,
           "spa": 0,
           "conf": 0,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
           "seg": 0,
           "idx": 0.0,
           "idxb": 0.0,
@@ -782,25 +782,6 @@
           "zona": "—"
         },
         {
-          "n": "PaiDeFamilia",
-          "tag": "#2GCJ8QC92",
-          "th": 18,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 50,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 1,
-          "seg": 1,
-          "idx": 64.1,
-          "idxb": 69.0,
-          "amostra": 50,
-          "mvp": 4,
-          "pos": 9,
-          "zona": "—"
-        },
-        {
           "n": "F4KER",
           "tag": "#QQQ8VQPL0",
           "th": 18,
@@ -816,7 +797,7 @@
           "idxb": 69.0,
           "amostra": 50,
           "mvp": 4,
-          "pos": 10,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -835,7 +816,7 @@
           "idxb": 63.5,
           "amostra": 100,
           "mvp": 5,
-          "pos": 11,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -854,6 +835,25 @@
           "idxb": 63.5,
           "amostra": 100,
           "mvp": 5,
+          "pos": 11,
+          "zona": "—"
+        },
+        {
+          "n": "PaiDeFamilia",
+          "tag": "#2GCJ8QC92",
+          "th": 18,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 50,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "seg": 1,
+          "idx": 62.5,
+          "idxb": 65.9,
+          "amostra": 50,
+          "mvp": 4,
           "pos": 12,
           "zona": "—"
         },
@@ -869,7 +869,7 @@
           "sof": 2.5,
           "ndef": 2,
           "seg": 1,
-          "idx": 62.6,
+          "idx": 62.5,
           "idxb": 65.9,
           "amostra": 50,
           "mvp": 4,
