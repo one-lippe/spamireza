@@ -105,9 +105,9 @@
           "atk": 13
         },
         "eles": {
-          "est": 25,
-          "destr": 59.2,
-          "atk": 9
+          "est": 28,
+          "destr": 65.86666666666666,
+          "atk": 10
         },
         "membros": [
           {
@@ -306,9 +306,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "☆VILA DO PX ツ",
@@ -558,9 +563,9 @@
         "atk": 13
       },
       "eles": {
-        "est": 25,
-        "destr": 59.2,
-        "atk": 9
+        "est": 28,
+        "destr": 65.86666666666666,
+        "atk": 10
       },
       "membros": [
         {
@@ -759,9 +764,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "☆VILA DO PX ツ",
@@ -2707,9 +2717,9 @@
         "inicio": "20261103T232411.000Z",
         "fim": "20261104T232411.000Z",
         "nos": {
-          "est": 21,
-          "destr": 26.2,
-          "atk": 8
+          "est": 23,
+          "destr": 28.933333333333334,
+          "atk": 9
         },
         "eles": {
           "est": 0,
@@ -2822,7 +2832,12 @@
             "tag": "#9V2L9J9JP",
             "th": 18,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 82
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -3390,9 +3405,9 @@
       "inicio": "20261103T232411.000Z",
       "fim": "20261104T232411.000Z",
       "nos": {
-        "est": 21,
-        "destr": 26.2,
-        "atk": 8
+        "est": 23,
+        "destr": 28.933333333333334,
+        "atk": 9
       },
       "eles": {
         "est": 0,
@@ -3505,7 +3520,12 @@
           "tag": "#9V2L9J9JP",
           "th": 18,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 82
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []

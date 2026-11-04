@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-04T02:10:22.458228Z",
+  "atualizado": "2026-11-04T02:20:29.251971Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -107,7 +107,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "☆VILA DO PX ツ",
@@ -780,7 +780,9 @@
               "nome": "Samuel Soares",
               "tag": "#9V2L9J9JP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
