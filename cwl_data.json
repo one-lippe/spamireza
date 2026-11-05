@@ -3995,9 +3995,9 @@
           "atk": 13
         },
         "eles": {
-          "est": 9,
-          "destr": 10.0,
-          "atk": 3
+          "est": 12,
+          "destr": 13.333333333333334,
+          "atk": 4
         },
         "membros": [
           {
@@ -4301,9 +4301,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Eduhh",
@@ -4718,9 +4723,9 @@
         "atk": 13
       },
       "eles": {
-        "est": 9,
-        "destr": 10.0,
-        "atk": 3
+        "est": 12,
+        "destr": 13.333333333333334,
+        "atk": 4
       },
       "membros": [
         {
@@ -5024,9 +5029,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Eduhh",
