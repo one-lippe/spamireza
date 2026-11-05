@@ -742,9 +742,9 @@
         "inicio": "20261105T170418.000Z",
         "fim": "20261106T170418.000Z",
         "nos": {
-          "est": 8,
-          "destr": 19.666666666666668,
-          "atk": 3
+          "est": 11,
+          "destr": 26.333333333333332,
+          "atk": 4
         },
         "eles": {
           "est": 3,
@@ -887,7 +887,12 @@
             "tag": "#P8GLGPRP",
             "th": 18,
             "pos": 13,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1105,9 +1110,9 @@
       "inicio": "20261105T170418.000Z",
       "fim": "20261106T170418.000Z",
       "nos": {
-        "est": 8,
-        "destr": 19.666666666666668,
-        "atk": 3
+        "est": 11,
+        "destr": 26.333333333333332,
+        "atk": 4
       },
       "eles": {
         "est": 3,
@@ -1250,7 +1255,12 @@
           "tag": "#P8GLGPRP",
           "th": 18,
           "pos": 13,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -2039,9 +2049,9 @@
           "atk": 11
         },
         "eles": {
-          "est": 28,
-          "destr": 64.4,
-          "atk": 10
+          "est": 31,
+          "destr": 71.06666666666666,
+          "atk": 11
         },
         "membros": [
           {
@@ -2230,9 +2240,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Monesy",
@@ -2487,9 +2502,9 @@
         "atk": 11
       },
       "eles": {
-        "est": 28,
-        "destr": 64.4,
-        "atk": 10
+        "est": 31,
+        "destr": 71.06666666666666,
+        "atk": 11
       },
       "membros": [
         {
@@ -2678,9 +2693,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Monesy",
