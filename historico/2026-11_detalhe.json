@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T19:50:27.774885Z",
+  "atualizado": "2026-11-05T20:00:35.134567Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1494,7 +1494,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "dvnly",
