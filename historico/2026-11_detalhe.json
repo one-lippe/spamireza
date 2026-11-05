@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T20:40:24.246445Z",
+  "atualizado": "2026-11-05T20:50:21.396045Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -844,7 +844,7 @@
               "tag": "#YCRJU229",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
@@ -1475,7 +1475,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "NoBlitzz",
@@ -1585,7 +1585,9 @@
               "nome": "Meliodas NNT",
               "tag": "#2PLQG8UQU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
