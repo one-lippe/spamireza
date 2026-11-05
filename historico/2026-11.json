@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T01:50:30.655107Z",
+  "atualizado": "2026-11-05T02:00:23.053062Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -357,6 +357,25 @@
           "zona": "promo"
         },
         {
+          "n": "KingMpg",
+          "tag": "#22YJPYPCJ",
+          "th": 18,
+          "atk": 3,
+          "est": 9,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "seg": 0,
+          "idx": 75.2,
+          "idxb": 75.2,
+          "amostra": 100,
+          "mvp": 9,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
           "n": "SR • DuM∆R",
           "tag": "#YQRJL098P",
           "th": 18,
@@ -372,7 +391,7 @@
           "idxb": 75.2,
           "amostra": 33,
           "mvp": 3,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -391,7 +410,7 @@
           "idxb": 73.6,
           "amostra": 67,
           "mvp": 8,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -410,7 +429,7 @@
           "idxb": 73.6,
           "amostra": 67,
           "mvp": 8,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -429,7 +448,7 @@
           "idxb": 72.9,
           "amostra": 67,
           "mvp": 6,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -448,7 +467,7 @@
           "idxb": 70.5,
           "amostra": 67,
           "mvp": 7,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -467,7 +486,7 @@
           "idxb": 70.5,
           "amostra": 67,
           "mvp": 7,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -486,31 +505,12 @@
           "idxb": 67.4,
           "amostra": 67,
           "mvp": 6,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
           "n": "tozim",
           "tag": "#9G22U9U2Y",
-          "th": 18,
-          "atk": 2,
-          "est": 6,
-          "spa": 3.0,
-          "conf": 67,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "seg": 0,
-          "idx": 67.4,
-          "idxb": 67.4,
-          "amostra": 67,
-          "mvp": 6,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "KingMpg",
-          "tag": "#22YJPYPCJ",
           "th": 18,
           "atk": 2,
           "est": 6,
