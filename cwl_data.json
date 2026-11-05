@@ -742,9 +742,9 @@
         "inicio": "20261105T170418.000Z",
         "fim": "20261106T170418.000Z",
         "nos": {
-          "est": 16,
-          "destr": 38.93333333333333,
-          "atk": 6
+          "est": 19,
+          "destr": 45.6,
+          "atk": 7
         },
         "eles": {
           "est": 6,
@@ -927,7 +927,12 @@
             "tag": "#90GRYGJVP",
             "th": 18,
             "pos": 15,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1125,9 +1130,9 @@
       "inicio": "20261105T170418.000Z",
       "fim": "20261106T170418.000Z",
       "nos": {
-        "est": 16,
-        "destr": 38.93333333333333,
-        "atk": 6
+        "est": 19,
+        "destr": 45.6,
+        "atk": 7
       },
       "eles": {
         "est": 6,
@@ -1310,7 +1315,12 @@
           "tag": "#90GRYGJVP",
           "th": 18,
           "pos": 15,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -4346,9 +4356,9 @@
           "atk": 26
         },
         "eles": {
-          "est": 64,
-          "destr": 75.13333333333334,
-          "atk": 23
+          "est": 66,
+          "destr": 77.1,
+          "atk": 24
         },
         "membros": [
           {
@@ -4382,9 +4392,14 @@
                 "destr": 90
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 59,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 59
+              }
+            ]
           },
           {
             "nome": "PaiDeFamilia",
@@ -5234,9 +5249,9 @@
         "atk": 26
       },
       "eles": {
-        "est": 64,
-        "destr": 75.13333333333334,
-        "atk": 23
+        "est": 66,
+        "destr": 77.1,
+        "atk": 24
       },
       "membros": [
         {
@@ -5270,9 +5285,14 @@
               "destr": 90
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 59,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 59
+            }
+          ]
         },
         {
           "nome": "PaiDeFamilia",
