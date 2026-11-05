@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T21:30:27.265498Z",
+  "atualizado": "2026-11-05T21:40:25.074607Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -356,7 +356,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • C∆iç∆r∆",
@@ -1468,7 +1468,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Royther13",
@@ -1667,7 +1667,7 @@
               "tag": "#29882J2L2",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "JigSaw",
