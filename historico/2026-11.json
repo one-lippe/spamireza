@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T19:10:25.265882Z",
+  "atualizado": "2026-11-05T19:20:30.889122Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -509,25 +509,6 @@
           "zona": "—"
         },
         {
-          "n": "Monesy9",
-          "tag": "#LJRPJ9PC0",
-          "th": 18,
-          "atk": 2,
-          "est": 6,
-          "spa": 3.0,
-          "conf": 67,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 2,
-          "seg": 1,
-          "idx": 73.6,
-          "idxb": 73.6,
-          "amostra": 67,
-          "mvp": 8,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
           "n": "SrNunes",
           "tag": "#2LY8G8Y9",
           "th": 18,
@@ -543,6 +524,25 @@
           "idxb": 71.5,
           "amostra": 100,
           "mvp": 9,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
+          "n": "Monesy9",
+          "tag": "#LJRPJ9PC0",
+          "th": 18,
+          "atk": 2,
+          "est": 6,
+          "spa": 3.0,
+          "conf": 67,
+          "def": 22,
+          "sof": 2.3,
+          "ndef": 3,
+          "seg": 1,
+          "idx": 71.5,
+          "idxb": 71.5,
+          "amostra": 67,
+          "mvp": 8,
           "pos": 11,
           "zona": "—"
         },
