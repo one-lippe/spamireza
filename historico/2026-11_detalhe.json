@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T09:00:29.555621Z",
+  "atualizado": "2026-11-05T09:10:21.978341Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -696,7 +696,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Nesquick",
@@ -1360,7 +1360,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "♣DnF◆",
