@@ -2039,9 +2039,9 @@
           "atk": 11
         },
         "eles": {
-          "est": 14,
-          "destr": 32.2,
-          "atk": 5
+          "est": 20,
+          "destr": 45.53333333333333,
+          "atk": 7
         },
         "membros": [
           {
@@ -2135,9 +2135,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • THIAGO",
@@ -2150,9 +2155,14 @@
                 "destr": 92
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Monesy9",
@@ -2462,9 +2472,9 @@
         "atk": 11
       },
       "eles": {
-        "est": 14,
-        "destr": 32.2,
-        "atk": 5
+        "est": 20,
+        "destr": 45.53333333333333,
+        "atk": 7
       },
       "membros": [
         {
@@ -2558,9 +2568,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • THIAGO",
@@ -2573,9 +2588,14 @@
               "destr": 92
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Monesy9",
@@ -4948,16 +4968,6 @@
             "defesas": []
           },
           {
-            "nome": "qvnly",
-            "tag": "#GUCJQPVR9",
-            "th": 18,
-            "pos": 27,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
             "nome": "SR • Eduhh",
             "tag": "#2Q9RYUCCP",
             "th": 17,
@@ -5002,6 +5012,16 @@
             "tag": "#LRGU2Q8V0",
             "th": 16,
             "pos": 34,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR•InTheDarkIV",
+            "tag": "#R0GLQC0GV",
+            "th": 13,
+            "pos": 41,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
