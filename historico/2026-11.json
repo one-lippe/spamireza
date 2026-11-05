@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T01:20:20.551665Z",
+  "atualizado": "2026-11-05T01:30:28.350749Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -649,25 +649,6 @@
       "mode": "rank",
       "rank": [
         {
-          "n": "JigSaw",
-          "tag": "#LRGU2Q8V0",
-          "th": 16,
-          "atk": 1,
-          "est": 3,
-          "spa": 3.0,
-          "conf": 100,
-          "def": null,
-          "sof": null,
-          "ndef": 0,
-          "seg": 0,
-          "idx": 78.0,
-          "idxb": 93.0,
-          "amostra": 33,
-          "mvp": 3,
-          "pos": 1,
-          "zona": "—"
-        },
-        {
           "n": "qvnly",
           "tag": "#GUCJQPVR9",
           "th": 18,
@@ -683,7 +664,7 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 9,
-          "pos": 2,
+          "pos": 1,
           "zona": "promo"
         },
         {
@@ -702,8 +683,8 @@
           "idxb": 74.4,
           "amostra": 100,
           "mvp": 9,
-          "pos": 3,
-          "zona": "—"
+          "pos": 2,
+          "zona": "promo"
         },
         {
           "n": "Royther13",
@@ -717,11 +698,11 @@
           "sof": 1.5,
           "ndef": 2,
           "seg": 2,
-          "idx": 74.2,
+          "idx": 74.0,
           "idxb": 76.0,
           "amostra": 67,
           "mvp": 9,
-          "pos": 4,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -736,11 +717,11 @@
           "sof": 2.0,
           "ndef": 2,
           "seg": 2,
-          "idx": 72.1,
+          "idx": 71.9,
           "idxb": 72.9,
           "amostra": 67,
           "mvp": 8,
-          "pos": 5,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -759,6 +740,25 @@
           "idxb": 71.8,
           "amostra": 100,
           "mvp": 9,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
+          "n": "JigSaw",
+          "tag": "#LRGU2Q8V0",
+          "th": 16,
+          "atk": 1,
+          "est": 3,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 71.4,
+          "idxb": 74.4,
+          "amostra": 33,
+          "mvp": 3,
           "pos": 6,
           "zona": "—"
         },
@@ -915,6 +915,25 @@
           "zona": "—"
         },
         {
+          "n": "PaulinhoPH",
+          "tag": "#GVLGQ098",
+          "th": 17,
+          "atk": 3,
+          "est": 7,
+          "spa": 2.33,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "seg": 1,
+          "idx": 66.1,
+          "idxb": 66.1,
+          "amostra": 100,
+          "mvp": 8,
+          "pos": 15,
+          "zona": "—"
+        },
+        {
           "n": "Reikan",
           "tag": "#GJYRCJ0PR",
           "th": 18,
@@ -930,7 +949,7 @@
           "idxb": 61.2,
           "amostra": 67,
           "mvp": 6,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -949,7 +968,7 @@
           "idxb": 58.9,
           "amostra": 67,
           "mvp": 7,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -968,7 +987,7 @@
           "idxb": 58.1,
           "amostra": 67,
           "mvp": 5,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -987,7 +1006,7 @@
           "idxb": 57.4,
           "amostra": 33,
           "mvp": 2,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1006,32 +1025,13 @@
           "idxb": 55.8,
           "amostra": 67,
           "mvp": 6,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
           "n": "PaiDeFamilia",
           "tag": "#2GCJ8QC92",
           "th": 18,
-          "atk": 2,
-          "est": 4,
-          "spa": 2.0,
-          "conf": 67,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "seg": 1,
-          "idx": 52.7,
-          "idxb": 52.7,
-          "amostra": 67,
-          "mvp": 5,
-          "pos": 20,
-          "zona": "—"
-        },
-        {
-          "n": "PaulinhoPH",
-          "tag": "#GVLGQ098",
-          "th": 17,
           "atk": 2,
           "est": 4,
           "spa": 2.0,

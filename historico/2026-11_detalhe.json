@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T01:20:20.553485Z",
+  "atualizado": "2026-11-05T01:30:28.351991Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1438,7 +1438,9 @@
               "nome": "PaulinhoPH",
               "tag": "#GVLGQ098",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1489,7 +1491,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
