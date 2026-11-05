@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T00:40:22.855279Z",
+  "atualizado": "2026-11-05T00:50:26.551448Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -585,6 +585,25 @@
           "zona": "—"
         },
         {
+          "n": "Darth Revan",
+          "tag": "#8R280VRCQ",
+          "th": 18,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 66.6,
+          "idxb": 66.6,
+          "amostra": 67,
+          "mvp": 5,
+          "pos": 15,
+          "zona": "—"
+        },
+        {
           "n": "SR • Nesquick",
           "tag": "#YCRJU229",
           "th": 18,
@@ -600,7 +619,7 @@
           "idxb": 63.4,
           "amostra": 33,
           "mvp": 3,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -619,25 +638,6 @@
           "idxb": 61.1,
           "amostra": 67,
           "mvp": 5,
-          "pos": 16,
-          "zona": "—"
-        },
-        {
-          "n": "Darth Revan",
-          "tag": "#8R280VRCQ",
-          "th": 18,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 46.2,
-          "idxb": 46.2,
-          "amostra": 33,
-          "mvp": 2,
           "pos": 17,
           "zona": "—"
         }
