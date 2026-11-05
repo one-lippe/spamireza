@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T18:50:20.736956Z",
+  "atualizado": "2026-11-05T19:00:36.449046Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1445,7 +1445,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "100%War_⚡Slash⚡",

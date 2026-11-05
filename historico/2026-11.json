@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T18:50:20.735544Z",
+  "atualizado": "2026-11-05T19:00:36.447565Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -763,6 +763,25 @@
           "zona": "—"
         },
         {
+          "n": "♣️Dorindo Sena♣",
+          "tag": "#8Y9V2QQ82",
+          "th": 18,
+          "atk": 3,
+          "est": 7,
+          "spa": 2.33,
+          "conf": 100,
+          "def": 44,
+          "sof": 1.7,
+          "ndef": 3,
+          "seg": 3,
+          "idx": 71.3,
+          "idxb": 71.3,
+          "amostra": 100,
+          "mvp": 11,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
           "n": "dvnly",
           "tag": "#QR2JLQ2RR",
           "th": 18,
@@ -778,7 +797,7 @@
           "idxb": 70.8,
           "amostra": 100,
           "mvp": 9,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -793,29 +812,10 @@
           "sof": 2.0,
           "ndef": 2,
           "seg": 2,
-          "idx": 70.0,
+          "idx": 70.1,
           "idxb": 72.9,
           "amostra": 67,
           "mvp": 8,
-          "pos": 7,
-          "zona": "—"
-        },
-        {
-          "n": "♣️Dorindo Sena♣",
-          "tag": "#8Y9V2QQ82",
-          "th": 18,
-          "atk": 3,
-          "est": 7,
-          "spa": 2.33,
-          "conf": 100,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 2,
-          "seg": 2,
-          "idx": 69.2,
-          "idxb": 69.2,
-          "amostra": 100,
-          "mvp": 9,
           "pos": 8,
           "zona": "—"
         },
