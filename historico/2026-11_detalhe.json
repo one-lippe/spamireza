@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T04:40:20.211165Z",
+  "atualizado": "2026-11-05T04:50:30.075234Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1381,7 +1381,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • The off",
