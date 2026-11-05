@@ -426,9 +426,9 @@
           "atk": 15
         },
         "eles": {
-          "est": 40,
-          "destr": 92.2,
-          "atk": 14
+          "est": 43,
+          "destr": 98.86666666666666,
+          "atk": 15
         },
         "membros": [
           {
@@ -682,9 +682,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•GOD kratos",
@@ -914,9 +919,9 @@
         "atk": 15
       },
       "eles": {
-        "est": 40,
-        "destr": 92.2,
-        "atk": 14
+        "est": 43,
+        "destr": 98.86666666666666,
+        "atk": 15
       },
       "membros": [
         {
@@ -1170,9 +1175,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•GOD kratos",
@@ -4005,9 +4015,9 @@
           "atk": 13
         },
         "eles": {
-          "est": 18,
-          "destr": 20.0,
-          "atk": 6
+          "est": 20,
+          "destr": 23.033333333333335,
+          "atk": 7
         },
         "membros": [
           {
@@ -4306,9 +4316,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 91,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 91
+              }
+            ]
           },
           {
             "nome": "qvnly",
@@ -4743,9 +4758,9 @@
         "atk": 13
       },
       "eles": {
-        "est": 18,
-        "destr": 20.0,
-        "atk": 6
+        "est": 20,
+        "destr": 23.033333333333335,
+        "atk": 7
       },
       "membros": [
         {
@@ -5044,9 +5059,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 91,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 91
+            }
+          ]
         },
         {
           "nome": "qvnly",

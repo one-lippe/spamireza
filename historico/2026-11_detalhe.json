@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T06:00:24.137904Z",
+  "atualizado": "2026-11-05T06:10:20.816088Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -270,7 +270,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•GOD kratos",
@@ -1457,7 +1457,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "qvnly",
