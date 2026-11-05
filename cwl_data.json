@@ -747,9 +747,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 3,
-          "destr": 6.666666666666667,
-          "atk": 1
+          "est": 6,
+          "destr": 13.333333333333334,
+          "atk": 2
         },
         "membros": [
           {
@@ -858,9 +858,14 @@
                 "destr": 95
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Psico 2k25",
@@ -1125,9 +1130,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 3,
-        "destr": 6.666666666666667,
-        "atk": 1
+        "est": 6,
+        "destr": 13.333333333333334,
+        "atk": 2
       },
       "membros": [
         {
@@ -1236,9 +1241,14 @@
               "destr": 95
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Psico 2k25",
@@ -4336,9 +4346,9 @@
           "atk": 26
         },
         "eles": {
-          "est": 61,
-          "destr": 71.8,
-          "atk": 22
+          "est": 64,
+          "destr": 75.13333333333334,
+          "atk": 23
         },
         "membros": [
           {
@@ -4647,9 +4657,14 @@
             "th": 18,
             "pos": 19,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "irmão do jorel",
@@ -5219,9 +5234,9 @@
         "atk": 26
       },
       "eles": {
-        "est": 61,
-        "destr": 71.8,
-        "atk": 22
+        "est": 64,
+        "destr": 75.13333333333334,
+        "atk": 23
       },
       "membros": [
         {
@@ -5530,9 +5545,14 @@
           "th": 18,
           "pos": 19,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "irmão do jorel",
