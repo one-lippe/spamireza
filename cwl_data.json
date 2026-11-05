@@ -3940,9 +3940,9 @@
         "inicio": "20261104T235019.000Z",
         "fim": "20261105T235019.000Z",
         "nos": {
-          "est": 9,
-          "destr": 10.0,
-          "atk": 3
+          "est": 18,
+          "destr": 20.0,
+          "atk": 6
         },
         "eles": {
           "est": 0,
@@ -4220,7 +4220,12 @@
             "tag": "#2Q9RYUCCP",
             "th": 17,
             "pos": 28,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -4230,7 +4235,12 @@
             "tag": "#QQUC9JQ9R",
             "th": 17,
             "pos": 29,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -4260,7 +4270,12 @@
             "tag": "#LRGU2Q8V0",
             "th": 16,
             "pos": 34,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -4598,9 +4613,9 @@
       "inicio": "20261104T235019.000Z",
       "fim": "20261105T235019.000Z",
       "nos": {
-        "est": 9,
-        "destr": 10.0,
-        "atk": 3
+        "est": 18,
+        "destr": 20.0,
+        "atk": 6
       },
       "eles": {
         "est": 0,
@@ -4878,7 +4893,12 @@
           "tag": "#2Q9RYUCCP",
           "th": 17,
           "pos": 28,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -4888,7 +4908,12 @@
           "tag": "#QQUC9JQ9R",
           "th": 17,
           "pos": 29,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -4918,7 +4943,12 @@
           "tag": "#LRGU2Q8V0",
           "th": 16,
           "pos": 34,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []

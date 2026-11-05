@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T00:10:18.111174Z",
+  "atualizado": "2026-11-05T00:20:21.777797Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1446,14 +1446,18 @@
               "nome": "SR • Eduhh",
               "tag": "#2Q9RYUCCP",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
               "nome": "Ghostface",
               "tag": "#QQUC9JQ9R",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1474,7 +1478,9 @@
               "nome": "JigSaw",
               "tag": "#LRGU2Q8V0",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             }
           ]
