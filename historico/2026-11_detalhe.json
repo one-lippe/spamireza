@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T23:20:24.355883Z",
+  "atualizado": "2026-11-05T23:30:22.908383Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -928,7 +928,9 @@
               "nome": "MAJ0R FiV3",
               "tag": "#QRJL0RGQR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": null
             },
             {

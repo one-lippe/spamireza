@@ -2470,9 +2470,9 @@
         "inicio": "20261105T224011.000Z",
         "fim": "20261106T224011.000Z",
         "nos": {
-          "est": 0,
-          "destr": 0.0,
-          "atk": 0
+          "est": 1,
+          "destr": 6.133333333333334,
+          "atk": 1
         },
         "eles": {
           "est": 6,
@@ -2565,7 +2565,12 @@
             "tag": "#QRJL0RGQR",
             "th": 18,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 92
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -2692,6 +2697,16 @@
             "defesas": []
           },
           {
+            "nome": "Sene",
+            "tag": "#8JQJYQC",
+            "th": 18,
+            "pos": 4,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
             "nome": "Renan",
             "tag": "#QLRGC8GQ",
             "th": 18,
@@ -2736,16 +2751,6 @@
             "tag": "#LJRPJ9PC0",
             "th": 18,
             "pos": 9,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
-            "nome": "MAJ0R FiV3",
-            "tag": "#QRJL0RGQR",
-            "th": 18,
-            "pos": 10,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -2823,9 +2828,9 @@
       "inicio": "20261105T224011.000Z",
       "fim": "20261106T224011.000Z",
       "nos": {
-        "est": 0,
-        "destr": 0.0,
-        "atk": 0
+        "est": 1,
+        "destr": 6.133333333333334,
+        "atk": 1
       },
       "eles": {
         "est": 6,
@@ -2918,7 +2923,12 @@
           "tag": "#QRJL0RGQR",
           "th": 18,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 92
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
