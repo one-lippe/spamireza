@@ -4075,9 +4075,9 @@
           "atk": 18
         },
         "eles": {
-          "est": 29,
-          "destr": 33.03333333333333,
-          "atk": 10
+          "est": 31,
+          "destr": 35.93333333333333,
+          "atk": 11
         },
         "membros": [
           {
@@ -4206,9 +4206,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 87,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 87
+              }
+            ]
           },
           {
             "nome": "Samuel Soares",
@@ -4858,9 +4863,9 @@
         "atk": 18
       },
       "eles": {
-        "est": 29,
-        "destr": 33.03333333333333,
-        "atk": 10
+        "est": 31,
+        "destr": 35.93333333333333,
+        "atk": 11
       },
       "membros": [
         {
@@ -4989,9 +4994,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 87,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 87
+            }
+          ]
         },
         {
           "nome": "Samuel Soares",
