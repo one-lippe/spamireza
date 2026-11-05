@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T11:10:22.388163Z",
+  "atualizado": "2026-11-05T11:20:24.736063Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -610,7 +610,9 @@
               "nome": "tozim",
               "tag": "#9G22U9U2Y",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -674,7 +676,9 @@
               "nome": "SR • Dog Crazy",
               "tag": "#9LPJP9YPQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1303,7 +1307,7 @@
               "tag": "#20UUPGPCV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "♣️Dorindo Sena♣",

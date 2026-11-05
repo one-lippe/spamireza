@@ -1973,9 +1973,9 @@
         "inicio": "20261104T223635.000Z",
         "fim": "20261105T223635.000Z",
         "nos": {
-          "est": 17,
-          "destr": 39.46666666666667,
-          "atk": 6
+          "est": 23,
+          "destr": 52.8,
+          "atk": 8
         },
         "eles": {
           "est": 3,
@@ -2013,7 +2013,12 @@
             "tag": "#9G22U9U2Y",
             "th": 18,
             "pos": 3,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -2113,7 +2118,12 @@
             "tag": "#9LPJP9YPQ",
             "th": 18,
             "pos": 12,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -2351,9 +2361,9 @@
       "inicio": "20261104T223635.000Z",
       "fim": "20261105T223635.000Z",
       "nos": {
-        "est": 17,
-        "destr": 39.46666666666667,
-        "atk": 6
+        "est": 23,
+        "destr": 52.8,
+        "atk": 8
       },
       "eles": {
         "est": 3,
@@ -2391,7 +2401,12 @@
           "tag": "#9G22U9U2Y",
           "th": 18,
           "pos": 3,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -2491,7 +2506,12 @@
           "tag": "#9LPJP9YPQ",
           "th": 18,
           "pos": 12,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -4035,9 +4055,9 @@
           "atk": 14
         },
         "eles": {
-          "est": 26,
-          "destr": 29.7,
-          "atk": 9
+          "est": 29,
+          "destr": 33.03333333333333,
+          "atk": 10
         },
         "membros": [
           {
@@ -4086,9 +4106,14 @@
             "th": 18,
             "pos": 4,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "♣️Dorindo Sena♣",
@@ -4793,9 +4818,9 @@
         "atk": 14
       },
       "eles": {
-        "est": 26,
-        "destr": 29.7,
-        "atk": 9
+        "est": 29,
+        "destr": 33.03333333333333,
+        "atk": 10
       },
       "membros": [
         {
@@ -4844,9 +4869,14 @@
           "th": 18,
           "pos": 4,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "♣️Dorindo Sena♣",
