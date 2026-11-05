@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T02:40:24.827058Z",
+  "atualizado": "2026-11-05T02:50:20.474587Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -209,7 +209,7 @@
           "sof": 3.0,
           "ndef": 1,
           "seg": 0,
-          "idx": 80.9,
+          "idx": 81.6,
           "idxb": 83.2,
           "amostra": 50,
           "mvp": 3,
@@ -236,6 +236,25 @@
           "zona": "—"
         },
         {
+          "n": "Henrique Nerath",
+          "tag": "#2U8P0YQ92",
+          "th": 18,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "seg": 1,
+          "idx": 77.1,
+          "idxb": 77.1,
+          "amostra": 100,
+          "mvp": 6,
+          "pos": 13,
+          "zona": "—"
+        },
+        {
           "n": "Nesk",
           "tag": "#99220V0Q8",
           "th": 18,
@@ -251,7 +270,7 @@
           "idxb": 73.7,
           "amostra": 100,
           "mvp": 5,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -270,7 +289,7 @@
           "idxb": 70.2,
           "amostra": 50,
           "mvp": 3,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -289,25 +308,6 @@
           "idxb": 64.1,
           "amostra": 50,
           "mvp": 2,
-          "pos": 15,
-          "zona": "—"
-        },
-        {
-          "n": "Henrique Nerath",
-          "tag": "#2U8P0YQ92",
-          "th": 18,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 50,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "seg": 1,
-          "idx": 54.6,
-          "idxb": 54.6,
-          "amostra": 50,
-          "mvp": 3,
           "pos": 16,
           "zona": "—"
         }
