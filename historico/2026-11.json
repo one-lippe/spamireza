@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T19:30:35.972794Z",
+  "atualizado": "2026-11-05T19:40:28.070903Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -547,25 +547,6 @@
           "zona": "—"
         },
         {
-          "n": "Monesy9",
-          "tag": "#LJRPJ9PC0",
-          "th": 18,
-          "atk": 2,
-          "est": 6,
-          "spa": 3.0,
-          "conf": 67,
-          "def": 22,
-          "sof": 2.3,
-          "ndef": 3,
-          "seg": 1,
-          "idx": 71.5,
-          "idxb": 71.5,
-          "amostra": 67,
-          "mvp": 8,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
           "n": "SR • THIAGO",
           "tag": "#89G0YGUJY",
           "th": 18,
@@ -581,7 +562,7 @@
           "idxb": 69.7,
           "amostra": 67,
           "mvp": 6,
-          "pos": 13,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -600,6 +581,25 @@
           "idxb": 69.5,
           "amostra": 67,
           "mvp": 7,
+          "pos": 13,
+          "zona": "—"
+        },
+        {
+          "n": "Monesy9",
+          "tag": "#LJRPJ9PC0",
+          "th": 18,
+          "atk": 3,
+          "est": 7,
+          "spa": 2.33,
+          "conf": 100,
+          "def": 22,
+          "sof": 2.3,
+          "ndef": 3,
+          "seg": 1,
+          "idx": 67.9,
+          "idxb": 67.9,
+          "amostra": 100,
+          "mvp": 9,
           "pos": 14,
           "zona": "—"
         },
@@ -1171,7 +1171,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 2,
+          "ndef": 3,
           "seg": 0,
           "idx": 51.7,
           "idxb": 51.7,
