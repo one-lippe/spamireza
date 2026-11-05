@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T16:50:23.295653Z",
+  "atualizado": "2026-11-05T17:00:36.358415Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1449,7 +1449,7 @@
               "tag": "#2PLQG8UQU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Lider André 2",
@@ -1474,7 +1474,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "PaulinhoPH",
