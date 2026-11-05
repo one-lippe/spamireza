@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T21:50:29.130589Z",
+  "atualizado": "2026-11-05T22:00:32.957872Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -46,6 +46,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • InTheDark☆",
+          "tag": "#PQRRG2YCP",
+          "th": 18,
+          "atk": 3,
+          "est": 9,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "seg": 0,
+          "idx": 83.2,
+          "idxb": 83.2,
+          "amostra": 100,
+          "mvp": 9,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
           "n": "Coyote 171 × 戦備",
           "tag": "#Y08CR0PQU",
           "th": 18,
@@ -61,7 +80,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 9,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -80,7 +99,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 9,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -99,7 +118,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 9,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -118,7 +137,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 9,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -137,25 +156,6 @@
           "idxb": 81.5,
           "amostra": 67,
           "mvp": 8,
-          "pos": 7,
-          "zona": "—"
-        },
-        {
-          "n": "SR • InTheDark☆",
-          "tag": "#PQRRG2YCP",
-          "th": 18,
-          "atk": 2,
-          "est": 6,
-          "spa": 3.0,
-          "conf": 67,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "seg": 0,
-          "idx": 74.5,
-          "idxb": 74.5,
-          "amostra": 67,
-          "mvp": 6,
           "pos": 8,
           "zona": "—"
         },
