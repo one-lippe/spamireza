@@ -2470,9 +2470,9 @@
         "inicio": "20261105T224011.000Z",
         "fim": "20261106T224011.000Z",
         "nos": {
-          "est": 1,
-          "destr": 6.133333333333334,
-          "atk": 1
+          "est": 4,
+          "destr": 12.8,
+          "atk": 2
         },
         "eles": {
           "est": 6,
@@ -2625,7 +2625,12 @@
             "tag": "#8R280VRCQ",
             "th": 18,
             "pos": 16,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -2828,9 +2833,9 @@
       "inicio": "20261105T224011.000Z",
       "fim": "20261106T224011.000Z",
       "nos": {
-        "est": 1,
-        "destr": 6.133333333333334,
-        "atk": 1
+        "est": 4,
+        "destr": 12.8,
+        "atk": 2
       },
       "eles": {
         "est": 6,
@@ -2983,7 +2988,12 @@
           "tag": "#8R280VRCQ",
           "th": 18,
           "pos": 16,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -5229,10 +5239,10 @@
             "defesas": []
           },
           {
-            "nome": "digon",
-            "tag": "#GRRYUUGJ2",
+            "nome": "SR • The off",
+            "tag": "#YJ2JLPQGR",
             "th": 18,
-            "pos": 19,
+            "pos": 18,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,

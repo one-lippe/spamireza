@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T23:40:25.329154Z",
+  "atualizado": "2026-11-05T23:50:24.516301Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -965,7 +965,9 @@
               "nome": "Darth Revan",
               "tag": "#8R280VRCQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
