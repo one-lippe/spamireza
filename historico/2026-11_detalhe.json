@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T16:00:30.485236Z",
+  "atualizado": "2026-11-05T16:20:24.360826Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -631,7 +631,7 @@
               "tag": "#8JQJYQC",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "KingMpg",
@@ -1312,7 +1312,9 @@
               "nome": "Lider Andre",
               "tag": "#20UUPGPCV",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
@@ -1453,7 +1455,9 @@
               "nome": "Lider André 2",
               "tag": "#L9GRLYGVQ",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -1510,7 +1514,9 @@
               "nome": "SR • JotaErre",
               "tag": "#GRUG8UQGV",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {

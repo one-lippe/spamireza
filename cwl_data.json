@@ -1978,9 +1978,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 3,
-          "destr": 6.666666666666667,
-          "atk": 1
+          "est": 6,
+          "destr": 13.333333333333334,
+          "atk": 2
         },
         "membros": [
           {
@@ -2049,9 +2049,14 @@
             "th": 18,
             "pos": 5,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "KingMpg",
@@ -2376,9 +2381,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 3,
-        "destr": 6.666666666666667,
-        "atk": 1
+        "est": 6,
+        "destr": 13.333333333333334,
+        "atk": 2
       },
       "membros": [
         {
@@ -2447,9 +2452,14 @@
           "th": 18,
           "pos": 5,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "KingMpg",
@@ -4070,9 +4080,9 @@
         "inicio": "20261104T235019.000Z",
         "fim": "20261105T235019.000Z",
         "nos": {
-          "est": 46,
-          "destr": 57.8,
-          "atk": 18
+          "est": 52,
+          "destr": 65.96666666666667,
+          "atk": 21
         },
         "eles": {
           "est": 34,
@@ -4130,7 +4140,12 @@
             "tag": "#20UUPGPCV",
             "th": 18,
             "pos": 4,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 69
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -4385,7 +4400,12 @@
             "tag": "#L9GRLYGVQ",
             "th": 17,
             "pos": 23,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 76
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -4495,7 +4515,12 @@
             "tag": "#GRUG8UQGV",
             "th": 16,
             "pos": 31,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -4863,9 +4888,9 @@
       "inicio": "20261104T235019.000Z",
       "fim": "20261105T235019.000Z",
       "nos": {
-        "est": 46,
-        "destr": 57.8,
-        "atk": 18
+        "est": 52,
+        "destr": 65.96666666666667,
+        "atk": 21
       },
       "eles": {
         "est": 34,
@@ -4923,7 +4948,12 @@
           "tag": "#20UUPGPCV",
           "th": 18,
           "pos": 4,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 69
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -5178,7 +5208,12 @@
           "tag": "#L9GRLYGVQ",
           "th": 17,
           "pos": 23,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 76
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -5288,7 +5323,12 @@
           "tag": "#GRUG8UQGV",
           "th": 16,
           "pos": 31,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
