@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T20:00:35.133462Z",
+  "atualizado": "2026-11-05T20:10:28.556166Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -315,18 +315,18 @@
           "n": "☆VILA DO PX ツ",
           "tag": "#8PUL8JPC",
           "th": 18,
-          "atk": 1,
-          "est": 2,
+          "atk": 2,
+          "est": 4,
           "spa": 2.0,
-          "conf": 50,
+          "conf": 100,
           "def": 0,
           "sof": 3.0,
           "ndef": 1,
           "seg": 0,
-          "idx": 51.1,
-          "idxb": 51.1,
-          "amostra": 33,
-          "mvp": 2,
+          "idx": 64.1,
+          "idxb": 64.1,
+          "amostra": 67,
+          "mvp": 4,
           "pos": 17,
           "zona": "—"
         }
