@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T16:20:24.360826Z",
+  "atualizado": "2026-11-05T16:30:30.455564Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -606,7 +606,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "tozim",
@@ -697,7 +697,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Darth Revan",
@@ -1383,7 +1383,7 @@
               "tag": "#8UY0889P9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•InTheDark II",
@@ -1471,7 +1471,9 @@
               "nome": "Líder André 3",
               "tag": "#GY0Q0VRL0",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {

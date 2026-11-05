@@ -1978,9 +1978,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 6,
-          "destr": 13.333333333333334,
-          "atk": 2
+          "est": 12,
+          "destr": 26.666666666666668,
+          "atk": 4
         },
         "membros": [
           {
@@ -2009,9 +2009,14 @@
                 "destr": 94
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "tozim",
@@ -2159,9 +2164,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Darth Revan",
@@ -2381,9 +2391,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 6,
-        "destr": 13.333333333333334,
-        "atk": 2
+        "est": 12,
+        "destr": 26.666666666666668,
+        "atk": 4
       },
       "membros": [
         {
@@ -2412,9 +2422,14 @@
               "destr": 94
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "tozim",
@@ -2562,9 +2577,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Darth Revan",
@@ -4080,14 +4100,14 @@
         "inicio": "20261104T235019.000Z",
         "fim": "20261105T235019.000Z",
         "nos": {
-          "est": 52,
-          "destr": 65.96666666666667,
-          "atk": 21
+          "est": 54,
+          "destr": 68.33333333333333,
+          "atk": 22
         },
         "eles": {
-          "est": 34,
-          "destr": 39.266666666666666,
-          "atk": 12
+          "est": 37,
+          "destr": 42.6,
+          "atk": 13
         },
         "membros": [
           {
@@ -4271,9 +4291,14 @@
             "th": 18,
             "pos": 13,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•InTheDark II",
@@ -4425,7 +4450,12 @@
             "tag": "#GY0Q0VRL0",
             "th": 17,
             "pos": 25,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 71
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -4888,14 +4918,14 @@
       "inicio": "20261104T235019.000Z",
       "fim": "20261105T235019.000Z",
       "nos": {
-        "est": 52,
-        "destr": 65.96666666666667,
-        "atk": 21
+        "est": 54,
+        "destr": 68.33333333333333,
+        "atk": 22
       },
       "eles": {
-        "est": 34,
-        "destr": 39.266666666666666,
-        "atk": 12
+        "est": 37,
+        "destr": 42.6,
+        "atk": 13
       },
       "membros": [
         {
@@ -5079,9 +5109,14 @@
           "th": 18,
           "pos": 13,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•InTheDark II",
@@ -5233,7 +5268,12 @@
           "tag": "#GY0Q0VRL0",
           "th": 17,
           "pos": 25,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 71
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
