@@ -2044,14 +2044,14 @@
         "inicio": "20261104T223635.000Z",
         "fim": "20261105T223635.000Z",
         "nos": {
-          "est": 31,
-          "destr": 72.4,
-          "atk": 11
+          "est": 34,
+          "destr": 79.06666666666666,
+          "atk": 12
         },
         "eles": {
-          "est": 34,
-          "destr": 77.73333333333333,
-          "atk": 12
+          "est": 38,
+          "destr": 89.8,
+          "atk": 14
         },
         "membros": [
           {
@@ -2065,9 +2065,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 88,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 88
+              }
+            ]
           },
           {
             "nome": "SrNunes",
@@ -2100,9 +2105,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 93,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 93
+              }
+            ]
           },
           {
             "nome": "Renan",
@@ -2259,7 +2269,12 @@
             "tag": "#2YGJQG22G",
             "th": 18,
             "pos": 13,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 83,
             "defesas": [
@@ -2502,14 +2517,14 @@
       "inicio": "20261104T223635.000Z",
       "fim": "20261105T223635.000Z",
       "nos": {
-        "est": 31,
-        "destr": 72.4,
-        "atk": 11
+        "est": 34,
+        "destr": 79.06666666666666,
+        "atk": 12
       },
       "eles": {
-        "est": 34,
-        "destr": 77.73333333333333,
-        "atk": 12
+        "est": 38,
+        "destr": 89.8,
+        "atk": 14
       },
       "membros": [
         {
@@ -2523,9 +2538,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 88,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 88
+            }
+          ]
         },
         {
           "nome": "SrNunes",
@@ -2558,9 +2578,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 93,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 93
+            }
+          ]
         },
         {
           "nome": "Renan",
@@ -2717,7 +2742,12 @@
           "tag": "#2YGJQG22G",
           "th": 18,
           "pos": 13,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 83,
           "defesas": [

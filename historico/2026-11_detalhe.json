@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T19:20:30.890123Z",
+  "atualizado": "2026-11-05T19:30:35.973932Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -718,7 +718,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SrNunes",
@@ -736,7 +736,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Renan",
@@ -810,7 +810,9 @@
               "nome": "Monesy",
               "tag": "#2YGJQG22G",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
