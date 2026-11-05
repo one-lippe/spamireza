@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T10:40:23.015838Z",
+  "atualizado": "2026-11-05T10:50:25.629164Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1291,7 +1291,9 @@
               "nome": "PaiDeFamilia",
               "tag": "#2GCJ8QC92",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
