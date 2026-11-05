@@ -1,12 +1,31 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T21:40:25.073548Z",
+  "atualizado": "2026-11-05T21:50:29.130589Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
       "liga": "Titan League II",
       "mode": "rank",
       "rank": [
+        {
+          "n": "Jan",
+          "tag": "#2899CRJG",
+          "th": 18,
+          "atk": 3,
+          "est": 9,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "seg": 1,
+          "idx": 86.7,
+          "idxb": 86.7,
+          "amostra": 100,
+          "mvp": 10,
+          "pos": 1,
+          "zona": "—"
+        },
         {
           "n": "SR • Dog Apollo",
           "tag": "#YJ9R2GPJG",
@@ -23,7 +42,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 9,
-          "pos": 1,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -42,7 +61,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 9,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -61,7 +80,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 9,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -80,7 +99,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 9,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -99,7 +118,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 9,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -118,25 +137,6 @@
           "idxb": 81.5,
           "amostra": 67,
           "mvp": 8,
-          "pos": 6,
-          "zona": "—"
-        },
-        {
-          "n": "Jan",
-          "tag": "#2899CRJG",
-          "th": 18,
-          "atk": 2,
-          "est": 6,
-          "spa": 3.0,
-          "conf": 67,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "seg": 1,
-          "idx": 78.0,
-          "idxb": 78.0,
-          "amostra": 67,
-          "mvp": 7,
           "pos": 7,
           "zona": "—"
         },
@@ -1095,7 +1095,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 2,
+          "ndef": 3,
           "seg": 0,
           "idx": 57.4,
           "idxb": 57.4,

@@ -742,9 +742,9 @@
         "inicio": "20261105T170418.000Z",
         "fim": "20261106T170418.000Z",
         "nos": {
-          "est": 19,
-          "destr": 45.6,
-          "atk": 7
+          "est": 22,
+          "destr": 52.266666666666666,
+          "atk": 8
         },
         "eles": {
           "est": 9,
@@ -777,7 +777,12 @@
             "tag": "#2899CRJG",
             "th": 18,
             "pos": 3,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1135,9 +1140,9 @@
       "inicio": "20261105T170418.000Z",
       "fim": "20261106T170418.000Z",
       "nos": {
-        "est": 19,
-        "destr": 45.6,
-        "atk": 7
+        "est": 22,
+        "destr": 52.266666666666666,
+        "atk": 8
       },
       "eles": {
         "est": 9,
@@ -1170,7 +1175,12 @@
           "tag": "#2899CRJG",
           "th": 18,
           "pos": 3,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -4366,9 +4376,9 @@
           "atk": 26
         },
         "eles": {
-          "est": 72,
-          "destr": 83.76666666666667,
-          "atk": 26
+          "est": 75,
+          "destr": 87.1,
+          "atk": 27
         },
         "membros": [
           {
@@ -4707,9 +4717,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "abraão",
@@ -5269,9 +5284,9 @@
         "atk": 26
       },
       "eles": {
-        "est": 72,
-        "destr": 83.76666666666667,
-        "atk": 26
+        "est": 75,
+        "destr": 87.1,
+        "atk": 27
       },
       "membros": [
         {
@@ -5610,9 +5625,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "abraão",
