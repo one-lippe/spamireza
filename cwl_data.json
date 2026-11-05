@@ -747,9 +747,9 @@
           "atk": 2
         },
         "eles": {
-          "est": 0,
-          "destr": 0.0,
-          "atk": 0
+          "est": 3,
+          "destr": 6.666666666666667,
+          "atk": 1
         },
         "membros": [
           {
@@ -808,9 +808,14 @@
             "th": 18,
             "pos": 6,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR - JON SNOW 2",
@@ -1100,9 +1105,9 @@
         "atk": 2
       },
       "eles": {
-        "est": 0,
-        "destr": 0.0,
-        "atk": 0
+        "est": 3,
+        "destr": 6.666666666666667,
+        "atk": 1
       },
       "membros": [
         {
@@ -1161,9 +1166,14 @@
           "th": 18,
           "pos": 6,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR - JON SNOW 2",
@@ -2014,14 +2024,14 @@
         "inicio": "20261104T223635.000Z",
         "fim": "20261105T223635.000Z",
         "nos": {
-          "est": 28,
-          "destr": 65.73333333333333,
-          "atk": 10
+          "est": 31,
+          "destr": 72.4,
+          "atk": 11
         },
         "eles": {
-          "est": 12,
-          "destr": 26.666666666666668,
-          "atk": 4
+          "est": 14,
+          "destr": 32.2,
+          "atk": 5
         },
         "membros": [
           {
@@ -2164,10 +2174,20 @@
             "tag": "#YPJLVPL9U",
             "th": 18,
             "pos": 11,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
+            "def_estrelas": 2,
+            "def_destr": 83,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 83
+              }
+            ]
           },
           {
             "nome": "SR • Dog Crazy",
@@ -2427,14 +2447,14 @@
       "inicio": "20261104T223635.000Z",
       "fim": "20261105T223635.000Z",
       "nos": {
-        "est": 28,
-        "destr": 65.73333333333333,
-        "atk": 10
+        "est": 31,
+        "destr": 72.4,
+        "atk": 11
       },
       "eles": {
-        "est": 12,
-        "destr": 26.666666666666668,
-        "atk": 4
+        "est": 14,
+        "destr": 32.2,
+        "atk": 5
       },
       "membros": [
         {
@@ -2577,10 +2597,20 @@
           "tag": "#YPJLVPL9U",
           "th": 18,
           "pos": 11,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
+          "def_estrelas": 2,
+          "def_destr": 83,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 83
+            }
+          ]
         },
         {
           "nome": "SR • Dog Crazy",
@@ -4146,9 +4176,9 @@
           "atk": 22
         },
         "eles": {
-          "est": 46,
-          "destr": 52.6,
-          "atk": 16
+          "est": 49,
+          "destr": 55.93333333333333,
+          "atk": 17
         },
         "membros": [
           {
@@ -4607,9 +4637,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "GSAzevedo30 #2",
@@ -4979,9 +5014,9 @@
         "atk": 22
       },
       "eles": {
-        "est": 46,
-        "destr": 52.6,
-        "atk": 16
+        "est": 49,
+        "destr": 55.93333333333333,
+        "atk": 17
       },
       "membros": [
         {
@@ -5440,9 +5475,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "GSAzevedo30 #2",
