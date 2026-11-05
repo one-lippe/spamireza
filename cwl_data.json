@@ -2039,9 +2039,9 @@
           "atk": 11
         },
         "eles": {
-          "est": 26,
-          "destr": 58.86666666666667,
-          "atk": 9
+          "est": 28,
+          "destr": 64.4,
+          "atk": 10
         },
         "membros": [
           {
@@ -2240,9 +2240,14 @@
             "th": 18,
             "pos": 13,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 83,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 83
+              }
+            ]
           },
           {
             "nome": "Ligeirinh0xD",
@@ -2482,9 +2487,9 @@
         "atk": 11
       },
       "eles": {
-        "est": 26,
-        "destr": 58.86666666666667,
-        "atk": 9
+        "est": 28,
+        "destr": 64.4,
+        "atk": 10
       },
       "membros": [
         {
@@ -2683,9 +2688,14 @@
           "th": 18,
           "pos": 13,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 83,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 83
+            }
+          ]
         },
         {
           "nome": "Ligeirinh0xD",
