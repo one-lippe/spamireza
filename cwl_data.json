@@ -4136,9 +4136,9 @@
           "atk": 22
         },
         "eles": {
-          "est": 43,
-          "destr": 49.266666666666666,
-          "atk": 15
+          "est": 46,
+          "destr": 52.6,
+          "atk": 16
         },
         "membros": [
           {
@@ -4437,9 +4437,14 @@
                 "destr": 82
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Meliodas NNT",
@@ -4964,9 +4969,9 @@
         "atk": 22
       },
       "eles": {
-        "est": 43,
-        "destr": 49.266666666666666,
-        "atk": 15
+        "est": 46,
+        "destr": 52.6,
+        "atk": 16
       },
       "membros": [
         {
@@ -5265,9 +5270,14 @@
               "destr": 82
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Meliodas NNT",

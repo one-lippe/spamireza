@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-05T17:10:31.145946Z",
+  "atualizado": "2026-11-05T17:20:24.782154Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1557,7 +1557,7 @@
               "atk": [
                 1
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Meliodas NNT",
