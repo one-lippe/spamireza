@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T22:30:33.900989Z",
+  "atualizado": "2026-11-06T22:40:24.599312Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1336,18 +1336,18 @@
           "n": "SR•InTheDarkIV",
           "tag": "#R0GLQC0GV",
           "th": 13,
-          "atk": 0,
-          "est": 0,
-          "spa": 0,
-          "conf": 0,
+          "atk": 1,
+          "est": 1,
+          "spa": 1.0,
+          "conf": 100,
           "def": 0,
           "sof": 3.0,
           "ndef": 1,
           "seg": 0,
-          "idx": 0.0,
-          "idxb": 0.0,
-          "amostra": 0,
-          "mvp": 0,
+          "idx": 40.3,
+          "idxb": 40.3,
+          "amostra": 25,
+          "mvp": 1,
           "pos": 36,
           "zona": "—"
         }
