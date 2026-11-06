@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T22:50:30.901824Z",
+  "atualizado": "2026-11-06T23:00:40.860081Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1151,7 +1151,7 @@
               "tag": "#PJ0YJLGJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SrNunes",
@@ -1199,7 +1199,9 @@
               "nome": "MAJ0R FiV3",
               "tag": "#QRJL0RGQR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1213,7 +1215,9 @@
               "nome": "SR • Dog Crazy",
               "tag": "#9LPJP9YPQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2264,7 +2268,9 @@
               "nome": "PaulinhoPH",
               "tag": "#GVLGQ098",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
