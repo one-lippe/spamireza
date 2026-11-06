@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T12:00:35.985029Z",
+  "atualizado": "2026-11-06T12:10:27.475764Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -774,7 +774,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 66.9,
+          "idx": 67.0,
           "idxb": 68.6,
           "amostra": 75,
           "mvp": 9,
@@ -793,7 +793,7 @@
           "sof": 3.0,
           "ndef": 3,
           "seg": 0,
-          "idx": 66.9,
+          "idx": 67.0,
           "idxb": 68.6,
           "amostra": 75,
           "mvp": 9,
@@ -812,7 +812,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 66.9,
+          "idx": 67.0,
           "idxb": 68.6,
           "amostra": 75,
           "mvp": 9,
@@ -850,7 +850,7 @@
           "sof": 1.8,
           "ndef": 4,
           "seg": 4,
-          "idx": 64.2,
+          "idx": 64.3,
           "idxb": 65.0,
           "amostra": 75,
           "mvp": 12,
@@ -945,11 +945,30 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 62.1,
+          "idx": 62.3,
           "idxb": 62.8,
           "amostra": 25,
           "mvp": 3,
           "pos": 15,
+          "zona": "—"
+        },
+        {
+          "n": "SR • JotaErre",
+          "tag": "#GRUG8UQGV",
+          "th": 16,
+          "atk": 4,
+          "est": 9,
+          "spa": 2.25,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 3,
+          "seg": 0,
+          "idx": 61.6,
+          "idxb": 61.6,
+          "amostra": 100,
+          "mvp": 9,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -968,7 +987,7 @@
           "idxb": 60.3,
           "amostra": 75,
           "mvp": 9,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -987,7 +1006,7 @@
           "idxb": 58.8,
           "amostra": 75,
           "mvp": 8,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1006,7 +1025,7 @@
           "idxb": 57.9,
           "amostra": 75,
           "mvp": 8,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1025,7 +1044,7 @@
           "idxb": 57.9,
           "amostra": 75,
           "mvp": 8,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1044,7 +1063,7 @@
           "idxb": 57.2,
           "amostra": 75,
           "mvp": 7,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1058,25 +1077,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 4,
-          "seg": 0,
-          "idx": 57.2,
-          "idxb": 57.2,
-          "amostra": 75,
-          "mvp": 7,
-          "pos": 21,
-          "zona": "—"
-        },
-        {
-          "n": "SR • JotaErre",
-          "tag": "#GRUG8UQGV",
-          "th": 16,
-          "atk": 3,
-          "est": 7,
-          "spa": 2.33,
-          "conf": 75,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 3,
           "seg": 0,
           "idx": 57.2,
           "idxb": 57.2,
