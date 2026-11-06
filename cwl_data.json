@@ -5188,9 +5188,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 56,
-          "destr": 62.86666666666667,
-          "atk": 19
+          "est": 59,
+          "destr": 66.2,
+          "atk": 20
         },
         "membros": [
           {
@@ -5339,9 +5339,14 @@
             "th": 18,
             "pos": 15,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "BC NOELLE ✓",
@@ -5946,9 +5951,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 56,
-        "destr": 62.86666666666667,
-        "atk": 19
+        "est": 59,
+        "destr": 66.2,
+        "atk": 20
       },
       "membros": [
         {
@@ -6097,9 +6102,14 @@
           "th": 18,
           "pos": 15,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "BC NOELLE ✓",
