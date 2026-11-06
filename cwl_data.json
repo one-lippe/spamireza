@@ -1063,9 +1063,9 @@
         "inicio": "20261106T170422.000Z",
         "fim": "20261107T170422.000Z",
         "nos": {
-          "est": 21,
-          "destr": 46.666666666666664,
-          "atk": 7
+          "est": 24,
+          "destr": 53.333333333333336,
+          "atk": 8
         },
         "eles": {
           "est": 11,
@@ -1118,7 +1118,12 @@
             "tag": "#YJ9R2GPJG",
             "th": 18,
             "pos": 5,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1461,9 +1466,9 @@
       "inicio": "20261106T170422.000Z",
       "fim": "20261107T170422.000Z",
       "nos": {
-        "est": 21,
-        "destr": 46.666666666666664,
-        "atk": 7
+        "est": 24,
+        "destr": 53.333333333333336,
+        "atk": 8
       },
       "eles": {
         "est": 11,
@@ -1516,7 +1521,12 @@
           "tag": "#YJ9R2GPJG",
           "th": 18,
           "pos": 5,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -2746,9 +2756,9 @@
           "atk": 14
         },
         "eles": {
-          "est": 30,
-          "destr": 66.66666666666667,
-          "atk": 10
+          "est": 36,
+          "destr": 80.0,
+          "atk": 12
         },
         "membros": [
           {
@@ -2927,9 +2937,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Dog Crazy",
@@ -2977,9 +2992,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Darth Revan",
@@ -3209,9 +3229,9 @@
         "atk": 14
       },
       "eles": {
-        "est": 30,
-        "destr": 66.66666666666667,
-        "atk": 10
+        "est": 36,
+        "destr": 80.0,
+        "atk": 12
       },
       "membros": [
         {
@@ -3390,9 +3410,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Dog Crazy",
@@ -3440,9 +3465,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Darth Revan",

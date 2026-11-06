@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T20:50:26.728755Z",
+  "atualizado": "2026-11-06T21:00:35.217983Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -468,7 +468,9 @@
               "nome": "SR • Dog Apollo",
               "tag": "#YJ9R2GPJG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1089,7 +1091,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Dog Crazy",
@@ -1114,7 +1116,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Darth Revan",
