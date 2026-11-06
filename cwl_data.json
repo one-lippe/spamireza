@@ -747,9 +747,9 @@
           "atk": 12
         },
         "eles": {
-          "est": 12,
-          "destr": 26.666666666666668,
-          "atk": 4
+          "est": 15,
+          "destr": 33.333333333333336,
+          "atk": 5
         },
         "membros": [
           {
@@ -773,9 +773,14 @@
                 "destr": 82
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Jan",
@@ -1170,9 +1175,9 @@
         "atk": 12
       },
       "eles": {
-        "est": 12,
-        "destr": 26.666666666666668,
-        "atk": 4
+        "est": 15,
+        "destr": 33.333333333333336,
+        "atk": 5
       },
       "membros": [
         {
@@ -1196,9 +1201,14 @@
               "destr": 82
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Jan",
@@ -5148,9 +5158,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 33,
-          "destr": 36.666666666666664,
-          "atk": 11
+          "est": 36,
+          "destr": 40.0,
+          "atk": 12
         },
         "membros": [
           {
@@ -5514,9 +5524,14 @@
             "th": 14,
             "pos": 39,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•InTheDarkIV",
@@ -5866,9 +5881,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 33,
-        "destr": 36.666666666666664,
-        "atk": 11
+        "est": 36,
+        "destr": 40.0,
+        "atk": 12
       },
       "membros": [
         {
@@ -6232,9 +6247,14 @@
           "th": 14,
           "pos": 39,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•InTheDarkIV",
