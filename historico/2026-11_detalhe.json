@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T11:00:36.025008Z",
+  "atualizado": "2026-11-06T11:10:24.044058Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -888,7 +888,9 @@
               "nome": "tozim",
               "tag": "#9G22U9U2Y",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
