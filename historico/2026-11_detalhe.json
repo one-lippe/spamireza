@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T08:00:27.238554Z",
+  "atualizado": "2026-11-06T08:10:24.755031Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -302,7 +302,9 @@
               "nome": "marinaul war",
               "tag": "#8GGCQPYP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -880,7 +882,7 @@
               "tag": "#2LY8G8Y9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "tozim",
@@ -914,7 +916,7 @@
               "atk": [
                 1
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • THIAGO",

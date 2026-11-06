@@ -742,9 +742,9 @@
         "inicio": "20261105T170418.000Z",
         "fim": "20261106T170418.000Z",
         "nos": {
-          "est": 32,
-          "destr": 77.73333333333333,
-          "atk": 12
+          "est": 35,
+          "destr": 84.4,
+          "atk": 13
         },
         "eles": {
           "est": 34,
@@ -757,7 +757,12 @@
             "tag": "#8GGCQPYP",
             "th": 18,
             "pos": 1,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1205,9 +1210,9 @@
       "inicio": "20261105T170418.000Z",
       "fim": "20261106T170418.000Z",
       "nos": {
-        "est": 32,
-        "destr": 77.73333333333333,
-        "atk": 12
+        "est": 35,
+        "destr": 84.4,
+        "atk": 13
       },
       "eles": {
         "est": 34,
@@ -1220,7 +1225,12 @@
           "tag": "#8GGCQPYP",
           "th": 18,
           "pos": 1,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -2555,9 +2565,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 12,
-          "destr": 26.666666666666668,
-          "atk": 4
+          "est": 18,
+          "destr": 40.0,
+          "atk": 6
         },
         "membros": [
           {
@@ -2576,9 +2586,14 @@
             "th": 18,
             "pos": 2,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "tozim",
@@ -2631,9 +2646,14 @@
                 "destr": 98
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • THIAGO",
@@ -2948,9 +2968,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 12,
-        "destr": 26.666666666666668,
-        "atk": 4
+        "est": 18,
+        "destr": 40.0,
+        "atk": 6
       },
       "membros": [
         {
@@ -2969,9 +2989,14 @@
           "th": 18,
           "pos": 2,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "tozim",
@@ -3024,9 +3049,14 @@
               "destr": 98
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • THIAGO",
