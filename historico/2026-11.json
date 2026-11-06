@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T19:50:27.105709Z",
+  "atualizado": "2026-11-06T20:00:40.024653Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -509,25 +509,6 @@
           "zona": "—"
         },
         {
-          "n": "SR • THIAGO",
-          "tag": "#89G0YGUJY",
-          "th": 18,
-          "atk": 3,
-          "est": 8,
-          "spa": 2.67,
-          "conf": 100,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "seg": 1,
-          "idx": 72.5,
-          "idxb": 72.6,
-          "amostra": 75,
-          "mvp": 9,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
           "n": "SR • Dog Crazy",
           "tag": "#9LPJP9YPQ",
           "th": 18,
@@ -543,6 +524,25 @@
           "idxb": 72.5,
           "amostra": 75,
           "mvp": 11,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
+          "n": "SR • THIAGO",
+          "tag": "#89G0YGUJY",
+          "th": 18,
+          "atk": 3,
+          "est": 8,
+          "spa": 2.67,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "seg": 1,
+          "idx": 71.5,
+          "idxb": 71.5,
+          "amostra": 75,
+          "mvp": 9,
           "pos": 11,
           "zona": "—"
         },
