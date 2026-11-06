@@ -5133,9 +5133,9 @@
         "inicio": "20261105T235037.000Z",
         "fim": "20261106T235037.000Z",
         "nos": {
-          "est": 7,
-          "destr": 8.4,
-          "atk": 3
+          "est": 10,
+          "destr": 11.733333333333333,
+          "atk": 4
         },
         "eles": {
           "est": 30,
@@ -5203,7 +5203,12 @@
             "tag": "#GJYRCJ0PR",
             "th": 18,
             "pos": 9,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -5540,6 +5545,16 @@
             "defesas": []
           },
           {
+            "nome": "Lider Andre",
+            "tag": "#20UUPGPCV",
+            "th": 18,
+            "pos": 4,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
             "nome": "♣️Dorindo Sena♣",
             "tag": "#8Y9V2QQ82",
             "th": 18,
@@ -5740,16 +5755,6 @@
             "defesas": []
           },
           {
-            "nome": "SR • Eduhh",
-            "tag": "#2Q9RYUCCP",
-            "th": 17,
-            "pos": 28,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
             "nome": "Gerion",
             "tag": "#YP9L000LG",
             "th": 17,
@@ -5841,9 +5846,9 @@
       "inicio": "20261105T235037.000Z",
       "fim": "20261106T235037.000Z",
       "nos": {
-        "est": 7,
-        "destr": 8.4,
-        "atk": 3
+        "est": 10,
+        "destr": 11.733333333333333,
+        "atk": 4
       },
       "eles": {
         "est": 30,
@@ -5911,7 +5916,12 @@
           "tag": "#GJYRCJ0PR",
           "th": 18,
           "pos": 9,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
