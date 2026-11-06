@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T22:40:24.601386Z",
+  "atualizado": "2026-11-06T22:50:30.901824Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1000,7 +1000,7 @@
         {
           "g": 4,
           "vs": "RATHAUS CLAN",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
@@ -1037,7 +1037,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "KingMpg",
@@ -1137,6 +1137,119 @@
                 3
               ],
               "def_est": 3
+            }
+          ]
+        },
+        {
+          "g": 5,
+          "vs": "GOLDEN DRACO",
+          "state": "inWar",
+          "size": 15,
+          "jogadores": [
+            {
+              "nome": "SR • Giovanelli",
+              "tag": "#PJ0YJLGJ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SrNunes",
+              "tag": "#2LY8G8Y9",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "tozim",
+              "tag": "#9G22U9U2Y",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Renan",
+              "tag": "#QLRGC8GQ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "KingMpg",
+              "tag": "#22YJPYPCJ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • THIAGO",
+              "tag": "#89G0YGUJY",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Monesy9",
+              "tag": "#LJRPJ9PC0",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "MAJ0R FiV3",
+              "tag": "#QRJL0RGQR",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "TomorrowBr",
+              "tag": "#YPJLVPL9U",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • Dog Crazy",
+              "tag": "#9LPJP9YPQ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Monesy",
+              "tag": "#2YGJQG22G",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • DuM∆R",
+              "tag": "#YQRJL098P",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Ligeirinh0xD",
+              "tag": "#GRR2G9LP0",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Darth Revan",
+              "tag": "#8R280VRCQ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • Nesquick",
+              "tag": "#YCRJU229",
+              "th": 18,
+              "atk": [],
+              "def_est": null
             }
           ]
         }
@@ -2040,7 +2153,9 @@
               "nome": "Samuel Soares",
               "tag": "#9V2L9J9JP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
