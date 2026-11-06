@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T23:20:31.479933Z",
+  "atualizado": "2026-11-06T23:30:25.221031Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -850,7 +850,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 67.6,
+          "idx": 67.7,
           "idxb": 68.6,
           "amostra": 75,
           "mvp": 9,
@@ -915,9 +915,9 @@
           "zona": "—"
         },
         {
-          "n": "SR • Eduhh",
-          "tag": "#2Q9RYUCCP",
-          "th": 17,
+          "n": "Meliodas NNT",
+          "tag": "#2PLQG8UQU",
+          "th": 18,
           "atk": 4,
           "est": 10,
           "spa": 2.5,
@@ -934,6 +934,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • Eduhh",
+          "tag": "#2Q9RYUCCP",
+          "th": 17,
+          "atk": 4,
+          "est": 10,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 4,
+          "seg": 0,
+          "idx": 65.9,
+          "idxb": 65.9,
+          "amostra": 100,
+          "mvp": 10,
+          "pos": 15,
+          "zona": "—"
+        },
+        {
           "n": "Gerion",
           "tag": "#YP9L000LG",
           "th": 17,
@@ -945,11 +964,11 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 65.3,
+          "idx": 65.4,
           "idxb": 65.9,
           "amostra": 50,
           "mvp": 5,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -964,11 +983,11 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 65.3,
+          "idx": 65.4,
           "idxb": 65.9,
           "amostra": 50,
           "mvp": 5,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -987,7 +1006,7 @@
           "idxb": 65.1,
           "amostra": 100,
           "mvp": 13,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1006,7 +1025,7 @@
           "idxb": 64.7,
           "amostra": 100,
           "mvp": 11,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1025,7 +1044,7 @@
           "idxb": 61.6,
           "amostra": 100,
           "mvp": 9,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1044,7 +1063,7 @@
           "idxb": 60.5,
           "amostra": 100,
           "mvp": 10,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1063,7 +1082,7 @@
           "idxb": 59.4,
           "amostra": 75,
           "mvp": 7,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -1082,7 +1101,7 @@
           "idxb": 58.9,
           "amostra": 100,
           "mvp": 9,
-          "pos": 22,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -1101,7 +1120,7 @@
           "idxb": 58.9,
           "amostra": 100,
           "mvp": 9,
-          "pos": 23,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -1120,7 +1139,7 @@
           "idxb": 57.9,
           "amostra": 75,
           "mvp": 8,
-          "pos": 24,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -1139,7 +1158,7 @@
           "idxb": 57.9,
           "amostra": 75,
           "mvp": 8,
-          "pos": 25,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -1158,25 +1177,6 @@
           "idxb": 57.4,
           "amostra": 100,
           "mvp": 8,
-          "pos": 26,
-          "zona": "—"
-        },
-        {
-          "n": "Meliodas NNT",
-          "tag": "#2PLQG8UQU",
-          "th": 18,
-          "atk": 3,
-          "est": 7,
-          "spa": 2.33,
-          "conf": 75,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
-          "seg": 0,
-          "idx": 57.2,
-          "idxb": 57.2,
-          "amostra": 75,
-          "mvp": 7,
           "pos": 27,
           "zona": "—"
         },
