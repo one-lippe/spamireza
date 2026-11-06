@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T09:30:28.431425Z",
+  "atualizado": "2026-11-06T09:40:29.706089Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1843,7 +1843,7 @@
               "tag": "#8Y9V2QQ82",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "100%War_⚡Slash⚡",
