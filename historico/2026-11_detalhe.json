@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T00:01:02.717970Z",
+  "atualizado": "2026-11-06T00:10:28.751379Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1844,7 +1844,7 @@
               "tag": "#8PURGU2YG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Royther13",
