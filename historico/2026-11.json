@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T22:10:27.675281Z",
+  "atualizado": "2026-11-06T22:20:24.167692Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -991,6 +991,25 @@
           "zona": "—"
         },
         {
+          "n": "Lider André 2",
+          "tag": "#L9GRLYGVQ",
+          "th": 17,
+          "atk": 4,
+          "est": 8,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 4,
+          "seg": 1,
+          "idx": 60.5,
+          "idxb": 60.5,
+          "amostra": 100,
+          "mvp": 10,
+          "pos": 18,
+          "zona": "—"
+        },
+        {
           "n": "PaulinhoPH",
           "tag": "#GVLGQ098",
           "th": 17,
@@ -1006,7 +1025,7 @@
           "idxb": 60.3,
           "amostra": 75,
           "mvp": 9,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1025,7 +1044,7 @@
           "idxb": 59.4,
           "amostra": 75,
           "mvp": 7,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1044,7 +1063,7 @@
           "idxb": 58.9,
           "amostra": 100,
           "mvp": 9,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1063,7 +1082,7 @@
           "idxb": 58.8,
           "amostra": 75,
           "mvp": 8,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -1082,7 +1101,7 @@
           "idxb": 57.9,
           "amostra": 75,
           "mvp": 8,
-          "pos": 22,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -1100,25 +1119,6 @@
           "idx": 57.9,
           "idxb": 57.9,
           "amostra": 75,
-          "mvp": 8,
-          "pos": 23,
-          "zona": "—"
-        },
-        {
-          "n": "Lider André 2",
-          "tag": "#L9GRLYGVQ",
-          "th": 17,
-          "atk": 4,
-          "est": 8,
-          "spa": 2.0,
-          "conf": 100,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 3,
-          "seg": 0,
-          "idx": 57.4,
-          "idxb": 57.4,
-          "amostra": 100,
           "mvp": 8,
           "pos": 24,
           "zona": "—"
