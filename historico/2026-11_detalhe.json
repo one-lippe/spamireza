@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T12:40:26.703271Z",
+  "atualizado": "2026-11-06T12:50:24.775374Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -356,7 +356,9 @@
               "nome": "SR - JON SNOW 2",
               "tag": "#9VV909C89",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
