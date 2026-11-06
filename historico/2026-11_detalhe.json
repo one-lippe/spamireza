@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T01:10:22.358587Z",
+  "atualizado": "2026-11-06T01:20:24.610174Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1934,14 +1934,14 @@
               "tag": "#P2JCQRPGJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Meliodas NNT",
               "tag": "#2PLQG8UQU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Lider André 2",
@@ -2018,7 +2018,7 @@
               "tag": "#LRGU2Q8V0",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ligeirinh2xD",
