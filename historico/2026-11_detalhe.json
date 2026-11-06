@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T18:50:28.480237Z",
+  "atualizado": "2026-11-06T19:00:40.539736Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2006,7 +2006,9 @@
               "nome": "NoBlitzz",
               "tag": "#9RJGGUY9R",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
