@@ -1079,16 +1079,6 @@
             "defesas": []
           },
           {
-            "nome": "Henrique Nerath",
-            "tag": "#2U8P0YQ92",
-            "th": 18,
-            "pos": 2,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
             "nome": "Jan",
             "tag": "#2899CRJG",
             "th": 18,
@@ -1179,20 +1169,20 @@
             "defesas": []
           },
           {
-            "nome": "SR • Neskau",
-            "tag": "#P8GLGPRP",
+            "nome": "Nesk",
+            "tag": "#99220V0Q8",
             "th": 18,
-            "pos": 13,
+            "pos": 12,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
           },
           {
-            "nome": "☆VILA DO PX ツ",
-            "tag": "#8PUL8JPC",
+            "nome": "SR • Neskau",
+            "tag": "#P8GLGPRP",
             "th": 18,
-            "pos": 14,
+            "pos": 13,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -1213,6 +1203,16 @@
             "tag": "#RCQQUGC9",
             "th": 18,
             "pos": 16,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "SR•GOD kratos",
+            "tag": "#LUJ9CRJQG",
+            "th": 18,
+            "pos": 17,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -2605,9 +2605,9 @@
           "atk": 9
         },
         "eles": {
-          "est": 18,
-          "destr": 40.0,
-          "atk": 6
+          "est": 21,
+          "destr": 46.666666666666664,
+          "atk": 7
         },
         "membros": [
           {
@@ -2831,9 +2831,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           }
         ]
       },
@@ -3023,9 +3028,9 @@
         "atk": 9
       },
       "eles": {
-        "est": 18,
-        "destr": 40.0,
-        "atk": 6
+        "est": 21,
+        "destr": 46.666666666666664,
+        "atk": 7
       },
       "membros": [
         {
@@ -3249,9 +3254,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         }
       ]
     },
