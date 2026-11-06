@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T15:40:27.299464Z",
+  "atualizado": "2026-11-06T15:50:27.093526Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -878,7 +878,9 @@
               "nome": "SR • Giovanelli",
               "tag": "#PJ0YJLGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
