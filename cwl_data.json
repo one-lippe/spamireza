@@ -2766,9 +2766,9 @@
           "atk": 14
         },
         "eles": {
-          "est": 39,
-          "destr": 86.66666666666667,
-          "atk": 13
+          "est": 41,
+          "destr": 93.2,
+          "atk": 14
         },
         "membros": [
           {
@@ -2857,9 +2857,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 98,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 98
+              }
+            ]
           },
           {
             "nome": "GSAzevedo30",
@@ -3244,9 +3249,9 @@
         "atk": 14
       },
       "eles": {
-        "est": 39,
-        "destr": 86.66666666666667,
-        "atk": 13
+        "est": 41,
+        "destr": 93.2,
+        "atk": 14
       },
       "membros": [
         {
@@ -3335,9 +3340,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 98,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 98
+            }
+          ]
         },
         {
           "nome": "GSAzevedo30",
@@ -5624,9 +5634,9 @@
         "inicio": "20261105T235037.000Z",
         "fim": "20261106T235037.000Z",
         "nos": {
-          "est": 43,
-          "destr": 57.0,
-          "atk": 20
+          "est": 44,
+          "destr": 60.03333333333333,
+          "atk": 21
         },
         "eles": {
           "est": 84,
@@ -6074,7 +6084,12 @@
             "tag": "#29882J2L2",
             "th": 16,
             "pos": 32,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 91
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -6512,9 +6527,9 @@
       "inicio": "20261105T235037.000Z",
       "fim": "20261106T235037.000Z",
       "nos": {
-        "est": 43,
-        "destr": 57.0,
-        "atk": 20
+        "est": 44,
+        "destr": 60.03333333333333,
+        "atk": 21
       },
       "eles": {
         "est": 84,
@@ -6962,7 +6977,12 @@
           "tag": "#29882J2L2",
           "th": 16,
           "pos": 32,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 91
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
