@@ -5188,9 +5188,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 47,
-          "destr": 52.86666666666667,
-          "atk": 16
+          "est": 50,
+          "destr": 56.2,
+          "atk": 17
         },
         "membros": [
           {
@@ -5434,9 +5434,14 @@
             "th": 18,
             "pos": 24,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Líder André 3",
@@ -5931,9 +5936,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 47,
-        "destr": 52.86666666666667,
-        "atk": 16
+        "est": 50,
+        "destr": 56.2,
+        "atk": 17
       },
       "membros": [
         {
@@ -6177,9 +6182,14 @@
           "th": 18,
           "pos": 24,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Líder André 3",
