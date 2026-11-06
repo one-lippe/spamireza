@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T23:10:42.030242Z",
+  "atualizado": "2026-11-06T23:20:31.481594Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -452,7 +452,9 @@
               "nome": "Jan",
               "tag": "#2899CRJG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
@@ -519,7 +521,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Nesk",
@@ -2175,7 +2177,9 @@
               "nome": "♣DnF◆",
               "tag": "#8UY0889P9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
