@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T00:30:34.988916Z",
+  "atualizado": "2026-11-06T00:40:24.698566Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1865,7 +1865,7 @@
               "tag": "#GJYRCJ0PR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Samuel Soares",
@@ -2021,7 +2021,7 @@
               "tag": "#GCC98R22R",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Crypt Myers",

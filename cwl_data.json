@@ -5128,9 +5128,9 @@
           "atk": 1
         },
         "eles": {
-          "est": 6,
-          "destr": 6.666666666666667,
-          "atk": 2
+          "est": 12,
+          "destr": 13.333333333333334,
+          "atk": 4
         },
         "membros": [
           {
@@ -5194,9 +5194,14 @@
             "th": 18,
             "pos": 9,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Samuel Soares",
@@ -5424,9 +5429,14 @@
             "th": 16,
             "pos": 35,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Crypt Myers",
@@ -5786,9 +5796,9 @@
         "atk": 1
       },
       "eles": {
-        "est": 6,
-        "destr": 6.666666666666667,
-        "atk": 2
+        "est": 12,
+        "destr": 13.333333333333334,
+        "atk": 4
       },
       "membros": [
         {
@@ -5852,9 +5862,14 @@
           "th": 18,
           "pos": 9,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Samuel Soares",
@@ -6082,9 +6097,14 @@
           "th": 16,
           "pos": 35,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Crypt Myers",
