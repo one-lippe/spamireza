@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T20:20:39.476835Z",
+  "atualizado": "2026-11-06T20:30:31.718454Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -84,8 +84,8 @@
           "zona": "—"
         },
         {
-          "n": "Levi_Neiva 2",
-          "tag": "#90GRYGJVP",
+          "n": "SR • Neskau",
+          "tag": "#P8GLGPRP",
           "th": 18,
           "atk": 4,
           "est": 12,
@@ -103,6 +103,25 @@
           "zona": "—"
         },
         {
+          "n": "Levi_Neiva 2",
+          "tag": "#90GRYGJVP",
+          "th": 18,
+          "atk": 4,
+          "est": 12,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 3,
+          "seg": 0,
+          "idx": 83.2,
+          "idxb": 83.2,
+          "amostra": 100,
+          "mvp": 12,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
           "n": "marinaul war",
           "tag": "#8GGCQPYP",
           "th": 18,
@@ -114,11 +133,11 @@
           "sof": 2.2,
           "ndef": 4,
           "seg": 2,
-          "idx": 81.3,
+          "idx": 81.5,
           "idxb": 81.9,
           "amostra": 75,
           "mvp": 12,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -137,7 +156,7 @@
           "idxb": 79.0,
           "amostra": 75,
           "mvp": 10,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -156,31 +175,12 @@
           "idxb": 79.0,
           "amostra": 75,
           "mvp": 10,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
           "n": "SR • JON SNOW",
           "tag": "#LYV2J2LU",
-          "th": 18,
-          "atk": 3,
-          "est": 9,
-          "spa": 3.0,
-          "conf": 75,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 3,
-          "seg": 0,
-          "idx": 76.7,
-          "idxb": 76.7,
-          "amostra": 75,
-          "mvp": 9,
-          "pos": 9,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Neskau",
-          "tag": "#P8GLGPRP",
           "th": 18,
           "atk": 3,
           "est": 9,
@@ -877,6 +877,25 @@
           "zona": "—"
         },
         {
+          "n": "♣️Dorindo Sena♣",
+          "tag": "#8Y9V2QQ82",
+          "th": 18,
+          "atk": 4,
+          "est": 8,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 42,
+          "sof": 1.8,
+          "ndef": 4,
+          "seg": 4,
+          "idx": 65.1,
+          "idxb": 65.1,
+          "amostra": 100,
+          "mvp": 13,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
           "n": "Gerion",
           "tag": "#YP9L000LG",
           "th": 17,
@@ -892,7 +911,7 @@
           "idxb": 65.9,
           "amostra": 50,
           "mvp": 5,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -911,25 +930,6 @@
           "idxb": 65.9,
           "amostra": 50,
           "mvp": 5,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "♣️Dorindo Sena♣",
-          "tag": "#8Y9V2QQ82",
-          "th": 18,
-          "atk": 3,
-          "est": 7,
-          "spa": 2.33,
-          "conf": 75,
-          "def": 42,
-          "sof": 1.8,
-          "ndef": 4,
-          "seg": 4,
-          "idx": 64.6,
-          "idxb": 65.0,
-          "amostra": 75,
-          "mvp": 12,
           "pos": 14,
           "zona": "—"
         },
