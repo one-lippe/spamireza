@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T11:10:24.044058Z",
+  "atualizado": "2026-11-06T11:20:26.575004Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -427,7 +427,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
@@ -1943,7 +1943,9 @@
               "nome": "irmão do jorel",
               "tag": "#P2JCQRPGJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
@@ -1986,7 +1988,7 @@
               "tag": "#GUCJQPVR9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Eduhh",
