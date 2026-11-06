@@ -3128,16 +3128,6 @@
             "defesas": []
           },
           {
-            "nome": "Sene",
-            "tag": "#8JQJYQC",
-            "th": 18,
-            "pos": 4,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
             "nome": "Renan",
             "tag": "#QLRGC8GQ",
             "th": 18,
@@ -3172,6 +3162,16 @@
             "tag": "#LJRPJ9PC0",
             "th": 18,
             "pos": 9,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "MAJ0R FiV3",
+            "tag": "#QRJL0RGQR",
+            "th": 18,
+            "pos": 10,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
