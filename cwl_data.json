@@ -1068,9 +1068,9 @@
           "atk": 9
         },
         "eles": {
-          "est": 22,
-          "destr": 51.733333333333334,
-          "atk": 8
+          "est": 24,
+          "destr": 56.6,
+          "atk": 9
         },
         "membros": [
           {
@@ -1194,9 +1194,14 @@
             "th": 18,
             "pos": 9,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 73,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 73
+              }
+            ]
           },
           {
             "nome": "Psico 2k25",
@@ -1496,9 +1501,9 @@
         "atk": 9
       },
       "eles": {
-        "est": 22,
-        "destr": 51.733333333333334,
-        "atk": 8
+        "est": 24,
+        "destr": 56.6,
+        "atk": 9
       },
       "membros": [
         {
@@ -1622,9 +1627,14 @@
           "th": 18,
           "pos": 9,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 73,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 73
+            }
+          ]
         },
         {
           "nome": "Psico 2k25",
@@ -3127,9 +3137,9 @@
           "atk": 2
         },
         "eles": {
-          "est": 3,
-          "destr": 6.666666666666667,
-          "atk": 1
+          "est": 5,
+          "destr": 13.066666666666666,
+          "atk": 2
         },
         "membros": [
           {
@@ -3153,9 +3163,14 @@
             "th": 18,
             "pos": 2,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 96,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 96
+              }
+            ]
           },
           {
             "nome": "tozim",
@@ -3485,9 +3500,9 @@
         "atk": 2
       },
       "eles": {
-        "est": 3,
-        "destr": 6.666666666666667,
-        "atk": 1
+        "est": 5,
+        "destr": 13.066666666666666,
+        "atk": 2
       },
       "membros": [
         {
@@ -3511,9 +3526,14 @@
           "th": 18,
           "pos": 2,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 96,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 96
+            }
+          ]
         },
         {
           "nome": "tozim",
