@@ -742,9 +742,9 @@
         "inicio": "20261105T170418.000Z",
         "fim": "20261106T170418.000Z",
         "nos": {
-          "est": 35,
-          "destr": 84.4,
-          "atk": 13
+          "est": 38,
+          "destr": 91.06666666666666,
+          "atk": 14
         },
         "eles": {
           "est": 43,
@@ -857,7 +857,12 @@
             "tag": "#LYV2J2LU",
             "th": 18,
             "pos": 6,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -1225,9 +1230,9 @@
       "inicio": "20261105T170418.000Z",
       "fim": "20261106T170418.000Z",
       "nos": {
-        "est": 35,
-        "destr": 84.4,
-        "atk": 13
+        "est": 38,
+        "destr": 91.06666666666666,
+        "atk": 14
       },
       "eles": {
         "est": 43,
@@ -1340,7 +1345,12 @@
           "tag": "#LYV2J2LU",
           "th": 18,
           "pos": 6,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -2897,16 +2907,6 @@
             "defesas": []
           },
           {
-            "nome": "GSAzevedo30",
-            "tag": "#CJLVVL9L",
-            "th": 18,
-            "pos": 6,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
             "nome": "KingMpg",
             "tag": "#22YJPYPCJ",
             "th": 18,
@@ -2951,6 +2951,16 @@
             "tag": "#9LPJP9YPQ",
             "th": 18,
             "pos": 12,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Monesy",
+            "tag": "#2YGJQG22G",
+            "th": 18,
+            "pos": 13,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -5338,9 +5348,9 @@
           "atk": 7
         },
         "eles": {
-          "est": 70,
-          "destr": 79.4,
-          "atk": 24
+          "est": 72,
+          "destr": 81.9,
+          "atk": 25
         },
         "membros": [
           {
@@ -5624,9 +5634,14 @@
             "th": 17,
             "pos": 25,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 75,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 75
+              }
+            ]
           },
           {
             "nome": "PaulinhoPH",
@@ -6136,9 +6151,9 @@
         "atk": 7
       },
       "eles": {
-        "est": 70,
-        "destr": 79.4,
-        "atk": 24
+        "est": 72,
+        "destr": 81.9,
+        "atk": 25
       },
       "membros": [
         {
@@ -6422,9 +6437,14 @@
           "th": 17,
           "pos": 25,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 75,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 75
+            }
+          ]
         },
         {
           "nome": "PaulinhoPH",

@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T12:20:24.243831Z",
+  "atualizado": "2026-11-06T12:30:45.916869Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -103,6 +103,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • JON SNOW",
+          "tag": "#LYV2J2LU",
+          "th": 18,
+          "atk": 3,
+          "est": 9,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 3,
+          "seg": 0,
+          "idx": 83.2,
+          "idxb": 83.2,
+          "amostra": 100,
+          "mvp": 9,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
           "n": "Coyote 171 × 戦備",
           "tag": "#Y08CR0PQU",
           "th": 18,
@@ -118,7 +137,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 9,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -137,7 +156,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 9,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -156,7 +175,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 9,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -175,7 +194,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 9,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -194,25 +213,6 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 9,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "SR • JON SNOW",
-          "tag": "#LYV2J2LU",
-          "th": 18,
-          "atk": 2,
-          "est": 6,
-          "spa": 3.0,
-          "conf": 67,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 3,
-          "seg": 0,
-          "idx": 74.5,
-          "idxb": 74.5,
-          "amostra": 67,
-          "mvp": 6,
           "pos": 11,
           "zona": "—"
         },
@@ -1143,6 +1143,25 @@
           "zona": "—"
         },
         {
+          "n": "Líder André 3",
+          "tag": "#GY0Q0VRL0",
+          "th": 17,
+          "atk": 2,
+          "est": 4,
+          "spa": 2.0,
+          "conf": 67,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "seg": 1,
+          "idx": 51.7,
+          "idxb": 51.7,
+          "amostra": 50,
+          "mvp": 5,
+          "pos": 26,
+          "zona": "—"
+        },
+        {
           "n": "Lider André 2",
           "tag": "#L9GRLYGVQ",
           "th": 17,
@@ -1158,25 +1177,6 @@
           "idxb": 51.5,
           "amostra": 75,
           "mvp": 6,
-          "pos": 26,
-          "zona": "—"
-        },
-        {
-          "n": "Líder André 3",
-          "tag": "#GY0Q0VRL0",
-          "th": 17,
-          "atk": 2,
-          "est": 4,
-          "spa": 2.0,
-          "conf": 67,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "seg": 0,
-          "idx": 49.6,
-          "idxb": 49.6,
-          "amostra": 50,
-          "mvp": 4,
           "pos": 27,
           "zona": "—"
         },
