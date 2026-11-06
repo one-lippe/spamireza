@@ -5188,9 +5188,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 53,
-          "destr": 59.53333333333333,
-          "atk": 18
+          "est": 56,
+          "destr": 62.86666666666667,
+          "atk": 19
         },
         "membros": [
           {
@@ -5199,9 +5199,14 @@
             "th": 18,
             "pos": 1,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "♣️Dorindo Sena♣",
@@ -5941,9 +5946,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 53,
-        "destr": 59.53333333333333,
-        "atk": 18
+        "est": 56,
+        "destr": 62.86666666666667,
+        "atk": 19
       },
       "membros": [
         {
@@ -5952,9 +5957,14 @@
           "th": 18,
           "pos": 1,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "♣️Dorindo Sena♣",
