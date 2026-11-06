@@ -5188,9 +5188,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 44,
-          "destr": 49.53333333333333,
-          "atk": 15
+          "est": 47,
+          "destr": 52.86666666666667,
+          "atk": 16
         },
         "membros": [
           {
@@ -5279,9 +5279,14 @@
             "th": 18,
             "pos": 10,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "dvnly",
@@ -5926,9 +5931,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 44,
-        "destr": 49.53333333333333,
-        "atk": 15
+        "est": 47,
+        "destr": 52.86666666666667,
+        "atk": 16
       },
       "membros": [
         {
@@ -6017,9 +6022,14 @@
           "th": 18,
           "pos": 10,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "dvnly",
