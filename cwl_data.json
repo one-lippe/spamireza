@@ -747,9 +747,9 @@
           "atk": 13
         },
         "eles": {
-          "est": 40,
-          "destr": 91.93333333333334,
-          "atk": 14
+          "est": 43,
+          "destr": 98.6,
+          "atk": 15
         },
         "membros": [
           {
@@ -953,9 +953,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Neskau",
@@ -1225,9 +1230,9 @@
         "atk": 13
       },
       "eles": {
-        "est": 40,
-        "destr": 91.93333333333334,
-        "atk": 14
+        "est": 43,
+        "destr": 98.6,
+        "atk": 15
       },
       "membros": [
         {
@@ -1431,9 +1436,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Neskau",
@@ -5318,9 +5328,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 67,
-          "destr": 76.06666666666666,
-          "atk": 23
+          "est": 70,
+          "destr": 79.4,
+          "atk": 24
         },
         "membros": [
           {
@@ -5614,9 +5624,14 @@
             "th": 17,
             "pos": 26,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "qvnly",
@@ -6106,9 +6121,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 67,
-        "destr": 76.06666666666666,
-        "atk": 23
+        "est": 70,
+        "destr": 79.4,
+        "atk": 24
       },
       "membros": [
         {
@@ -6402,9 +6417,14 @@
           "th": 17,
           "pos": 26,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "qvnly",

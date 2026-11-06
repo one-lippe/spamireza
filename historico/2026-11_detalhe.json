@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T11:20:26.575004Z",
+  "atualizado": "2026-11-06T11:30:31.510582Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -391,7 +391,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Neskau",
@@ -1981,7 +1981,7 @@
               "tag": "#GVLGQ098",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "qvnly",
