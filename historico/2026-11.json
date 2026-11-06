@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T21:50:25.591072Z",
+  "atualizado": "2026-11-06T22:00:47.015233Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -338,6 +338,25 @@
       "mode": "rank",
       "rank": [
         {
+          "n": "SR • Dog Crazy",
+          "tag": "#9LPJP9YPQ",
+          "th": 18,
+          "atk": 4,
+          "est": 12,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 4,
+          "seg": 1,
+          "idx": 78.3,
+          "idxb": 78.3,
+          "amostra": 100,
+          "mvp": 14,
+          "pos": 1,
+          "zona": "promo"
+        },
+        {
           "n": "SR • Giovanelli",
           "tag": "#PJ0YJLGJ",
           "th": 18,
@@ -353,7 +372,7 @@
           "idxb": 76.8,
           "amostra": 100,
           "mvp": 13,
-          "pos": 1,
+          "pos": 2,
           "zona": "promo"
         },
         {
@@ -372,8 +391,8 @@
           "idxb": 76.8,
           "amostra": 100,
           "mvp": 13,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "KingMpg",
@@ -391,7 +410,7 @@
           "idxb": 76.8,
           "amostra": 100,
           "mvp": 13,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -410,7 +429,7 @@
           "idxb": 76.8,
           "amostra": 100,
           "mvp": 13,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -425,11 +444,11 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 76.0,
+          "idx": 76.1,
           "idxb": 77.3,
           "amostra": 75,
           "mvp": 10,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -448,7 +467,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 12,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -467,7 +486,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 12,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -482,11 +501,11 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 73.7,
+          "idx": 73.9,
           "idxb": 75.2,
           "amostra": 50,
           "mvp": 6,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -505,25 +524,6 @@
           "idxb": 72.5,
           "amostra": 100,
           "mvp": 12,
-          "pos": 9,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Dog Crazy",
-          "tag": "#9LPJP9YPQ",
-          "th": 18,
-          "atk": 3,
-          "est": 9,
-          "spa": 3.0,
-          "conf": 75,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 4,
-          "seg": 1,
-          "idx": 72.4,
-          "idxb": 72.5,
-          "amostra": 75,
-          "mvp": 11,
           "pos": 10,
           "zona": "—"
         },
