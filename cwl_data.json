@@ -2615,9 +2615,9 @@
           "atk": 9
         },
         "eles": {
-          "est": 21,
-          "destr": 46.666666666666664,
-          "atk": 7
+          "est": 24,
+          "destr": 53.333333333333336,
+          "atk": 8
         },
         "membros": [
           {
@@ -2776,9 +2776,14 @@
             "th": 18,
             "pos": 12,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • DuM∆R",
@@ -3038,9 +3043,9 @@
         "atk": 9
       },
       "eles": {
-        "est": 21,
-        "destr": 46.666666666666664,
-        "atk": 7
+        "est": 24,
+        "destr": 53.333333333333336,
+        "atk": 8
       },
       "membros": [
         {
@@ -3199,9 +3204,14 @@
           "th": 18,
           "pos": 12,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • DuM∆R",
