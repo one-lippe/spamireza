@@ -1068,9 +1068,9 @@
           "atk": 0
         },
         "eles": {
-          "est": 0,
-          "destr": 0.0,
-          "atk": 0
+          "est": 3,
+          "destr": 6.666666666666667,
+          "atk": 1
         },
         "membros": [
           {
@@ -1179,9 +1179,14 @@
             "th": 18,
             "pos": 12,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Neskau",
@@ -1411,9 +1416,9 @@
         "atk": 0
       },
       "eles": {
-        "est": 0,
-        "destr": 0.0,
-        "atk": 0
+        "est": 3,
+        "destr": 6.666666666666667,
+        "atk": 1
       },
       "membros": [
         {
@@ -1522,9 +1527,14 @@
           "th": 18,
           "pos": 12,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Neskau",
@@ -5429,9 +5439,9 @@
           "atk": 11
         },
         "eles": {
-          "est": 81,
-          "destr": 91.9,
-          "atk": 28
+          "est": 84,
+          "destr": 95.23333333333333,
+          "atk": 29
         },
         "membros": [
           {
@@ -5860,9 +5870,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "JigSaw",
@@ -6267,9 +6282,9 @@
         "atk": 11
       },
       "eles": {
-        "est": 81,
-        "destr": 91.9,
-        "atk": 28
+        "est": 84,
+        "destr": 95.23333333333333,
+        "atk": 29
       },
       "membros": [
         {
@@ -6698,9 +6713,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "JigSaw",

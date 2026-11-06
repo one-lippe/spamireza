@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T17:10:27.674548Z",
+  "atualizado": "2026-11-06T17:20:29.567909Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -516,7 +516,7 @@
               "tag": "#99220V0Q8",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Neskau",
@@ -2160,7 +2160,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "JigSaw",
