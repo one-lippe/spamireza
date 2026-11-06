@@ -1068,9 +1068,9 @@
           "atk": 8
         },
         "eles": {
-          "est": 16,
-          "destr": 38.4,
-          "atk": 6
+          "est": 19,
+          "destr": 45.06666666666667,
+          "atk": 7
         },
         "membros": [
           {
@@ -1139,9 +1139,14 @@
             "th": 18,
             "pos": 6,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR - JON SNOW 2",
@@ -1481,9 +1486,9 @@
         "atk": 8
       },
       "eles": {
-        "est": 16,
-        "destr": 38.4,
-        "atk": 6
+        "est": 19,
+        "destr": 45.06666666666667,
+        "atk": 7
       },
       "membros": [
         {
@@ -1552,9 +1557,14 @@
           "th": 18,
           "pos": 6,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR - JON SNOW 2",
@@ -5715,9 +5725,9 @@
         "inicio": "20261105T235037.000Z",
         "fim": "20261106T235037.000Z",
         "nos": {
-          "est": 53,
-          "destr": 72.1,
-          "atk": 26
+          "est": 56,
+          "destr": 75.43333333333334,
+          "atk": 27
         },
         "eles": {
           "est": 85,
@@ -6060,7 +6070,12 @@
             "tag": "#CJV9G22Q",
             "th": 18,
             "pos": 24,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -6638,9 +6653,9 @@
       "inicio": "20261105T235037.000Z",
       "fim": "20261106T235037.000Z",
       "nos": {
-        "est": 53,
-        "destr": 72.1,
-        "atk": 26
+        "est": 56,
+        "destr": 75.43333333333334,
+        "atk": 27
       },
       "eles": {
         "est": 85,
@@ -6983,7 +6998,12 @@
           "tag": "#CJV9G22Q",
           "th": 18,
           "pos": 24,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
