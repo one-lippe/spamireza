@@ -747,9 +747,9 @@
           "atk": 12
         },
         "eles": {
-          "est": 26,
-          "destr": 59.86666666666667,
-          "atk": 9
+          "est": 29,
+          "destr": 66.53333333333333,
+          "atk": 10
         },
         "membros": [
           {
@@ -828,9 +828,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • JON SNOW",
@@ -1195,9 +1200,9 @@
         "atk": 12
       },
       "eles": {
-        "est": 26,
-        "destr": 59.86666666666667,
-        "atk": 9
+        "est": 29,
+        "destr": 66.53333333333333,
+        "atk": 10
       },
       "membros": [
         {
@@ -1276,9 +1281,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • JON SNOW",
