@@ -1,12 +1,31 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T18:00:39.529336Z",
+  "atualizado": "2026-11-06T18:10:25.102976Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
       "liga": "Titan League II",
       "mode": "rank",
       "rank": [
+        {
+          "n": "Psico 2k25",
+          "tag": "#Q2UJJ89VG",
+          "th": 18,
+          "atk": 4,
+          "est": 12,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "seg": 1,
+          "idx": 85.5,
+          "idxb": 85.5,
+          "amostra": 100,
+          "mvp": 13,
+          "pos": 1,
+          "zona": "—"
+        },
         {
           "n": "Coyote 171 × 戦備",
           "tag": "#Y08CR0PQU",
@@ -23,7 +42,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 12,
-          "pos": 1,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -42,7 +61,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 12,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -57,11 +76,11 @@
           "sof": 2.2,
           "ndef": 4,
           "seg": 2,
-          "idx": 80.9,
+          "idx": 81.0,
           "idxb": 81.9,
           "amostra": 75,
           "mvp": 12,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -76,11 +95,11 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 78.7,
+          "idx": 78.9,
           "idxb": 79.0,
           "amostra": 75,
           "mvp": 10,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -95,26 +114,7 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 78.7,
-          "idxb": 79.0,
-          "amostra": 75,
-          "mvp": 10,
-          "pos": 5,
-          "zona": "—"
-        },
-        {
-          "n": "Psico 2k25",
-          "tag": "#Q2UJJ89VG",
-          "th": 18,
-          "atk": 3,
-          "est": 9,
-          "spa": 3.0,
-          "conf": 75,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 3,
-          "seg": 1,
-          "idx": 78.7,
+          "idx": 78.9,
           "idxb": 79.0,
           "amostra": 75,
           "mvp": 10,
@@ -387,7 +387,7 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 75.8,
+          "idx": 75.9,
           "idxb": 77.3,
           "amostra": 75,
           "mvp": 10,
@@ -463,7 +463,7 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 73.2,
+          "idx": 73.5,
           "idxb": 75.2,
           "amostra": 50,
           "mvp": 6,
@@ -501,7 +501,7 @@
           "sof": 2.5,
           "ndef": 2,
           "seg": 1,
-          "idx": 72.3,
+          "idx": 72.4,
           "idxb": 72.6,
           "amostra": 75,
           "mvp": 9,
@@ -520,7 +520,7 @@
           "sof": 2.5,
           "ndef": 4,
           "seg": 1,
-          "idx": 72.2,
+          "idx": 72.3,
           "idxb": 72.5,
           "amostra": 75,
           "mvp": 11,
@@ -547,6 +547,25 @@
           "zona": "—"
         },
         {
+          "n": "Monesy9",
+          "tag": "#LJRPJ9PC0",
+          "th": 18,
+          "atk": 4,
+          "est": 10,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 4,
+          "seg": 1,
+          "idx": 69.7,
+          "idxb": 69.7,
+          "amostra": 100,
+          "mvp": 12,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
           "n": "Sene",
           "tag": "#8JQJYQC",
           "th": 18,
@@ -562,7 +581,7 @@
           "idxb": 69.5,
           "amostra": 50,
           "mvp": 7,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -581,7 +600,7 @@
           "idxb": 69.5,
           "amostra": 75,
           "mvp": 8,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -600,7 +619,7 @@
           "idxb": 69.5,
           "amostra": 75,
           "mvp": 8,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -619,25 +638,6 @@
           "idxb": 68.2,
           "amostra": 100,
           "mvp": 11,
-          "pos": 15,
-          "zona": "—"
-        },
-        {
-          "n": "Monesy9",
-          "tag": "#LJRPJ9PC0",
-          "th": 18,
-          "atk": 3,
-          "est": 7,
-          "spa": 2.33,
-          "conf": 75,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 4,
-          "seg": 1,
-          "idx": 61.0,
-          "idxb": 61.0,
-          "amostra": 75,
-          "mvp": 9,
           "pos": 16,
           "zona": "rebx"
         },
