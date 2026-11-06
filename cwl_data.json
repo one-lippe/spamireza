@@ -747,9 +747,9 @@
           "atk": 12
         },
         "eles": {
-          "est": 15,
-          "destr": 33.333333333333336,
-          "atk": 5
+          "est": 23,
+          "destr": 53.2,
+          "atk": 8
         },
         "membros": [
           {
@@ -808,9 +808,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 98,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 98
+              }
+            ]
           },
           {
             "nome": "SR • InTheDark☆",
@@ -848,9 +853,14 @@
             "th": 18,
             "pos": 7,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Coyote 171 × 戦備",
@@ -933,9 +943,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "☆VILA DO PX ツ",
@@ -1175,9 +1190,9 @@
         "atk": 12
       },
       "eles": {
-        "est": 15,
-        "destr": 33.333333333333336,
-        "atk": 5
+        "est": 23,
+        "destr": 53.2,
+        "atk": 8
       },
       "membros": [
         {
@@ -1236,9 +1251,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 98,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 98
+            }
+          ]
         },
         {
           "nome": "SR • InTheDark☆",
@@ -1276,9 +1296,14 @@
           "th": 18,
           "pos": 7,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Coyote 171 × 戦備",
@@ -1361,9 +1386,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "☆VILA DO PX ツ",
@@ -5158,9 +5188,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 36,
-          "destr": 40.0,
-          "atk": 12
+          "est": 44,
+          "destr": 49.53333333333333,
+          "atk": 15
         },
         "membros": [
           {
@@ -5214,9 +5244,14 @@
             "th": 18,
             "pos": 8,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 86,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 86
+              }
+            ]
           },
           {
             "nome": "Reikan",
@@ -5279,9 +5314,14 @@
             "th": 18,
             "pos": 14,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Sra Nunes",
@@ -5539,9 +5579,14 @@
             "th": 13,
             "pos": 41,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           }
         ]
       },
@@ -5881,9 +5926,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 36,
-        "destr": 40.0,
-        "atk": 12
+        "est": 44,
+        "destr": 49.53333333333333,
+        "atk": 15
       },
       "membros": [
         {
@@ -5937,9 +5982,14 @@
           "th": 18,
           "pos": 8,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 86,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 86
+            }
+          ]
         },
         {
           "nome": "Reikan",
@@ -6002,9 +6052,14 @@
           "th": 18,
           "pos": 14,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Sra Nunes",
@@ -6262,9 +6317,14 @@
           "th": 13,
           "pos": 41,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         }
       ]
     },

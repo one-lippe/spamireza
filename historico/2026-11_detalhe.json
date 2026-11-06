@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T02:50:23.779714Z",
+  "atualizado": "2026-11-06T03:00:36.144605Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -330,7 +330,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • InTheDark☆",
@@ -353,7 +353,7 @@
               "tag": "#9VV909C89",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Coyote 171 × 戦備",
@@ -398,7 +398,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "☆VILA DO PX ツ",
@@ -1862,7 +1862,7 @@
               "tag": "#9RJGGUY9R",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Reikan",
@@ -1899,7 +1899,7 @@
               "tag": "#Q9PL0CUU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Sra Nunes",
@@ -2045,7 +2045,7 @@
               "tag": "#R0GLQC0GV",
               "th": 13,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
