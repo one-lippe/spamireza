@@ -747,9 +747,9 @@
           "atk": 12
         },
         "eles": {
-          "est": 29,
-          "destr": 66.53333333333333,
-          "atk": 10
+          "est": 31,
+          "destr": 71.93333333333334,
+          "atk": 11
         },
         "membros": [
           {
@@ -918,9 +918,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 81,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 81
+              }
+            ]
           },
           {
             "nome": "MAJ0R FiV3",
@@ -1200,9 +1205,9 @@
         "atk": 12
       },
       "eles": {
-        "est": 29,
-        "destr": 66.53333333333333,
-        "atk": 10
+        "est": 31,
+        "destr": 71.93333333333334,
+        "atk": 11
       },
       "membros": [
         {
@@ -1371,9 +1376,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 81,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 81
+            }
+          ]
         },
         {
           "nome": "MAJ0R FiV3",
