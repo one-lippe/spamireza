@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T02:30:35.043247Z",
+  "atualizado": "2026-11-06T02:40:24.403482Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -902,7 +902,9 @@
               "nome": "KingMpg",
               "tag": "#22YJPYPCJ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
