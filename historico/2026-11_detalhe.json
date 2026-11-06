@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T10:10:26.633113Z",
+  "atualizado": "2026-11-06T10:20:25.002167Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -922,7 +922,9 @@
               "nome": "SR • THIAGO",
               "tag": "#89G0YGUJY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
