@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T17:30:28.777746Z",
+  "atualizado": "2026-11-06T17:40:32.795523Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -744,6 +744,25 @@
           "zona": "—"
         },
         {
+          "n": "MTZ",
+          "tag": "#LLLU0VQCL",
+          "th": 18,
+          "atk": 4,
+          "est": 11,
+          "spa": 2.75,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 4,
+          "seg": 0,
+          "idx": 70.1,
+          "idxb": 70.1,
+          "amostra": 100,
+          "mvp": 11,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
           "n": "SR • The off",
           "tag": "#YJ2JLPQGR",
           "th": 18,
@@ -759,25 +778,6 @@
           "idxb": 67.4,
           "amostra": 100,
           "mvp": 11,
-          "pos": 5,
-          "zona": "—"
-        },
-        {
-          "n": "MTZ",
-          "tag": "#LLLU0VQCL",
-          "th": 18,
-          "atk": 3,
-          "est": 9,
-          "spa": 3.0,
-          "conf": 75,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
-          "seg": 0,
-          "idx": 67.0,
-          "idxb": 68.6,
-          "amostra": 75,
-          "mvp": 9,
           "pos": 6,
           "zona": "—"
         },
@@ -964,7 +964,7 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 62.4,
+          "idx": 62.5,
           "idxb": 62.8,
           "amostra": 25,
           "mvp": 3,
