@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T21:40:29.494046Z",
+  "atualizado": "2026-11-06T21:50:25.592702Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -453,7 +453,7 @@
               "tag": "#2899CRJG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • InTheDark☆",
