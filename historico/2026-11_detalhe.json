@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T00:01:03.909523Z",
+  "atualizado": "2026-11-07T00:10:30.415674Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2368,6 +2368,228 @@
                 1
               ],
               "def_est": 3
+            }
+          ]
+        },
+        {
+          "g": 5,
+          "vs": "AshesOnThrone ⭐",
+          "state": "inWar",
+          "size": 30,
+          "jogadores": [
+            {
+              "nome": "MTZ",
+              "tag": "#LLLU0VQCL",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Lider Andre",
+              "tag": "#20UUPGPCV",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "♣️Dorindo Sena♣",
+              "tag": "#8Y9V2QQ82",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "100%War_⚡Slash⚡",
+              "tag": "#8PURGU2YG",
+              "th": 18,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "Royther13",
+              "tag": "#22LUL8GV9",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "NoBlitzz",
+              "tag": "#9RJGGUY9R",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Reikan",
+              "tag": "#GJYRCJ0PR",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "dvnly",
+              "tag": "#QR2JLQ2RR",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Samuel Soares",
+              "tag": "#9V2L9J9JP",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "♣DnF◆",
+              "tag": "#8UY0889P9",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR•InTheDark II",
+              "tag": "#Q9PL0CUU",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Sra Nunes",
+              "tag": "#22JQULR22",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "BC NOELLE ✓",
+              "tag": "#LCJ8JG09V",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "F4KER",
+              "tag": "#QQQ8VQPL0",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • The off",
+              "tag": "#YJ2JLPQGR",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "irmão do jorel",
+              "tag": "#P2JCQRPGJ",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Meliodas NNT",
+              "tag": "#2PLQG8UQU",
+              "th": 18,
+              "atk": [],
+              "def_est": 3
+            },
+            {
+              "nome": "Lider André 2",
+              "tag": "#L9GRLYGVQ",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Jan™",
+              "tag": "#CJV9G22Q",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Líder André 3",
+              "tag": "#GY0Q0VRL0",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "PaulinhoPH",
+              "tag": "#GVLGQ098",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "qvnly",
+              "tag": "#GUCJQPVR9",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Gerion",
+              "tag": "#YP9L000LG",
+              "th": 17,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Ghostface",
+              "tag": "#QQUC9JQ9R",
+              "th": 17,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "SR • JotaErre",
+              "tag": "#GRUG8UQGV",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "GSAzevedo30 #2",
+              "tag": "#29882J2L2",
+              "th": 16,
+              "atk": [
+                3
+              ],
+              "def_est": null
+            },
+            {
+              "nome": "JigSaw",
+              "tag": "#LRGU2Q8V0",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Ligeirinh2xD",
+              "tag": "#GCC98R22R",
+              "th": 16,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Crypt Myers",
+              "tag": "#QLRJLCY0Y",
+              "th": 14,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR•InTheDarkIV",
+              "tag": "#R0GLQC0GV",
+              "th": 13,
+              "atk": [],
+              "def_est": null
             }
           ]
         }
