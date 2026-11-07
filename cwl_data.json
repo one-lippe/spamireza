@@ -1389,9 +1389,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 15,
-          "destr": 33.333333333333336,
-          "atk": 5
+          "est": 21,
+          "destr": 46.666666666666664,
+          "atk": 7
         },
         "membros": [
           {
@@ -1510,9 +1510,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Psico 2k25",
@@ -1575,9 +1580,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•GOD kratos",
@@ -1777,9 +1787,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 15,
-        "destr": 33.333333333333336,
-        "atk": 5
+        "est": 21,
+        "destr": 46.666666666666664,
+        "atk": 7
       },
       "membros": [
         {
@@ -1898,9 +1908,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Psico 2k25",
@@ -1963,9 +1978,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•GOD kratos",

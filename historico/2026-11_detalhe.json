@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T19:30:42.667460Z",
+  "atualizado": "2026-11-07T19:40:35.195386Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -649,7 +649,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Psico 2k25",
@@ -688,7 +688,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•GOD kratos",
