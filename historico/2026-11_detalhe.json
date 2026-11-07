@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T01:00:42.861560Z",
+  "atualizado": "2026-11-07T01:10:39.387941Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1173,7 +1173,9 @@
               "nome": "Renan",
               "tag": "#QLRGC8GQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2395,7 +2397,9 @@
               "nome": "♣️Dorindo Sena♣",
               "tag": "#8Y9V2QQ82",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
