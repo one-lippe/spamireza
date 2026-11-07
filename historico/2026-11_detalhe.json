@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T17:00:27.991428Z",
+  "atualizado": "2026-11-07T17:10:43.751328Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -438,7 +438,7 @@
         {
           "g": 4,
           "vs": "Blood Lust",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
@@ -575,6 +575,119 @@
                 3
               ],
               "def_est": 3
+            }
+          ]
+        },
+        {
+          "g": 5,
+          "vs": "COLD WAR",
+          "state": "inWar",
+          "size": 15,
+          "jogadores": [
+            {
+              "nome": "marinaul war",
+              "tag": "#8GGCQPYP",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Jan",
+              "tag": "#2899CRJG",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • InTheDark☆",
+              "tag": "#PQRRG2YCP",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • Dog Apollo",
+              "tag": "#YJ9R2GPJG",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • JON SNOW",
+              "tag": "#LYV2J2LU",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR - JON SNOW 2",
+              "tag": "#9VV909C89",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Coyote 171 × 戦備",
+              "tag": "#Y08CR0PQU",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • C∆iç∆r∆",
+              "tag": "#GL0PRCU9L",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "MAJ0R FiV3",
+              "tag": "#LCR9YQGYY",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Psico 2k25",
+              "tag": "#Q2UJJ89VG",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Nesk",
+              "tag": "#99220V0Q8",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR • Neskau",
+              "tag": "#P8GLGPRP",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "Levi_Neiva 2",
+              "tag": "#90GRYGJVP",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "matias?",
+              "tag": "#RCQQUGC9",
+              "th": 18,
+              "atk": [],
+              "def_est": null
+            },
+            {
+              "nome": "SR•GOD kratos",
+              "tag": "#LUJ9CRJQG",
+              "th": 18,
+              "atk": [],
+              "def_est": null
             }
           ]
         }
@@ -2463,7 +2576,9 @@
               "nome": "Reikan",
               "tag": "#GJYRCJ0PR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
