@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T01:40:33.513385Z",
+  "atualizado": "2026-11-07T01:50:30.642039Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -179,6 +179,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • C∆iç∆r∆",
+          "tag": "#GL0PRCU9L",
+          "th": 18,
+          "atk": 2,
+          "est": 5,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 2,
+          "seg": 1,
+          "idx": 77.1,
+          "idxb": 77.1,
+          "amostra": 50,
+          "mvp": 6,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
           "n": "Nesk",
           "tag": "#99220V0Q8",
           "th": 18,
@@ -194,7 +213,7 @@
           "idxb": 76.8,
           "amostra": 75,
           "mvp": 8,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -213,7 +232,7 @@
           "idxb": 76.7,
           "amostra": 75,
           "mvp": 9,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -232,7 +251,7 @@
           "idxb": 76.7,
           "amostra": 75,
           "mvp": 9,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -251,7 +270,7 @@
           "idxb": 74.5,
           "amostra": 50,
           "mvp": 6,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -270,7 +289,7 @@
           "idxb": 66.4,
           "amostra": 75,
           "mvp": 7,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -289,7 +308,7 @@
           "idxb": 65.0,
           "amostra": 50,
           "mvp": 5,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -308,25 +327,6 @@
           "idxb": 64.1,
           "amostra": 50,
           "mvp": 4,
-          "pos": 16,
-          "zona": "—"
-        },
-        {
-          "n": "SR • C∆iç∆r∆",
-          "tag": "#GL0PRCU9L",
-          "th": 18,
-          "atk": 1,
-          "est": 2,
-          "spa": 2.0,
-          "conf": 50,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 2,
-          "seg": 1,
-          "idx": 54.6,
-          "idxb": 54.6,
-          "amostra": 25,
-          "mvp": 3,
           "pos": 17,
           "zona": "—"
         }
