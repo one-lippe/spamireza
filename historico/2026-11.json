@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T16:30:37.610166Z",
+  "atualizado": "2026-11-07T16:40:26.625234Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -679,7 +679,7 @@
           "sof": 2.2,
           "ndef": 5,
           "seg": 3,
-          "idx": 72.5,
+          "idx": 72.6,
           "idxb": 74.7,
           "amostra": 80,
           "mvp": 16,
@@ -831,7 +831,7 @@
           "sof": 2.4,
           "ndef": 5,
           "seg": 3,
-          "idx": 68.1,
+          "idx": 68.2,
           "idxb": 69.2,
           "amostra": 80,
           "mvp": 14,
@@ -888,7 +888,7 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 66.7,
+          "idx": 66.8,
           "idxb": 68.7,
           "amostra": 60,
           "mvp": 8,
@@ -907,7 +907,7 @@
           "sof": 2.8,
           "ndef": 5,
           "seg": 1,
-          "idx": 66.1,
+          "idx": 66.2,
           "idxb": 66.7,
           "amostra": 80,
           "mvp": 12,
@@ -964,7 +964,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 64.5,
+          "idx": 64.7,
           "idxb": 65.1,
           "amostra": 60,
           "mvp": 9,
@@ -1029,6 +1029,25 @@
           "zona": "—"
         },
         {
+          "n": "Lider Andre",
+          "tag": "#20UUPGPCV",
+          "th": 18,
+          "atk": 4,
+          "est": 7,
+          "spa": 1.75,
+          "conf": 100,
+          "def": 42,
+          "sof": 1.8,
+          "ndef": 4,
+          "seg": 3,
+          "idx": 60.8,
+          "idxb": 60.8,
+          "amostra": 80,
+          "mvp": 12,
+          "pos": 20,
+          "zona": "—"
+        },
+        {
           "n": "GSAzevedo30 #2",
           "tag": "#29882J2L2",
           "th": 16,
@@ -1044,7 +1063,7 @@
           "idxb": 60.8,
           "amostra": 100,
           "mvp": 11,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1063,7 +1082,7 @@
           "idxb": 60.5,
           "amostra": 100,
           "mvp": 12,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -1082,7 +1101,7 @@
           "idxb": 60.1,
           "amostra": 80,
           "mvp": 11,
-          "pos": 22,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -1101,7 +1120,7 @@
           "idxb": 59.4,
           "amostra": 80,
           "mvp": 9,
-          "pos": 23,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -1120,7 +1139,7 @@
           "idxb": 58.1,
           "amostra": 40,
           "mvp": 5,
-          "pos": 24,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -1139,7 +1158,7 @@
           "idxb": 57.9,
           "amostra": 60,
           "mvp": 8,
-          "pos": 25,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -1158,7 +1177,7 @@
           "idxb": 57.4,
           "amostra": 40,
           "mvp": 4,
-          "pos": 26,
+          "pos": 27,
           "zona": "—"
         },
         {
@@ -1177,7 +1196,7 @@
           "idxb": 53.9,
           "amostra": 80,
           "mvp": 9,
-          "pos": 27,
+          "pos": 28,
           "zona": "—"
         },
         {
@@ -1196,25 +1215,6 @@
           "idxb": 53.7,
           "amostra": 60,
           "mvp": 6,
-          "pos": 28,
-          "zona": "—"
-        },
-        {
-          "n": "Lider Andre",
-          "tag": "#20UUPGPCV",
-          "th": 18,
-          "atk": 3,
-          "est": 5,
-          "spa": 1.67,
-          "conf": 75,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 3,
-          "seg": 2,
-          "idx": 52.1,
-          "idxb": 52.1,
-          "amostra": 60,
-          "mvp": 8,
           "pos": 29,
           "zona": "—"
         },

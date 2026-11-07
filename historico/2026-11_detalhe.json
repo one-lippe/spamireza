@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T16:30:37.612336Z",
+  "atualizado": "2026-11-07T16:40:26.627402Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2420,8 +2420,10 @@
               "nome": "Lider Andre",
               "tag": "#20UUPGPCV",
               "th": 18,
-              "atk": [],
-              "def_est": null
+              "atk": [
+                2
+              ],
+              "def_est": 1
             },
             {
               "nome": "♣️Dorindo Sena♣",

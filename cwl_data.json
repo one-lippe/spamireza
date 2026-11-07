@@ -6691,14 +6691,14 @@
         "inicio": "20261107T000513.000Z",
         "fim": "20261108T000513.000Z",
         "nos": {
-          "est": 42,
-          "destr": 49.766666666666666,
-          "atk": 16
+          "est": 44,
+          "destr": 51.766666666666666,
+          "atk": 17
         },
         "eles": {
-          "est": 32,
-          "destr": 39.06666666666667,
-          "atk": 12
+          "est": 33,
+          "destr": 41.9,
+          "atk": 13
         },
         "membros": [
           {
@@ -6726,10 +6726,20 @@
             "tag": "#20UUPGPCV",
             "th": 18,
             "pos": 4,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 60
+              }
+            ],
+            "def_estrelas": 1,
+            "def_destr": 85,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 85
+              }
+            ]
           },
           {
             "nome": "♣️Dorindo Sena♣",
@@ -7474,14 +7484,14 @@
       "inicio": "20261107T000513.000Z",
       "fim": "20261108T000513.000Z",
       "nos": {
-        "est": 42,
-        "destr": 49.766666666666666,
-        "atk": 16
+        "est": 44,
+        "destr": 51.766666666666666,
+        "atk": 17
       },
       "eles": {
-        "est": 32,
-        "destr": 39.06666666666667,
-        "atk": 12
+        "est": 33,
+        "destr": 41.9,
+        "atk": 13
       },
       "membros": [
         {
@@ -7509,10 +7519,20 @@
           "tag": "#20UUPGPCV",
           "th": 18,
           "pos": 4,
-          "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 60
+            }
+          ],
+          "def_estrelas": 1,
+          "def_destr": 85,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 85
+            }
+          ]
         },
         {
           "nome": "♣️Dorindo Sena♣",
