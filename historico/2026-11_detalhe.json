@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-06T23:50:32.384223Z",
+  "atualizado": "2026-11-07T00:01:03.909523Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2098,7 +2098,7 @@
         {
           "g": 4,
           "vs": "WAR ADULT",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 30,
           "jogadores": [
             {
