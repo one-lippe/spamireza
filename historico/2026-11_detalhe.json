@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T23:40:29.609109Z",
+  "atualizado": "2026-11-07T23:50:31.355777Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2756,7 +2756,9 @@
               "nome": "Sra Nunes",
               "tag": "#22JQULR22",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -2849,7 +2851,9 @@
               "nome": "Gerion",
               "tag": "#YP9L000LG",
               "th": 17,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": 3
             },
             {
