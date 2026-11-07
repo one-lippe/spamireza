@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T00:10:30.413975Z",
+  "atualizado": "2026-11-07T00:20:33.042429Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -698,7 +698,7 @@
           "sof": 2.3,
           "ndef": 3,
           "seg": 2,
-          "idx": 71.4,
+          "idx": 71.5,
           "idxb": 73.9,
           "amostra": 80,
           "mvp": 14,
@@ -736,7 +736,7 @@
           "sof": 2.8,
           "ndef": 4,
           "seg": 1,
-          "idx": 69.3,
+          "idx": 69.4,
           "idxb": 71.3,
           "amostra": 80,
           "mvp": 13,
@@ -755,7 +755,7 @@
           "sof": 3.0,
           "ndef": 3,
           "seg": 0,
-          "idx": 68.1,
+          "idx": 68.2,
           "idxb": 69.8,
           "amostra": 80,
           "mvp": 12,
@@ -782,6 +782,25 @@
           "zona": "—"
         },
         {
+          "n": "JigSaw",
+          "tag": "#LRGU2Q8V0",
+          "th": 16,
+          "atk": 3,
+          "est": 8,
+          "spa": 2.67,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "seg": 0,
+          "idx": 65.9,
+          "idxb": 68.7,
+          "amostra": 60,
+          "mvp": 8,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
           "n": "SR • Eduhh",
           "tag": "#2Q9RYUCCP",
           "th": 17,
@@ -793,11 +812,11 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 65.0,
+          "idx": 65.1,
           "idxb": 65.9,
           "amostra": 80,
           "mvp": 10,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -816,7 +835,7 @@
           "idxb": 65.5,
           "amostra": 80,
           "mvp": 11,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -835,7 +854,7 @@
           "idxb": 65.5,
           "amostra": 80,
           "mvp": 11,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -854,7 +873,7 @@
           "idxb": 65.5,
           "amostra": 80,
           "mvp": 11,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -869,11 +888,11 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 63.6,
+          "idx": 63.7,
           "idxb": 65.1,
           "amostra": 60,
           "mvp": 9,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -888,11 +907,11 @@
           "sof": 2.8,
           "ndef": 4,
           "seg": 1,
-          "idx": 62.5,
+          "idx": 62.6,
           "idxb": 62.8,
           "amostra": 80,
           "mvp": 11,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -907,11 +926,11 @@
           "sof": 2.8,
           "ndef": 4,
           "seg": 1,
-          "idx": 62.5,
+          "idx": 62.6,
           "idxb": 62.8,
           "amostra": 80,
           "mvp": 11,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -930,7 +949,7 @@
           "idxb": 61.2,
           "amostra": 80,
           "mvp": 10,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -949,7 +968,7 @@
           "idxb": 61.2,
           "amostra": 80,
           "mvp": 10,
-          "pos": 15,
+          "pos": 16,
           "zona": "—"
         },
         {
@@ -968,7 +987,7 @@
           "idxb": 60.8,
           "amostra": 100,
           "mvp": 11,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -987,7 +1006,7 @@
           "idxb": 60.5,
           "amostra": 80,
           "mvp": 13,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1006,32 +1025,13 @@
           "idxb": 60.1,
           "amostra": 80,
           "mvp": 11,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
           "n": "Gerion",
           "tag": "#YP9L000LG",
           "th": 17,
-          "atk": 2,
-          "est": 5,
-          "spa": 2.5,
-          "conf": 67,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "seg": 0,
-          "idx": 58.1,
-          "idxb": 58.1,
-          "amostra": 40,
-          "mvp": 5,
-          "pos": 19,
-          "zona": "—"
-        },
-        {
-          "n": "JigSaw",
-          "tag": "#LRGU2Q8V0",
-          "th": 16,
           "atk": 2,
           "est": 5,
           "spa": 2.5,
@@ -1200,6 +1200,25 @@
           "zona": "—"
         },
         {
+          "n": "Crypt Myers",
+          "tag": "#QLRJLCY0Y",
+          "th": 14,
+          "atk": 2,
+          "est": 3,
+          "spa": 1.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 48.8,
+          "idxb": 48.8,
+          "amostra": 40,
+          "mvp": 3,
+          "pos": 29,
+          "zona": "—"
+        },
+        {
           "n": "irmão do jorel",
           "tag": "#P2JCQRPGJ",
           "th": 18,
@@ -1215,7 +1234,7 @@
           "idxb": 48.4,
           "amostra": 80,
           "mvp": 7,
-          "pos": 29,
+          "pos": 30,
           "zona": "—"
         },
         {
@@ -1234,7 +1253,7 @@
           "idxb": 46.0,
           "amostra": 60,
           "mvp": 4,
-          "pos": 30,
+          "pos": 31,
           "zona": "—"
         },
         {
@@ -1253,7 +1272,7 @@
           "idxb": 45.7,
           "amostra": 20,
           "mvp": 2,
-          "pos": 31,
+          "pos": 32,
           "zona": "—"
         },
         {
@@ -1272,7 +1291,7 @@
           "idxb": 41.1,
           "amostra": 40,
           "mvp": 3,
-          "pos": 32,
+          "pos": 33,
           "zona": "—"
         },
         {
@@ -1291,32 +1310,13 @@
           "idxb": 28.7,
           "amostra": 20,
           "mvp": 1,
-          "pos": 33,
+          "pos": 34,
           "zona": "—"
         },
         {
           "n": "Ligeirinh2xD",
           "tag": "#GCC98R22R",
           "th": 16,
-          "atk": 1,
-          "est": 1,
-          "spa": 1.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 28.7,
-          "idxb": 28.7,
-          "amostra": 20,
-          "mvp": 1,
-          "pos": 34,
-          "zona": "—"
-        },
-        {
-          "n": "Crypt Myers",
-          "tag": "#QLRJLCY0Y",
-          "th": 14,
           "atk": 1,
           "est": 1,
           "spa": 1.0,

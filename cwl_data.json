@@ -6381,9 +6381,9 @@
         "inicio": "20261107T000513.000Z",
         "fim": "20261108T000513.000Z",
         "nos": {
-          "est": 6,
-          "destr": 6.666666666666667,
-          "atk": 2
+          "est": 11,
+          "destr": 12.666666666666666,
+          "atk": 4
         },
         "eles": {
           "est": 6,
@@ -6676,7 +6676,12 @@
             "tag": "#LRGU2Q8V0",
             "th": 16,
             "pos": 34,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -6696,7 +6701,12 @@
             "tag": "#QLRJLCY0Y",
             "th": 14,
             "pos": 39,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 80
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -7044,9 +7054,9 @@
       "inicio": "20261107T000513.000Z",
       "fim": "20261108T000513.000Z",
       "nos": {
-        "est": 6,
-        "destr": 6.666666666666667,
-        "atk": 2
+        "est": 11,
+        "destr": 12.666666666666666,
+        "atk": 4
       },
       "eles": {
         "est": 6,
@@ -7339,7 +7349,12 @@
           "tag": "#LRGU2Q8V0",
           "th": 16,
           "pos": 34,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -7359,7 +7374,12 @@
           "tag": "#QLRJLCY0Y",
           "th": 14,
           "pos": 39,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 80
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []

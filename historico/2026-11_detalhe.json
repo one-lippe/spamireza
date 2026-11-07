@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T00:10:30.415674Z",
+  "atualizado": "2026-11-07T00:20:33.044320Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2567,7 +2567,9 @@
               "nome": "JigSaw",
               "tag": "#LRGU2Q8V0",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -2581,7 +2583,9 @@
               "nome": "Crypt Myers",
               "tag": "#QLRJLCY0Y",
               "th": 14,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
