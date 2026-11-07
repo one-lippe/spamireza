@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T17:50:38.008147Z",
+  "atualizado": "2026-11-07T18:00:48.399449Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -672,7 +672,7 @@
               "tag": "#P8GLGPRP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Levi_Neiva 2",
@@ -2576,7 +2576,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Reikan",
