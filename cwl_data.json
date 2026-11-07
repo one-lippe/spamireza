@@ -6887,9 +6887,9 @@
           "atk": 20
         },
         "eles": {
-          "est": 62,
-          "destr": 77.13333333333334,
-          "atk": 24
+          "est": 65,
+          "destr": 80.46666666666667,
+          "atk": 25
         },
         "membros": [
           {
@@ -7278,9 +7278,14 @@
             "th": 18,
             "pos": 27,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Gerion",
@@ -7750,9 +7755,9 @@
         "atk": 20
       },
       "eles": {
-        "est": 62,
-        "destr": 77.13333333333334,
-        "atk": 24
+        "est": 65,
+        "destr": 80.46666666666667,
+        "atk": 25
       },
       "membros": [
         {
@@ -8141,9 +8146,14 @@
           "th": 18,
           "pos": 27,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Gerion",

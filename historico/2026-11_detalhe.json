@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T20:10:26.289297Z",
+  "atualizado": "2026-11-07T20:20:25.122647Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2710,7 +2710,7 @@
               "tag": "#GUCJQPVR9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Gerion",
