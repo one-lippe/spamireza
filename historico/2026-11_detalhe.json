@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T21:30:42.034997Z",
+  "atualizado": "2026-11-07T21:40:31.543293Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -610,7 +610,7 @@
               "tag": "#YJ9R2GPJG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • JON SNOW",
@@ -2688,7 +2688,9 @@
               "nome": "Jan™",
               "tag": "#CJV9G22Q",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
