@@ -3800,6 +3800,16 @@
             "defesas": []
           },
           {
+            "nome": "GSAzevedo30",
+            "tag": "#CJLVVL9L",
+            "th": 18,
+            "pos": 6,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
             "nome": "KingMpg",
             "tag": "#22YJPYPCJ",
             "th": 18,
@@ -3884,16 +3894,6 @@
             "tag": "#GRR2G9LP0",
             "th": 18,
             "pos": 15,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
-            "nome": "Darth Revan",
-            "tag": "#8R280VRCQ",
-            "th": 18,
-            "pos": 16,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -6937,9 +6937,9 @@
           "atk": 24
         },
         "eles": {
-          "est": 74,
-          "destr": 90.46666666666667,
-          "atk": 28
+          "est": 77,
+          "destr": 93.8,
+          "atk": 29
         },
         "membros": [
           {
@@ -7483,9 +7483,14 @@
                 "destr": 80
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•InTheDarkIV",
@@ -7840,9 +7845,9 @@
         "atk": 24
       },
       "eles": {
-        "est": 74,
-        "destr": 90.46666666666667,
-        "atk": 28
+        "est": 77,
+        "destr": 93.8,
+        "atk": 29
       },
       "membros": [
         {
@@ -8386,9 +8391,14 @@
               "destr": 80
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•InTheDarkIV",
