@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T01:10:39.385762Z",
+  "atualizado": "2026-11-07T01:13:35.485923Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -782,6 +782,25 @@
           "zona": "—"
         },
         {
+          "n": "100%War_⚡Slash⚡",
+          "tag": "#8PURGU2YG",
+          "th": 18,
+          "atk": 5,
+          "est": 13,
+          "spa": 2.6,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 5,
+          "seg": 0,
+          "idx": 67.6,
+          "idxb": 67.6,
+          "amostra": 100,
+          "mvp": 13,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
           "n": "JigSaw",
           "tag": "#LRGU2Q8V0",
           "th": 16,
@@ -793,11 +812,11 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 65.9,
+          "idx": 66.0,
           "idxb": 68.7,
           "amostra": 60,
           "mvp": 8,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -816,7 +835,7 @@
           "idxb": 65.1,
           "amostra": 100,
           "mvp": 15,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -835,7 +854,7 @@
           "idxb": 65.9,
           "amostra": 80,
           "mvp": 10,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -849,25 +868,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 4,
-          "seg": 0,
-          "idx": 64.8,
-          "idxb": 65.5,
-          "amostra": 80,
-          "mvp": 11,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "100%War_⚡Slash⚡",
-          "tag": "#8PURGU2YG",
-          "th": 18,
-          "atk": 4,
-          "est": 11,
-          "spa": 2.75,
-          "conf": 80,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 5,
           "seg": 0,
           "idx": 64.8,
           "idxb": 65.5,
