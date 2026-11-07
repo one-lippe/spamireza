@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T06:00:35.461456Z",
+  "atualizado": "2026-11-07T06:10:28.099207Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -445,7 +445,9 @@
               "nome": "marinaul war",
               "tag": "#8GGCQPYP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -2390,7 +2392,7 @@
               "tag": "#LLLU0VQCL",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Lider Andre",

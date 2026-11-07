@@ -1,12 +1,31 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T06:00:35.459317Z",
+  "atualizado": "2026-11-07T06:10:28.097506Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
       "liga": "Titan League II",
       "mode": "rank",
       "rank": [
+        {
+          "n": "marinaul war",
+          "tag": "#8GGCQPYP",
+          "th": 18,
+          "atk": 4,
+          "est": 12,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 25,
+          "sof": 2.2,
+          "ndef": 4,
+          "seg": 2,
+          "idx": 88.4,
+          "idxb": 88.4,
+          "amostra": 100,
+          "mvp": 15,
+          "pos": 1,
+          "zona": "—"
+        },
         {
           "n": "SR • Dog Apollo",
           "tag": "#YJ9R2GPJG",
@@ -23,7 +42,7 @@
           "idxb": 85.5,
           "amostra": 100,
           "mvp": 13,
-          "pos": 1,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -42,7 +61,7 @@
           "idxb": 84.9,
           "amostra": 100,
           "mvp": 13,
-          "pos": 2,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -61,7 +80,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 12,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -80,7 +99,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 12,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -99,7 +118,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 12,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -118,7 +137,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 12,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -137,7 +156,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 12,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -156,25 +175,6 @@
           "idxb": 81.9,
           "amostra": 100,
           "mvp": 13,
-          "pos": 8,
-          "zona": "—"
-        },
-        {
-          "n": "marinaul war",
-          "tag": "#8GGCQPYP",
-          "th": 18,
-          "atk": 3,
-          "est": 9,
-          "spa": 3.0,
-          "conf": 75,
-          "def": 25,
-          "sof": 2.2,
-          "ndef": 4,
-          "seg": 2,
-          "idx": 81.6,
-          "idxb": 81.9,
-          "amostra": 75,
-          "mvp": 12,
           "pos": 9,
           "zona": "—"
         },
@@ -831,11 +831,30 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 66.1,
+          "idx": 66.2,
           "idxb": 68.7,
           "amostra": 60,
           "mvp": 8,
           "pos": 9,
+          "zona": "—"
+        },
+        {
+          "n": "MTZ",
+          "tag": "#LLLU0VQCL",
+          "th": 18,
+          "atk": 4,
+          "est": 11,
+          "spa": 2.75,
+          "conf": 80,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "seg": 1,
+          "idx": 65.8,
+          "idxb": 66.7,
+          "amostra": 80,
+          "mvp": 12,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -854,7 +873,7 @@
           "idxb": 65.9,
           "amostra": 80,
           "mvp": 10,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -873,25 +892,6 @@
           "idxb": 65.1,
           "amostra": 100,
           "mvp": 15,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "MTZ",
-          "tag": "#LLLU0VQCL",
-          "th": 18,
-          "atk": 4,
-          "est": 11,
-          "spa": 2.75,
-          "conf": 80,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
-          "seg": 0,
-          "idx": 64.9,
-          "idxb": 65.5,
-          "amostra": 80,
-          "mvp": 11,
           "pos": 12,
           "zona": "—"
         },

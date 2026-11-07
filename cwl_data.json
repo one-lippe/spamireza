@@ -1063,9 +1063,9 @@
         "inicio": "20261106T170422.000Z",
         "fim": "20261107T170422.000Z",
         "nos": {
-          "est": 29,
-          "destr": 66.13333333333334,
-          "atk": 10
+          "est": 32,
+          "destr": 72.8,
+          "atk": 11
         },
         "eles": {
           "est": 36,
@@ -1078,7 +1078,12 @@
             "tag": "#8GGCQPYP",
             "th": 18,
             "pos": 1,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 95,
             "defesas": [
@@ -1521,9 +1526,9 @@
       "inicio": "20261106T170422.000Z",
       "fim": "20261107T170422.000Z",
       "nos": {
-        "est": 29,
-        "destr": 66.13333333333334,
-        "atk": 10
+        "est": 32,
+        "destr": 72.8,
+        "atk": 11
       },
       "eles": {
         "est": 36,
@@ -1536,7 +1541,12 @@
           "tag": "#8GGCQPYP",
           "th": 18,
           "pos": 1,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 95,
           "defesas": [
@@ -6496,9 +6506,9 @@
           "atk": 9
         },
         "eles": {
-          "est": 23,
-          "destr": 26.5,
-          "atk": 8
+          "est": 25,
+          "destr": 29.666666666666668,
+          "atk": 9
         },
         "membros": [
           {
@@ -6507,9 +6517,14 @@
             "th": 18,
             "pos": 1,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 95,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 95
+              }
+            ]
           },
           {
             "nome": "Lider Andre",
@@ -7224,9 +7239,9 @@
         "atk": 9
       },
       "eles": {
-        "est": 23,
-        "destr": 26.5,
-        "atk": 8
+        "est": 25,
+        "destr": 29.666666666666668,
+        "atk": 9
       },
       "membros": [
         {
@@ -7235,9 +7250,14 @@
           "th": 18,
           "pos": 1,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 95,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 95
+            }
+          ]
         },
         {
           "nome": "Lider Andre",
