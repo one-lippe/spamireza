@@ -1063,9 +1063,9 @@
         "inicio": "20261106T170422.000Z",
         "fim": "20261107T170422.000Z",
         "nos": {
-          "est": 40,
-          "destr": 92.26666666666667,
-          "atk": 14
+          "est": 42,
+          "destr": 98.13333333333334,
+          "atk": 15
         },
         "eles": {
           "est": 42,
@@ -1178,7 +1178,12 @@
             "tag": "#9VV909C89",
             "th": 18,
             "pos": 7,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 88
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -1551,9 +1556,9 @@
       "inicio": "20261106T170422.000Z",
       "fim": "20261107T170422.000Z",
       "nos": {
-        "est": 40,
-        "destr": 92.26666666666667,
-        "atk": 14
+        "est": 42,
+        "destr": 98.13333333333334,
+        "atk": 15
       },
       "eles": {
         "est": 42,
@@ -1666,7 +1671,12 @@
           "tag": "#9VV909C89",
           "th": 18,
           "pos": 7,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 88
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -3247,9 +3257,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 26,
-          "destr": 69.66666666666667,
-          "atk": 11
+          "est": 29,
+          "destr": 76.33333333333333,
+          "atk": 12
         },
         "membros": [
           {
@@ -3503,9 +3513,14 @@
                 "destr": 99
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           }
         ]
       },
@@ -3695,9 +3710,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 26,
-        "destr": 69.66666666666667,
-        "atk": 11
+        "est": 29,
+        "destr": 76.33333333333333,
+        "atk": 12
       },
       "membros": [
         {
@@ -3951,9 +3966,14 @@
               "destr": 99
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         }
       ]
     },
