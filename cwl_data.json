@@ -3197,9 +3197,9 @@
           "atk": 5
         },
         "eles": {
-          "est": 15,
-          "destr": 39.266666666666666,
-          "atk": 6
+          "est": 17,
+          "destr": 45.46666666666667,
+          "atk": 7
         },
         "membros": [
           {
@@ -3273,9 +3273,14 @@
             "th": 18,
             "pos": 7,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 93,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 93
+              }
+            ]
           },
           {
             "nome": "SR • THIAGO",
@@ -3595,9 +3600,9 @@
         "atk": 5
       },
       "eles": {
-        "est": 15,
-        "destr": 39.266666666666666,
-        "atk": 6
+        "est": 17,
+        "destr": 45.46666666666667,
+        "atk": 7
       },
       "membros": [
         {
@@ -3671,9 +3676,14 @@
           "th": 18,
           "pos": 7,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 93,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 93
+            }
+          ]
         },
         {
           "nome": "SR • THIAGO",
