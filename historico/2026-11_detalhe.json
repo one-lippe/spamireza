@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T20:50:28.136149Z",
+  "atualizado": "2026-11-07T21:00:40.123813Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2753,7 +2753,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ligeirinh2xD",
