@@ -1068,9 +1068,9 @@
           "atk": 9
         },
         "eles": {
-          "est": 24,
-          "destr": 56.6,
-          "atk": 9
+          "est": 27,
+          "destr": 63.266666666666666,
+          "atk": 10
         },
         "membros": [
           {
@@ -1284,9 +1284,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "matias?",
@@ -1501,9 +1506,9 @@
         "atk": 9
       },
       "eles": {
-        "est": 24,
-        "destr": 56.6,
-        "atk": 9
+        "est": 27,
+        "destr": 63.266666666666666,
+        "atk": 10
       },
       "membros": [
         {
@@ -1717,9 +1722,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "matias?",
@@ -6426,9 +6436,9 @@
           "atk": 7
         },
         "eles": {
-          "est": 17,
-          "destr": 19.833333333333332,
-          "atk": 6
+          "est": 20,
+          "destr": 23.166666666666668,
+          "atk": 7
         },
         "membros": [
           {
@@ -6532,9 +6542,14 @@
             "th": 18,
             "pos": 10,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Samuel Soares",
@@ -7134,9 +7149,9 @@
         "atk": 7
       },
       "eles": {
-        "est": 17,
-        "destr": 19.833333333333332,
-        "atk": 6
+        "est": 20,
+        "destr": 23.166666666666668,
+        "atk": 7
       },
       "membros": [
         {
@@ -7240,9 +7255,14 @@
           "th": 18,
           "pos": 10,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Samuel Soares",
