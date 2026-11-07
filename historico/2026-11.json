@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T20:00:37.575077Z",
+  "atualizado": "2026-11-07T20:10:26.287019Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -131,7 +131,7 @@
           "conf": 80,
           "def": 0,
           "sof": 3.0,
-          "ndef": 4,
+          "ndef": 5,
           "seg": 0,
           "idx": 77.8,
           "idxb": 78.0,
@@ -1086,25 +1086,6 @@
           "zona": "—"
         },
         {
-          "n": "PaulinhoPH",
-          "tag": "#GVLGQ098",
-          "th": 17,
-          "atk": 4,
-          "est": 9,
-          "spa": 2.25,
-          "conf": 80,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 4,
-          "seg": 2,
-          "idx": 60.1,
-          "idxb": 60.1,
-          "amostra": 80,
-          "mvp": 11,
-          "pos": 23,
-          "zona": "—"
-        },
-        {
           "n": "Lider André 2",
           "tag": "#L9GRLYGVQ",
           "th": 17,
@@ -1120,6 +1101,25 @@
           "idxb": 59.8,
           "amostra": 100,
           "mvp": 12,
+          "pos": 23,
+          "zona": "—"
+        },
+        {
+          "n": "PaulinhoPH",
+          "tag": "#GVLGQ098",
+          "th": 17,
+          "atk": 4,
+          "est": 9,
+          "spa": 2.25,
+          "conf": 80,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "seg": 2,
+          "idx": 59.4,
+          "idxb": 59.4,
+          "amostra": 80,
+          "mvp": 11,
           "pos": 24,
           "zona": "—"
         },
@@ -1152,7 +1152,7 @@
           "conf": 67,
           "def": 0,
           "sof": 3.0,
-          "ndef": 2,
+          "ndef": 3,
           "seg": 0,
           "idx": 58.1,
           "idxb": 58.1,

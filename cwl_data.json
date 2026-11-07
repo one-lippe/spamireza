@@ -1389,9 +1389,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 21,
-          "destr": 46.666666666666664,
-          "atk": 7
+          "est": 24,
+          "destr": 53.333333333333336,
+          "atk": 8
         },
         "membros": [
           {
@@ -1430,9 +1430,14 @@
             "th": 18,
             "pos": 4,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Dog Apollo",
@@ -1787,9 +1792,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 21,
-        "destr": 46.666666666666664,
-        "atk": 7
+        "est": 24,
+        "destr": 53.333333333333336,
+        "atk": 8
       },
       "membros": [
         {
@@ -1828,9 +1833,14 @@
           "th": 18,
           "pos": 4,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Dog Apollo",
@@ -6877,9 +6887,9 @@
           "atk": 20
         },
         "eles": {
-          "est": 56,
-          "destr": 70.46666666666667,
-          "atk": 22
+          "est": 62,
+          "destr": 77.13333333333334,
+          "atk": 24
         },
         "membros": [
           {
@@ -7253,9 +7263,14 @@
             "th": 17,
             "pos": 26,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "qvnly",
@@ -7273,9 +7288,14 @@
             "th": 17,
             "pos": 29,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Ghostface",
@@ -7730,9 +7750,9 @@
         "atk": 20
       },
       "eles": {
-        "est": 56,
-        "destr": 70.46666666666667,
-        "atk": 22
+        "est": 62,
+        "destr": 77.13333333333334,
+        "atk": 24
       },
       "membros": [
         {
@@ -8106,9 +8126,14 @@
           "th": 17,
           "pos": 26,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "qvnly",
@@ -8126,9 +8151,14 @@
           "th": 17,
           "pos": 29,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Ghostface",

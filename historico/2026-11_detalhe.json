@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T20:00:37.577211Z",
+  "atualizado": "2026-11-07T20:10:26.289297Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -603,7 +603,7 @@
               "tag": "#PQRRG2YCP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Dog Apollo",
@@ -2703,7 +2703,7 @@
               "tag": "#GVLGQ098",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "qvnly",
@@ -2717,7 +2717,7 @@
               "tag": "#YP9L000LG",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ghostface",
