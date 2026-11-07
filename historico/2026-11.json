@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T16:20:34.420858Z",
+  "atualizado": "2026-11-07T16:30:37.610166Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -736,7 +736,7 @@
           "sof": 2.5,
           "ndef": 4,
           "seg": 2,
-          "idx": 70.9,
+          "idx": 71.0,
           "idxb": 72.8,
           "amostra": 80,
           "mvp": 14,
@@ -755,7 +755,7 @@
           "sof": 2.8,
           "ndef": 4,
           "seg": 1,
-          "idx": 69.7,
+          "idx": 69.8,
           "idxb": 71.3,
           "amostra": 80,
           "mvp": 13,
@@ -812,7 +812,7 @@
           "sof": 3.0,
           "ndef": 3,
           "seg": 0,
-          "idx": 68.5,
+          "idx": 68.6,
           "idxb": 69.8,
           "amostra": 80,
           "mvp": 12,
@@ -888,7 +888,7 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 66.6,
+          "idx": 66.7,
           "idxb": 68.7,
           "amostra": 60,
           "mvp": 8,
@@ -926,7 +926,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 65.4,
+          "idx": 65.5,
           "idxb": 65.9,
           "amostra": 80,
           "mvp": 10,
@@ -1086,6 +1086,25 @@
           "zona": "—"
         },
         {
+          "n": "Líder André 3",
+          "tag": "#GY0Q0VRL0",
+          "th": 17,
+          "atk": 4,
+          "est": 8,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 3,
+          "seg": 1,
+          "idx": 59.4,
+          "idxb": 59.4,
+          "amostra": 80,
+          "mvp": 9,
+          "pos": 23,
+          "zona": "—"
+        },
+        {
           "n": "Gerion",
           "tag": "#YP9L000LG",
           "th": 17,
@@ -1101,7 +1120,7 @@
           "idxb": 58.1,
           "amostra": 40,
           "mvp": 5,
-          "pos": 23,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -1120,7 +1139,7 @@
           "idxb": 57.9,
           "amostra": 60,
           "mvp": 8,
-          "pos": 24,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -1139,7 +1158,7 @@
           "idxb": 57.4,
           "amostra": 40,
           "mvp": 4,
-          "pos": 25,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -1158,7 +1177,7 @@
           "idxb": 53.9,
           "amostra": 80,
           "mvp": 9,
-          "pos": 26,
+          "pos": 27,
           "zona": "—"
         },
         {
@@ -1177,25 +1196,6 @@
           "idxb": 53.7,
           "amostra": 60,
           "mvp": 6,
-          "pos": 27,
-          "zona": "—"
-        },
-        {
-          "n": "Líder André 3",
-          "tag": "#GY0Q0VRL0",
-          "th": 17,
-          "atk": 3,
-          "est": 6,
-          "spa": 2.0,
-          "conf": 75,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 3,
-          "seg": 1,
-          "idx": 53.6,
-          "idxb": 53.6,
-          "amostra": 60,
-          "mvp": 7,
           "pos": 28,
           "zona": "—"
         },
