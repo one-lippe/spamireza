@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T22:40:39.874249Z",
+  "atualizado": "2026-11-07T22:50:33.932147Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -444,7 +444,7 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 75.3,
+          "idx": 75.5,
           "idxb": 77.3,
           "amostra": 60,
           "mvp": 10,
@@ -547,6 +547,25 @@
           "zona": "—"
         },
         {
+          "n": "Darth Revan",
+          "tag": "#8R280VRCQ",
+          "th": 18,
+          "atk": 4,
+          "est": 11,
+          "spa": 2.75,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 4,
+          "seg": 0,
+          "idx": 70.9,
+          "idxb": 70.9,
+          "amostra": 80,
+          "mvp": 11,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
           "n": "Monesy9",
           "tag": "#LJRPJ9PC0",
           "th": 18,
@@ -562,7 +581,7 @@
           "idxb": 70.8,
           "amostra": 100,
           "mvp": 15,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -581,7 +600,7 @@
           "idxb": 69.6,
           "amostra": 100,
           "mvp": 14,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -600,7 +619,7 @@
           "idxb": 69.5,
           "amostra": 40,
           "mvp": 7,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -619,25 +638,6 @@
           "idxb": 66.6,
           "amostra": 80,
           "mvp": 10,
-          "pos": 15,
-          "zona": "—"
-        },
-        {
-          "n": "Darth Revan",
-          "tag": "#8R280VRCQ",
-          "th": 18,
-          "atk": 3,
-          "est": 8,
-          "spa": 2.67,
-          "conf": 75,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
-          "seg": 0,
-          "idx": 63.6,
-          "idxb": 63.6,
-          "amostra": 60,
-          "mvp": 8,
           "pos": 16,
           "zona": "rebx"
         },

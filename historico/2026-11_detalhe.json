@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T22:40:39.876454Z",
+  "atualizado": "2026-11-07T22:50:33.934326Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1278,7 +1278,7 @@
         {
           "g": 5,
           "vs": "GOLDEN DRACO",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
@@ -1402,7 +1402,9 @@
               "nome": "Darth Revan",
               "tag": "#8R280VRCQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
