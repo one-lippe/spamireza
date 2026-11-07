@@ -1,12 +1,31 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T17:10:43.749979Z",
+  "atualizado": "2026-11-07T17:20:34.665989Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
       "liga": "Titan League II",
       "mode": "rank",
       "rank": [
+        {
+          "n": "Psico 2k25",
+          "tag": "#Q2UJJ89VG",
+          "th": 18,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 8,
+          "sof": 2.8,
+          "ndef": 4,
+          "seg": 1,
+          "idx": 84.9,
+          "idxb": 84.9,
+          "amostra": 100,
+          "mvp": 16,
+          "pos": 1,
+          "zona": "—"
+        },
         {
           "n": "marinaul war",
           "tag": "#8GGCQPYP",
@@ -15,15 +34,15 @@
           "est": 12,
           "spa": 3.0,
           "conf": 80,
-          "def": 25,
-          "sof": 2.2,
-          "ndef": 4,
+          "def": 20,
+          "sof": 2.4,
+          "ndef": 5,
           "seg": 2,
-          "idx": 81.7,
-          "idxb": 83.2,
+          "idx": 81.0,
+          "idxb": 82.2,
           "amostra": 80,
           "mvp": 15,
-          "pos": 1,
+          "pos": 2,
           "zona": "—"
         },
         {
@@ -38,26 +57,7 @@
           "sof": 2.8,
           "ndef": 4,
           "seg": 1,
-          "idx": 78.9,
-          "idxb": 79.7,
-          "amostra": 80,
-          "mvp": 13,
-          "pos": 2,
-          "zona": "—"
-        },
-        {
-          "n": "Psico 2k25",
-          "tag": "#Q2UJJ89VG",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "seg": 1,
-          "idx": 78.9,
+          "idx": 79.0,
           "idxb": 79.7,
           "amostra": 80,
           "mvp": 13,
@@ -190,7 +190,7 @@
           "sof": 2.5,
           "ndef": 4,
           "seg": 2,
-          "idx": 76.5,
+          "idx": 76.6,
           "idxb": 76.7,
           "amostra": 80,
           "mvp": 13,
@@ -207,7 +207,7 @@
           "conf": 80,
           "def": 0,
           "sof": 3.0,
-          "ndef": 4,
+          "ndef": 5,
           "seg": 0,
           "idx": 73.2,
           "idxb": 73.2,
@@ -755,7 +755,7 @@
           "sof": 2.5,
           "ndef": 4,
           "seg": 2,
-          "idx": 71.0,
+          "idx": 71.1,
           "idxb": 72.8,
           "amostra": 80,
           "mvp": 14,
@@ -774,7 +774,7 @@
           "sof": 2.8,
           "ndef": 4,
           "seg": 1,
-          "idx": 69.8,
+          "idx": 69.9,
           "idxb": 71.3,
           "amostra": 80,
           "mvp": 13,
@@ -831,7 +831,7 @@
           "sof": 3.0,
           "ndef": 3,
           "seg": 0,
-          "idx": 68.6,
+          "idx": 68.7,
           "idxb": 69.8,
           "amostra": 80,
           "mvp": 12,
@@ -888,7 +888,7 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 66.8,
+          "idx": 66.9,
           "idxb": 68.7,
           "amostra": 60,
           "mvp": 8,
@@ -926,7 +926,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 65.5,
+          "idx": 65.6,
           "idxb": 65.9,
           "amostra": 80,
           "mvp": 10,
@@ -945,7 +945,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 64.7,
+          "idx": 64.8,
           "idxb": 65.1,
           "amostra": 60,
           "mvp": 9,
@@ -1010,6 +1010,25 @@
           "zona": "—"
         },
         {
+          "n": "Samuel Soares",
+          "tag": "#9V2L9J9JP",
+          "th": 18,
+          "atk": 5,
+          "est": 11,
+          "spa": 2.2,
+          "conf": 100,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "seg": 1,
+          "idx": 62.0,
+          "idxb": 62.0,
+          "amostra": 100,
+          "mvp": 12,
+          "pos": 19,
+          "zona": "—"
+        },
+        {
           "n": "Meliodas NNT",
           "tag": "#2PLQG8UQU",
           "th": 18,
@@ -1025,7 +1044,7 @@
           "idxb": 61.2,
           "amostra": 80,
           "mvp": 10,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1044,7 +1063,7 @@
           "idxb": 60.8,
           "amostra": 80,
           "mvp": 12,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1063,7 +1082,7 @@
           "idxb": 60.8,
           "amostra": 100,
           "mvp": 11,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -1082,7 +1101,7 @@
           "idxb": 60.5,
           "amostra": 100,
           "mvp": 12,
-          "pos": 22,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -1101,7 +1120,7 @@
           "idxb": 60.1,
           "amostra": 80,
           "mvp": 11,
-          "pos": 23,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -1120,7 +1139,7 @@
           "idxb": 59.4,
           "amostra": 80,
           "mvp": 9,
-          "pos": 24,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -1139,7 +1158,7 @@
           "idxb": 58.1,
           "amostra": 40,
           "mvp": 5,
-          "pos": 25,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -1158,7 +1177,7 @@
           "idxb": 57.9,
           "amostra": 60,
           "mvp": 8,
-          "pos": 26,
+          "pos": 27,
           "zona": "—"
         },
         {
@@ -1177,7 +1196,7 @@
           "idxb": 57.4,
           "amostra": 40,
           "mvp": 4,
-          "pos": 27,
+          "pos": 28,
           "zona": "—"
         },
         {
@@ -1196,25 +1215,6 @@
           "idxb": 57.4,
           "amostra": 40,
           "mvp": 4,
-          "pos": 28,
-          "zona": "—"
-        },
-        {
-          "n": "Samuel Soares",
-          "tag": "#9V2L9J9JP",
-          "th": 18,
-          "atk": 4,
-          "est": 8,
-          "spa": 2.0,
-          "conf": 80,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "seg": 1,
-          "idx": 53.9,
-          "idxb": 53.9,
-          "amostra": 80,
-          "mvp": 9,
           "pos": 29,
           "zona": "—"
         },
