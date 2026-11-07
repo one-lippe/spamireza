@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T00:40:26.148110Z",
+  "atualizado": "2026-11-07T00:50:29.281853Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -357,8 +357,8 @@
           "zona": "promo"
         },
         {
-          "n": "tozim",
-          "tag": "#9G22U9U2Y",
+          "n": "Renan",
+          "tag": "#QLRGC8GQ",
           "th": 18,
           "atk": 4,
           "est": 12,
@@ -376,25 +376,6 @@
           "zona": "promo"
         },
         {
-          "n": "Renan",
-          "tag": "#QLRGC8GQ",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "seg": 1,
-          "idx": 71.4,
-          "idxb": 72.1,
-          "amostra": 80,
-          "mvp": 13,
-          "pos": 3,
-          "zona": "—"
-        },
-        {
           "n": "KingMpg",
           "tag": "#22YJPYPCJ",
           "th": 18,
@@ -410,7 +391,7 @@
           "idxb": 72.1,
           "amostra": 80,
           "mvp": 13,
-          "pos": 4,
+          "pos": 3,
           "zona": "—"
         },
         {
@@ -429,12 +410,31 @@
           "idxb": 72.1,
           "amostra": 80,
           "mvp": 13,
-          "pos": 5,
+          "pos": 4,
           "zona": "—"
         },
         {
           "n": "SR • Giovanelli",
           "tag": "#PJ0YJLGJ",
+          "th": 18,
+          "atk": 4,
+          "est": 12,
+          "spa": 3.0,
+          "conf": 80,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "seg": 1,
+          "idx": 71.2,
+          "idxb": 71.8,
+          "amostra": 80,
+          "mvp": 13,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
+          "n": "tozim",
+          "tag": "#9G22U9U2Y",
           "th": 18,
           "atk": 4,
           "est": 12,
@@ -1304,7 +1304,7 @@
           "conf": 50,
           "def": 0,
           "sof": 3.0,
-          "ndef": 1,
+          "ndef": 2,
           "seg": 0,
           "idx": 28.7,
           "idxb": 28.7,

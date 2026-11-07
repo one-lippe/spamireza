@@ -3137,9 +3137,9 @@
           "atk": 2
         },
         "eles": {
-          "est": 7,
-          "destr": 19.6,
-          "atk": 3
+          "est": 10,
+          "destr": 26.266666666666666,
+          "atk": 4
         },
         "membros": [
           {
@@ -3178,9 +3178,14 @@
             "th": 18,
             "pos": 3,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Renan",
@@ -3505,9 +3510,9 @@
         "atk": 2
       },
       "eles": {
-        "est": 7,
-        "destr": 19.6,
-        "atk": 3
+        "est": 10,
+        "destr": 26.266666666666666,
+        "atk": 4
       },
       "membros": [
         {
@@ -3546,9 +3551,14 @@
           "th": 18,
           "pos": 3,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Renan",
@@ -6396,9 +6406,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 14,
-          "destr": 16.5,
-          "atk": 5
+          "est": 17,
+          "destr": 19.833333333333332,
+          "atk": 6
         },
         "membros": [
           {
@@ -6547,9 +6557,14 @@
             "th": 18,
             "pos": 16,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "F4KER",
@@ -7084,9 +7099,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 14,
-        "destr": 16.5,
-        "atk": 5
+        "est": 17,
+        "destr": 19.833333333333332,
+        "atk": 6
       },
       "membros": [
         {
@@ -7235,9 +7250,14 @@
           "th": 18,
           "pos": 16,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "F4KER",
