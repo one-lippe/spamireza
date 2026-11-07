@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T21:20:32.497528Z",
+  "atualizado": "2026-11-07T21:30:42.034997Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1294,7 +1294,9 @@
               "nome": "SrNunes",
               "tag": "#2LY8G8Y9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
