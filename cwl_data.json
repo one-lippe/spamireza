@@ -3137,9 +3137,9 @@
           "atk": 2
         },
         "eles": {
-          "est": 5,
-          "destr": 13.066666666666666,
-          "atk": 2
+          "est": 7,
+          "destr": 19.6,
+          "atk": 3
         },
         "membros": [
           {
@@ -3278,9 +3278,14 @@
             "th": 18,
             "pos": 14,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 98,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 98
+              }
+            ]
           },
           {
             "nome": "Ligeirinh0xD",
@@ -3500,9 +3505,9 @@
         "atk": 2
       },
       "eles": {
-        "est": 5,
-        "destr": 13.066666666666666,
-        "atk": 2
+        "est": 7,
+        "destr": 19.6,
+        "atk": 3
       },
       "membros": [
         {
@@ -3641,9 +3646,14 @@
           "th": 18,
           "pos": 14,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 98,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 98
+            }
+          ]
         },
         {
           "nome": "Ligeirinh0xD",
@@ -6386,9 +6396,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 6,
-          "destr": 6.666666666666667,
-          "atk": 2
+          "est": 12,
+          "destr": 13.333333333333334,
+          "atk": 4
         },
         "membros": [
           {
@@ -6442,9 +6452,14 @@
             "th": 18,
             "pos": 7,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "NoBlitzz",
@@ -6482,9 +6497,14 @@
             "th": 18,
             "pos": 11,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "♣DnF◆",
@@ -7059,9 +7079,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 6,
-        "destr": 6.666666666666667,
-        "atk": 2
+        "est": 12,
+        "destr": 13.333333333333334,
+        "atk": 4
       },
       "membros": [
         {
@@ -7115,9 +7135,14 @@
           "th": 18,
           "pos": 7,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "NoBlitzz",
@@ -7155,9 +7180,14 @@
           "th": 18,
           "pos": 11,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "♣DnF◆",

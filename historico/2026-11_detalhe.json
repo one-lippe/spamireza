@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T00:20:33.044320Z",
+  "atualizado": "2026-11-07T00:30:35.400076Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1234,7 +1234,7 @@
               "tag": "#YQRJL098P",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Ligeirinh0xD",
@@ -2410,7 +2410,7 @@
               "tag": "#22LUL8GV9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "NoBlitzz",
@@ -2438,7 +2438,7 @@
               "tag": "#9V2L9J9JP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "♣DnF◆",
