@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T14:12:57.834232Z",
+  "atualizado": "2026-11-07T14:20:25.613485Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -679,7 +679,7 @@
           "sof": 2.2,
           "ndef": 5,
           "seg": 3,
-          "idx": 72.3,
+          "idx": 72.4,
           "idxb": 74.7,
           "amostra": 80,
           "mvp": 16,
@@ -717,7 +717,7 @@
           "sof": 2.5,
           "ndef": 4,
           "seg": 2,
-          "idx": 70.8,
+          "idx": 70.9,
           "idxb": 72.8,
           "amostra": 80,
           "mvp": 14,
@@ -736,7 +736,7 @@
           "sof": 2.8,
           "ndef": 4,
           "seg": 1,
-          "idx": 69.6,
+          "idx": 69.7,
           "idxb": 71.3,
           "amostra": 80,
           "mvp": 13,
@@ -793,7 +793,7 @@
           "sof": 3.0,
           "ndef": 3,
           "seg": 0,
-          "idx": 68.4,
+          "idx": 68.5,
           "idxb": 69.8,
           "amostra": 80,
           "mvp": 12,
@@ -812,7 +812,7 @@
           "sof": 2.4,
           "ndef": 5,
           "seg": 3,
-          "idx": 67.9,
+          "idx": 68.0,
           "idxb": 69.2,
           "amostra": 80,
           "mvp": 14,
@@ -869,7 +869,7 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 66.4,
+          "idx": 66.5,
           "idxb": 68.7,
           "amostra": 60,
           "mvp": 8,
@@ -888,7 +888,7 @@
           "sof": 2.8,
           "ndef": 5,
           "seg": 1,
-          "idx": 65.9,
+          "idx": 66.0,
           "idxb": 66.7,
           "amostra": 80,
           "mvp": 12,
@@ -907,7 +907,7 @@
           "sof": 2.8,
           "ndef": 5,
           "seg": 1,
-          "idx": 65.9,
+          "idx": 66.0,
           "idxb": 66.7,
           "amostra": 80,
           "mvp": 12,
@@ -964,7 +964,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 64.2,
+          "idx": 64.3,
           "idxb": 65.1,
           "amostra": 60,
           "mvp": 9,
@@ -991,6 +991,25 @@
           "zona": "—"
         },
         {
+          "n": "NoBlitzz",
+          "tag": "#9RJGGUY9R",
+          "th": 18,
+          "atk": 5,
+          "est": 11,
+          "spa": 2.2,
+          "conf": 100,
+          "def": 8,
+          "sof": 2.8,
+          "ndef": 4,
+          "seg": 1,
+          "idx": 62.3,
+          "idxb": 62.3,
+          "amostra": 100,
+          "mvp": 12,
+          "pos": 18,
+          "zona": "—"
+        },
+        {
           "n": "Meliodas NNT",
           "tag": "#2PLQG8UQU",
           "th": 18,
@@ -1006,7 +1025,7 @@
           "idxb": 61.2,
           "amostra": 80,
           "mvp": 10,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1025,7 +1044,7 @@
           "idxb": 60.8,
           "amostra": 100,
           "mvp": 11,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1044,7 +1063,7 @@
           "idxb": 60.1,
           "amostra": 80,
           "mvp": 11,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1063,7 +1082,7 @@
           "idxb": 58.1,
           "amostra": 40,
           "mvp": 5,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -1082,7 +1101,7 @@
           "idxb": 57.9,
           "amostra": 60,
           "mvp": 8,
-          "pos": 22,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -1101,7 +1120,7 @@
           "idxb": 57.4,
           "amostra": 40,
           "mvp": 4,
-          "pos": 23,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -1120,25 +1139,6 @@
           "idxb": 55.8,
           "amostra": 80,
           "mvp": 10,
-          "pos": 24,
-          "zona": "—"
-        },
-        {
-          "n": "NoBlitzz",
-          "tag": "#9RJGGUY9R",
-          "th": 18,
-          "atk": 4,
-          "est": 8,
-          "spa": 2.0,
-          "conf": 80,
-          "def": 8,
-          "sof": 2.8,
-          "ndef": 4,
-          "seg": 1,
-          "idx": 54.2,
-          "idxb": 54.2,
-          "amostra": 80,
-          "mvp": 9,
           "pos": 25,
           "zona": "—"
         },
