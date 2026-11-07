@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T00:50:29.283942Z",
+  "atualizado": "2026-11-07T01:00:42.861560Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1188,7 +1188,7 @@
               "tag": "#89G0YGUJY",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Monesy9",
@@ -2465,7 +2465,9 @@
               "nome": "BC NOELLE ✓",
               "tag": "#LCJ8JG09V",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {

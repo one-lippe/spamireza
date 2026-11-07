@@ -3137,9 +3137,9 @@
           "atk": 2
         },
         "eles": {
-          "est": 10,
-          "destr": 26.266666666666666,
-          "atk": 4
+          "est": 12,
+          "destr": 32.6,
+          "atk": 5
         },
         "membros": [
           {
@@ -3213,9 +3213,14 @@
             "th": 18,
             "pos": 8,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 95,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 95
+              }
+            ]
           },
           {
             "nome": "Monesy9",
@@ -3510,9 +3515,9 @@
         "atk": 2
       },
       "eles": {
-        "est": 10,
-        "destr": 26.266666666666666,
-        "atk": 4
+        "est": 12,
+        "destr": 32.6,
+        "atk": 5
       },
       "membros": [
         {
@@ -3586,9 +3591,14 @@
           "th": 18,
           "pos": 8,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 95,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 95
+            }
+          ]
         },
         {
           "nome": "Monesy9",
@@ -6401,9 +6411,9 @@
         "inicio": "20261107T000513.000Z",
         "fim": "20261108T000513.000Z",
         "nos": {
-          "est": 11,
-          "destr": 12.666666666666666,
-          "atk": 4
+          "est": 14,
+          "destr": 16.0,
+          "atk": 5
         },
         "eles": {
           "est": 17,
@@ -6556,7 +6566,12 @@
             "tag": "#LCJ8JG09V",
             "th": 18,
             "pos": 16,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -7094,9 +7109,9 @@
       "inicio": "20261107T000513.000Z",
       "fim": "20261108T000513.000Z",
       "nos": {
-        "est": 11,
-        "destr": 12.666666666666666,
-        "atk": 4
+        "est": 14,
+        "destr": 16.0,
+        "atk": 5
       },
       "eles": {
         "est": 17,
@@ -7249,7 +7264,12 @@
           "tag": "#LCJ8JG09V",
           "th": 18,
           "pos": 16,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [

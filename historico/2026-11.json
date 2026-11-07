@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T00:50:29.281853Z",
+  "atualizado": "2026-11-07T01:00:42.859209Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -463,7 +463,7 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 70.3,
+          "idx": 70.4,
           "idxb": 71.4,
           "amostra": 60,
           "mvp": 10,
@@ -482,7 +482,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 70.1,
+          "idx": 70.2,
           "idxb": 70.5,
           "amostra": 80,
           "mvp": 12,
@@ -520,7 +520,7 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 69.0,
+          "idx": 69.1,
           "idxb": 69.5,
           "amostra": 40,
           "mvp": 7,
@@ -539,7 +539,7 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 69.0,
+          "idx": 69.1,
           "idxb": 69.5,
           "amostra": 40,
           "mvp": 7,
@@ -573,14 +573,14 @@
           "est": 8,
           "spa": 2.67,
           "conf": 75,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 3,
-          "seg": 1,
-          "idx": 65.7,
-          "idxb": 65.7,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 4,
+          "seg": 2,
+          "idx": 66.7,
+          "idxb": 66.7,
           "amostra": 60,
-          "mvp": 9,
+          "mvp": 10,
           "pos": 13,
           "zona": "—"
         },
@@ -1067,6 +1067,25 @@
           "zona": "—"
         },
         {
+          "n": "BC NOELLE ✓",
+          "tag": "#LCJ8JG09V",
+          "th": 18,
+          "atk": 2,
+          "est": 4,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "seg": 0,
+          "idx": 57.4,
+          "idxb": 57.4,
+          "amostra": 40,
+          "mvp": 4,
+          "pos": 22,
+          "zona": "—"
+        },
+        {
           "n": "SR • JotaErre",
           "tag": "#GRUG8UQGV",
           "th": 16,
@@ -1082,7 +1101,7 @@
           "idxb": 57.0,
           "amostra": 80,
           "mvp": 9,
-          "pos": 22,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -1101,7 +1120,7 @@
           "idxb": 55.8,
           "amostra": 80,
           "mvp": 10,
-          "pos": 23,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -1120,7 +1139,7 @@
           "idxb": 54.2,
           "amostra": 80,
           "mvp": 9,
-          "pos": 24,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -1139,7 +1158,7 @@
           "idxb": 53.9,
           "amostra": 80,
           "mvp": 9,
-          "pos": 25,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -1158,7 +1177,7 @@
           "idxb": 53.7,
           "amostra": 60,
           "mvp": 6,
-          "pos": 26,
+          "pos": 27,
           "zona": "—"
         },
         {
@@ -1177,7 +1196,7 @@
           "idxb": 53.6,
           "amostra": 60,
           "mvp": 7,
-          "pos": 27,
+          "pos": 28,
           "zona": "—"
         },
         {
@@ -1196,7 +1215,7 @@
           "idxb": 52.1,
           "amostra": 60,
           "mvp": 8,
-          "pos": 28,
+          "pos": 29,
           "zona": "—"
         },
         {
@@ -1215,7 +1234,7 @@
           "idxb": 48.8,
           "amostra": 40,
           "mvp": 3,
-          "pos": 29,
+          "pos": 30,
           "zona": "—"
         },
         {
@@ -1234,7 +1253,7 @@
           "idxb": 48.4,
           "amostra": 80,
           "mvp": 7,
-          "pos": 30,
+          "pos": 31,
           "zona": "—"
         },
         {
@@ -1253,7 +1272,7 @@
           "idxb": 46.0,
           "amostra": 60,
           "mvp": 4,
-          "pos": 31,
+          "pos": 32,
           "zona": "—"
         },
         {
@@ -1272,7 +1291,7 @@
           "idxb": 45.7,
           "amostra": 20,
           "mvp": 2,
-          "pos": 32,
+          "pos": 33,
           "zona": "—"
         },
         {
@@ -1291,25 +1310,6 @@
           "idxb": 41.1,
           "amostra": 40,
           "mvp": 3,
-          "pos": 33,
-          "zona": "—"
-        },
-        {
-          "n": "BC NOELLE ✓",
-          "tag": "#LCJ8JG09V",
-          "th": 18,
-          "atk": 1,
-          "est": 1,
-          "spa": 1.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "seg": 0,
-          "idx": 28.7,
-          "idxb": 28.7,
-          "amostra": 20,
-          "mvp": 1,
           "pos": 34,
           "zona": "—"
         },
