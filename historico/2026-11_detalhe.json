@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T17:20:34.668224Z",
+  "atualizado": "2026-11-07T17:30:39.480239Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -630,7 +630,9 @@
               "nome": "Coyote 171 × 戦備",
               "tag": "#Y08CR0PQU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
