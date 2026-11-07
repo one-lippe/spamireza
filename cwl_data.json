@@ -1389,9 +1389,9 @@
           "atk": 4
         },
         "eles": {
-          "est": 30,
-          "destr": 70.53333333333333,
-          "atk": 11
+          "est": 33,
+          "destr": 77.2,
+          "atk": 12
         },
         "membros": [
           {
@@ -1475,9 +1475,14 @@
             "th": 18,
             "pos": 7,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Coyote 171 × 戦備",
@@ -1807,9 +1812,9 @@
         "atk": 4
       },
       "eles": {
-        "est": 30,
-        "destr": 70.53333333333333,
-        "atk": 11
+        "est": 33,
+        "destr": 77.2,
+        "atk": 12
       },
       "membros": [
         {
@@ -1893,9 +1898,14 @@
           "th": 18,
           "pos": 7,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Coyote 171 × 戦備",
@@ -6922,14 +6932,14 @@
         "inicio": "20261107T000513.000Z",
         "fim": "20261108T000513.000Z",
         "nos": {
-          "est": 61,
-          "destr": 71.46666666666667,
-          "atk": 23
+          "est": 64,
+          "destr": 74.8,
+          "atk": 24
         },
         "eles": {
-          "est": 71,
-          "destr": 87.13333333333334,
-          "atk": 27
+          "est": 74,
+          "destr": 90.46666666666667,
+          "atk": 28
         },
         "membros": [
           {
@@ -7017,7 +7027,12 @@
             "tag": "#22LUL8GV9",
             "th": 18,
             "pos": 7,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -7448,9 +7463,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Crypt Myers",
@@ -7815,14 +7835,14 @@
       "inicio": "20261107T000513.000Z",
       "fim": "20261108T000513.000Z",
       "nos": {
-        "est": 61,
-        "destr": 71.46666666666667,
-        "atk": 23
+        "est": 64,
+        "destr": 74.8,
+        "atk": 24
       },
       "eles": {
-        "est": 71,
-        "destr": 87.13333333333334,
-        "atk": 27
+        "est": 74,
+        "destr": 90.46666666666667,
+        "atk": 28
       },
       "membros": [
         {
@@ -7910,7 +7930,12 @@
           "tag": "#22LUL8GV9",
           "th": 18,
           "pos": 7,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -8341,9 +8366,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Crypt Myers",
