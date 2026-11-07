@@ -1384,14 +1384,14 @@
         "inicio": "20261107T170431.000Z",
         "fim": "20261108T170431.000Z",
         "nos": {
-          "est": 6,
-          "destr": 13.333333333333334,
-          "atk": 2
+          "est": 9,
+          "destr": 20.0,
+          "atk": 3
         },
         "eles": {
-          "est": 6,
-          "destr": 13.333333333333334,
-          "atk": 2
+          "est": 9,
+          "destr": 20.0,
+          "atk": 3
         },
         "membros": [
           {
@@ -1475,9 +1475,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • C∆iç∆r∆",
@@ -1494,7 +1499,12 @@
             "tag": "#LCR9YQGYY",
             "th": 18,
             "pos": 10,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -1747,14 +1757,14 @@
       "inicio": "20261107T170431.000Z",
       "fim": "20261108T170431.000Z",
       "nos": {
-        "est": 6,
-        "destr": 13.333333333333334,
-        "atk": 2
+        "est": 9,
+        "destr": 20.0,
+        "atk": 3
       },
       "eles": {
-        "est": 6,
-        "destr": 13.333333333333334,
-        "atk": 2
+        "est": 9,
+        "destr": 20.0,
+        "atk": 3
       },
       "membros": [
         {
@@ -1838,9 +1848,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • C∆iç∆r∆",
@@ -1857,7 +1872,12 @@
           "tag": "#LCR9YQGYY",
           "th": 18,
           "pos": 10,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
