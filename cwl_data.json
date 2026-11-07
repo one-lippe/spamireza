@@ -3197,9 +3197,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 20,
-          "destr": 52.13333333333333,
-          "atk": 8
+          "est": 22,
+          "destr": 57.333333333333336,
+          "atk": 9
         },
         "membros": [
           {
@@ -3368,9 +3368,14 @@
             "th": 18,
             "pos": 13,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 78,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 78
+              }
+            ]
           },
           {
             "nome": "SR • DuM∆R",
@@ -3610,9 +3615,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 20,
-        "destr": 52.13333333333333,
-        "atk": 8
+        "est": 22,
+        "destr": 57.333333333333336,
+        "atk": 9
       },
       "membros": [
         {
@@ -3781,9 +3786,14 @@
           "th": 18,
           "pos": 13,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 78,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 78
+            }
+          ]
         },
         {
           "nome": "SR • DuM∆R",
@@ -6546,9 +6556,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 29,
-          "destr": 35.733333333333334,
-          "atk": 11
+          "est": 32,
+          "destr": 39.06666666666667,
+          "atk": 12
         },
         "membros": [
           {
@@ -6887,9 +6897,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "GSAzevedo30 #2",
@@ -7294,9 +7309,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 29,
-        "destr": 35.733333333333334,
-        "atk": 11
+        "est": 32,
+        "destr": 39.06666666666667,
+        "atk": 12
       },
       "membros": [
         {
@@ -7635,9 +7650,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "GSAzevedo30 #2",

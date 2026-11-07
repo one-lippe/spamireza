@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T10:10:33.576474Z",
+  "atualizado": "2026-11-07T10:20:29.803833Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1237,7 +1237,7 @@
               "tag": "#2YGJQG22G",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR • DuM∆R",
@@ -2576,7 +2576,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30 #2",
