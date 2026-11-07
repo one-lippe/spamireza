@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T10:00:37.938278Z",
+  "atualizado": "2026-11-07T10:10:33.574776Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -433,27 +433,27 @@
           "zona": "—"
         },
         {
-          "n": "TomorrowBr",
-          "tag": "#YPJLVPL9U",
+          "n": "tozim",
+          "tag": "#9G22U9U2Y",
           "th": 18,
           "atk": 4,
           "est": 12,
           "spa": 3.0,
           "conf": 80,
-          "def": 8,
+          "def": 7,
           "sof": 2.8,
-          "ndef": 4,
+          "ndef": 5,
           "seg": 1,
-          "idx": 71.7,
-          "idxb": 72.1,
+          "idx": 71.5,
+          "idxb": 71.8,
           "amostra": 80,
           "mvp": 13,
           "pos": 6,
           "zona": "—"
         },
         {
-          "n": "tozim",
-          "tag": "#9G22U9U2Y",
+          "n": "TomorrowBr",
+          "tag": "#YPJLVPL9U",
           "th": 18,
           "atk": 4,
           "est": 12,
