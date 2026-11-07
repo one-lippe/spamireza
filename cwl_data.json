@@ -3358,9 +3358,9 @@
           "atk": 11
         },
         "eles": {
-          "est": 35,
-          "destr": 89.66666666666667,
-          "atk": 14
+          "est": 38,
+          "destr": 96.33333333333333,
+          "atk": 15
         },
         "membros": [
           {
@@ -3484,9 +3484,14 @@
             "th": 18,
             "pos": 9,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "MAJ0R FiV3",
@@ -3826,9 +3831,9 @@
         "atk": 11
       },
       "eles": {
-        "est": 35,
-        "destr": 89.66666666666667,
-        "atk": 14
+        "est": 38,
+        "destr": 96.33333333333333,
+        "atk": 15
       },
       "membros": [
         {
@@ -3952,9 +3957,14 @@
           "th": 18,
           "pos": 9,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "MAJ0R FiV3",
@@ -6817,9 +6827,9 @@
           "atk": 20
         },
         "eles": {
-          "est": 41,
-          "destr": 51.2,
-          "atk": 16
+          "est": 44,
+          "destr": 54.53333333333333,
+          "atk": 17
         },
         "membros": [
           {
@@ -7128,9 +7138,14 @@
                 "destr": 89
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Jan™",
@@ -7640,9 +7655,9 @@
         "atk": 20
       },
       "eles": {
-        "est": 41,
-        "destr": 51.2,
-        "atk": 16
+        "est": 44,
+        "destr": 54.53333333333333,
+        "atk": 17
       },
       "membros": [
         {
@@ -7951,9 +7966,14 @@
               "destr": 89
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Jan™",
