@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T03:20:28.147617Z",
+  "atualizado": "2026-11-07T03:30:32.939853Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -541,7 +541,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Levi_Neiva 2",
