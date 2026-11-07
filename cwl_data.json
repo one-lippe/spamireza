@@ -6516,9 +6516,9 @@
           "atk": 9
         },
         "eles": {
-          "est": 27,
-          "destr": 32.43333333333333,
-          "atk": 10
+          "est": 29,
+          "destr": 35.733333333333334,
+          "atk": 11
         },
         "membros": [
           {
@@ -6832,9 +6832,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 99,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 99
+              }
+            ]
           },
           {
             "nome": "SR • JotaErre",
@@ -7254,9 +7259,9 @@
         "atk": 9
       },
       "eles": {
-        "est": 27,
-        "destr": 32.43333333333333,
-        "atk": 10
+        "est": 29,
+        "destr": 35.733333333333334,
+        "atk": 11
       },
       "membros": [
         {
@@ -7570,9 +7575,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 99,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 99
+            }
+          ]
         },
         {
           "nome": "SR • JotaErre",
