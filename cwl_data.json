@@ -3338,9 +3338,9 @@
           "atk": 11
         },
         "eles": {
-          "est": 29,
-          "destr": 76.33333333333333,
-          "atk": 12
+          "est": 35,
+          "destr": 89.66666666666667,
+          "atk": 14
         },
         "membros": [
           {
@@ -3479,9 +3479,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "TomorrowBr",
@@ -3584,9 +3589,14 @@
             "th": 18,
             "pos": 16,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Nesquick",
@@ -3796,9 +3806,9 @@
         "atk": 11
       },
       "eles": {
-        "est": 29,
-        "destr": 76.33333333333333,
-        "atk": 12
+        "est": 35,
+        "destr": 89.66666666666667,
+        "atk": 14
       },
       "membros": [
         {
@@ -3937,9 +3947,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "TomorrowBr",
@@ -4042,9 +4057,14 @@
           "th": 18,
           "pos": 16,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Nesquick",
