@@ -1063,14 +1063,14 @@
         "inicio": "20261106T170422.000Z",
         "fim": "20261107T170422.000Z",
         "nos": {
-          "est": 35,
-          "destr": 79.46666666666667,
-          "atk": 12
+          "est": 38,
+          "destr": 86.13333333333334,
+          "atk": 13
         },
         "eles": {
-          "est": 39,
-          "destr": 89.93333333333334,
-          "atk": 14
+          "est": 42,
+          "destr": 96.6,
+          "atk": 15
         },
         "membros": [
           {
@@ -1144,9 +1144,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • JON SNOW",
@@ -1323,7 +1328,12 @@
             "tag": "#RCQQUGC9",
             "th": 18,
             "pos": 16,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -1536,14 +1546,14 @@
       "inicio": "20261106T170422.000Z",
       "fim": "20261107T170422.000Z",
       "nos": {
-        "est": 35,
-        "destr": 79.46666666666667,
-        "atk": 12
+        "est": 38,
+        "destr": 86.13333333333334,
+        "atk": 13
       },
       "eles": {
-        "est": 39,
-        "destr": 89.93333333333334,
-        "atk": 14
+        "est": 42,
+        "destr": 96.6,
+        "atk": 15
       },
       "membros": [
         {
@@ -1617,9 +1627,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • JON SNOW",
@@ -1796,7 +1811,12 @@
           "tag": "#RCQQUGC9",
           "th": 18,
           "pos": 16,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
