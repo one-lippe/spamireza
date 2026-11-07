@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T19:40:35.195386Z",
+  "atualizado": "2026-11-07T19:50:36.194027Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2687,7 +2687,7 @@
               "tag": "#CJV9G22Q",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Líder André 3",
