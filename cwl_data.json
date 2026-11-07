@@ -1068,9 +1068,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 33,
-          "destr": 76.6,
-          "atk": 12
+          "est": 36,
+          "destr": 83.26666666666667,
+          "atk": 13
         },
         "membros": [
           {
@@ -1119,9 +1119,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Dog Apollo",
@@ -1521,9 +1526,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 33,
-        "destr": 76.6,
-        "atk": 12
+        "est": 36,
+        "destr": 83.26666666666667,
+        "atk": 13
       },
       "membros": [
         {
@@ -1572,9 +1577,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Dog Apollo",
