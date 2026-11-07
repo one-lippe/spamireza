@@ -6877,9 +6877,9 @@
           "atk": 20
         },
         "eles": {
-          "est": 49,
-          "destr": 60.833333333333336,
-          "atk": 19
+          "est": 56,
+          "destr": 70.46666666666667,
+          "atk": 22
         },
         "membros": [
           {
@@ -7098,9 +7098,14 @@
             "th": 18,
             "pos": 15,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "BC NOELLE ✓",
@@ -7148,9 +7153,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 89,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 89
+              }
+            ]
           },
           {
             "nome": "irmão do jorel",
@@ -7228,9 +7238,14 @@
                 "destr": 99
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "PaulinhoPH",
@@ -7715,9 +7730,9 @@
         "atk": 20
       },
       "eles": {
-        "est": 49,
-        "destr": 60.833333333333336,
-        "atk": 19
+        "est": 56,
+        "destr": 70.46666666666667,
+        "atk": 22
       },
       "membros": [
         {
@@ -7936,9 +7951,14 @@
           "th": 18,
           "pos": 15,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "BC NOELLE ✓",
@@ -7986,9 +8006,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 89,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 89
+            }
+          ]
         },
         {
           "nome": "irmão do jorel",
@@ -8066,9 +8091,14 @@
               "destr": 99
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "PaulinhoPH",

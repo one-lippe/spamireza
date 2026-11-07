@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T19:50:36.194027Z",
+  "atualizado": "2026-11-07T20:00:37.577211Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2632,7 +2632,7 @@
               "tag": "#22JQULR22",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "BC NOELLE ✓",
@@ -2657,7 +2657,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "irmão do jorel",
@@ -2696,7 +2696,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "PaulinhoPH",
