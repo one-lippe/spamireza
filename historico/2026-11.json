@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T19:20:34.805919Z",
+  "atualizado": "2026-11-07T19:30:42.665261Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -820,6 +820,25 @@
           "zona": "—"
         },
         {
+          "n": "SR•InTheDark II",
+          "tag": "#Q9PL0CUU",
+          "th": 18,
+          "atk": 5,
+          "est": 13,
+          "spa": 2.6,
+          "conf": 100,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "seg": 1,
+          "idx": 68.8,
+          "idxb": 68.8,
+          "amostra": 100,
+          "mvp": 14,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "Jan™",
           "tag": "#CJV9G22Q",
           "th": 18,
@@ -835,7 +854,7 @@
           "idxb": 69.8,
           "amostra": 80,
           "mvp": 12,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -849,25 +868,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 5,
-          "seg": 0,
-          "idx": 67.6,
-          "idxb": 67.6,
-          "amostra": 100,
-          "mvp": 13,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "SR•InTheDark II",
-          "tag": "#Q9PL0CUU",
-          "th": 18,
-          "atk": 5,
-          "est": 13,
-          "spa": 2.6,
-          "conf": 100,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
           "seg": 0,
           "idx": 67.6,
           "idxb": 67.6,
@@ -888,7 +888,7 @@
           "sof": 3.0,
           "ndef": 2,
           "seg": 0,
-          "idx": 66.9,
+          "idx": 67.0,
           "idxb": 68.7,
           "amostra": 60,
           "mvp": 8,
