@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T19:10:31.761690Z",
+  "atualizado": "2026-11-07T19:20:34.805919Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -444,11 +444,30 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 75.1,
+          "idx": 75.2,
           "idxb": 77.3,
           "amostra": 60,
           "mvp": 10,
           "pos": 6,
+          "zona": "—"
+        },
+        {
+          "n": "Monesy",
+          "tag": "#2YGJQG22G",
+          "th": 18,
+          "atk": 4,
+          "est": 11,
+          "spa": 2.75,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 4,
+          "seg": 2,
+          "idx": 73.6,
+          "idxb": 74.0,
+          "amostra": 80,
+          "mvp": 13,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -467,7 +486,7 @@
           "idxb": 74.0,
           "amostra": 80,
           "mvp": 13,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -486,7 +505,7 @@
           "idxb": 73.0,
           "amostra": 100,
           "mvp": 15,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -505,25 +524,6 @@
           "idxb": 73.0,
           "amostra": 100,
           "mvp": 15,
-          "pos": 9,
-          "zona": "—"
-        },
-        {
-          "n": "Monesy",
-          "tag": "#2YGJQG22G",
-          "th": 18,
-          "atk": 3,
-          "est": 9,
-          "spa": 3.0,
-          "conf": 75,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 4,
-          "seg": 2,
-          "idx": 72.2,
-          "idxb": 72.5,
-          "amostra": 60,
-          "mvp": 11,
           "pos": 10,
           "zona": "—"
         },
