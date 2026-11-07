@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T14:50:28.533771Z",
+  "atualizado": "2026-11-07T15:00:43.014190Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -217,6 +217,25 @@
           "zona": "—"
         },
         {
+          "n": "SR•GOD kratos",
+          "tag": "#LUJ9CRJQG",
+          "th": 18,
+          "atk": 3,
+          "est": 8,
+          "spa": 2.67,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 3,
+          "seg": 0,
+          "idx": 76.8,
+          "idxb": 76.8,
+          "amostra": 75,
+          "mvp": 8,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
           "n": "SR • JON SNOW",
           "tag": "#LYV2J2LU",
           "th": 18,
@@ -232,7 +251,7 @@
           "idxb": 76.7,
           "amostra": 75,
           "mvp": 9,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -251,7 +270,7 @@
           "idxb": 76.7,
           "amostra": 75,
           "mvp": 9,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -270,7 +289,7 @@
           "idxb": 74.5,
           "amostra": 50,
           "mvp": 6,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -289,27 +308,8 @@
           "idxb": 66.4,
           "amostra": 75,
           "mvp": 7,
-          "pos": 15,
-          "zona": "—"
-        },
-        {
-          "n": "SR•GOD kratos",
-          "tag": "#LUJ9CRJQG",
-          "th": 18,
-          "atk": 2,
-          "est": 5,
-          "spa": 2.5,
-          "conf": 67,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 3,
-          "seg": 0,
-          "idx": 65.0,
-          "idxb": 65.0,
-          "amostra": 50,
-          "mvp": 5,
           "pos": 16,
-          "zona": "—"
+          "zona": "rebx"
         },
         {
           "n": "☆VILA DO PX ツ",
