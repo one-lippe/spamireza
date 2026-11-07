@@ -6691,14 +6691,14 @@
         "inicio": "20261107T000513.000Z",
         "fim": "20261108T000513.000Z",
         "nos": {
-          "est": 44,
-          "destr": 51.766666666666666,
-          "atk": 17
+          "est": 47,
+          "destr": 55.1,
+          "atk": 18
         },
         "eles": {
-          "est": 33,
-          "destr": 41.9,
-          "atk": 13
+          "est": 39,
+          "destr": 48.56666666666667,
+          "atk": 15
         },
         "membros": [
           {
@@ -6752,9 +6752,14 @@
                 "destr": 79
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "100%War_⚡Slash⚡",
@@ -6952,9 +6957,14 @@
             "th": 18,
             "pos": 20,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Meliodas NNT",
@@ -7116,7 +7126,12 @@
             "tag": "#GCC98R22R",
             "th": 16,
             "pos": 35,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -7484,14 +7499,14 @@
       "inicio": "20261107T000513.000Z",
       "fim": "20261108T000513.000Z",
       "nos": {
-        "est": 44,
-        "destr": 51.766666666666666,
-        "atk": 17
+        "est": 47,
+        "destr": 55.1,
+        "atk": 18
       },
       "eles": {
-        "est": 33,
-        "destr": 41.9,
-        "atk": 13
+        "est": 39,
+        "destr": 48.56666666666667,
+        "atk": 15
       },
       "membros": [
         {
@@ -7545,9 +7560,14 @@
               "destr": 79
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "100%War_⚡Slash⚡",
@@ -7745,9 +7765,14 @@
           "th": 18,
           "pos": 20,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Meliodas NNT",
@@ -7909,7 +7934,12 @@
           "tag": "#GCC98R22R",
           "th": 16,
           "pos": 35,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
