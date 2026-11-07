@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T12:40:36.330044Z",
+  "atualizado": "2026-11-07T12:50:26.612916Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1238,6 +1238,25 @@
           "zona": "—"
         },
         {
+          "n": "SR•InTheDarkIV",
+          "tag": "#R0GLQC0GV",
+          "th": 13,
+          "atk": 2,
+          "est": 3,
+          "spa": 1.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 48.8,
+          "idxb": 48.8,
+          "amostra": 40,
+          "mvp": 3,
+          "pos": 31,
+          "zona": "—"
+        },
+        {
           "n": "irmão do jorel",
           "tag": "#P2JCQRPGJ",
           "th": 18,
@@ -1253,7 +1272,7 @@
           "idxb": 48.4,
           "amostra": 80,
           "mvp": 7,
-          "pos": 31,
+          "pos": 32,
           "zona": "—"
         },
         {
@@ -1272,7 +1291,7 @@
           "idxb": 46.0,
           "amostra": 60,
           "mvp": 4,
-          "pos": 32,
+          "pos": 33,
           "zona": "—"
         },
         {
@@ -1291,7 +1310,7 @@
           "idxb": 45.7,
           "amostra": 20,
           "mvp": 2,
-          "pos": 33,
+          "pos": 34,
           "zona": "—"
         },
         {
@@ -1310,32 +1329,13 @@
           "idxb": 41.1,
           "amostra": 40,
           "mvp": 3,
-          "pos": 34,
+          "pos": 35,
           "zona": "—"
         },
         {
           "n": "Ligeirinh2xD",
           "tag": "#GCC98R22R",
           "th": 16,
-          "atk": 1,
-          "est": 1,
-          "spa": 1.0,
-          "conf": 50,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
-          "seg": 0,
-          "idx": 28.7,
-          "idxb": 28.7,
-          "amostra": 20,
-          "mvp": 1,
-          "pos": 35,
-          "zona": "—"
-        },
-        {
-          "n": "SR•InTheDarkIV",
-          "tag": "#R0GLQC0GV",
-          "th": 13,
           "atk": 1,
           "est": 1,
           "spa": 1.0,
