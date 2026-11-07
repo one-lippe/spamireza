@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-07T12:01:00.846233Z",
+  "atualizado": "2026-11-07T12:10:29.916579Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2475,7 +2475,9 @@
               "nome": "SR•InTheDark II",
               "tag": "#Q9PL0CUU",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
