@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T07:10:27.625897Z",
+  "atualizado": "2026-11-08T07:20:33.838861Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -706,6 +706,25 @@
           "zona": "promo"
         },
         {
+          "n": "SR • The off",
+          "tag": "#YJ2JLPQGR",
+          "th": 18,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 100,
+          "def": 22,
+          "sof": 2.3,
+          "ndef": 6,
+          "seg": 3,
+          "idx": 72.8,
+          "idxb": 72.8,
+          "amostra": 100,
+          "mvp": 20,
+          "pos": 3,
+          "zona": "—"
+        },
+        {
           "n": "Ghostface",
           "tag": "#QQUC9JQ9R",
           "th": 17,
@@ -721,25 +740,6 @@
           "idxb": 72.8,
           "amostra": 100,
           "mvp": 18,
-          "pos": 3,
-          "zona": "—"
-        },
-        {
-          "n": "SR • The off",
-          "tag": "#YJ2JLPQGR",
-          "th": 18,
-          "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 100,
-          "def": 20,
-          "sof": 2.4,
-          "ndef": 5,
-          "seg": 2,
-          "idx": 72.4,
-          "idxb": 72.4,
-          "amostra": 100,
-          "mvp": 19,
           "pos": 4,
           "zona": "—"
         },

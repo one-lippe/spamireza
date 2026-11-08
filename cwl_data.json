@@ -7719,9 +7719,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 3,
-          "destr": 3.3333333333333335,
-          "atk": 1
+          "est": 5,
+          "destr": 6.033333333333333,
+          "atk": 2
         },
         "membros": [
           {
@@ -7900,9 +7900,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 81,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 81
+              }
+            ]
           },
           {
             "nome": "irmão do jorel",
@@ -8417,9 +8422,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 3,
-        "destr": 3.3333333333333335,
-        "atk": 1
+        "est": 5,
+        "destr": 6.033333333333333,
+        "atk": 2
       },
       "membros": [
         {
@@ -8598,9 +8603,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 81,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 81
+            }
+          ]
         },
         {
           "nome": "irmão do jorel",

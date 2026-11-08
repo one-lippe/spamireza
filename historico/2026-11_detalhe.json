@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T07:10:27.627299Z",
+  "atualizado": "2026-11-08T07:20:33.840745Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3054,7 +3054,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "irmão do jorel",
