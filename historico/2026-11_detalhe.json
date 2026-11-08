@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T09:00:51.132529Z",
+  "atualizado": "2026-11-08T09:10:33.196523Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3022,7 +3022,7 @@
               "tag": "#Q9PL0CUU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Sra Nunes",

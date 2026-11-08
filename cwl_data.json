@@ -7719,9 +7719,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 19,
-          "destr": 21.933333333333334,
-          "atk": 7
+          "est": 22,
+          "destr": 25.266666666666666,
+          "atk": 8
         },
         "membros": [
           {
@@ -7855,9 +7855,14 @@
             "th": 18,
             "pos": 14,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Sra Nunes",
@@ -8447,9 +8452,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 19,
-        "destr": 21.933333333333334,
-        "atk": 7
+        "est": 22,
+        "destr": 25.266666666666666,
+        "atk": 8
       },
       "membros": [
         {
@@ -8583,9 +8588,14 @@
           "th": 18,
           "pos": 14,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Sra Nunes",
