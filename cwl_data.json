@@ -1710,9 +1710,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 6,
-          "destr": 13.333333333333334,
-          "atk": 2
+          "est": 9,
+          "destr": 20.0,
+          "atk": 3
         },
         "membros": [
           {
@@ -1866,9 +1866,14 @@
             "th": 18,
             "pos": 14,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Levi_Neiva 2",
@@ -2093,9 +2098,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 6,
-        "destr": 13.333333333333334,
-        "atk": 2
+        "est": 9,
+        "destr": 20.0,
+        "atk": 3
       },
       "membros": [
         {
@@ -2249,9 +2254,14 @@
           "th": 18,
           "pos": 14,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Levi_Neiva 2",
@@ -4332,16 +4342,6 @@
             "defesas": []
           },
           {
-            "nome": "GSAzevedo30",
-            "tag": "#CJLVVL9L",
-            "th": 18,
-            "pos": 6,
-            "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
-          },
-          {
             "nome": "KingMpg",
             "tag": "#22YJPYPCJ",
             "th": 18,
@@ -4426,6 +4426,16 @@
             "tag": "#GRR2G9LP0",
             "th": 18,
             "pos": 15,
+            "ataques": [],
+            "def_estrelas": null,
+            "def_destr": null,
+            "defesas": []
+          },
+          {
+            "nome": "Darth Revan",
+            "tag": "#8R280VRCQ",
+            "th": 18,
+            "pos": 16,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
