@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T03:50:29.338881Z",
+  "atualizado": "2026-11-08T04:00:37.164520Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -793,7 +793,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 69.1,
+          "idx": 69.2,
           "idxb": 70.5,
           "amostra": 83,
           "mvp": 15,
@@ -839,6 +839,25 @@
           "zona": "—"
         },
         {
+          "n": "dvnly",
+          "tag": "#QR2JLQ2RR",
+          "th": 18,
+          "atk": 6,
+          "est": 15,
+          "spa": 2.5,
+          "conf": 100,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "seg": 1,
+          "idx": 67.1,
+          "idxb": 67.1,
+          "amostra": 100,
+          "mvp": 16,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
           "n": "Reikan",
           "tag": "#GJYRCJ0PR",
           "th": 18,
@@ -854,7 +873,7 @@
           "idxb": 67.4,
           "amostra": 83,
           "mvp": 16,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -873,7 +892,7 @@
           "idxb": 65.9,
           "amostra": 67,
           "mvp": 10,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -892,25 +911,6 @@
           "idxb": 65.9,
           "amostra": 67,
           "mvp": 10,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "dvnly",
-          "tag": "#QR2JLQ2RR",
-          "th": 18,
-          "atk": 5,
-          "est": 13,
-          "spa": 2.6,
-          "conf": 83,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "seg": 1,
-          "idx": 64.5,
-          "idxb": 64.9,
-          "amostra": 83,
-          "mvp": 14,
           "pos": 13,
           "zona": "—"
         },
