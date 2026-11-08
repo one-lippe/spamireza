@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T11:10:22.681654Z",
+  "atualizado": "2026-11-08T11:20:28.281569Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2982,7 +2982,7 @@
               "tag": "#22LUL8GV9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "NoBlitzz",
@@ -3120,7 +3120,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "Gerion",

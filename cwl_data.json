@@ -7759,9 +7759,9 @@
           "atk": 11
         },
         "eles": {
-          "est": 40,
-          "destr": 45.266666666666666,
-          "atk": 14
+          "est": 44,
+          "destr": 51.86666666666667,
+          "atk": 16
         },
         "membros": [
           {
@@ -7820,9 +7820,14 @@
             "th": 18,
             "pos": 7,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 99,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 99
+              }
+            ]
           },
           {
             "nome": "NoBlitzz",
@@ -8080,9 +8085,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 99,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 99
+              }
+            ]
           },
           {
             "nome": "Gerion",
@@ -8527,9 +8537,9 @@
         "atk": 11
       },
       "eles": {
-        "est": 40,
-        "destr": 45.266666666666666,
-        "atk": 14
+        "est": 44,
+        "destr": 51.86666666666667,
+        "atk": 16
       },
       "membros": [
         {
@@ -8588,9 +8598,14 @@
           "th": 18,
           "pos": 7,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 99,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 99
+            }
+          ]
         },
         {
           "nome": "NoBlitzz",
@@ -8848,9 +8863,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 99,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 99
+            }
+          ]
         },
         {
           "nome": "Gerion",
