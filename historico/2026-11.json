@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T16:50:40.556311Z",
+  "atualizado": "2026-11-08T17:00:54.876956Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -907,7 +907,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 64.9,
+          "idx": 65.0,
           "idxb": 65.9,
           "amostra": 67,
           "mvp": 10,
@@ -926,7 +926,7 @@
           "sof": 3.0,
           "ndef": 3,
           "seg": 0,
-          "idx": 64.9,
+          "idx": 65.0,
           "idxb": 65.9,
           "amostra": 67,
           "mvp": 10,
@@ -953,6 +953,25 @@
           "zona": "—"
         },
         {
+          "n": "♣️Dorindo Sena♣",
+          "tag": "#8Y9V2QQ82",
+          "th": 18,
+          "atk": 6,
+          "est": 12,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 5,
+          "seg": 4,
+          "idx": 63.5,
+          "idxb": 63.5,
+          "amostra": 100,
+          "mvp": 17,
+          "pos": 16,
+          "zona": "—"
+        },
+        {
           "n": "SR • JotaErre",
           "tag": "#GRUG8UQGV",
           "th": 16,
@@ -968,7 +987,7 @@
           "idxb": 63.0,
           "amostra": 100,
           "mvp": 14,
-          "pos": 16,
+          "pos": 17,
           "zona": "—"
         },
         {
@@ -987,7 +1006,7 @@
           "idxb": 63.0,
           "amostra": 100,
           "mvp": 14,
-          "pos": 17,
+          "pos": 18,
           "zona": "—"
         },
         {
@@ -1006,7 +1025,7 @@
           "idxb": 63.0,
           "amostra": 50,
           "mvp": 7,
-          "pos": 18,
+          "pos": 19,
           "zona": "—"
         },
         {
@@ -1025,7 +1044,7 @@
           "idxb": 62.8,
           "amostra": 83,
           "mvp": 14,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1044,7 +1063,7 @@
           "idxb": 62.4,
           "amostra": 67,
           "mvp": 11,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1062,25 +1081,6 @@
           "idx": 62.3,
           "idxb": 62.3,
           "amostra": 100,
-          "mvp": 15,
-          "pos": 21,
-          "zona": "—"
-        },
-        {
-          "n": "♣️Dorindo Sena♣",
-          "tag": "#8Y9V2QQ82",
-          "th": 18,
-          "atk": 5,
-          "est": 10,
-          "spa": 2.0,
-          "conf": 83,
-          "def": 33,
-          "sof": 2.0,
-          "ndef": 5,
-          "seg": 4,
-          "idx": 59.7,
-          "idxb": 59.7,
-          "amostra": 83,
           "mvp": 15,
           "pos": 22,
           "zona": "—"
