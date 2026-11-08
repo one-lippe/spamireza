@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T12:00:33.664541Z",
+  "atualizado": "2026-11-08T12:10:35.989324Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -629,7 +629,9 @@
               "nome": "SR - JON SNOW 2",
               "tag": "#9VV909C89",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -1456,7 +1458,9 @@
               "nome": "tozim",
               "tag": "#9G22U9U2Y",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {
@@ -1488,7 +1492,9 @@
               "nome": "SR • THIAGO",
               "tag": "#89G0YGUJY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
