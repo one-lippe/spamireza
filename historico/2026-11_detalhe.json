@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T22:30:41.891962Z",
+  "atualizado": "2026-11-08T22:40:29.243973Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -755,7 +755,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • JON SNOW",
@@ -778,7 +778,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • C∆iç∆r∆",
@@ -1671,7 +1671,9 @@
               "nome": "SR • Dog Crazy",
               "tag": "#9LPJP9YPQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
