@@ -1384,14 +1384,14 @@
         "inicio": "20261107T170431.000Z",
         "fim": "20261108T170431.000Z",
         "nos": {
-          "est": 20,
-          "destr": 45.53333333333333,
-          "atk": 7
+          "est": 23,
+          "destr": 52.2,
+          "atk": 8
         },
         "eles": {
-          "est": 38,
-          "destr": 87.73333333333333,
-          "atk": 14
+          "est": 41,
+          "destr": 94.4,
+          "atk": 15
         },
         "membros": [
           {
@@ -1399,7 +1399,12 @@
             "tag": "#8GGCQPYP",
             "th": 18,
             "pos": 1,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -1515,9 +1520,14 @@
             "th": 18,
             "pos": 9,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "MAJ0R FiV3",
@@ -1832,14 +1842,14 @@
       "inicio": "20261107T170431.000Z",
       "fim": "20261108T170431.000Z",
       "nos": {
-        "est": 20,
-        "destr": 45.53333333333333,
-        "atk": 7
+        "est": 23,
+        "destr": 52.2,
+        "atk": 8
       },
       "eles": {
-        "est": 38,
-        "destr": 87.73333333333333,
-        "atk": 14
+        "est": 41,
+        "destr": 94.4,
+        "atk": 15
       },
       "membros": [
         {
@@ -1847,7 +1857,12 @@
           "tag": "#8GGCQPYP",
           "th": 18,
           "pos": 1,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -1963,9 +1978,14 @@
           "th": 18,
           "pos": 9,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "MAJ0R FiV3",
