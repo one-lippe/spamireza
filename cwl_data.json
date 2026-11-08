@@ -1705,14 +1705,14 @@
         "inicio": "20261108T170437.000Z",
         "fim": "20261109T170437.000Z",
         "nos": {
-          "est": 17,
-          "destr": 39.4,
-          "atk": 6
+          "est": 20,
+          "destr": 46.06666666666667,
+          "atk": 7
         },
         "eles": {
-          "est": 9,
-          "destr": 20.0,
-          "atk": 3
+          "est": 12,
+          "destr": 26.666666666666668,
+          "atk": 4
         },
         "membros": [
           {
@@ -1736,9 +1736,14 @@
             "th": 18,
             "pos": 2,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Jan",
@@ -1880,7 +1885,12 @@
             "tag": "#90GRYGJVP",
             "th": 18,
             "pos": 15,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -2093,14 +2103,14 @@
       "inicio": "20261108T170437.000Z",
       "fim": "20261109T170437.000Z",
       "nos": {
-        "est": 17,
-        "destr": 39.4,
-        "atk": 6
+        "est": 20,
+        "destr": 46.06666666666667,
+        "atk": 7
       },
       "eles": {
-        "est": 9,
-        "destr": 20.0,
-        "atk": 3
+        "est": 12,
+        "destr": 26.666666666666668,
+        "atk": 4
       },
       "membros": [
         {
@@ -2124,9 +2134,14 @@
           "th": 18,
           "pos": 2,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Jan",
@@ -2268,7 +2283,12 @@
           "tag": "#90GRYGJVP",
           "th": 18,
           "pos": 15,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
