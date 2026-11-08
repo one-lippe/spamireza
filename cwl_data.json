@@ -1384,9 +1384,9 @@
         "inicio": "20261107T170431.000Z",
         "fim": "20261108T170431.000Z",
         "nos": {
-          "est": 23,
-          "destr": 52.2,
-          "atk": 8
+          "est": 26,
+          "destr": 58.86666666666667,
+          "atk": 9
         },
         "eles": {
           "est": 41,
@@ -1614,7 +1614,12 @@
             "tag": "#90GRYGJVP",
             "th": 18,
             "pos": 15,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -1842,9 +1847,9 @@
       "inicio": "20261107T170431.000Z",
       "fim": "20261108T170431.000Z",
       "nos": {
-        "est": 23,
-        "destr": 52.2,
-        "atk": 8
+        "est": 26,
+        "destr": 58.86666666666667,
+        "atk": 9
       },
       "eles": {
         "est": 41,
@@ -2072,7 +2077,12 @@
           "tag": "#90GRYGJVP",
           "th": 18,
           "pos": 15,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -7729,9 +7739,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 37,
-          "destr": 41.93333333333333,
-          "atk": 13
+          "est": 40,
+          "destr": 45.266666666666666,
+          "atk": 14
         },
         "membros": [
           {
@@ -7885,9 +7895,14 @@
             "th": 18,
             "pos": 15,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "BC NOELLE ✓",
@@ -8487,9 +8502,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 37,
-        "destr": 41.93333333333333,
-        "atk": 13
+        "est": 40,
+        "destr": 45.266666666666666,
+        "atk": 14
       },
       "membros": [
         {
@@ -8643,9 +8658,14 @@
           "th": 18,
           "pos": 15,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "BC NOELLE ✓",

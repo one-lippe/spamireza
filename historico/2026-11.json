@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T10:40:23.710947Z",
+  "atualizado": "2026-11-08T10:50:36.571839Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -103,6 +103,25 @@
           "zona": "—"
         },
         {
+          "n": "Levi_Neiva 2",
+          "tag": "#90GRYGJVP",
+          "th": 18,
+          "atk": 5,
+          "est": 15,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 5,
+          "seg": 0,
+          "idx": 83.2,
+          "idxb": 83.2,
+          "amostra": 100,
+          "mvp": 15,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
           "n": "matias?",
           "tag": "#RCQQUGC9",
           "th": 18,
@@ -118,7 +137,7 @@
           "idxb": 83.2,
           "amostra": 100,
           "mvp": 15,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -137,7 +156,7 @@
           "idxb": 82.2,
           "amostra": 100,
           "mvp": 16,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -152,35 +171,16 @@
           "sof": 2.6,
           "ndef": 5,
           "seg": 2,
-          "idx": 80.4,
+          "idx": 80.5,
           "idxb": 80.8,
           "amostra": 80,
           "mvp": 14,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
           "n": "SR • InTheDark☆",
           "tag": "#PQRRG2YCP",
-          "th": 18,
-          "atk": 4,
-          "est": 12,
-          "spa": 3.0,
-          "conf": 80,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 5,
-          "seg": 0,
-          "idx": 78.0,
-          "idxb": 78.0,
-          "amostra": 80,
-          "mvp": 12,
-          "pos": 9,
-          "zona": "—"
-        },
-        {
-          "n": "Levi_Neiva 2",
-          "tag": "#90GRYGJVP",
           "th": 18,
           "atk": 4,
           "est": 12,
@@ -751,12 +751,12 @@
           "est": 15,
           "spa": 3.0,
           "conf": 83,
-          "def": 7,
+          "def": 6,
           "sof": 2.8,
-          "ndef": 5,
+          "ndef": 6,
           "seg": 1,
-          "idx": 70.2,
-          "idxb": 71.8,
+          "idx": 70.1,
+          "idxb": 71.6,
           "amostra": 83,
           "mvp": 16,
           "pos": 5,
