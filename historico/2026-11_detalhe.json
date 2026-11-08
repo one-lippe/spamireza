@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T08:40:26.182382Z",
+  "atualizado": "2026-11-08T08:50:31.323990Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3103,7 +3103,7 @@
               "tag": "#GUCJQPVR9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ghostface",
