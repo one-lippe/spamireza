@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T23:00:42.372011Z",
+  "atualizado": "2026-11-08T23:10:31.391929Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -848,7 +848,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             }
           ]
         }
@@ -1775,7 +1775,9 @@
               "nome": "MAJ0R FiV3",
               "tag": "#QRJL0RGQR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1812,7 +1814,9 @@
               "nome": "Ligeirinh0xD",
               "tag": "#GRR2G9LP0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
