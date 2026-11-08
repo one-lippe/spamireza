@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T14:50:40.943407Z",
+  "atualizado": "2026-11-08T15:00:48.871092Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3015,7 +3015,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Reikan",
@@ -3033,7 +3033,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Samuel Soares",

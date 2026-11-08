@@ -7889,9 +7889,9 @@
           "atk": 15
         },
         "eles": {
-          "est": 60,
-          "destr": 71.2,
-          "atk": 22
+          "est": 66,
+          "destr": 77.86666666666666,
+          "atk": 24
         },
         "membros": [
           {
@@ -7985,9 +7985,14 @@
                 "destr": 83
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Reikan",
@@ -8020,9 +8025,14 @@
                 "destr": 92
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Samuel Soares",
@@ -8717,9 +8727,9 @@
         "atk": 15
       },
       "eles": {
-        "est": 60,
-        "destr": 71.2,
-        "atk": 22
+        "est": 66,
+        "destr": 77.86666666666666,
+        "atk": 24
       },
       "membros": [
         {
@@ -8813,9 +8823,14 @@
               "destr": 83
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Reikan",
@@ -8848,9 +8863,14 @@
               "destr": 92
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Samuel Soares",
