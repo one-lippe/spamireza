@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T07:20:33.840745Z",
+  "atualizado": "2026-11-08T07:30:28.341942Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2958,7 +2958,7 @@
               "tag": "#20UUPGPCV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "100%War_⚡Slash⚡",
@@ -3089,7 +3089,7 @@
               "tag": "#GY0Q0VRL0",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "PaulinhoPH",
