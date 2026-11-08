@@ -7874,14 +7874,14 @@
         "inicio": "20261108T000524.000Z",
         "fim": "20261109T000524.000Z",
         "nos": {
-          "est": 35,
-          "destr": 42.2,
-          "atk": 14
+          "est": 38,
+          "destr": 45.53333333333333,
+          "atk": 15
         },
         "eles": {
-          "est": 58,
-          "destr": 68.36666666666666,
-          "atk": 21
+          "est": 60,
+          "destr": 71.2,
+          "atk": 22
         },
         "membros": [
           {
@@ -7889,7 +7889,12 @@
             "tag": "#LLLU0VQCL",
             "th": 18,
             "pos": 1,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 95,
             "defesas": [
@@ -7985,9 +7990,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 85,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 85
+              }
+            ]
           },
           {
             "nome": "dvnly",
@@ -8692,14 +8702,14 @@
       "inicio": "20261108T000524.000Z",
       "fim": "20261109T000524.000Z",
       "nos": {
-        "est": 35,
-        "destr": 42.2,
-        "atk": 14
+        "est": 38,
+        "destr": 45.53333333333333,
+        "atk": 15
       },
       "eles": {
-        "est": 58,
-        "destr": 68.36666666666666,
-        "atk": 21
+        "est": 60,
+        "destr": 71.2,
+        "atk": 22
       },
       "membros": [
         {
@@ -8707,7 +8717,12 @@
           "tag": "#LLLU0VQCL",
           "th": 18,
           "pos": 1,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 95,
           "defesas": [
@@ -8803,9 +8818,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 85,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 85
+            }
+          ]
         },
         {
           "nome": "dvnly",
