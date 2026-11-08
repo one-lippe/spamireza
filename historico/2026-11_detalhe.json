@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T23:20:31.692982Z",
+  "atualizado": "2026-11-08T23:30:36.663667Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3332,7 +3332,9 @@
               "nome": "Sra Nunes",
               "tag": "#22JQULR22",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
