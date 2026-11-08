@@ -1384,9 +1384,9 @@
         "inicio": "20261107T170431.000Z",
         "fim": "20261108T170431.000Z",
         "nos": {
-          "est": 35,
-          "destr": 78.86666666666666,
-          "atk": 12
+          "est": 37,
+          "destr": 84.66666666666667,
+          "atk": 13
         },
         "eles": {
           "est": 41,
@@ -1439,7 +1439,12 @@
             "tag": "#PQRRG2YCP",
             "th": 18,
             "pos": 4,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 87
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -1862,9 +1867,9 @@
       "inicio": "20261107T170431.000Z",
       "fim": "20261108T170431.000Z",
       "nos": {
-        "est": 35,
-        "destr": 78.86666666666666,
-        "atk": 12
+        "est": 37,
+        "destr": 84.66666666666667,
+        "atk": 13
       },
       "eles": {
         "est": 41,
@@ -1917,7 +1922,12 @@
           "tag": "#PQRRG2YCP",
           "th": 18,
           "pos": 4,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 87
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -7829,9 +7839,9 @@
           "atk": 13
         },
         "eles": {
-          "est": 49,
-          "destr": 58.36666666666667,
-          "atk": 18
+          "est": 52,
+          "destr": 61.7,
+          "atk": 19
         },
         "membros": [
           {
@@ -8255,9 +8265,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Crypt Myers",
@@ -8627,9 +8642,9 @@
         "atk": 13
       },
       "eles": {
-        "est": 49,
-        "destr": 58.36666666666667,
-        "atk": 18
+        "est": 52,
+        "destr": 61.7,
+        "atk": 19
       },
       "membros": [
         {
@@ -9053,9 +9068,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Crypt Myers",

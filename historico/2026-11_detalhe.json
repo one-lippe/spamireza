@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T12:50:28.285250Z",
+  "atualizado": "2026-11-08T13:00:47.415110Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -606,7 +606,9 @@
               "nome": "SR • InTheDark☆",
               "tag": "#PQRRG2YCP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -3177,7 +3179,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Crypt Myers",
