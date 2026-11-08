@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T00:10:38.286531Z",
+  "atualizado": "2026-11-08T00:20:30.843956Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1429,7 +1429,7 @@
               "tag": "#PJ0YJLGJ",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SrNunes",
@@ -1452,7 +1452,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30",
@@ -3091,7 +3091,9 @@
               "nome": "Ghostface",
               "tag": "#QQUC9JQ9R",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
