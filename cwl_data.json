@@ -7754,9 +7754,9 @@
         "inicio": "20261108T000524.000Z",
         "fim": "20261109T000524.000Z",
         "nos": {
-          "est": 26,
-          "destr": 32.2,
-          "atk": 11
+          "est": 29,
+          "destr": 35.53333333333333,
+          "atk": 12
         },
         "eles": {
           "est": 44,
@@ -7849,7 +7849,12 @@
             "tag": "#GJYRCJ0PR",
             "th": 18,
             "pos": 9,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -8532,9 +8537,9 @@
       "inicio": "20261108T000524.000Z",
       "fim": "20261109T000524.000Z",
       "nos": {
-        "est": 26,
-        "destr": 32.2,
-        "atk": 11
+        "est": 29,
+        "destr": 35.53333333333333,
+        "atk": 12
       },
       "eles": {
         "est": 44,
@@ -8627,7 +8632,12 @@
           "tag": "#GJYRCJ0PR",
           "th": 18,
           "pos": 9,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []

@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T11:20:28.280186Z",
+  "atualizado": "2026-11-08T11:30:33.346883Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -744,6 +744,25 @@
           "zona": "—"
         },
         {
+          "n": "Reikan",
+          "tag": "#GJYRCJ0PR",
+          "th": 18,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 100,
+          "def": 20,
+          "sof": 2.4,
+          "ndef": 5,
+          "seg": 3,
+          "idx": 72.4,
+          "idxb": 72.4,
+          "amostra": 100,
+          "mvp": 19,
+          "pos": 5,
+          "zona": "—"
+        },
+        {
           "n": "Sra Nunes",
           "tag": "#22JQULR22",
           "th": 18,
@@ -759,7 +778,7 @@
           "idxb": 71.6,
           "amostra": 83,
           "mvp": 16,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -778,7 +797,7 @@
           "idxb": 70.0,
           "amostra": 100,
           "mvp": 17,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
@@ -797,7 +816,7 @@
           "idxb": 70.5,
           "amostra": 83,
           "mvp": 15,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -816,7 +835,7 @@
           "idxb": 68.7,
           "amostra": 100,
           "mvp": 16,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -835,7 +854,7 @@
           "idxb": 68.4,
           "amostra": 83,
           "mvp": 15,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -854,25 +873,6 @@
           "idxb": 67.1,
           "amostra": 100,
           "mvp": 16,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "Reikan",
-          "tag": "#GJYRCJ0PR",
-          "th": 18,
-          "atk": 5,
-          "est": 13,
-          "spa": 2.6,
-          "conf": 83,
-          "def": 20,
-          "sof": 2.4,
-          "ndef": 5,
-          "seg": 3,
-          "idx": 66.6,
-          "idxb": 67.4,
-          "amostra": 83,
-          "mvp": 16,
           "pos": 11,
           "zona": "—"
         },
@@ -888,7 +888,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 64.7,
+          "idx": 64.8,
           "idxb": 65.9,
           "amostra": 67,
           "mvp": 10,
@@ -907,7 +907,7 @@
           "sof": 3.0,
           "ndef": 3,
           "seg": 0,
-          "idx": 64.7,
+          "idx": 64.8,
           "idxb": 65.9,
           "amostra": 67,
           "mvp": 10,
@@ -972,6 +972,44 @@
           "zona": "—"
         },
         {
+          "n": "PaulinhoPH",
+          "tag": "#GVLGQ098",
+          "th": 17,
+          "atk": 5,
+          "est": 12,
+          "spa": 2.4,
+          "conf": 83,
+          "def": 13,
+          "sof": 2.6,
+          "ndef": 5,
+          "seg": 2,
+          "idx": 62.8,
+          "idxb": 62.8,
+          "amostra": 83,
+          "mvp": 14,
+          "pos": 17,
+          "zona": "—"
+        },
+        {
+          "n": "Ligeirinh2xD",
+          "tag": "#GCC98R22R",
+          "th": 16,
+          "atk": 3,
+          "est": 7,
+          "spa": 2.33,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "seg": 0,
+          "idx": 62.8,
+          "idxb": 63.0,
+          "amostra": 50,
+          "mvp": 7,
+          "pos": 18,
+          "zona": "—"
+        },
+        {
           "n": "NoBlitzz",
           "tag": "#9RJGGUY9R",
           "th": 18,
@@ -987,44 +1025,6 @@
           "idxb": 62.7,
           "amostra": 100,
           "mvp": 15,
-          "pos": 17,
-          "zona": "—"
-        },
-        {
-          "n": "PaulinhoPH",
-          "tag": "#GVLGQ098",
-          "th": 17,
-          "atk": 5,
-          "est": 12,
-          "spa": 2.4,
-          "conf": 83,
-          "def": 13,
-          "sof": 2.6,
-          "ndef": 5,
-          "seg": 2,
-          "idx": 62.7,
-          "idxb": 62.8,
-          "amostra": 83,
-          "mvp": 14,
-          "pos": 18,
-          "zona": "—"
-        },
-        {
-          "n": "Ligeirinh2xD",
-          "tag": "#GCC98R22R",
-          "th": 16,
-          "atk": 3,
-          "est": 7,
-          "spa": 2.33,
-          "conf": 100,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
-          "seg": 0,
-          "idx": 62.7,
-          "idxb": 63.0,
-          "amostra": 50,
-          "mvp": 7,
           "pos": 19,
           "zona": "—"
         },
