@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T01:30:38.343829Z",
+  "atualizado": "2026-11-08T01:40:37.991293Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -685,7 +685,7 @@
               "tag": "#90GRYGJVP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "matias?",
@@ -1522,7 +1522,9 @@
               "nome": "SR • DuM∆R",
               "tag": "#YQRJL098P",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -3115,7 +3117,9 @@
               "nome": "SR • JotaErre",
               "tag": "#GRUG8UQGV",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
