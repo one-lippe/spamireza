@@ -3884,9 +3884,9 @@
         "inicio": "20261107T225410.000Z",
         "fim": "20261108T225410.000Z",
         "nos": {
-          "est": 26,
-          "destr": 65.26666666666667,
-          "atk": 10
+          "est": 32,
+          "destr": 78.6,
+          "atk": 12
         },
         "eles": {
           "est": 13,
@@ -4014,7 +4014,12 @@
             "tag": "#LJRPJ9PC0",
             "th": 18,
             "pos": 9,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -4064,7 +4069,12 @@
             "tag": "#2YGJQG22G",
             "th": 18,
             "pos": 13,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 81,
             "defesas": [
@@ -4302,9 +4312,9 @@
       "inicio": "20261107T225410.000Z",
       "fim": "20261108T225410.000Z",
       "nos": {
-        "est": 26,
-        "destr": 65.26666666666667,
-        "atk": 10
+        "est": 32,
+        "destr": 78.6,
+        "atk": 12
       },
       "eles": {
         "est": 13,
@@ -4432,7 +4442,12 @@
           "tag": "#LJRPJ9PC0",
           "th": 18,
           "pos": 9,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -4482,7 +4497,12 @@
           "tag": "#2YGJQG22G",
           "th": 18,
           "pos": 13,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 81,
           "defesas": [
@@ -7854,14 +7874,14 @@
         "inicio": "20261108T000524.000Z",
         "fim": "20261109T000524.000Z",
         "nos": {
-          "est": 32,
-          "destr": 38.86666666666667,
-          "atk": 13
+          "est": 35,
+          "destr": 42.2,
+          "atk": 14
         },
         "eles": {
-          "est": 52,
-          "destr": 61.7,
-          "atk": 19
+          "est": 58,
+          "destr": 68.36666666666666,
+          "atk": 21
         },
         "membros": [
           {
@@ -8010,9 +8030,14 @@
                 "destr": 87
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•InTheDark II",
@@ -8240,16 +8265,26 @@
                 "destr": 80
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "GSAzevedo30 #2",
             "tag": "#29882J2L2",
             "th": 16,
             "pos": 33,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -8657,14 +8692,14 @@
       "inicio": "20261108T000524.000Z",
       "fim": "20261109T000524.000Z",
       "nos": {
-        "est": 32,
-        "destr": 38.86666666666667,
-        "atk": 13
+        "est": 35,
+        "destr": 42.2,
+        "atk": 14
       },
       "eles": {
-        "est": 52,
-        "destr": 61.7,
-        "atk": 19
+        "est": 58,
+        "destr": 68.36666666666666,
+        "atk": 21
       },
       "membros": [
         {
@@ -8813,9 +8848,14 @@
               "destr": 87
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•InTheDark II",
@@ -9043,16 +9083,26 @@
               "destr": 80
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "GSAzevedo30 #2",
           "tag": "#29882J2L2",
           "th": 16,
           "pos": 33,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [

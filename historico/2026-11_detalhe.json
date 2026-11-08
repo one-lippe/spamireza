@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T13:30:35.798340Z",
+  "atualizado": "2026-11-08T13:40:30.444201Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1509,7 +1509,9 @@
               "nome": "Monesy9",
               "tag": "#LJRPJ9PC0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -1539,7 +1541,9 @@
               "nome": "Monesy",
               "tag": "#2YGJQG22G",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
@@ -3043,7 +3047,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•InTheDark II",
@@ -3158,13 +3162,15 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30 #2",
               "tag": "#29882J2L2",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
