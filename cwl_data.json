@@ -3889,9 +3889,9 @@
           "atk": 12
         },
         "eles": {
-          "est": 13,
-          "destr": 31.133333333333333,
-          "atk": 5
+          "est": 15,
+          "destr": 36.6,
+          "atk": 6
         },
         "membros": [
           {
@@ -4035,9 +4035,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 82,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 82
+              }
+            ]
           },
           {
             "nome": "TomorrowBr",
@@ -4317,9 +4322,9 @@
         "atk": 12
       },
       "eles": {
-        "est": 13,
-        "destr": 31.133333333333333,
-        "atk": 5
+        "est": 15,
+        "destr": 36.6,
+        "atk": 6
       },
       "membros": [
         {
@@ -4463,9 +4468,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 82,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 82
+            }
+          ]
         },
         {
           "nome": "TomorrowBr",

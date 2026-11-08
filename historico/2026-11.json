@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T14:40:38.097956Z",
+  "atualizado": "2026-11-08T14:50:40.940971Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -528,6 +528,25 @@
           "zona": "—"
         },
         {
+          "n": "MAJ0R FiV3",
+          "tag": "#QRJL0RGQR",
+          "th": 18,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 6,
+          "seg": 2,
+          "idx": 71.5,
+          "idxb": 71.5,
+          "amostra": 100,
+          "mvp": 18,
+          "pos": 11,
+          "zona": "—"
+        },
+        {
           "n": "Darth Revan",
           "tag": "#8R280VRCQ",
           "th": 18,
@@ -543,25 +562,6 @@
           "idxb": 70.9,
           "amostra": 67,
           "mvp": 11,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "MAJ0R FiV3",
-          "tag": "#QRJL0RGQR",
-          "th": 18,
-          "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 100,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "seg": 1,
-          "idx": 70.7,
-          "idxb": 70.7,
-          "amostra": 100,
-          "mvp": 17,
           "pos": 12,
           "zona": "—"
         },
