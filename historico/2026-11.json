@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T17:40:40.375217Z",
+  "atualizado": "2026-11-08T17:50:38.628883Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -103,6 +103,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • Neskau",
+          "tag": "#P8GLGPRP",
+          "th": 18,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 5,
+          "seg": 0,
+          "idx": 80.0,
+          "idxb": 80.0,
+          "amostra": 100,
+          "mvp": 17,
+          "pos": 6,
+          "zona": "—"
+        },
+        {
           "n": "SR • InTheDark☆",
           "tag": "#PQRRG2YCP",
           "th": 18,
@@ -118,31 +137,12 @@
           "idxb": 79.4,
           "amostra": 83,
           "mvp": 14,
-          "pos": 6,
+          "pos": 7,
           "zona": "—"
         },
         {
           "n": "Coyote 171 × 戦備",
           "tag": "#Y08CR0PQU",
-          "th": 18,
-          "atk": 5,
-          "est": 15,
-          "spa": 3.0,
-          "conf": 83,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 5,
-          "seg": 0,
-          "idx": 78.7,
-          "idxb": 78.9,
-          "amostra": 83,
-          "mvp": 15,
-          "pos": 7,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Neskau",
-          "tag": "#P8GLGPRP",
           "th": 18,
           "atk": 5,
           "est": 15,
@@ -793,7 +793,7 @@
           "sof": 2.8,
           "ndef": 6,
           "seg": 1,
-          "idx": 70.2,
+          "idx": 70.1,
           "idxb": 71.6,
           "amostra": 83,
           "mvp": 16,
@@ -850,7 +850,7 @@
           "sof": 3.0,
           "ndef": 5,
           "seg": 0,
-          "idx": 69.3,
+          "idx": 69.2,
           "idxb": 70.5,
           "amostra": 83,
           "mvp": 15,
@@ -926,7 +926,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 65.0,
+          "idx": 64.9,
           "idxb": 65.9,
           "amostra": 67,
           "mvp": 10,
@@ -945,7 +945,7 @@
           "sof": 3.0,
           "ndef": 3,
           "seg": 0,
-          "idx": 65.0,
+          "idx": 64.9,
           "idxb": 65.9,
           "amostra": 67,
           "mvp": 10,
@@ -1002,7 +1002,7 @@
           "sof": 3.0,
           "ndef": 3,
           "seg": 0,
-          "idx": 63.0,
+          "idx": 62.9,
           "idxb": 63.0,
           "amostra": 50,
           "mvp": 7,
@@ -1086,6 +1086,25 @@
           "zona": "—"
         },
         {
+          "n": "Líder André 3",
+          "tag": "#GY0Q0VRL0",
+          "th": 17,
+          "atk": 5,
+          "est": 10,
+          "spa": 2.0,
+          "conf": 100,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "seg": 1,
+          "idx": 58.6,
+          "idxb": 58.6,
+          "amostra": 83,
+          "mvp": 11,
+          "pos": 23,
+          "zona": "—"
+        },
+        {
           "n": "LSWRTH",
           "tag": "#YVU0L88P",
           "th": 18,
@@ -1101,7 +1120,7 @@
           "idxb": 57.9,
           "amostra": 50,
           "mvp": 8,
-          "pos": 23,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -1120,7 +1139,7 @@
           "idxb": 57.9,
           "amostra": 83,
           "mvp": 12,
-          "pos": 24,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -1139,7 +1158,7 @@
           "idxb": 57.4,
           "amostra": 50,
           "mvp": 6,
-          "pos": 25,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -1158,7 +1177,7 @@
           "idxb": 55.9,
           "amostra": 67,
           "mvp": 13,
-          "pos": 26,
+          "pos": 27,
           "zona": "—"
         },
         {
@@ -1177,25 +1196,6 @@
           "idxb": 55.5,
           "amostra": 83,
           "mvp": 12,
-          "pos": 27,
-          "zona": "—"
-        },
-        {
-          "n": "Líder André 3",
-          "tag": "#GY0Q0VRL0",
-          "th": 17,
-          "atk": 4,
-          "est": 8,
-          "spa": 2.0,
-          "conf": 80,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "seg": 1,
-          "idx": 53.9,
-          "idxb": 53.9,
-          "amostra": 67,
-          "mvp": 9,
           "pos": 28,
           "zona": "—"
         },
@@ -1276,6 +1276,25 @@
           "zona": "—"
         },
         {
+          "n": "SR•InTheDarkIV",
+          "tag": "#R0GLQC0GV",
+          "th": 13,
+          "atk": 3,
+          "est": 4,
+          "spa": 1.33,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 1,
+          "seg": 0,
+          "idx": 46.0,
+          "idxb": 46.0,
+          "amostra": 50,
+          "mvp": 4,
+          "pos": 33,
+          "zona": "—"
+        },
+        {
           "n": "rei do crime",
           "tag": "#RP8VCCUV",
           "th": 18,
@@ -1291,7 +1310,7 @@
           "idxb": 45.7,
           "amostra": 17,
           "mvp": 2,
-          "pos": 33,
+          "pos": 34,
           "zona": "—"
         },
         {
@@ -1310,8 +1329,8 @@
           "idxb": 45.3,
           "amostra": 67,
           "mvp": 7,
-          "pos": 34,
-          "zona": "—"
+          "pos": 35,
+          "zona": "rebx"
         },
         {
           "n": "digon",
@@ -1324,25 +1343,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 3,
-          "seg": 0,
-          "idx": 41.1,
-          "idxb": 41.1,
-          "amostra": 33,
-          "mvp": 3,
-          "pos": 35,
-          "zona": "—"
-        },
-        {
-          "n": "SR•InTheDarkIV",
-          "tag": "#R0GLQC0GV",
-          "th": 13,
-          "atk": 2,
-          "est": 3,
-          "spa": 1.5,
-          "conf": 67,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 1,
           "seg": 0,
           "idx": 41.1,
           "idxb": 41.1,

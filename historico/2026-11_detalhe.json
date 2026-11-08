@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T17:40:40.377151Z",
+  "atualizado": "2026-11-08T17:50:38.631369Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -807,7 +807,9 @@
               "nome": "SR • Neskau",
               "tag": "#P8GLGPRP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
@@ -3257,7 +3259,9 @@
               "nome": "Líder André 3",
               "tag": "#GY0Q0VRL0",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -3339,7 +3343,9 @@
               "nome": "SR•InTheDarkIV",
               "tag": "#R0GLQC0GV",
               "th": 13,
-              "atk": [],
+              "atk": [
+                1
+              ],
               "def_est": null
             }
           ]
