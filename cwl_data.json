@@ -7729,9 +7729,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 25,
-          "destr": 28.6,
-          "atk": 9
+          "est": 31,
+          "destr": 35.266666666666666,
+          "atk": 11
         },
         "membros": [
           {
@@ -7840,9 +7840,14 @@
             "th": 18,
             "pos": 11,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "♣DnF◆",
@@ -7980,9 +7985,14 @@
             "th": 18,
             "pos": 24,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Líder André 3",
@@ -8467,9 +8477,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 25,
-        "destr": 28.6,
-        "atk": 9
+        "est": 31,
+        "destr": 35.266666666666666,
+        "atk": 11
       },
       "membros": [
         {
@@ -8578,9 +8588,14 @@
           "th": 18,
           "pos": 11,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "♣DnF◆",
@@ -8718,9 +8733,14 @@
           "th": 18,
           "pos": 24,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Líder André 3",
