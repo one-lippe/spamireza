@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T00:50:30.439074Z",
+  "atualizado": "2026-11-08T01:00:50.299931Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -664,14 +664,18 @@
               "nome": "Nesk",
               "tag": "#99220V0Q8",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
               "nome": "SR • Neskau",
               "tag": "#P8GLGPRP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3035,7 +3039,9 @@
               "nome": "SR • The off",
               "tag": "#YJ2JLPQGR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
