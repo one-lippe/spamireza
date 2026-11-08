@@ -3834,9 +3834,9 @@
         "inicio": "20261107T225410.000Z",
         "fim": "20261108T225410.000Z",
         "nos": {
-          "est": 11,
-          "destr": 26.133333333333333,
-          "atk": 4
+          "est": 14,
+          "destr": 32.8,
+          "atk": 5
         },
         "eles": {
           "est": 11,
@@ -4029,7 +4029,12 @@
             "tag": "#YCRJU229",
             "th": 18,
             "pos": 17,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -4217,9 +4222,9 @@
       "inicio": "20261107T225410.000Z",
       "fim": "20261108T225410.000Z",
       "nos": {
-        "est": 11,
-        "destr": 26.133333333333333,
-        "atk": 4
+        "est": 14,
+        "destr": 32.8,
+        "atk": 5
       },
       "eles": {
         "est": 11,
@@ -4412,7 +4417,12 @@
           "tag": "#YCRJU229",
           "th": 18,
           "pos": 17,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -7734,9 +7744,9 @@
         "inicio": "20261108T000524.000Z",
         "fim": "20261109T000524.000Z",
         "nos": {
-          "est": 23,
-          "destr": 28.866666666666667,
-          "atk": 10
+          "est": 26,
+          "destr": 32.2,
+          "atk": 11
         },
         "eles": {
           "est": 40,
@@ -8129,7 +8139,12 @@
             "tag": "#GCC98R22R",
             "th": 16,
             "pos": 35,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -8497,9 +8512,9 @@
       "inicio": "20261108T000524.000Z",
       "fim": "20261109T000524.000Z",
       "nos": {
-        "est": 23,
-        "destr": 28.866666666666667,
-        "atk": 10
+        "est": 26,
+        "destr": 32.2,
+        "atk": 11
       },
       "eles": {
         "est": 40,
@@ -8892,7 +8907,12 @@
           "tag": "#GCC98R22R",
           "th": 16,
           "pos": 35,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []

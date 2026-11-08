@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T10:50:36.574210Z",
+  "atualizado": "2026-11-08T11:00:41.166844Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1544,7 +1544,9 @@
               "nome": "SR • Nesquick",
               "tag": "#YCRJU229",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             }
           ]
@@ -3154,7 +3156,9 @@
               "nome": "Ligeirinh2xD",
               "tag": "#GCC98R22R",
               "th": 16,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {

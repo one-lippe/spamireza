@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T10:50:36.571839Z",
+  "atualizado": "2026-11-08T11:00:41.164766Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -387,7 +387,7 @@
           "sof": 2.6,
           "ndef": 5,
           "seg": 1,
-          "idx": 73.1,
+          "idx": 73.2,
           "idxb": 73.8,
           "amostra": 83,
           "mvp": 17,
@@ -406,7 +406,7 @@
           "sof": 2.8,
           "ndef": 5,
           "seg": 1,
-          "idx": 72.0,
+          "idx": 72.1,
           "idxb": 72.5,
           "amostra": 83,
           "mvp": 16,
@@ -425,7 +425,7 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 71.9,
+          "idx": 72.0,
           "idxb": 73.0,
           "amostra": 67,
           "mvp": 12,
@@ -444,7 +444,7 @@
           "sof": 2.8,
           "ndef": 6,
           "seg": 1,
-          "idx": 71.8,
+          "idx": 71.9,
           "idxb": 72.3,
           "amostra": 83,
           "mvp": 16,
@@ -482,7 +482,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 70.5,
+          "idx": 70.6,
           "idxb": 70.9,
           "amostra": 67,
           "mvp": 11,
@@ -520,7 +520,7 @@
           "sof": 2.4,
           "ndef": 5,
           "seg": 3,
-          "idx": 69.9,
+          "idx": 70.0,
           "idxb": 70.0,
           "amostra": 67,
           "mvp": 14,
@@ -604,6 +604,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • Nesquick",
+          "tag": "#YCRJU229",
+          "th": 18,
+          "atk": 5,
+          "est": 13,
+          "spa": 2.6,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 4,
+          "seg": 0,
+          "idx": 68.3,
+          "idxb": 68.3,
+          "amostra": 83,
+          "mvp": 13,
+          "pos": 15,
+          "zona": "—"
+        },
+        {
           "n": "Monesy9",
           "tag": "#LJRPJ9PC0",
           "th": 18,
@@ -619,25 +638,6 @@
           "idxb": 66.9,
           "amostra": 83,
           "mvp": 15,
-          "pos": 15,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Nesquick",
-          "tag": "#YCRJU229",
-          "th": 18,
-          "atk": 4,
-          "est": 10,
-          "spa": 2.5,
-          "conf": 80,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
-          "seg": 0,
-          "idx": 61.9,
-          "idxb": 61.9,
-          "amostra": 67,
-          "mvp": 10,
           "pos": 16,
           "zona": "rebx"
         },
@@ -1010,6 +1010,25 @@
           "zona": "—"
         },
         {
+          "n": "Ligeirinh2xD",
+          "tag": "#GCC98R22R",
+          "th": 16,
+          "atk": 3,
+          "est": 7,
+          "spa": 2.33,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 2,
+          "seg": 0,
+          "idx": 62.7,
+          "idxb": 63.0,
+          "amostra": 50,
+          "mvp": 7,
+          "pos": 19,
+          "zona": "—"
+        },
+        {
           "n": "qvnly",
           "tag": "#GUCJQPVR9",
           "th": 18,
@@ -1025,7 +1044,7 @@
           "idxb": 62.4,
           "amostra": 67,
           "mvp": 11,
-          "pos": 19,
+          "pos": 20,
           "zona": "—"
         },
         {
@@ -1044,7 +1063,7 @@
           "idxb": 59.7,
           "amostra": 83,
           "mvp": 15,
-          "pos": 20,
+          "pos": 21,
           "zona": "—"
         },
         {
@@ -1063,7 +1082,7 @@
           "idxb": 57.9,
           "amostra": 50,
           "mvp": 8,
-          "pos": 21,
+          "pos": 22,
           "zona": "—"
         },
         {
@@ -1082,7 +1101,7 @@
           "idxb": 57.9,
           "amostra": 83,
           "mvp": 12,
-          "pos": 22,
+          "pos": 23,
           "zona": "—"
         },
         {
@@ -1101,7 +1120,7 @@
           "idxb": 56.9,
           "amostra": 83,
           "mvp": 11,
-          "pos": 23,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -1120,7 +1139,7 @@
           "idxb": 55.9,
           "amostra": 67,
           "mvp": 13,
-          "pos": 24,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -1139,7 +1158,7 @@
           "idxb": 55.5,
           "amostra": 83,
           "mvp": 12,
-          "pos": 25,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -1158,7 +1177,7 @@
           "idxb": 53.9,
           "amostra": 67,
           "mvp": 9,
-          "pos": 26,
+          "pos": 27,
           "zona": "—"
         },
         {
@@ -1177,7 +1196,7 @@
           "idxb": 53.7,
           "amostra": 50,
           "mvp": 6,
-          "pos": 27,
+          "pos": 28,
           "zona": "—"
         },
         {
@@ -1196,7 +1215,7 @@
           "idxb": 51.5,
           "amostra": 50,
           "mvp": 6,
-          "pos": 28,
+          "pos": 29,
           "zona": "—"
         },
         {
@@ -1210,25 +1229,6 @@
           "def": 0,
           "sof": 3.0,
           "ndef": 3,
-          "seg": 0,
-          "idx": 49.6,
-          "idxb": 49.6,
-          "amostra": 33,
-          "mvp": 4,
-          "pos": 29,
-          "zona": "—"
-        },
-        {
-          "n": "Ligeirinh2xD",
-          "tag": "#GCC98R22R",
-          "th": 16,
-          "atk": 2,
-          "est": 4,
-          "spa": 2.0,
-          "conf": 67,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 2,
           "seg": 0,
           "idx": 49.6,
           "idxb": 49.6,
