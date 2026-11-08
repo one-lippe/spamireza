@@ -1384,9 +1384,9 @@
         "inicio": "20261107T170431.000Z",
         "fim": "20261108T170431.000Z",
         "nos": {
-          "est": 32,
-          "destr": 72.2,
-          "atk": 11
+          "est": 35,
+          "destr": 78.86666666666666,
+          "atk": 12
         },
         "eles": {
           "est": 41,
@@ -1454,7 +1454,12 @@
             "tag": "#YJ9R2GPJG",
             "th": 18,
             "pos": 5,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 2,
             "def_destr": 93,
             "defesas": [
@@ -1857,9 +1862,9 @@
       "inicio": "20261107T170431.000Z",
       "fim": "20261108T170431.000Z",
       "nos": {
-        "est": 32,
-        "destr": 72.2,
-        "atk": 11
+        "est": 35,
+        "destr": 78.86666666666666,
+        "atk": 12
       },
       "eles": {
         "est": 41,
@@ -1927,7 +1932,12 @@
           "tag": "#YJ9R2GPJG",
           "th": 18,
           "pos": 5,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 2,
           "def_destr": 93,
           "defesas": [
@@ -7814,9 +7824,9 @@
         "inicio": "20261108T000524.000Z",
         "fim": "20261109T000524.000Z",
         "nos": {
-          "est": 29,
-          "destr": 35.53333333333333,
-          "atk": 12
+          "est": 32,
+          "destr": 38.86666666666667,
+          "atk": 13
         },
         "eles": {
           "est": 49,
@@ -8074,7 +8084,12 @@
             "tag": "#2PLQG8UQU",
             "th": 18,
             "pos": 22,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -8607,9 +8622,9 @@
       "inicio": "20261108T000524.000Z",
       "fim": "20261109T000524.000Z",
       "nos": {
-        "est": 29,
-        "destr": 35.53333333333333,
-        "atk": 12
+        "est": 32,
+        "destr": 38.86666666666667,
+        "atk": 13
       },
       "eles": {
         "est": 49,
@@ -8867,7 +8882,12 @@
           "tag": "#2PLQG8UQU",
           "th": 18,
           "pos": 22,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
