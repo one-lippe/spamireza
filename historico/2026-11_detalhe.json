@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T03:20:33.647099Z",
+  "atualizado": "2026-11-08T03:30:31.777678Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1502,7 +1502,7 @@
               "tag": "#YPJLVPL9U",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Dog Crazy",
