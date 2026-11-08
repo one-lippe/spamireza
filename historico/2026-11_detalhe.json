@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T18:50:29.819140Z",
+  "atualizado": "2026-11-08T19:00:39.391128Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3120,7 +3120,9 @@
               "nome": "Lider Andre",
               "tag": "#20UUPGPCV",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 2
             },
             {

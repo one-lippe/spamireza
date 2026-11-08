@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T18:50:29.817120Z",
+  "atualizado": "2026-11-08T19:00:39.388614Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -850,7 +850,7 @@
           "sof": 3.0,
           "ndef": 5,
           "seg": 0,
-          "idx": 69.2,
+          "idx": 69.3,
           "idxb": 70.5,
           "amostra": 83,
           "mvp": 15,
@@ -926,7 +926,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 64.9,
+          "idx": 65.0,
           "idxb": 65.9,
           "amostra": 67,
           "mvp": 10,
@@ -945,7 +945,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 64.9,
+          "idx": 65.0,
           "idxb": 65.9,
           "amostra": 67,
           "mvp": 10,
@@ -1086,6 +1086,25 @@
           "zona": "—"
         },
         {
+          "n": "Lider Andre",
+          "tag": "#20UUPGPCV",
+          "th": 18,
+          "atk": 5,
+          "est": 9,
+          "spa": 1.8,
+          "conf": 100,
+          "def": 40,
+          "sof": 1.8,
+          "ndef": 5,
+          "seg": 4,
+          "idx": 61.4,
+          "idxb": 61.4,
+          "amostra": 83,
+          "mvp": 15,
+          "pos": 23,
+          "zona": "—"
+        },
+        {
           "n": "Lider André 2",
           "tag": "#L9GRLYGVQ",
           "th": 18,
@@ -1101,7 +1120,7 @@
           "idxb": 59.4,
           "amostra": 100,
           "mvp": 14,
-          "pos": 23,
+          "pos": 24,
           "zona": "—"
         },
         {
@@ -1120,7 +1139,7 @@
           "idxb": 58.6,
           "amostra": 83,
           "mvp": 11,
-          "pos": 24,
+          "pos": 25,
           "zona": "—"
         },
         {
@@ -1139,7 +1158,7 @@
           "idxb": 57.9,
           "amostra": 50,
           "mvp": 8,
-          "pos": 25,
+          "pos": 26,
           "zona": "—"
         },
         {
@@ -1158,7 +1177,7 @@
           "idxb": 57.9,
           "amostra": 83,
           "mvp": 12,
-          "pos": 26,
+          "pos": 27,
           "zona": "—"
         },
         {
@@ -1177,25 +1196,6 @@
           "idxb": 57.4,
           "amostra": 50,
           "mvp": 6,
-          "pos": 27,
-          "zona": "—"
-        },
-        {
-          "n": "Lider Andre",
-          "tag": "#20UUPGPCV",
-          "th": 18,
-          "atk": 4,
-          "est": 7,
-          "spa": 1.75,
-          "conf": 80,
-          "def": 40,
-          "sof": 1.8,
-          "ndef": 5,
-          "seg": 4,
-          "idx": 55.9,
-          "idxb": 55.9,
-          "amostra": 67,
-          "mvp": 13,
           "pos": 28,
           "zona": "—"
         },
