@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T10:10:27.691541Z",
+  "atualizado": "2026-11-08T10:20:30.770343Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3137,7 +3137,7 @@
               "tag": "#29882J2L2",
               "th": 16,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "JigSaw",
@@ -3162,7 +3162,7 @@
               "atk": [
                 1
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR•InTheDarkIV",
