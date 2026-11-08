@@ -1384,9 +1384,9 @@
         "inicio": "20261107T170431.000Z",
         "fim": "20261108T170431.000Z",
         "nos": {
-          "est": 39,
-          "destr": 91.13333333333334,
-          "atk": 14
+          "est": 42,
+          "destr": 97.8,
+          "atk": 15
         },
         "eles": {
           "est": 41,
@@ -1679,7 +1679,12 @@
             "tag": "#LUJ9CRJQG",
             "th": 18,
             "pos": 17,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 1,
             "def_destr": 65,
             "defesas": [
@@ -1721,20 +1726,20 @@
             "defesas": []
           },
           {
-            "nome": "Jan",
-            "tag": "#2899CRJG",
+            "nome": "Henrique Nerath",
+            "tag": "#2U8P0YQ92",
             "th": 18,
-            "pos": 3,
+            "pos": 2,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
           },
           {
-            "nome": "SR • InTheDark☆",
-            "tag": "#PQRRG2YCP",
+            "nome": "Jan",
+            "tag": "#2899CRJG",
             "th": 18,
-            "pos": 4,
+            "pos": 3,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -1811,20 +1816,20 @@
             "defesas": []
           },
           {
-            "nome": "Nesk",
-            "tag": "#99220V0Q8",
+            "nome": "SR • Neskau",
+            "tag": "#P8GLGPRP",
             "th": 18,
-            "pos": 12,
+            "pos": 13,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
           },
           {
-            "nome": "SR • Neskau",
-            "tag": "#P8GLGPRP",
+            "nome": "☆VILA DO PX ツ",
+            "tag": "#8PUL8JPC",
             "th": 18,
-            "pos": 13,
+            "pos": 14,
             "ataques": [],
             "def_estrelas": null,
             "def_destr": null,
@@ -1872,9 +1877,9 @@
       "inicio": "20261107T170431.000Z",
       "fim": "20261108T170431.000Z",
       "nos": {
-        "est": 39,
-        "destr": 91.13333333333334,
-        "atk": 14
+        "est": 42,
+        "destr": 97.8,
+        "atk": 15
       },
       "eles": {
         "est": 41,
@@ -2167,7 +2172,12 @@
           "tag": "#LUJ9CRJQG",
           "th": 18,
           "pos": 17,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 1,
           "def_destr": 65,
           "defesas": [

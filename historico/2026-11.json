@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T16:20:42.444397Z",
+  "atualizado": "2026-11-08T16:30:45.758681Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -179,6 +179,25 @@
           "zona": "—"
         },
         {
+          "n": "SR•GOD kratos",
+          "tag": "#LUJ9CRJQG",
+          "th": 18,
+          "atk": 4,
+          "est": 11,
+          "spa": 2.75,
+          "conf": 100,
+          "def": 17,
+          "sof": 2.5,
+          "ndef": 4,
+          "seg": 1,
+          "idx": 81.6,
+          "idxb": 81.9,
+          "amostra": 80,
+          "mvp": 13,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
           "n": "SR • InTheDark☆",
           "tag": "#PQRRG2YCP",
           "th": 18,
@@ -194,7 +213,7 @@
           "idxb": 79.4,
           "amostra": 100,
           "mvp": 14,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -213,7 +232,7 @@
           "idxb": 79.4,
           "amostra": 100,
           "mvp": 14,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -232,25 +251,6 @@
           "idxb": 78.4,
           "amostra": 80,
           "mvp": 11,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "SR•GOD kratos",
-          "tag": "#LUJ9CRJQG",
-          "th": 18,
-          "atk": 3,
-          "est": 8,
-          "spa": 2.67,
-          "conf": 75,
-          "def": 17,
-          "sof": 2.5,
-          "ndef": 4,
-          "seg": 1,
-          "idx": 73.8,
-          "idxb": 73.8,
-          "amostra": 60,
-          "mvp": 10,
           "pos": 13,
           "zona": "—"
         },
