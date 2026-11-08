@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-08T15:30:44.542192Z",
+  "atualizado": "2026-11-08T15:40:29.261161Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3005,7 +3005,9 @@
               "nome": "Royther13",
               "tag": "#22LUL8GV9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 2
             },
             {
