@@ -7819,9 +7819,9 @@
           "atk": 12
         },
         "eles": {
-          "est": 46,
-          "destr": 55.03333333333333,
-          "atk": 17
+          "est": 49,
+          "destr": 58.36666666666667,
+          "atk": 18
         },
         "membros": [
           {
@@ -7875,9 +7875,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Royther13",
@@ -8607,9 +8612,9 @@
         "atk": 12
       },
       "eles": {
-        "est": 46,
-        "destr": 55.03333333333333,
-        "atk": 17
+        "est": 49,
+        "destr": 58.36666666666667,
+        "atk": 18
       },
       "membros": [
         {
@@ -8663,9 +8668,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Royther13",
