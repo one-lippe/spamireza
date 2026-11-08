@@ -1710,9 +1710,9 @@
           "atk": 6
         },
         "eles": {
-          "est": 3,
-          "destr": 6.666666666666667,
-          "atk": 1
+          "est": 6,
+          "destr": 13.333333333333334,
+          "atk": 2
         },
         "membros": [
           {
@@ -1806,9 +1806,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "MAJ0R FiV3",
@@ -2088,9 +2093,9 @@
         "atk": 6
       },
       "eles": {
-        "est": 3,
-        "destr": 6.666666666666667,
-        "atk": 1
+        "est": 6,
+        "destr": 13.333333333333334,
+        "atk": 2
       },
       "membros": [
         {
@@ -2184,9 +2189,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "MAJ0R FiV3",
@@ -3990,9 +4000,9 @@
           "atk": 13
         },
         "eles": {
-          "est": 21,
-          "destr": 49.93333333333333,
-          "atk": 8
+          "est": 25,
+          "destr": 62.86666666666667,
+          "atk": 10
         },
         "membros": [
           {
@@ -4026,9 +4036,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 94,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 94
+              }
+            ]
           },
           {
             "nome": "tozim",
@@ -4101,9 +4116,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • THIAGO",
@@ -4438,9 +4458,9 @@
         "atk": 13
       },
       "eles": {
-        "est": 21,
-        "destr": 49.93333333333333,
-        "atk": 8
+        "est": 25,
+        "destr": 62.86666666666667,
+        "atk": 10
       },
       "membros": [
         {
@@ -4474,9 +4494,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 94,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 94
+            }
+          ]
         },
         {
           "nome": "tozim",
@@ -4549,9 +4574,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • THIAGO",
@@ -8020,9 +8050,9 @@
           "atk": 22
         },
         "eles": {
-          "est": 75,
-          "destr": 87.86666666666666,
-          "atk": 27
+          "est": 78,
+          "destr": 91.2,
+          "atk": 28
         },
         "membros": [
           {
@@ -8511,9 +8541,14 @@
                 "destr": 93
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Ligeirinh2xD",
@@ -8908,9 +8943,9 @@
         "atk": 22
       },
       "eles": {
-        "est": 75,
-        "destr": 87.86666666666666,
-        "atk": 27
+        "est": 78,
+        "destr": 91.2,
+        "atk": 28
       },
       "membros": [
         {
@@ -9399,9 +9434,14 @@
               "destr": 93
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Ligeirinh2xD",
