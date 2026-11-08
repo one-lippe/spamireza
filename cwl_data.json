@@ -3889,9 +3889,9 @@
           "atk": 12
         },
         "eles": {
-          "est": 15,
-          "destr": 36.6,
-          "atk": 6
+          "est": 18,
+          "destr": 43.266666666666666,
+          "atk": 7
         },
         "membros": [
           {
@@ -3975,9 +3975,14 @@
                 "destr": 96
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "KingMpg",
@@ -4322,9 +4327,9 @@
         "atk": 12
       },
       "eles": {
-        "est": 15,
-        "destr": 36.6,
-        "atk": 6
+        "est": 18,
+        "destr": 43.266666666666666,
+        "atk": 7
       },
       "membros": [
         {
@@ -4408,9 +4413,14 @@
               "destr": 96
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "KingMpg",
