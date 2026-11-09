@@ -1710,9 +1710,9 @@
           "atk": 15
         },
         "eles": {
-          "est": 30,
-          "destr": 72.73333333333333,
-          "atk": 11
+          "est": 34,
+          "destr": 85.13333333333334,
+          "atk": 13
         },
         "membros": [
           {
@@ -1826,9 +1826,14 @@
                 "destr": 88
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Coyote 171 × 戦備",
@@ -1911,9 +1916,14 @@
                 "destr": 91
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 86,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 86
+              }
+            ]
           },
           {
             "nome": "☆VILA DO PX ツ",
@@ -2183,9 +2193,9 @@
         "atk": 15
       },
       "eles": {
-        "est": 30,
-        "destr": 72.73333333333333,
-        "atk": 11
+        "est": 34,
+        "destr": 85.13333333333334,
+        "atk": 13
       },
       "membros": [
         {
@@ -2299,9 +2309,14 @@
               "destr": 88
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Coyote 171 × 戦備",
@@ -2384,9 +2399,14 @@
               "destr": 91
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 86,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 86
+            }
+          ]
         },
         {
           "nome": "☆VILA DO PX ツ",
