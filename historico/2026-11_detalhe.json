@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T00:40:38.575938Z",
+  "atualizado": "2026-11-09T00:50:36.502499Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3519,7 +3519,7 @@
               "tag": "#8Y9V2QQ82",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Lider Andre",
@@ -3540,7 +3540,7 @@
               "tag": "#22LUL8GV9",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "dvnly",
@@ -3561,7 +3561,7 @@
               "tag": "#GJYRCJ0PR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Samuel Soares",
@@ -3611,7 +3611,9 @@
               "nome": "SR • The off",
               "tag": "#YJ2JLPQGR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
