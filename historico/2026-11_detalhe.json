@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T01:30:38.254869Z",
+  "atualizado": "2026-11-09T01:40:33.140880Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -745,7 +745,9 @@
               "nome": "Jan",
               "tag": "#2899CRJG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {

@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T01:30:38.253468Z",
+  "atualizado": "2026-11-09T01:40:33.138905Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -57,7 +57,7 @@
           "sof": 2.2,
           "ndef": 5,
           "seg": 2,
-          "idx": 83.9,
+          "idx": 84.0,
           "idxb": 84.9,
           "amostra": 83,
           "mvp": 18,
@@ -122,6 +122,25 @@
           "zona": "—"
         },
         {
+          "n": "Jan",
+          "tag": "#2899CRJG",
+          "th": 18,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 6,
+          "seg": 2,
+          "idx": 82.3,
+          "idxb": 82.3,
+          "amostra": 100,
+          "mvp": 19,
+          "pos": 7,
+          "zona": "—"
+        },
+        {
           "n": "marinaul war",
           "tag": "#8GGCQPYP",
           "th": 18,
@@ -133,11 +152,11 @@
           "sof": 2.5,
           "ndef": 6,
           "seg": 2,
-          "idx": 81.7,
+          "idx": 81.8,
           "idxb": 82.3,
           "amostra": 83,
           "mvp": 18,
-          "pos": 7,
+          "pos": 8,
           "zona": "—"
         },
         {
@@ -156,7 +175,7 @@
           "idxb": 80.0,
           "amostra": 100,
           "mvp": 17,
-          "pos": 8,
+          "pos": 9,
           "zona": "—"
         },
         {
@@ -175,7 +194,7 @@
           "idxb": 80.0,
           "amostra": 100,
           "mvp": 17,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -190,29 +209,10 @@
           "sof": 3.0,
           "ndef": 5,
           "seg": 0,
-          "idx": 79.3,
+          "idx": 79.4,
           "idxb": 79.4,
           "amostra": 83,
           "mvp": 14,
-          "pos": 10,
-          "zona": "—"
-        },
-        {
-          "n": "Jan",
-          "tag": "#2899CRJG",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 6,
-          "seg": 2,
-          "idx": 77.4,
-          "idxb": 77.4,
-          "amostra": 83,
-          "mvp": 16,
           "pos": 11,
           "zona": "—"
         },
