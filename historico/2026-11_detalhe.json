@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T09:52:08.330288Z",
+  "atualizado": "2026-11-09T10:00:46.171850Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -731,7 +731,9 @@
               "nome": "marinaul war",
               "tag": "#8GGCQPYP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
