@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T11:00:37.760804Z",
+  "atualizado": "2026-11-09T11:10:43.979138Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -76,7 +76,7 @@
           "sof": 2.2,
           "ndef": 5,
           "seg": 2,
-          "idx": 84.0,
+          "idx": 84.1,
           "idxb": 84.9,
           "amostra": 83,
           "mvp": 18,
@@ -160,6 +160,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • JON SNOW",
+          "tag": "#LYV2J2LU",
+          "th": 18,
+          "atk": 6,
+          "est": 17,
+          "spa": 2.83,
+          "conf": 100,
+          "def": 6,
+          "sof": 2.8,
+          "ndef": 6,
+          "seg": 1,
+          "idx": 81.2,
+          "idxb": 81.2,
+          "amostra": 100,
+          "mvp": 18,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "SR • Neskau",
           "tag": "#P8GLGPRP",
           "th": 18,
@@ -175,7 +194,7 @@
           "idxb": 80.0,
           "amostra": 100,
           "mvp": 17,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -194,7 +213,7 @@
           "idxb": 80.0,
           "amostra": 100,
           "mvp": 17,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -213,25 +232,6 @@
           "idxb": 79.4,
           "amostra": 83,
           "mvp": 14,
-          "pos": 11,
-          "zona": "—"
-        },
-        {
-          "n": "SR • JON SNOW",
-          "tag": "#LYV2J2LU",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
-          "seg": 1,
-          "idx": 76.2,
-          "idxb": 76.2,
-          "amostra": 83,
-          "mvp": 15,
           "pos": 12,
           "zona": "—"
         },
