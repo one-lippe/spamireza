@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T13:20:47.306165Z",
+  "atualizado": "2026-11-09T13:30:50.645575Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -482,7 +482,7 @@
           "sof": 2.5,
           "ndef": 4,
           "seg": 2,
-          "idx": 74.0,
+          "idx": 74.1,
           "idxb": 74.9,
           "amostra": 71,
           "mvp": 16,
@@ -585,6 +585,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • Nesquick",
+          "tag": "#YCRJU229",
+          "th": 18,
+          "atk": 6,
+          "est": 16,
+          "spa": 2.67,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 6,
+          "seg": 0,
+          "idx": 69.5,
+          "idxb": 69.5,
+          "amostra": 86,
+          "mvp": 16,
+          "pos": 14,
+          "zona": "—"
+        },
+        {
           "n": "Monesy9",
           "tag": "#LJRPJ9PC0",
           "th": 18,
@@ -600,7 +619,7 @@
           "idxb": 68.6,
           "amostra": 86,
           "mvp": 18,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -619,25 +638,6 @@
           "idxb": 67.9,
           "amostra": 86,
           "mvp": 18,
-          "pos": 15,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Nesquick",
-          "tag": "#YCRJU229",
-          "th": 18,
-          "atk": 5,
-          "est": 13,
-          "spa": 2.6,
-          "conf": 83,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 6,
-          "seg": 0,
-          "idx": 64.4,
-          "idxb": 64.4,
-          "amostra": 71,
-          "mvp": 13,
           "pos": 16,
           "zona": "rebx"
         },

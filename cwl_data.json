@@ -4471,9 +4471,9 @@
         "inicio": "20261108T225416.000Z",
         "fim": "20261109T225416.000Z",
         "nos": {
-          "est": 29,
-          "destr": 66.6,
-          "atk": 10
+          "est": 32,
+          "destr": 73.26666666666667,
+          "atk": 11
         },
         "eles": {
           "est": 28,
@@ -4726,7 +4726,12 @@
             "tag": "#YCRJU229",
             "th": 18,
             "pos": 17,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -4748,9 +4753,9 @@
       "inicio": "20261108T225416.000Z",
       "fim": "20261109T225416.000Z",
       "nos": {
-        "est": 29,
-        "destr": 66.6,
-        "atk": 10
+        "est": 32,
+        "destr": 73.26666666666667,
+        "atk": 11
       },
       "eles": {
         "est": 28,
@@ -5003,7 +5008,12 @@
           "tag": "#YCRJU229",
           "th": 18,
           "pos": 17,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
