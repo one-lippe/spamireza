@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T01:20:26.969387Z",
+  "atualizado": "2026-11-09T01:30:38.253468Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -736,7 +736,7 @@
           "sof": 2.3,
           "ndef": 7,
           "seg": 4,
-          "idx": 73.4,
+          "idx": 73.5,
           "idxb": 75.5,
           "amostra": 86,
           "mvp": 23,
@@ -793,7 +793,7 @@
           "sof": 2.7,
           "ndef": 7,
           "seg": 2,
-          "idx": 68.7,
+          "idx": 68.8,
           "idxb": 70.0,
           "amostra": 86,
           "mvp": 19,
@@ -850,7 +850,7 @@
           "sof": 2.8,
           "ndef": 6,
           "seg": 1,
-          "idx": 65.6,
+          "idx": 65.7,
           "idxb": 66.4,
           "amostra": 86,
           "mvp": 17,
@@ -869,7 +869,7 @@
           "sof": 2.8,
           "ndef": 6,
           "seg": 1,
-          "idx": 65.6,
+          "idx": 65.7,
           "idxb": 66.4,
           "amostra": 86,
           "mvp": 17,
@@ -945,7 +945,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 63.8,
+          "idx": 63.9,
           "idxb": 65.9,
           "amostra": 57,
           "mvp": 10,
@@ -1181,6 +1181,25 @@
           "zona": "—"
         },
         {
+          "n": "irmão do jorel",
+          "tag": "#P2JCQRPGJ",
+          "th": 18,
+          "atk": 6,
+          "est": 12,
+          "spa": 2.0,
+          "conf": 86,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 6,
+          "seg": 0,
+          "idx": 54.0,
+          "idxb": 54.0,
+          "amostra": 86,
+          "mvp": 12,
+          "pos": 28,
+          "zona": "—"
+        },
+        {
           "n": "PaiDeFamilia",
           "tag": "#2GCJ8QC92",
           "th": 18,
@@ -1196,7 +1215,7 @@
           "idxb": 53.7,
           "amostra": 43,
           "mvp": 6,
-          "pos": 28,
+          "pos": 29,
           "zona": "—"
         },
         {
@@ -1215,7 +1234,7 @@
           "idxb": 51.5,
           "amostra": 43,
           "mvp": 6,
-          "pos": 29,
+          "pos": 30,
           "zona": "—"
         },
         {
@@ -1234,7 +1253,7 @@
           "idxb": 48.8,
           "amostra": 57,
           "mvp": 6,
-          "pos": 30,
+          "pos": 31,
           "zona": "—"
         },
         {
@@ -1253,25 +1272,6 @@
           "idxb": 48.0,
           "amostra": 43,
           "mvp": 6,
-          "pos": 31,
-          "zona": "—"
-        },
-        {
-          "n": "irmão do jorel",
-          "tag": "#P2JCQRPGJ",
-          "th": 18,
-          "atk": 5,
-          "est": 9,
-          "spa": 1.8,
-          "conf": 71,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 6,
-          "seg": 0,
-          "idx": 47.3,
-          "idxb": 47.3,
-          "amostra": 71,
-          "mvp": 9,
           "pos": 32,
           "zona": "—"
         },
