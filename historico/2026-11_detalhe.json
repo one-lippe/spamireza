@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T11:30:38.735741Z",
+  "atualizado": "2026-11-09T11:40:48.338369Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3529,7 +3529,9 @@
               "nome": "MTZ",
               "tag": "#LLLU0VQCL",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
