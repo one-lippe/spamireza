@@ -4476,9 +4476,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 23,
-          "destr": 58.8,
-          "atk": 9
+          "est": 28,
+          "destr": 71.0,
+          "atk": 11
         },
         "membros": [
           {
@@ -4652,9 +4652,14 @@
                 "destr": 99
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 83,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 83
+              }
+            ]
           },
           {
             "nome": "Monesy",
@@ -4722,9 +4727,14 @@
             "th": 18,
             "pos": 17,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           }
         ]
       }
@@ -4743,9 +4753,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 23,
-        "destr": 58.8,
-        "atk": 9
+        "est": 28,
+        "destr": 71.0,
+        "atk": 11
       },
       "membros": [
         {
@@ -4919,9 +4929,14 @@
               "destr": 99
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 83,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 83
+            }
+          ]
         },
         {
           "nome": "Monesy",
@@ -4989,9 +5004,14 @@
           "th": 18,
           "pos": 17,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         }
       ]
     },
