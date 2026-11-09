@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T15:30:53.472536Z",
+  "atualizado": "2026-11-09T15:40:47.109219Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3707,7 +3707,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ghostface",

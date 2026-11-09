@@ -8971,9 +8971,9 @@
           "atk": 19
         },
         "eles": {
-          "est": 69,
-          "destr": 76.66666666666667,
-          "atk": 23
+          "est": 72,
+          "destr": 80.0,
+          "atk": 24
         },
         "membros": [
           {
@@ -9357,9 +9357,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Ghostface",
@@ -9503,9 +9508,9 @@
         "atk": 19
       },
       "eles": {
-        "est": 69,
-        "destr": 76.66666666666667,
-        "atk": 23
+        "est": 72,
+        "destr": 80.0,
+        "atk": 24
       },
       "membros": [
         {
@@ -9889,9 +9894,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Ghostface",
