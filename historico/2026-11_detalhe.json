@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T02:10:31.571302Z",
+  "atualizado": "2026-11-09T02:20:26.978274Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3564,7 +3564,9 @@
               "nome": "Reikan",
               "tag": "#GJYRCJ0PR",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
@@ -3586,7 +3588,7 @@
               "tag": "#Q9PL0CUU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Sra Nunes",
@@ -3601,7 +3603,9 @@
               "nome": "F4KER",
               "tag": "#QQQ8VQPL0",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3682,7 +3686,7 @@
               "tag": "#QQUC9JQ9R",
               "th": 17,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Gerion",
