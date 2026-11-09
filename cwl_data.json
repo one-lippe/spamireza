@@ -4554,7 +4554,7 @@
       },
       {
         "warTag": "#8L2C2QR8V",
-        "state": "inWar",
+        "state": "warEnded",
         "teamSize": 15,
         "adversario": "Iraq",
         "prep": "20261107T225419.000Z",
@@ -4876,7 +4876,7 @@
     ],
     "atual": {
       "warTag": "#8L2C2QR8V",
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 15,
       "adversario": "Iraq",
       "prep": "20261107T225419.000Z",

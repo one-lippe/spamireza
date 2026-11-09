@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T22:50:42.822033Z",
+  "atualizado": "2026-11-09T23:00:58.177562Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1860,7 +1860,7 @@
         {
           "g": 7,
           "vs": "Iraq",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {
