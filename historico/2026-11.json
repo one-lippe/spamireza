@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T04:40:28.417940Z",
+  "atualizado": "2026-11-09T04:50:49.366428Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -57,7 +57,7 @@
           "sof": 2.2,
           "ndef": 5,
           "seg": 2,
-          "idx": 84.0,
+          "idx": 83.9,
           "idxb": 84.9,
           "amostra": 83,
           "mvp": 18,
@@ -152,7 +152,7 @@
           "sof": 2.5,
           "ndef": 6,
           "seg": 2,
-          "idx": 81.8,
+          "idx": 81.7,
           "idxb": 82.3,
           "amostra": 83,
           "mvp": 18,
@@ -209,7 +209,7 @@
           "sof": 3.0,
           "ndef": 5,
           "seg": 0,
-          "idx": 79.4,
+          "idx": 79.3,
           "idxb": 79.4,
           "amostra": 83,
           "mvp": 14,
@@ -293,6 +293,25 @@
           "zona": "—"
         },
         {
+          "n": "☆VILA DO PX ツ",
+          "tag": "#8PUL8JPC",
+          "th": 18,
+          "atk": 3,
+          "est": 7,
+          "spa": 2.33,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 3,
+          "seg": 0,
+          "idx": 70.5,
+          "idxb": 70.5,
+          "amostra": 50,
+          "mvp": 7,
+          "pos": 16,
+          "zona": "rebx"
+        },
+        {
           "n": "Henrique Nerath",
           "tag": "#2U8P0YQ92",
           "th": 18,
@@ -308,27 +327,8 @@
           "idxb": 59.4,
           "amostra": 50,
           "mvp": 7,
-          "pos": 16,
-          "zona": "rebx"
-        },
-        {
-          "n": "☆VILA DO PX ツ",
-          "tag": "#8PUL8JPC",
-          "th": 18,
-          "atk": 2,
-          "est": 4,
-          "spa": 2.0,
-          "conf": 67,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 3,
-          "seg": 0,
-          "idx": 55.5,
-          "idxb": 55.5,
-          "amostra": 33,
-          "mvp": 4,
           "pos": 17,
-          "zona": "—"
+          "zona": "rebx"
         }
       ]
     },
