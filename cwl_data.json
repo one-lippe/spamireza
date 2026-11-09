@@ -8971,9 +8971,9 @@
           "atk": 19
         },
         "eles": {
-          "est": 75,
-          "destr": 83.33333333333333,
-          "atk": 25
+          "est": 81,
+          "destr": 90.0,
+          "atk": 27
         },
         "membros": [
           {
@@ -9417,9 +9417,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "GSAzevedo30 #2",
@@ -9432,9 +9437,14 @@
                 "destr": 96
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "JigSaw",
@@ -9513,9 +9523,9 @@
         "atk": 19
       },
       "eles": {
-        "est": 75,
-        "destr": 83.33333333333333,
-        "atk": 25
+        "est": 81,
+        "destr": 90.0,
+        "atk": 27
       },
       "membros": [
         {
@@ -9959,9 +9969,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "GSAzevedo30 #2",
@@ -9974,9 +9989,14 @@
               "destr": 96
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "JigSaw",

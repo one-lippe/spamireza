@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T15:50:49.153558Z",
+  "atualizado": "2026-11-09T16:01:00.070346Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -3732,7 +3732,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "GSAzevedo30 #2",
@@ -3741,7 +3741,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "JigSaw",
