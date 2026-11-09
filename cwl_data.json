@@ -8771,9 +8771,9 @@
           "atk": 14
         },
         "eles": {
-          "est": 42,
-          "destr": 46.666666666666664,
-          "atk": 14
+          "est": 45,
+          "destr": 50.0,
+          "atk": 15
         },
         "membros": [
           {
@@ -9072,9 +9072,14 @@
             "th": 17,
             "pos": 25,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "PaulinhoPH",
@@ -9233,9 +9238,9 @@
         "atk": 14
       },
       "eles": {
-        "est": 42,
-        "destr": 46.666666666666664,
-        "atk": 14
+        "est": 45,
+        "destr": 50.0,
+        "atk": 15
       },
       "membros": [
         {
@@ -9534,9 +9539,14 @@
           "th": 17,
           "pos": 25,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "PaulinhoPH",
