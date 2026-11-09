@@ -8781,9 +8781,9 @@
           "atk": 15
         },
         "eles": {
-          "est": 51,
-          "destr": 56.666666666666664,
-          "atk": 17
+          "est": 54,
+          "destr": 60.0,
+          "atk": 18
         },
         "membros": [
           {
@@ -9007,9 +9007,14 @@
             "th": 18,
             "pos": 17,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • The off",
@@ -9263,9 +9268,9 @@
         "atk": 15
       },
       "eles": {
-        "est": 51,
-        "destr": 56.666666666666664,
-        "atk": 17
+        "est": 54,
+        "destr": 60.0,
+        "atk": 18
       },
       "membros": [
         {
@@ -9489,9 +9494,14 @@
           "th": 18,
           "pos": 17,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • The off",
