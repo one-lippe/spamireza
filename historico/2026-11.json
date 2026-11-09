@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T01:00:36.873955Z",
+  "atualizado": "2026-11-09T01:10:33.472938Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -820,6 +820,25 @@
           "zona": "—"
         },
         {
+          "n": "PaulinhoPH",
+          "tag": "#GVLGQ098",
+          "th": 17,
+          "atk": 7,
+          "est": 17,
+          "spa": 2.43,
+          "conf": 100,
+          "def": 11,
+          "sof": 2.7,
+          "ndef": 6,
+          "seg": 2,
+          "idx": 66.7,
+          "idxb": 66.7,
+          "amostra": 100,
+          "mvp": 19,
+          "pos": 9,
+          "zona": "—"
+        },
+        {
           "n": "♣DnF◆",
           "tag": "#8UY0889P9",
           "th": 18,
@@ -835,7 +854,7 @@
           "idxb": 66.4,
           "amostra": 86,
           "mvp": 17,
-          "pos": 9,
+          "pos": 10,
           "zona": "—"
         },
         {
@@ -854,7 +873,7 @@
           "idxb": 66.4,
           "amostra": 86,
           "mvp": 17,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -873,7 +892,7 @@
           "idxb": 65.4,
           "amostra": 86,
           "mvp": 16,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -892,7 +911,7 @@
           "idxb": 65.4,
           "amostra": 86,
           "mvp": 16,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -910,25 +929,6 @@
           "idx": 64.7,
           "idxb": 64.7,
           "amostra": 100,
-          "mvp": 17,
-          "pos": 13,
-          "zona": "—"
-        },
-        {
-          "n": "PaulinhoPH",
-          "tag": "#GVLGQ098",
-          "th": 17,
-          "atk": 6,
-          "est": 15,
-          "spa": 2.5,
-          "conf": 86,
-          "def": 11,
-          "sof": 2.7,
-          "ndef": 6,
-          "seg": 2,
-          "idx": 64.1,
-          "idxb": 64.6,
-          "amostra": 86,
           "mvp": 17,
           "pos": 14,
           "zona": "—"
@@ -983,7 +983,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 61.1,
+          "idx": 61.2,
           "idxb": 61.2,
           "amostra": 57,
           "mvp": 10,
