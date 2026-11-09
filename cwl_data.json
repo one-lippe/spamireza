@@ -4476,9 +4476,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 20,
-          "destr": 52.13333333333333,
-          "atk": 8
+          "est": 23,
+          "destr": 58.8,
+          "atk": 9
         },
         "membros": [
           {
@@ -4587,9 +4587,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Monesy9",
@@ -4738,9 +4743,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 20,
-        "destr": 52.13333333333333,
-        "atk": 8
+        "est": 23,
+        "destr": 58.8,
+        "atk": 9
       },
       "membros": [
         {
@@ -4849,9 +4854,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Monesy9",
