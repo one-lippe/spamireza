@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T08:20:51.407453Z",
+  "atualizado": "2026-11-09T08:30:30.174169Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -357,6 +357,25 @@
           "zona": "promo"
         },
         {
+          "n": "KingMpg",
+          "tag": "#22YJPYPCJ",
+          "th": 18,
+          "atk": 7,
+          "est": 21,
+          "spa": 3.0,
+          "conf": 100,
+          "def": 10,
+          "sof": 2.7,
+          "ndef": 7,
+          "seg": 2,
+          "idx": 77.0,
+          "idxb": 77.0,
+          "amostra": 100,
+          "mvp": 23,
+          "pos": 2,
+          "zona": "promo"
+        },
+        {
           "n": "SrNunes",
           "tag": "#2LY8G8Y9",
           "th": 18,
@@ -372,8 +391,8 @@
           "idxb": 76.9,
           "amostra": 100,
           "mvp": 24,
-          "pos": 2,
-          "zona": "promo"
+          "pos": 3,
+          "zona": "—"
         },
         {
           "n": "Ligeirinh0xD",
@@ -391,7 +410,7 @@
           "idxb": 76.5,
           "amostra": 100,
           "mvp": 22,
-          "pos": 3,
+          "pos": 4,
           "zona": "—"
         },
         {
@@ -410,7 +429,7 @@
           "idxb": 76.2,
           "amostra": 100,
           "mvp": 22,
-          "pos": 4,
+          "pos": 5,
           "zona": "—"
         },
         {
@@ -429,7 +448,7 @@
           "idxb": 75.2,
           "amostra": 100,
           "mvp": 22,
-          "pos": 5,
+          "pos": 6,
           "zona": "—"
         },
         {
@@ -444,29 +463,10 @@
           "sof": 2.5,
           "ndef": 4,
           "seg": 2,
-          "idx": 74.9,
+          "idx": 75.0,
           "idxb": 75.5,
           "amostra": 86,
           "mvp": 19,
-          "pos": 6,
-          "zona": "—"
-        },
-        {
-          "n": "KingMpg",
-          "tag": "#22YJPYPCJ",
-          "th": 18,
-          "atk": 6,
-          "est": 18,
-          "spa": 3.0,
-          "conf": 86,
-          "def": 10,
-          "sof": 2.7,
-          "ndef": 7,
-          "seg": 2,
-          "idx": 73.3,
-          "idxb": 73.6,
-          "amostra": 86,
-          "mvp": 20,
           "pos": 7,
           "zona": "—"
         },
@@ -482,7 +482,7 @@
           "sof": 2.7,
           "ndef": 3,
           "seg": 1,
-          "idx": 73.1,
+          "idx": 73.2,
           "idxb": 73.8,
           "amostra": 71,
           "mvp": 15,
@@ -520,7 +520,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 71.7,
+          "idx": 71.8,
           "idxb": 71.8,
           "amostra": 71,
           "mvp": 14,
