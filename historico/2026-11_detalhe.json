@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T00:20:27.577427Z",
+  "atualizado": "2026-11-09T00:30:41.430913Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -839,7 +839,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 1
             },
             {
               "nome": "matias?",
@@ -3510,7 +3510,7 @@
               "tag": "#LLLU0VQCL",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "♣️Dorindo Sena♣",
@@ -3545,7 +3545,7 @@
               "tag": "#QR2JLQ2RR",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "NoBlitzz",
@@ -3566,7 +3566,7 @@
               "tag": "#9V2L9J9JP",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "♣DnF◆",

@@ -1710,9 +1710,9 @@
           "atk": 9
         },
         "eles": {
-          "est": 29,
-          "destr": 66.2,
-          "atk": 10
+          "est": 30,
+          "destr": 72.73333333333333,
+          "atk": 11
         },
         "membros": [
           {
@@ -1936,9 +1936,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 1,
+            "def_destr": 98,
+            "defesas": [
+              {
+                "estrelas": 1,
+                "destr": 98
+              }
+            ]
           },
           {
             "nome": "matias?",
@@ -2148,9 +2153,9 @@
         "atk": 9
       },
       "eles": {
-        "est": 29,
-        "destr": 66.2,
-        "atk": 10
+        "est": 30,
+        "destr": 72.73333333333333,
+        "atk": 11
       },
       "membros": [
         {
@@ -2374,9 +2379,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 1,
+          "def_destr": 98,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 98
+            }
+          ]
         },
         {
           "nome": "matias?",
@@ -8721,9 +8731,9 @@
           "atk": 2
         },
         "eles": {
-          "est": 9,
-          "destr": 10.0,
-          "atk": 3
+          "est": 18,
+          "destr": 20.0,
+          "atk": 6
         },
         "membros": [
           {
@@ -8732,9 +8742,14 @@
             "th": 18,
             "pos": 1,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "♣️Dorindo Sena♣",
@@ -8792,9 +8807,14 @@
             "th": 18,
             "pos": 8,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "NoBlitzz",
@@ -8822,9 +8842,14 @@
             "th": 18,
             "pos": 11,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "♣DnF◆",
@@ -9068,9 +9093,9 @@
         "atk": 2
       },
       "eles": {
-        "est": 9,
-        "destr": 10.0,
-        "atk": 3
+        "est": 18,
+        "destr": 20.0,
+        "atk": 6
       },
       "membros": [
         {
@@ -9079,9 +9104,14 @@
           "th": 18,
           "pos": 1,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "♣️Dorindo Sena♣",
@@ -9139,9 +9169,14 @@
           "th": 18,
           "pos": 8,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "NoBlitzz",
@@ -9169,9 +9204,14 @@
           "th": 18,
           "pos": 11,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "♣DnF◆",
