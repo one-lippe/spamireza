@@ -2026,14 +2026,14 @@
         "inicio": "20261109T170444.000Z",
         "fim": "20261110T170444.000Z",
         "nos": {
+          "est": 14,
+          "destr": 32.06666666666667,
+          "atk": 5
+        },
+        "eles": {
           "est": 9,
           "destr": 20.0,
           "atk": 3
-        },
-        "eles": {
-          "est": 3,
-          "destr": 6.666666666666667,
-          "atk": 1
         },
         "membros": [
           {
@@ -2172,16 +2172,26 @@
             "th": 18,
             "pos": 13,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Levi_Neiva 2",
             "tag": "#90GRYGJVP",
             "th": 18,
             "pos": 15,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -2192,16 +2202,26 @@
             "th": 18,
             "pos": 16,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "matias?",
             "tag": "#RCQQUGC9",
             "th": 18,
             "pos": 17,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 81
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -2218,14 +2238,14 @@
       "inicio": "20261109T170444.000Z",
       "fim": "20261110T170444.000Z",
       "nos": {
+        "est": 14,
+        "destr": 32.06666666666667,
+        "atk": 5
+      },
+      "eles": {
         "est": 9,
         "destr": 20.0,
         "atk": 3
-      },
-      "eles": {
-        "est": 3,
-        "destr": 6.666666666666667,
-        "atk": 1
       },
       "membros": [
         {
@@ -2364,16 +2384,26 @@
           "th": 18,
           "pos": 13,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Levi_Neiva 2",
           "tag": "#90GRYGJVP",
           "th": 18,
           "pos": 15,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -2384,16 +2414,26 @@
           "th": 18,
           "pos": 16,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "matias?",
           "tag": "#RCQQUGC9",
           "th": 18,
           "pos": 17,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 81
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
@@ -8911,9 +8951,9 @@
           "atk": 20
         },
         "eles": {
-          "est": 84,
-          "destr": 93.33333333333333,
-          "atk": 28
+          "est": 87,
+          "destr": 96.66666666666667,
+          "atk": 29
         },
         "membros": [
           {
@@ -9422,9 +9462,14 @@
                 "destr": 88
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Crypt Myers",
@@ -9473,9 +9518,9 @@
         "atk": 20
       },
       "eles": {
-        "est": 84,
-        "destr": 93.33333333333333,
-        "atk": 28
+        "est": 87,
+        "destr": 96.66666666666667,
+        "atk": 29
       },
       "membros": [
         {
@@ -9984,9 +10029,14 @@
               "destr": 88
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Crypt Myers",

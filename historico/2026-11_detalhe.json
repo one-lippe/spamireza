@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T17:30:37.602975Z",
+  "atualizado": "2026-11-09T17:40:50.004783Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -958,13 +958,15 @@
               "tag": "#8PUL8JPC",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Levi_Neiva 2",
               "tag": "#90GRYGJVP",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -972,13 +974,15 @@
               "tag": "#LUJ9CRJQG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "matias?",
               "tag": "#RCQQUGC9",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             }
           ]
@@ -3880,7 +3884,7 @@
               "atk": [
                 1
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Crypt Myers",
