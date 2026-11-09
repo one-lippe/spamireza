@@ -8771,9 +8771,9 @@
           "atk": 14
         },
         "eles": {
-          "est": 39,
-          "destr": 43.333333333333336,
-          "atk": 13
+          "est": 42,
+          "destr": 46.666666666666664,
+          "atk": 14
         },
         "membros": [
           {
@@ -8962,9 +8962,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "F4KER",
@@ -9228,9 +9233,9 @@
         "atk": 14
       },
       "eles": {
-        "est": 39,
-        "destr": 43.333333333333336,
-        "atk": 13
+        "est": 42,
+        "destr": 46.666666666666664,
+        "atk": 14
       },
       "membros": [
         {
@@ -9419,9 +9424,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "F4KER",
