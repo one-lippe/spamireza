@@ -1710,9 +1710,9 @@
           "atk": 9
         },
         "eles": {
-          "est": 27,
-          "destr": 60.0,
-          "atk": 9
+          "est": 29,
+          "destr": 66.2,
+          "atk": 10
         },
         "membros": [
           {
@@ -1786,9 +1786,14 @@
             "th": 18,
             "pos": 6,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 2,
+            "def_destr": 93,
+            "defesas": [
+              {
+                "estrelas": 2,
+                "destr": 93
+              }
+            ]
           },
           {
             "nome": "SR - JON SNOW 2",
@@ -2143,9 +2148,9 @@
         "atk": 9
       },
       "eles": {
-        "est": 27,
-        "destr": 60.0,
-        "atk": 9
+        "est": 29,
+        "destr": 66.2,
+        "atk": 10
       },
       "membros": [
         {
@@ -2219,9 +2224,14 @@
           "th": 18,
           "pos": 6,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 2,
+          "def_destr": 93,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 93
+            }
+          ]
         },
         {
           "nome": "SR - JON SNOW 2",
@@ -8706,14 +8716,14 @@
         "inicio": "20261109T000532.000Z",
         "fim": "20261110T000532.000Z",
         "nos": {
-          "est": 3,
-          "destr": 3.3333333333333335,
-          "atk": 1
+          "est": 5,
+          "destr": 5.0,
+          "atk": 2
         },
         "eles": {
-          "est": 0,
-          "destr": 0.0,
-          "atk": 0
+          "est": 9,
+          "destr": 10.0,
+          "atk": 3
         },
         "membros": [
           {
@@ -8742,9 +8752,14 @@
             "th": 18,
             "pos": 5,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "100%War_⚡Slash⚡",
@@ -8752,9 +8767,14 @@
             "th": 18,
             "pos": 6,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Royther13",
@@ -8907,9 +8927,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Líder André 3",
@@ -9006,7 +9031,12 @@
             "tag": "#QLRJLCY0Y",
             "th": 14,
             "pos": 39,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 50
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -9033,14 +9063,14 @@
       "inicio": "20261109T000532.000Z",
       "fim": "20261110T000532.000Z",
       "nos": {
-        "est": 3,
-        "destr": 3.3333333333333335,
-        "atk": 1
+        "est": 5,
+        "destr": 5.0,
+        "atk": 2
       },
       "eles": {
-        "est": 0,
-        "destr": 0.0,
-        "atk": 0
+        "est": 9,
+        "destr": 10.0,
+        "atk": 3
       },
       "membros": [
         {
@@ -9069,9 +9099,14 @@
           "th": 18,
           "pos": 5,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "100%War_⚡Slash⚡",
@@ -9079,9 +9114,14 @@
           "th": 18,
           "pos": 6,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Royther13",
@@ -9234,9 +9274,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Líder André 3",
@@ -9333,7 +9378,12 @@
           "tag": "#QLRJLCY0Y",
           "th": 14,
           "pos": 39,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 50
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []

@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T00:10:28.503364Z",
+  "atualizado": "2026-11-09T00:20:27.574989Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -217,6 +217,25 @@
           "zona": "—"
         },
         {
+          "n": "SR • JON SNOW",
+          "tag": "#LYV2J2LU",
+          "th": 18,
+          "atk": 5,
+          "est": 14,
+          "spa": 2.8,
+          "conf": 83,
+          "def": 6,
+          "sof": 2.8,
+          "ndef": 6,
+          "seg": 1,
+          "idx": 76.2,
+          "idxb": 76.2,
+          "amostra": 83,
+          "mvp": 15,
+          "pos": 12,
+          "zona": "—"
+        },
+        {
           "n": "SR • C∆iç∆r∆",
           "tag": "#GL0PRCU9L",
           "th": 18,
@@ -232,25 +251,6 @@
           "idxb": 75.4,
           "amostra": 67,
           "mvp": 11,
-          "pos": 12,
-          "zona": "—"
-        },
-        {
-          "n": "SR • JON SNOW",
-          "tag": "#LYV2J2LU",
-          "th": 18,
-          "atk": 5,
-          "est": 14,
-          "spa": 2.8,
-          "conf": 83,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 5,
-          "seg": 0,
-          "idx": 75.1,
-          "idxb": 75.1,
-          "amostra": 83,
-          "mvp": 14,
           "pos": 13,
           "zona": "—"
         },
@@ -677,7 +677,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 5,
+          "ndef": 6,
           "seg": 0,
           "idx": 74.4,
           "idxb": 74.4,
@@ -717,7 +717,7 @@
           "sof": 2.6,
           "ndef": 5,
           "seg": 2,
-          "idx": 71.7,
+          "idx": 71.8,
           "idxb": 73.6,
           "amostra": 86,
           "mvp": 20,
@@ -736,7 +736,7 @@
           "sof": 2.8,
           "ndef": 6,
           "seg": 1,
-          "idx": 70.4,
+          "idx": 70.5,
           "idxb": 72.1,
           "amostra": 86,
           "mvp": 19,
@@ -867,7 +867,7 @@
           "conf": 86,
           "def": 0,
           "sof": 3.0,
-          "ndef": 6,
+          "ndef": 7,
           "seg": 0,
           "idx": 64.7,
           "idxb": 65.4,
@@ -926,7 +926,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 63.6,
+          "idx": 63.7,
           "idxb": 65.9,
           "amostra": 57,
           "mvp": 10,
@@ -964,7 +964,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 60.9,
+          "idx": 61.0,
           "idxb": 61.2,
           "amostra": 57,
           "mvp": 10,
@@ -1086,25 +1086,6 @@
           "zona": "—"
         },
         {
-          "n": "Lider Andre",
-          "tag": "#20UUPGPCV",
-          "th": 18,
-          "atk": 5,
-          "est": 9,
-          "spa": 1.8,
-          "conf": 83,
-          "def": 40,
-          "sof": 1.8,
-          "ndef": 5,
-          "seg": 4,
-          "idx": 57.5,
-          "idxb": 57.5,
-          "amostra": 71,
-          "mvp": 15,
-          "pos": 23,
-          "zona": "—"
-        },
-        {
           "n": "Ligeirinh2xD",
           "tag": "#GCC98R22R",
           "th": 16,
@@ -1120,6 +1101,25 @@
           "idxb": 57.2,
           "amostra": 43,
           "mvp": 7,
+          "pos": 23,
+          "zona": "—"
+        },
+        {
+          "n": "Lider Andre",
+          "tag": "#20UUPGPCV",
+          "th": 18,
+          "atk": 5,
+          "est": 9,
+          "spa": 1.8,
+          "conf": 83,
+          "def": 33,
+          "sof": 2.0,
+          "ndef": 6,
+          "seg": 4,
+          "idx": 56.3,
+          "idxb": 56.3,
+          "amostra": 71,
+          "mvp": 15,
           "pos": 24,
           "zona": "—"
         },
@@ -1219,6 +1219,25 @@
           "zona": "—"
         },
         {
+          "n": "Crypt Myers",
+          "tag": "#QLRJLCY0Y",
+          "th": 14,
+          "atk": 4,
+          "est": 6,
+          "spa": 1.5,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 3,
+          "seg": 0,
+          "idx": 48.8,
+          "idxb": 48.8,
+          "amostra": 57,
+          "mvp": 6,
+          "pos": 30,
+          "zona": "—"
+        },
+        {
           "n": "Gerion",
           "tag": "#YP9L000LG",
           "th": 17,
@@ -1234,7 +1253,7 @@
           "idxb": 48.0,
           "amostra": 43,
           "mvp": 6,
-          "pos": 30,
+          "pos": 31,
           "zona": "—"
         },
         {
@@ -1253,7 +1272,7 @@
           "idxb": 47.3,
           "amostra": 71,
           "mvp": 9,
-          "pos": 31,
+          "pos": 32,
           "zona": "—"
         },
         {
@@ -1272,7 +1291,7 @@
           "idxb": 46.0,
           "amostra": 43,
           "mvp": 4,
-          "pos": 32,
+          "pos": 33,
           "zona": "—"
         },
         {
@@ -1291,7 +1310,7 @@
           "idxb": 45.7,
           "amostra": 14,
           "mvp": 2,
-          "pos": 33,
+          "pos": 34,
           "zona": "—"
         },
         {
@@ -1310,27 +1329,8 @@
           "idxb": 41.1,
           "amostra": 29,
           "mvp": 3,
-          "pos": 34,
-          "zona": "—"
-        },
-        {
-          "n": "Crypt Myers",
-          "tag": "#QLRJLCY0Y",
-          "th": 14,
-          "atk": 3,
-          "est": 4,
-          "spa": 1.33,
-          "conf": 75,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 3,
-          "seg": 0,
-          "idx": 40.2,
-          "idxb": 40.2,
-          "amostra": 43,
-          "mvp": 4,
           "pos": 35,
-          "zona": "rebx"
+          "zona": "—"
         },
         {
           "n": "SR•InTheDarkIV",

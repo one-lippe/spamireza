@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T00:10:28.505727Z",
+  "atualizado": "2026-11-09T00:20:27.577427Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -762,7 +762,7 @@
               "tag": "#LYV2J2LU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 2
             },
             {
               "nome": "SR - JON SNOW 2",
@@ -3524,14 +3524,14 @@
               "tag": "#20UUPGPCV",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "100%War_⚡Slash⚡",
               "tag": "#8PURGU2YG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Royther13",
@@ -3638,7 +3638,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Líder André 3",
@@ -3707,7 +3707,9 @@
               "nome": "Crypt Myers",
               "tag": "#QLRJLCY0Y",
               "th": 14,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
