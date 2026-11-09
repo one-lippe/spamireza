@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T02:20:26.978274Z",
+  "atualizado": "2026-11-09T02:30:33.532754Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -1833,7 +1833,9 @@
               "nome": "Darth Revan",
               "tag": "#8R280VRCQ",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3685,7 +3687,9 @@
               "nome": "Ghostface",
               "tag": "#QQUC9JQ9R",
               "th": 17,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
@@ -3717,7 +3721,9 @@
               "nome": "JigSaw",
               "tag": "#LRGU2Q8V0",
               "th": 16,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": null
             },
             {
