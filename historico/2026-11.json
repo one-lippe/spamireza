@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T23:10:39.439868Z",
+  "atualizado": "2026-11-09T23:20:45.884167Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -858,6 +858,25 @@
           "zona": "—"
         },
         {
+          "n": "Meliodas NNT",
+          "tag": "#2PLQG8UQU",
+          "th": 18,
+          "atk": 7,
+          "est": 18,
+          "spa": 2.57,
+          "conf": 100,
+          "def": 0,
+          "sof": 3.0,
+          "ndef": 7,
+          "seg": 0,
+          "idx": 67.1,
+          "idxb": 67.1,
+          "amostra": 100,
+          "mvp": 18,
+          "pos": 11,
+          "zona": "—"
+        },
+        {
           "n": "PaulinhoPH",
           "tag": "#GVLGQ098",
           "th": 17,
@@ -873,7 +892,7 @@
           "idxb": 66.4,
           "amostra": 100,
           "mvp": 19,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -892,7 +911,7 @@
           "idxb": 65.5,
           "amostra": 100,
           "mvp": 18,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -911,26 +930,26 @@
           "idxb": 65.4,
           "amostra": 86,
           "mvp": 16,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
-          "n": "Meliodas NNT",
-          "tag": "#2PLQG8UQU",
-          "th": 18,
-          "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 86,
+          "n": "SR • Eduhh",
+          "tag": "#2Q9RYUCCP",
+          "th": 17,
+          "atk": 4,
+          "est": 10,
+          "spa": 2.5,
+          "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 7,
+          "ndef": 4,
           "seg": 0,
-          "idx": 65.1,
-          "idxb": 65.4,
-          "amostra": 86,
-          "mvp": 16,
-          "pos": 14,
+          "idx": 64.7,
+          "idxb": 65.9,
+          "amostra": 57,
+          "mvp": 10,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -949,25 +968,6 @@
           "idxb": 64.7,
           "amostra": 100,
           "mvp": 17,
-          "pos": 15,
-          "zona": "—"
-        },
-        {
-          "n": "SR • Eduhh",
-          "tag": "#2Q9RYUCCP",
-          "th": 17,
-          "atk": 4,
-          "est": 10,
-          "spa": 2.5,
-          "conf": 100,
-          "def": 0,
-          "sof": 3.0,
-          "ndef": 4,
-          "seg": 0,
-          "idx": 64.6,
-          "idxb": 65.9,
-          "amostra": 57,
-          "mvp": 10,
           "pos": 16,
           "zona": "—"
         },
@@ -1021,7 +1021,7 @@
           "sof": 3.0,
           "ndef": 5,
           "seg": 0,
-          "idx": 63.8,
+          "idx": 63.9,
           "idxb": 64.2,
           "amostra": 71,
           "mvp": 12,
