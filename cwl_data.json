@@ -8956,14 +8956,14 @@
         "inicio": "20261109T000532.000Z",
         "fim": "20261110T000532.000Z",
         "nos": {
-          "est": 45,
-          "destr": 54.13333333333333,
-          "atk": 18
+          "est": 48,
+          "destr": 57.46666666666667,
+          "atk": 19
         },
         "eles": {
-          "est": 66,
-          "destr": 73.33333333333333,
-          "atk": 22
+          "est": 69,
+          "destr": 76.66666666666667,
+          "atk": 23
         },
         "membros": [
           {
@@ -9146,7 +9146,12 @@
             "tag": "#Q9PL0CUU",
             "th": 18,
             "pos": 14,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -9187,9 +9192,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "BC NOELLE ✓",
@@ -9478,14 +9488,14 @@
       "inicio": "20261109T000532.000Z",
       "fim": "20261110T000532.000Z",
       "nos": {
-        "est": 45,
-        "destr": 54.13333333333333,
-        "atk": 18
+        "est": 48,
+        "destr": 57.46666666666667,
+        "atk": 19
       },
       "eles": {
-        "est": 66,
-        "destr": 73.33333333333333,
-        "atk": 22
+        "est": 69,
+        "destr": 76.66666666666667,
+        "atk": 23
       },
       "membros": [
         {
@@ -9668,7 +9678,12 @@
           "tag": "#Q9PL0CUU",
           "th": 18,
           "pos": 14,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -9709,9 +9724,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "BC NOELLE ✓",
