@@ -2026,9 +2026,9 @@
         "inicio": "20261109T170444.000Z",
         "fim": "20261110T170444.000Z",
         "nos": {
-          "est": 23,
-          "destr": 52.06666666666667,
-          "atk": 8
+          "est": 26,
+          "destr": 58.733333333333334,
+          "atk": 9
         },
         "eles": {
           "est": 33,
@@ -2126,7 +2126,12 @@
             "tag": "#Y08CR0PQU",
             "th": 18,
             "pos": 8,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -2293,9 +2298,9 @@
       "inicio": "20261109T170444.000Z",
       "fim": "20261110T170444.000Z",
       "nos": {
-        "est": 23,
-        "destr": 52.06666666666667,
-        "atk": 8
+        "est": 26,
+        "destr": 58.733333333333334,
+        "atk": 9
       },
       "eles": {
         "est": 33,
@@ -2393,7 +2398,12 @@
           "tag": "#Y08CR0PQU",
           "th": 18,
           "pos": 8,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
@@ -4556,9 +4566,9 @@
           "atk": 15
         },
         "eles": {
-          "est": 32,
-          "destr": 83.53333333333333,
-          "atk": 13
+          "est": 38,
+          "destr": 96.86666666666666,
+          "atk": 15
         },
         "membros": [
           {
@@ -4692,9 +4702,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "MAJ0R FiV3",
@@ -4827,9 +4842,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Nesquick",
@@ -4868,9 +4888,9 @@
         "atk": 15
       },
       "eles": {
-        "est": 32,
-        "destr": 83.53333333333333,
-        "atk": 13
+        "est": 38,
+        "destr": 96.86666666666666,
+        "atk": 15
       },
       "membros": [
         {
@@ -5004,9 +5024,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "MAJ0R FiV3",
@@ -5139,9 +5164,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Nesquick",
