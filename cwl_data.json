@@ -8746,14 +8746,14 @@
         "inicio": "20261109T000532.000Z",
         "fim": "20261110T000532.000Z",
         "nos": {
-          "est": 19,
-          "destr": 21.366666666666667,
-          "atk": 7
+          "est": 21,
+          "destr": 24.566666666666666,
+          "atk": 8
         },
         "eles": {
-          "est": 30,
-          "destr": 33.333333333333336,
-          "atk": 10
+          "est": 33,
+          "destr": 36.666666666666664,
+          "atk": 11
         },
         "membros": [
           {
@@ -8897,9 +8897,14 @@
             "th": 18,
             "pos": 12,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR•InTheDark II",
@@ -9091,7 +9096,12 @@
             "tag": "#29882J2L2",
             "th": 16,
             "pos": 33,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 2,
+                "destr": 96
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -9153,14 +9163,14 @@
       "inicio": "20261109T000532.000Z",
       "fim": "20261110T000532.000Z",
       "nos": {
-        "est": 19,
-        "destr": 21.366666666666667,
-        "atk": 7
+        "est": 21,
+        "destr": 24.566666666666666,
+        "atk": 8
       },
       "eles": {
-        "est": 30,
-        "destr": 33.333333333333336,
-        "atk": 10
+        "est": 33,
+        "destr": 36.666666666666664,
+        "atk": 11
       },
       "membros": [
         {
@@ -9304,9 +9314,14 @@
           "th": 18,
           "pos": 12,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR•InTheDark II",
@@ -9498,7 +9513,12 @@
           "tag": "#29882J2L2",
           "th": 16,
           "pos": 33,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 2,
+              "destr": 96
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
