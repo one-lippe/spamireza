@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T17:20:47.684919Z",
+  "atualizado": "2026-11-09T17:30:37.602975Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -930,7 +930,9 @@
               "nome": "MAJ0R FiV3",
               "tag": "#LCR9YQGYY",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -946,7 +948,9 @@
               "nome": "Nesk",
               "tag": "#99220V0Q8",
               "th": 18,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": null
             },
             {
@@ -3837,7 +3841,9 @@
               "nome": "Gerion",
               "tag": "#YP9L000LG",
               "th": 17,
-              "atk": [],
+              "atk": [
+                3
+              ],
               "def_est": 3
             },
             {
