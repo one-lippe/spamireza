@@ -1710,9 +1710,9 @@
           "atk": 15
         },
         "eles": {
-          "est": 34,
-          "destr": 85.13333333333334,
-          "atk": 13
+          "est": 40,
+          "destr": 98.46666666666667,
+          "atk": 15
         },
         "membros": [
           {
@@ -1886,9 +1886,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Psico 2k25",
@@ -1901,9 +1906,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR • Neskau",
@@ -2193,9 +2203,9 @@
         "atk": 15
       },
       "eles": {
-        "est": 34,
-        "destr": 85.13333333333334,
-        "atk": 13
+        "est": 40,
+        "destr": 98.46666666666667,
+        "atk": 15
       },
       "membros": [
         {
@@ -2369,9 +2379,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Psico 2k25",
@@ -2384,9 +2399,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR • Neskau",
@@ -8991,9 +9011,9 @@
           "atk": 19
         },
         "eles": {
-          "est": 81,
-          "destr": 90.0,
-          "atk": 27
+          "est": 84,
+          "destr": 93.33333333333333,
+          "atk": 28
         },
         "membros": [
           {
@@ -9477,9 +9497,14 @@
                 "destr": 55
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Ligeirinh2xD",
@@ -9543,9 +9568,9 @@
         "atk": 19
       },
       "eles": {
-        "est": 81,
-        "destr": 90.0,
-        "atk": 27
+        "est": 84,
+        "destr": 93.33333333333333,
+        "atk": 28
       },
       "membros": [
         {
@@ -10029,9 +10054,14 @@
               "destr": 55
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Ligeirinh2xD",

@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T16:30:46.307606Z",
+  "atualizado": "2026-11-09T16:40:50.307751Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -806,7 +806,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Psico 2k25",
@@ -815,7 +815,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Neskau",
@@ -3750,7 +3750,7 @@
               "atk": [
                 2
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Ligeirinh2xD",
