@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T13:30:50.645575Z",
+  "atualizado": "2026-11-09T13:40:40.765127Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -463,7 +463,7 @@
           "sof": 2.6,
           "ndef": 5,
           "seg": 2,
-          "idx": 74.4,
+          "idx": 74.5,
           "idxb": 74.8,
           "amostra": 86,
           "mvp": 19,
@@ -482,7 +482,7 @@
           "sof": 2.5,
           "ndef": 4,
           "seg": 2,
-          "idx": 74.1,
+          "idx": 74.2,
           "idxb": 74.9,
           "amostra": 71,
           "mvp": 16,
@@ -509,6 +509,25 @@
           "zona": "—"
         },
         {
+          "n": "tozim",
+          "tag": "#9G22U9U2Y",
+          "th": 18,
+          "atk": 7,
+          "est": 19,
+          "spa": 2.71,
+          "conf": 100,
+          "def": 10,
+          "sof": 2.7,
+          "ndef": 7,
+          "seg": 2,
+          "idx": 72.1,
+          "idxb": 72.1,
+          "amostra": 100,
+          "mvp": 21,
+          "pos": 10,
+          "zona": "—"
+        },
+        {
           "n": "Darth Revan",
           "tag": "#8R280VRCQ",
           "th": 18,
@@ -524,7 +543,7 @@
           "idxb": 71.8,
           "amostra": 71,
           "mvp": 14,
-          "pos": 10,
+          "pos": 11,
           "zona": "—"
         },
         {
@@ -543,7 +562,7 @@
           "idxb": 71.6,
           "amostra": 71,
           "mvp": 17,
-          "pos": 11,
+          "pos": 12,
           "zona": "—"
         },
         {
@@ -562,7 +581,7 @@
           "idxb": 70.8,
           "amostra": 86,
           "mvp": 19,
-          "pos": 12,
+          "pos": 13,
           "zona": "—"
         },
         {
@@ -581,7 +600,7 @@
           "idxb": 69.5,
           "amostra": 29,
           "mvp": 7,
-          "pos": 13,
+          "pos": 14,
           "zona": "—"
         },
         {
@@ -600,7 +619,7 @@
           "idxb": 69.5,
           "amostra": 86,
           "mvp": 16,
-          "pos": 14,
+          "pos": 15,
           "zona": "—"
         },
         {
@@ -617,25 +636,6 @@
           "seg": 1,
           "idx": 68.6,
           "idxb": 68.6,
-          "amostra": 86,
-          "mvp": 18,
-          "pos": 15,
-          "zona": "—"
-        },
-        {
-          "n": "tozim",
-          "tag": "#9G22U9U2Y",
-          "th": 18,
-          "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 86,
-          "def": 10,
-          "sof": 2.7,
-          "ndef": 7,
-          "seg": 2,
-          "idx": 67.9,
-          "idxb": 67.9,
           "amostra": 86,
           "mvp": 18,
           "pos": 16,
