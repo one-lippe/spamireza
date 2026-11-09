@@ -4456,9 +4456,9 @@
           "atk": 10
         },
         "eles": {
-          "est": 14,
-          "destr": 38.8,
-          "atk": 6
+          "est": 20,
+          "destr": 52.13333333333333,
+          "atk": 8
         },
         "membros": [
           {
@@ -4507,9 +4507,14 @@
             "th": 18,
             "pos": 3,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "Renan",
@@ -4522,9 +4527,14 @@
                 "destr": 100
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "KingMpg",
@@ -4708,9 +4718,9 @@
         "atk": 10
       },
       "eles": {
-        "est": 14,
-        "destr": 38.8,
-        "atk": 6
+        "est": 20,
+        "destr": 52.13333333333333,
+        "atk": 8
       },
       "membros": [
         {
@@ -4759,9 +4769,14 @@
           "th": 18,
           "pos": 3,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "Renan",
@@ -4774,9 +4789,14 @@
               "destr": 100
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "KingMpg",
@@ -8866,9 +8886,9 @@
         "inicio": "20261109T000532.000Z",
         "fim": "20261110T000532.000Z",
         "nos": {
-          "est": 38,
-          "destr": 44.53333333333333,
-          "atk": 15
+          "est": 39,
+          "destr": 47.46666666666667,
+          "atk": 16
         },
         "eles": {
           "est": 66,
@@ -9326,7 +9346,12 @@
             "tag": "#GCC98R22R",
             "th": 16,
             "pos": 35,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 88
+              }
+            ],
             "def_estrelas": null,
             "def_destr": null,
             "defesas": []
@@ -9373,9 +9398,9 @@
       "inicio": "20261109T000532.000Z",
       "fim": "20261110T000532.000Z",
       "nos": {
-        "est": 38,
-        "destr": 44.53333333333333,
-        "atk": 15
+        "est": 39,
+        "destr": 47.46666666666667,
+        "atk": 16
       },
       "eles": {
         "est": 66,
@@ -9833,7 +9858,12 @@
           "tag": "#GCC98R22R",
           "th": 16,
           "pos": 35,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 88
+            }
+          ],
           "def_estrelas": null,
           "def_destr": null,
           "defesas": []
