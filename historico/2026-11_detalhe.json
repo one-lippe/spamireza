@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T23:00:58.177562Z",
+  "atualizado": "2026-11-09T23:10:39.442467Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -889,7 +889,7 @@
               "tag": "#2899CRJG",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • Dog Apollo",
