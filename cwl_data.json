@@ -8811,9 +8811,9 @@
           "atk": 15
         },
         "eles": {
-          "est": 60,
-          "destr": 66.66666666666667,
-          "atk": 20
+          "est": 63,
+          "destr": 70.0,
+          "atk": 21
         },
         "membros": [
           {
@@ -9157,9 +9157,14 @@
                 "destr": 91
               }
             ],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "qvnly",
@@ -9308,9 +9313,9 @@
         "atk": 15
       },
       "eles": {
-        "est": 60,
-        "destr": 66.66666666666667,
-        "atk": 20
+        "est": 63,
+        "destr": 70.0,
+        "atk": 21
       },
       "membros": [
         {
@@ -9654,9 +9659,14 @@
               "destr": 91
             }
           ],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "qvnly",
