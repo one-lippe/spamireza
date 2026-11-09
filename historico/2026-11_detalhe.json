@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T19:20:48.654826Z",
+  "atualizado": "2026-11-09T19:30:43.518562Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -882,7 +882,7 @@
               "tag": "#2U8P0YQ92",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Jan",
@@ -919,7 +919,7 @@
               "tag": "#Y08CR0PQU",
               "th": 18,
               "atk": [],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "SR • C∆iç∆r∆",
@@ -937,7 +937,7 @@
               "atk": [
                 3
               ],
-              "def_est": null
+              "def_est": 3
             },
             {
               "nome": "Psico 2k25",
