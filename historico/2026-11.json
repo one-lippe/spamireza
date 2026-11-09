@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-09T04:31:02.355194Z",
+  "atualizado": "2026-11-09T04:40:28.417940Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -858,8 +858,8 @@
           "zona": "—"
         },
         {
-          "n": "♣DnF◆",
-          "tag": "#8UY0889P9",
+          "n": "SR•InTheDark II",
+          "tag": "#Q9PL0CUU",
           "th": 18,
           "atk": 6,
           "est": 16,
@@ -877,21 +877,21 @@
           "zona": "—"
         },
         {
-          "n": "SR•InTheDark II",
-          "tag": "#Q9PL0CUU",
+          "n": "♣DnF◆",
+          "tag": "#8UY0889P9",
           "th": 18,
-          "atk": 6,
-          "est": 16,
-          "spa": 2.67,
-          "conf": 86,
+          "atk": 7,
+          "est": 17,
+          "spa": 2.43,
+          "conf": 100,
           "def": 5,
           "sof": 2.9,
           "ndef": 7,
           "seg": 1,
-          "idx": 65.7,
-          "idxb": 66.3,
-          "amostra": 86,
-          "mvp": 17,
+          "idx": 65.5,
+          "idxb": 65.5,
+          "amostra": 100,
+          "mvp": 18,
           "pos": 12,
           "zona": "—"
         },
@@ -1002,7 +1002,7 @@
           "sof": 3.0,
           "ndef": 4,
           "seg": 0,
-          "idx": 63.6,
+          "idx": 63.5,
           "idxb": 64.2,
           "amostra": 71,
           "mvp": 12,
