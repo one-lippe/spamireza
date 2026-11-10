@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-10T10:00:43.375473Z",
+  "atualizado": "2026-11-10T10:10:44.212584Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -27,27 +27,27 @@
           "zona": "—"
         },
         {
-          "n": "Psico 2k25",
-          "tag": "#Q2UJJ89VG",
+          "n": "SR • Dog Apollo",
+          "tag": "#YJ9R2GPJG",
           "th": 18,
           "atk": 7,
           "est": 21,
           "spa": 3.0,
           "conf": 100,
-          "def": 11,
+          "def": 10,
           "sof": 2.7,
-          "ndef": 6,
+          "ndef": 7,
           "seg": 2,
-          "idx": 85.5,
-          "idxb": 85.5,
+          "idx": 85.2,
+          "idxb": 85.2,
           "amostra": 100,
           "mvp": 23,
           "pos": 2,
           "zona": "—"
         },
         {
-          "n": "SR • Dog Apollo",
-          "tag": "#YJ9R2GPJG",
+          "n": "Psico 2k25",
+          "tag": "#Q2UJJ89VG",
           "th": 18,
           "atk": 7,
           "est": 21,
@@ -112,7 +112,7 @@
           "conf": 100,
           "def": 0,
           "sof": 3.0,
-          "ndef": 6,
+          "ndef": 7,
           "seg": 0,
           "idx": 83.2,
           "idxb": 83.2,
