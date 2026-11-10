@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-10T00:00:40.173912Z",
+  "atualizado": "2026-11-10T00:11:01.673117Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -2004,7 +2004,7 @@
     },
     "3": {
       "nome": "ScamiReza",
-      "liga": "Master League I",
+      "liga": "Master League II",
       "guerras": [
         {
           "g": 1,
@@ -3663,7 +3663,7 @@
         {
           "g": 7,
           "vs": "Tabriz",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 30,
           "jogadores": [
             {

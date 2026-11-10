@@ -9119,7 +9119,7 @@
       },
       {
         "warTag": "#8J8809UCU",
-        "state": "inWar",
+        "state": "warEnded",
         "teamSize": 30,
         "adversario": "Tabriz",
         "prep": "20261108T000535.000Z",
@@ -9716,7 +9716,7 @@
     ],
     "atual": {
       "warTag": "#8J8809UCU",
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 30,
       "adversario": "Tabriz",
       "prep": "20261108T000535.000Z",
@@ -10310,8 +10310,8 @@
         }
       ]
     },
-    "liga": "Master League I",
-    "mult": 0.93,
+    "liga": "Master League II",
+    "mult": 0.9,
     "season": "2026-11"
   },
   {
