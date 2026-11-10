@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-10T17:00:59.362948Z",
+  "atualizado": "2026-11-10T17:10:40.966278Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -867,7 +867,7 @@
         {
           "g": 7,
           "vs": "noah clan",
-          "state": "inWar",
+          "state": "warEnded",
           "size": 15,
           "jogadores": [
             {

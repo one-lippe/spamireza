@@ -2019,7 +2019,7 @@
       },
       {
         "warTag": "#8RVRCC2PY",
-        "state": "inWar",
+        "state": "warEnded",
         "teamSize": 15,
         "adversario": "noah clan",
         "prep": "20261108T170445.000Z",
@@ -2341,7 +2341,7 @@
     ],
     "atual": {
       "warTag": "#8RVRCC2PY",
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 15,
       "adversario": "noah clan",
       "prep": "20261108T170445.000Z",
