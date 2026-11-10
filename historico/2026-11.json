@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-10T00:11:01.661162Z",
+  "atualizado": "2026-11-10T00:20:46.273008Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -224,12 +224,12 @@
           "est": 17,
           "spa": 2.83,
           "conf": 86,
-          "def": 6,
-          "sof": 2.8,
-          "ndef": 6,
+          "def": 5,
+          "sof": 2.9,
+          "ndef": 7,
           "seg": 1,
-          "idx": 77.5,
-          "idxb": 77.5,
+          "idx": 77.3,
+          "idxb": 77.3,
           "amostra": 86,
           "mvp": 18,
           "pos": 12,

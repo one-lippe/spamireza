@@ -2031,9 +2031,9 @@
           "atk": 9
         },
         "eles": {
-          "est": 36,
-          "destr": 80.0,
-          "atk": 12
+          "est": 39,
+          "destr": 86.66666666666667,
+          "atk": 13
         },
         "membros": [
           {
@@ -2107,9 +2107,14 @@
             "th": 18,
             "pos": 6,
             "ataques": [],
-            "def_estrelas": null,
-            "def_destr": null,
-            "defesas": []
+            "def_estrelas": 3,
+            "def_destr": 100,
+            "defesas": [
+              {
+                "estrelas": 3,
+                "destr": 100
+              }
+            ]
           },
           {
             "nome": "SR - JON SNOW 2",
@@ -2308,9 +2313,9 @@
         "atk": 9
       },
       "eles": {
-        "est": 36,
-        "destr": 80.0,
-        "atk": 12
+        "est": 39,
+        "destr": 86.66666666666667,
+        "atk": 13
       },
       "membros": [
         {
@@ -2384,9 +2389,14 @@
           "th": 18,
           "pos": 6,
           "ataques": [],
-          "def_estrelas": null,
-          "def_destr": null,
-          "defesas": []
+          "def_estrelas": 3,
+          "def_destr": 100,
+          "defesas": [
+            {
+              "estrelas": 3,
+              "destr": 100
+            }
+          ]
         },
         {
           "nome": "SR - JON SNOW 2",
