@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-10T12:50:38.438902Z",
+  "atualizado": "2026-11-10T13:00:38.960111Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -991,7 +991,9 @@
               "nome": "SR•GOD kratos",
               "tag": "#LUJ9CRJQG",
               "th": 18,
-              "atk": [],
+              "atk": [
+                2
+              ],
               "def_est": 3
             },
             {
