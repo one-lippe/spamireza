@@ -2026,9 +2026,9 @@
         "inicio": "20261109T170444.000Z",
         "fim": "20261110T170444.000Z",
         "nos": {
-          "est": 34,
-          "destr": 78.2,
-          "atk": 12
+          "est": 35,
+          "destr": 82.6,
+          "atk": 13
         },
         "eles": {
           "est": 45,
@@ -2121,7 +2121,12 @@
             "tag": "#LYV2J2LU",
             "th": 18,
             "pos": 6,
-            "ataques": [],
+            "ataques": [
+              {
+                "estrelas": 1,
+                "destr": 66
+              }
+            ],
             "def_estrelas": 3,
             "def_destr": 100,
             "defesas": [
@@ -2333,9 +2338,9 @@
       "inicio": "20261109T170444.000Z",
       "fim": "20261110T170444.000Z",
       "nos": {
-        "est": 34,
-        "destr": 78.2,
-        "atk": 12
+        "est": 35,
+        "destr": 82.6,
+        "atk": 13
       },
       "eles": {
         "est": 45,
@@ -2428,7 +2433,12 @@
           "tag": "#LYV2J2LU",
           "th": 18,
           "pos": 6,
-          "ataques": [],
+          "ataques": [
+            {
+              "estrelas": 1,
+              "destr": 66
+            }
+          ],
           "def_estrelas": 3,
           "def_destr": 100,
           "defesas": [
