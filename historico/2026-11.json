@@ -1,6 +1,6 @@
 {
   "season": "2026-11",
-  "atualizado": "2026-11-10T10:10:44.212584Z",
+  "atualizado": "2026-11-10T10:20:50.061872Z",
   "clas": {
     "1": {
       "nome": "SpamiReza",
@@ -152,7 +152,7 @@
           "sof": 2.7,
           "ndef": 6,
           "seg": 1,
-          "idx": 81.8,
+          "idx": 81.9,
           "idxb": 82.3,
           "amostra": 86,
           "mvp": 19,
@@ -171,7 +171,7 @@
           "sof": 2.3,
           "ndef": 6,
           "seg": 2,
-          "idx": 79.5,
+          "idx": 79.6,
           "idxb": 79.7,
           "amostra": 71,
           "mvp": 18,
@@ -190,7 +190,7 @@
           "sof": 3.0,
           "ndef": 5,
           "seg": 0,
-          "idx": 79.3,
+          "idx": 79.4,
           "idxb": 79.4,
           "amostra": 71,
           "mvp": 14,
@@ -293,6 +293,25 @@
           "zona": "—"
         },
         {
+          "n": "Henrique Nerath",
+          "tag": "#2U8P0YQ92",
+          "th": 18,
+          "atk": 5,
+          "est": 11,
+          "spa": 2.2,
+          "conf": 100,
+          "def": 7,
+          "sof": 2.8,
+          "ndef": 5,
+          "seg": 1,
+          "idx": 69.3,
+          "idxb": 69.3,
+          "amostra": 71,
+          "mvp": 12,
+          "pos": 16,
+          "zona": "rebx"
+        },
+        {
           "n": "SR - JON SNOW 2",
           "tag": "#9VV909C89",
           "th": 18,
@@ -308,25 +327,6 @@
           "idxb": 67.4,
           "amostra": 71,
           "mvp": 12,
-          "pos": 16,
-          "zona": "rebx"
-        },
-        {
-          "n": "Henrique Nerath",
-          "tag": "#2U8P0YQ92",
-          "th": 18,
-          "atk": 4,
-          "est": 9,
-          "spa": 2.25,
-          "conf": 80,
-          "def": 7,
-          "sof": 2.8,
-          "ndef": 5,
-          "seg": 1,
-          "idx": 65.1,
-          "idxb": 65.1,
-          "amostra": 57,
-          "mvp": 10,
           "pos": 17,
           "zona": "rebx"
         }
