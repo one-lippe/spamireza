@@ -2016,345 +2016,24 @@
             ]
           }
         ]
-      },
-      {
-        "warTag": "#8RVRCC2PY",
-        "state": "inWar",
-        "teamSize": 15,
-        "adversario": "noah clan",
-        "prep": "20261108T170445.000Z",
-        "inicio": "20261109T170444.000Z",
-        "fim": "20261110T170444.000Z",
-        "nos": {
-          "est": 40,
-          "destr": 95.86666666666666,
-          "atk": 15
-        },
-        "eles": {
-          "est": 45,
-          "destr": 100.0,
-          "atk": 15
-        },
-        "membros": [
-          {
-            "nome": "marinaul war",
-            "tag": "#8GGCQPYP",
-            "th": 18,
-            "pos": 1,
-            "ataques": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          },
-          {
-            "nome": "Henrique Nerath",
-            "tag": "#2U8P0YQ92",
-            "th": 18,
-            "pos": 2,
-            "ataques": [
-              {
-                "estrelas": 2,
-                "destr": 92
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          },
-          {
-            "nome": "Jan",
-            "tag": "#2899CRJG",
-            "th": 18,
-            "pos": 3,
-            "ataques": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          },
-          {
-            "nome": "SR • Dog Apollo",
-            "tag": "#YJ9R2GPJG",
-            "th": 18,
-            "pos": 5,
-            "ataques": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          },
-          {
-            "nome": "SR • JON SNOW",
-            "tag": "#LYV2J2LU",
-            "th": 18,
-            "pos": 6,
-            "ataques": [
-              {
-                "estrelas": 1,
-                "destr": 66
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          },
-          {
-            "nome": "SR - JON SNOW 2",
-            "tag": "#9VV909C89",
-            "th": 18,
-            "pos": 7,
-            "ataques": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          },
-          {
-            "nome": "Coyote 171 × 戦備",
-            "tag": "#Y08CR0PQU",
-            "th": 18,
-            "pos": 8,
-            "ataques": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          },
-          {
-            "nome": "SR • C∆iç∆r∆",
-            "tag": "#GL0PRCU9L",
-            "th": 18,
-            "pos": 9,
-            "ataques": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          },
-          {
-            "nome": "MAJ0R FiV3",
-            "tag": "#LCR9YQGYY",
-            "th": 18,
-            "pos": 10,
-            "ataques": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          },
-          {
-            "nome": "Psico 2k25",
-            "tag": "#Q2UJJ89VG",
-            "th": 18,
-            "pos": 11,
-            "ataques": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          },
-          {
-            "nome": "Nesk",
-            "tag": "#99220V0Q8",
-            "th": 18,
-            "pos": 12,
-            "ataques": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          },
-          {
-            "nome": "☆VILA DO PX ツ",
-            "tag": "#8PUL8JPC",
-            "th": 18,
-            "pos": 13,
-            "ataques": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          },
-          {
-            "nome": "Levi_Neiva 2",
-            "tag": "#90GRYGJVP",
-            "th": 18,
-            "pos": 15,
-            "ataques": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          },
-          {
-            "nome": "SR•GOD kratos",
-            "tag": "#LUJ9CRJQG",
-            "th": 18,
-            "pos": 16,
-            "ataques": [
-              {
-                "estrelas": 2,
-                "destr": 99
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          },
-          {
-            "nome": "matias?",
-            "tag": "#RCQQUGC9",
-            "th": 18,
-            "pos": 17,
-            "ataques": [
-              {
-                "estrelas": 2,
-                "destr": 81
-              }
-            ],
-            "def_estrelas": 3,
-            "def_destr": 100,
-            "defesas": [
-              {
-                "estrelas": 3,
-                "destr": 100
-              }
-            ]
-          }
-        ]
       }
     ],
     "atual": {
-      "warTag": "#8RVRCC2PY",
-      "state": "inWar",
+      "warTag": "#8RVG288G2",
+      "state": "warEnded",
       "teamSize": 15,
-      "adversario": "noah clan",
-      "prep": "20261108T170445.000Z",
-      "inicio": "20261109T170444.000Z",
-      "fim": "20261110T170444.000Z",
+      "adversario": "Titan's Mist",
+      "prep": "20261107T170439.000Z",
+      "inicio": "20261108T170437.000Z",
+      "fim": "20261109T170437.000Z",
       "nos": {
-        "est": 40,
-        "destr": 95.86666666666666,
+        "est": 41,
+        "destr": 98.46666666666667,
         "atk": 15
       },
       "eles": {
-        "est": 45,
-        "destr": 100.0,
+        "est": 40,
+        "destr": 98.46666666666667,
         "atk": 15
       },
       "membros": [
@@ -2385,8 +2064,8 @@
           "pos": 2,
           "ataques": [
             {
-              "estrelas": 2,
-              "destr": 92
+              "estrelas": 3,
+              "destr": 100
             }
           ],
           "def_estrelas": 3,
@@ -2445,16 +2124,16 @@
           "pos": 6,
           "ataques": [
             {
-              "estrelas": 1,
-              "destr": 66
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100,
-          "defesas": [
-            {
               "estrelas": 3,
               "destr": 100
+            }
+          ],
+          "def_estrelas": 2,
+          "def_destr": 93,
+          "defesas": [
+            {
+              "estrelas": 2,
+              "destr": 93
             }
           ]
         },
@@ -2465,8 +2144,8 @@
           "pos": 7,
           "ataques": [
             {
-              "estrelas": 3,
-              "destr": 100
+              "estrelas": 1,
+              "destr": 88
             }
           ],
           "def_estrelas": 3,
@@ -2559,22 +2238,22 @@
           ]
         },
         {
-          "nome": "Nesk",
-          "tag": "#99220V0Q8",
+          "nome": "SR • Neskau",
+          "tag": "#P8GLGPRP",
           "th": 18,
-          "pos": 12,
+          "pos": 13,
           "ataques": [
             {
-              "estrelas": 3,
-              "destr": 100
+              "estrelas": 2,
+              "destr": 91
             }
           ],
-          "def_estrelas": 3,
-          "def_destr": 100,
+          "def_estrelas": 1,
+          "def_destr": 86,
           "defesas": [
             {
-              "estrelas": 3,
-              "destr": 100
+              "estrelas": 1,
+              "destr": 86
             }
           ]
         },
@@ -2582,7 +2261,7 @@
           "nome": "☆VILA DO PX ツ",
           "tag": "#8PUL8JPC",
           "th": 18,
-          "pos": 13,
+          "pos": 14,
           "ataques": [
             {
               "estrelas": 3,
@@ -2625,16 +2304,16 @@
           "pos": 16,
           "ataques": [
             {
-              "estrelas": 2,
-              "destr": 99
-            }
-          ],
-          "def_estrelas": 3,
-          "def_destr": 100,
-          "defesas": [
-            {
               "estrelas": 3,
               "destr": 100
+            }
+          ],
+          "def_estrelas": 1,
+          "def_destr": 98,
+          "defesas": [
+            {
+              "estrelas": 1,
+              "destr": 98
             }
           ]
         },
@@ -2646,7 +2325,7 @@
           "ataques": [
             {
               "estrelas": 2,
-              "destr": 81
+              "destr": 98
             }
           ],
           "def_estrelas": 3,
